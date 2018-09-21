@@ -49,6 +49,11 @@
 ###### iOS端持久化的方案选择比较多，NSUserDefault，Keychain，File，sqlite都可以帮助存储关键的业务数据。NSUserDefault和Keychain都是轻量级解决方案，自定义数据格式的File则读取麻烦一些，每次更新部分数据都会导致整个文件io，数据的结构一旦复杂起来，最后还是会走向sqlite。
 ##### 1.FMDB：是针对libsqlite3框架进行封装的三方，它以OC的方式封装了SQLite的C语言的API，使用步骤与SQLite相似。[点击前往](https://github.com/ccgus/fmdb) |【🌟🌟🌟🌟🌟】
 ##### 2.Realm：是由Y Combinator孵化的创业团队开源出来的一款可以用于iOS(同样适用于Swift&Objective-C)和Android的跨平台移动数据库。[点击前往](https://github.com/realm/realm-cocoa) |【🌟🌟🌟🌟】
+##### 3.UICKeyChainStore：对于一些私密信息，比如密码、证书等等，就需要使用更为安全的数据保存方式。
+[点击前往](https://github.com/kishikawakatsumi/UICKeyChainStore) |【🌟🌟🌟🌟】
+##### 4.SAMkeychain：钥匙串存取数据，可以用来储存用户的隐私信息。
+[点击前往](https://github.com/soffes/SAMKeychain) |【🌟🌟🌟】
+
 <br>
 <br>
 <br>
@@ -67,11 +72,36 @@
 ## <div align=center>-------------------------UI动画-------------------------</div>
 ##### 1.LSAnimator：易于读写的多链式动画框架，可以用少量的代码实现复杂而又易于维护的动画。[点击前往](https://github.com/Lision/LSAnimator) |【🌟🌟🌟🌟】
 ##### 2.Pop：Facebook发布的动画引擎，用以扩展iOS、OSX的动画类型。相较于iOS、OSX中的基本动画效果，Pop扩展后支持弹簧动画效果与衰减动画效果，你可以用Pop动画引擎来构建出真实的物理交互效果。。[点击前往](https://github.com/facebook/pop) |【🌟🌟🌟🌟🌟】
-##### 2.RZTransitions：是一个适用于iOS 7.0及以上操作系统的视图控制器转场动画库,可以实现平滑流畅的转场动画效果,而且使用简便。[点击前往](https://github.com/Raizlabs/RZTransitions) |【🌟🌟🌟🌟🌟】
+##### 3.RZTransitions：是一个适用于iOS 7.0及以上操作系统的视图控制器转场动画库,可以实现平滑流畅的转场动画效果,而且使用简便。[点击前往](https://github.com/Raizlabs/RZTransitions) |【🌟🌟🌟🌟🌟】
+<br>
+<br>
+<br>
+<br>
+
+##
+## <div align=center>-------------------------图片加载-------------------------</div>
+##### 1.SDWebImage：一个可管理远程图片异步加载并缓存的类库。这个类库提供一个UIImageView类别以支持加载来自网络的远程图片。具有缓存管理、异步下载、同一个URL下载次数控制和优化等特征。[点击前往](https://github.com/rs/SDWebImage) |【🌟🌟🌟🌟🌟】
+
+##### 2.YYImage：是一款功能强大的 iOS 图像框架（该项目是 YYKit 组件之一），支持目前市场上所有主流的图片格式的显示与编/解码，并且提供高效的动态内存缓存管理，以保证高性能低内存的动画播放。[点击前往](https://github.com/ibireme/YYImage) |【🌟🌟🌟🌟】
 
 
+<br>
+<br>
+<br>
+<br>
 
+##
+## <div align=center>-------------------------大汇总-------------------------</div>
+##### 1.IQKeyboardManager：可以防止键盘滑动问题和覆盖UITextField / UITextView无需你输入任何代码,不需要额外的设置要求。[点击前往](https://github.com/hackiftekhar/IQKeyboardManager) |【🌟🌟🌟🌟】
 
+##### 2.SVSegmentedControl：实现UISwitch（开关）样式的UISegmentedControl。[点击前往](https://github.com/samvermette/SVSegmentedControl) |【🌟🌟🌟】
 
+##### 3.JXCategoryView：腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图。[点击前往](https://github.com/pujiaxin33/JXCategoryView) |【🌟🌟🌟🌟】
 
+##### 4.Onboard：是现在github最火的引导页框架，使用几行代码就能轻松创建创建优美而迷人的引导页。[点击前往](https://github.com/mamaral/Onboard) |【🌟🌟🌟🌟】
 
+##### 4.Onboard：是现在github最火的引导页框架，使用几行代码就能轻松创建创建优美而迷人的引导页。[点击前往](https://github.com/mamaral/Onboard) |【🌟🌟🌟🌟】
+
+##### 5.DZNEmptyDataSet：是一个嵌入 UITableView/UICollectionView 超类的范畴(category),当视图没有要显示的内容时,它用于显示空数据集界面。[点击前往](https://github.com/dzenbot/DZNEmptyDataSet) |【🌟🌟🌟🌟】
+
+##### 6.LxDBAnything：封装了NSLog,可打印任何类型。[点击前往](https://github.com/DeveloperLx/LxDBAnything) |【🌟🌟🌟🌟】
