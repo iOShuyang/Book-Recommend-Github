@@ -41,8 +41,11 @@
 
 ##
 ## <div align=center>数据刷新</div>
-##### 1.MJRefresh：可高度自定义的刷新第三方框架[点击前往](https://github.com/CoderMJLee/MJRefresh) |【🌟🌟🌟🌟🌟】
-##### 2.SVPullToRefresh：以其简洁, 通俗易懂为大家所推崇的第三方框架[点击前往](https://github.com/samvermette/SVPullToRefresh) |【🌟🌟🌟🌟🌟】
+##### 1.MJRefresh：可高度自定义的刷新第三方框架。[点击前往](https://github.com/CoderMJLee/MJRefresh) |【🌟🌟🌟🌟🌟】
+##### 2.SVPullToRefresh：以其简洁, 通俗易懂为大家所推崇的第三方框架。[点击前往](https://github.com/samvermette/SVPullToRefresh) |【🌟🌟🌟🌟】
+
+##### 2.ODRefreshControl：是一个UIScrollView下拉刷新列表的控件,支持自定义。[点击前往](https://github.com/Sephiroth87/ODRefreshControl) |【🌟🌟🌟】
+
 <br>
 <br>
 <br>
@@ -53,7 +56,7 @@
 ##### 1.MBProgressHUD：实现了很多种样式的提示框,使用上简单、方便,并且可以对显示的内容进行自定义,功能很强大,很多项目中都有使用到。[点击前往](https://github.com/jdg/MBProgressHUD) |【🌟🌟🌟🌟🌟】
 ##### 2.SVProgressHUD：是一个单例（[SVProgressHUD method]），所以可以使用起来也相当方便跟简单，可以写在任意位置；但必须在主线程中进行显示，或则会报闪退；也可以用于显示一个提示信息。[点击前往](https://github.com/SVProgressHUD/SVProgressHUD) |【🌟🌟🌟】
 ##### 3.Toast：是其中很常用的一种：它简单、小巧、对用户的打扰小的提示框。[点击前往](https://github.com/scalessec/Toast) |【🌟🌟🌟🌟】
-
+##### 4.TYAlertController：各种风格的弹框，满足你的各种需求。[点击前往](https://github.com/12207480/TYAlertController) |【🌟🌟🌟】
 
 <br>
 <br>
@@ -106,6 +109,10 @@
 ##### 2.YYImage：是一款功能强大的 iOS 图像框架（该项目是 YYKit 组件之一），支持目前市场上所有主流的图片格式的显示与编/解码，并且提供高效的动态内存缓存管理，以保证高性能低内存的动画播放。[点击前往](https://github.com/ibireme/YYImage) |【🌟🌟🌟🌟】
 
 ##### 3.SDCycleScrollView：简单好用的 无限循环工具。[点击前往](https://github.com/gsdios/SDCycleScrollView) |【🌟🌟🌟🌟】
+
+##### 4.MWPhotoBrowser：是一个强大且古老的图片浏览库，在GitHub上有英文版的详细使用说明。它同时依赖DACircularProgress ，MBProgressHUD ，SDWebImage。[点击前往](https://github.com/mwaterfall/MWPhotoBrowser) |【🌟🌟🌟】
+
+##### 5.CTAssetsPickerController：一个选择器组件, 支持从用户的相片库选择多张照片和视频。[点击前往](https://github.com/chiunam/CTAssetsPickerController) |【🌟🌟🌟】
 
 
 <br>
@@ -169,6 +176,9 @@
 ##### 8.DOPDropDownMenu-Enhanced：类似美团，糯米，大众点评的筛选排序菜单。[点击前往](https://github.com/12207480/DOPDropDownMenu-Enhanced) |【🌟🌟🌟】
 
 ##### 9.Shimmer：是一款开源的加载效果工具,能够非常简单地向应用中的任何视图添加闪闪发光的字体效果,并且不会显得突兀。[点击前往](https://github.com/facebook/Shimmer) |【🌟🌟🌟】
+
+##### 10.KVOController：是FaceBook的一个开源库,提供了方便的姿势让你去使用KVO。[点击前往](https://github.com/facebook/KVOController) |【🌟🌟🌟】
+
 
 <br>
 <br>
