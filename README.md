@@ -46,6 +46,8 @@
 
 ##### 2.ODRefreshControl：是一个UIScrollView下拉刷新列表的控件,支持自定义。[点击前往](https://github.com/Sephiroth87/ODRefreshControl) |【🌟🌟🌟】
 
+##### 2.CBStoreHouseRefreshControl：完全自定义的下拉刷新控件。[点击前往](https://github.com/coolbeet/CBStoreHouseRefreshControl) |【🌟🌟🌟】
+
 <br>
 <br>
 <br>
@@ -136,6 +138,7 @@
 
 ##### 6.Charts：画 K 线图和折线图框架。[点击前往](https://github.com/danielgindi/Charts) |【🌟🌟🌟🌟】
 
+##### 7.FXBlurView：是UIView的子类，它实现毛玻璃效果的原理其实就是覆盖上一层FXBlurView的实例对象。[点击前往](https://github.com/nicklockwood/FXBlurView) |【🌟🌟🌟🌟】
 
 <br>
 <br>
@@ -178,6 +181,10 @@
 ##### 9.Shimmer：是一款开源的加载效果工具,能够非常简单地向应用中的任何视图添加闪闪发光的字体效果,并且不会显得突兀。[点击前往](https://github.com/facebook/Shimmer) |【🌟🌟🌟】
 
 ##### 10.KVOController：是FaceBook的一个开源库,提供了方便的姿势让你去使用KVO。[点击前往](https://github.com/facebook/KVOController) |【🌟🌟🌟】
+
+##### 11.hpple：是一个XML/HTML解析框架,我们可以用来解析从后台发送过来的HTML数据。[点击前往](https://github.com/topfunky/hpple) |【🌟🌟🌟】
+
+##### 12.MLLabel：自动识别网址、号码、邮箱、@、#话题#和表情的label。[点击前往](https://github.com/molon/MLLabel) |【🌟🌟🌟】
 
 
 <br>
