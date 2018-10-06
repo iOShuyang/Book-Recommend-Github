@@ -13,6 +13,7 @@
 | CYLTabBarController | 【中国特色 TabBar】最低只需传两个数组即可完成主流App框架搭建。 | [点击前往](https://github.com/ChenYilong/CYLTabBarController) | 🌟🌟🌟🌟🌟 |
 |Onboard|是现在github最火的引导页框架，使用几行代码就能轻松创建创建优美而迷人的引导页。|[点击前往](https://github.com/mamaral/Onboard)|🌟🌟🌟🌟|
 |DZNEmptyDataSet|是一个嵌入 UITableView/UICollectionView 超类的范畴(category),当视图没有要显示的内容时,它用于显示空数据集界面。|[点击前往](https://github.com/dzenbot/DZNEmptyDataSet)|🌟🌟🌟🌟|
+|XHLaunchAd|开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.|[点击前往](https://github.com/CoderZhuXH/XHLaunchAd)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -122,6 +123,9 @@
 |SDCycleScrollView|简单好用的 无限循环轮播工具。|[点击前往](https://github.com/gsdios/SDCycleScrollView)|🌟🌟🌟🌟|
 |MWPhotoBrowser|是一个强大且古老的图片浏览库，在GitHub上有英文版的详细使用说明。它同时依赖DACircularProgress ，MBProgressHUD ，SDWebImage。|[点击前往](https://github.com/mwaterfall/MWPhotoBrowser)|🌟🌟🌟|
 |CTAssetsPickerController|一个选择器组件, 支持从用户的相片库选择多张照片和视频。|[点击前往](https://github.com/chiunam/CTAssetsPickerController)|🌟🌟🌟|
+|GKPhotoBrowser|iOS仿微信、今日头条等图片浏览器|[点击前往](https://github.com/QuintGao/GKPhotoBrowser)|🌟🌟🌟|
+|FLAnimatedImage|是由Flipboard开源的iOS平台上播放GIF动画的一个优秀解决方案,在内存占用和播放体验都有不错的表现。|[点击前往](https://github.com/Flipboard/FLAnimatedImage)|🌟🌟🌟🌟|
+|LKImageKit|是一个高性能的图片框架,包括了图片控件,图片下载、内存缓存、磁盘缓存、图片解码、图片处理等一系列能力。(腾讯高性能的图片框架)|[点击前往](https://github.com/Tencent/LKImageKit)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -141,7 +145,7 @@
 |Charts|画 K 线图和折线图框架。|[点击前往](https://github.com/danielgindi/Charts)|🌟🌟🌟🌟|
 |FXBlurView|是UIView的子类，它实现毛玻璃效果的原理其实就是覆盖上一层FXBlurView的实例对象。|[点击前往](https://github.com/nicklockwood/FXBlurView)|🌟🌟🌟🌟|
 |BEMCheckBox|是一个开源库，可以轻松地为iOS创建漂亮，高度可定制的，有动画效果的复选框。|[点击前往](https://github.com/Boris-Em/BEMCheckBox)|🌟🌟🌟🌟|
-
+|XLForm|是最灵活且最强大的创建动态表单的iOS库。|[点击前往](https://github.com/xmartlabs/XLForm)|🌟🌟🌟|
 <br>
 <br>
 <br>
