@@ -6,6 +6,7 @@
 <br>
 <br>
 
+
 ##
 ## <div align=center>框架搭建</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
@@ -14,6 +15,8 @@
 |Onboard|是现在github最火的引导页框架，使用几行代码就能轻松创建创建优美而迷人的引导页。|[点击前往](https://github.com/mamaral/Onboard)|🌟🌟🌟🌟|
 |DZNEmptyDataSet|是一个嵌入 UITableView/UICollectionView 超类的范畴(category),当视图没有要显示的内容时,它用于显示空数据集界面。|[点击前往](https://github.com/dzenbot/DZNEmptyDataSet)|🌟🌟🌟🌟|
 |XHLaunchAd|开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.|[点击前往](https://github.com/CoderZhuXH/XHLaunchAd)|🌟🌟🌟🌟|
+|CYLTableViewPlaceHolder|一行代码完成“空TableView占位视图”管理|[点击前往](https://github.com/ChenYilong/CYLTableViewPlaceHolder)|🌟🌟🌟|
+|PYSearch| 一个非常优雅的搜索控制器iOS框架|[点击前往](https://github.com/ko1o/PYSearch)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -209,6 +212,24 @@
 <br>
 
 
+
+
+
+
+## <div align=center>-------------------------感谢-------------------------</div>
+
+### 推荐查看 
+[GitHub活跃用户排名](http://githubrank.com)
+
+[GitHub排名前50的Objective-C开发者](https://github.com/coderyi/Monkey/blob/master/github_top_users_repositories/github_top_users_objective-c_world.md)
+
+### 资料贡献：
+[iOS开发常用三方库、插件、知名博客等等](https://github.com/Tim9Liu9/TimLiu-iOS)
+
+[iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等](https://github.com/jobbole/awesome-ios-cn)
+<br>
+<br>
+<br>
 
 <!--| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
