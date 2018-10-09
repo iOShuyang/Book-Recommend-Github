@@ -129,6 +129,7 @@
 |GKPhotoBrowser|iOS仿微信、今日头条等图片浏览器|[点击前往](https://github.com/QuintGao/GKPhotoBrowser)|🌟🌟🌟|
 |FLAnimatedImage|是由Flipboard开源的iOS平台上播放GIF动画的一个优秀解决方案,在内存占用和播放体验都有不错的表现。|[点击前往](https://github.com/Flipboard/FLAnimatedImage)|🌟🌟🌟🌟|
 |LKImageKit|是一个高性能的图片框架,包括了图片控件,图片下载、内存缓存、磁盘缓存、图片解码、图片处理等一系列能力。(腾讯高性能的图片框架)|[点击前往](https://github.com/Tencent/LKImageKit)|🌟🌟🌟🌟|
+|PEPhotoCropEditor|自定义拖动剪切图片|[点击前往](https://github.com/kishikawakatsumi/PEPhotoCropEditor)|🌟🌟🌟|
 
 <br>
 <br>
