@@ -244,15 +244,17 @@
 ### 基于Swift进行的相关推荐,常用程度：1-5星。<br> 
 ### 每天会不定时更新，推荐好玩有趣的第三方优秀框架。
 ### 麻烦给小编一颗🌟，让小编更有动力总结出更多优秀文章和作品。
-<!--| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
+| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||-->
+|Alamofire| 一个使用Swift开发的网络请求库，其开发团队是AFNetworking的原团队。它语法简洁,采用链式编程的思想，使用起来是相当的舒服。本质是基于NSURLSession进行封装。 |[点击前往](https://github.com/Alamofire/Alamofire)|🌟🌟🌟🌟|
+|SnapKit|是一个优秀的第三方自适应布局库,它可以让iOS、OS X应用更简单地实现自动布局(Auto Layout)|[点击前往](https://github.com/SnapKit/SnapKit)|🌟🌟🌟🌟|
+|SwiftyJSON|是个使用Swift语言编写的开源库,可以让我们很方便地处理JSON数据(解析数据、生成数据)。|[点击前往](https://github.com/SwiftyJSON/SwiftyJSON)|🌟🌟🌟🌟|
+|NVActivityIndicatorView|酷炫的装载动画库及演示。如此丰富的 Swift 装载动画集合,史无前例。|[点击前往](https://github.com/ninjaprox/NVActivityIndicatorView)|🌟🌟🌟🌟|
+|Kingfisher|是由 喵神 编写的用于下载和缓存网络图片的轻量级Swift工具库，其中涉及到了包括GCD、Swift高级语法、缓存、硬盘读写、网络编程、图像编码、图形绘制、Gif数据生成和处理、MD5、Associated Objects的使用等大量iOS开发知识。|[点击前往](https://github.com/onevcat/Kingfisher)|🌟🌟🌟🌟|
+|ESTabBarController|高度自定义TabBarController，支持自定义TabBarItem样式或添加动画|[点击前往](https://github.com/eggswift/ESTabBarController)|🌟🌟🌟🌟|
+|IQKeyboardManagerSwift|使用IQKeyboardManager可以很容易地解决弹起键盘遮盖输入框的问题，并且易于集成，不需要侵入性地继承特定的类，也不需要实现某些奇怪的协议|[点击前往](https://github.com/hackiftekhar/IQKeyboardManager)|🌟🌟🌟🌟|
+|SwiftDate|是Github上开源的,使用Swift语言编写的NSDate封装库,可以很方便的在Swift中处理日期,比如日期创建,比较,输出等|[点击前往](https://github.com/malcommac/SwiftDate)|🌟🌟🌟🌟|
+|Material|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|[点击前往](https://github.com/angular/material)|🌟🌟🌟🌟|
+|XCGLogger|是一个用于Swift项目的debug日志框架，可详细信息记录到控制台，就像使用NSLog或println那样，但是还带有其他额处信息，如日期、函数名、文件名以及行号。|[点击前往](https://github.com/DaveWoodCom/XCGLogger)|🌟🌟🌟🌟|
+|SwiftyUserDefaults|使用该组件,可以避免UserDefaults导致的crash,而且不必再通过手写字符串的方式作为key来存取数据,这无疑减小了出错的概率。|[点击前往](https://github.com/radex/SwiftyUserDefaults)|🌟🌟🌟🌟|
+|Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|
