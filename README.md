@@ -12,12 +12,13 @@
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 | CYLTabBarController | 【中国特色 TabBar】最低只需传两个数组即可完成主流App框架搭建。 | [点击前往](https://github.com/ChenYilong/CYLTabBarController) | 🌟🌟🌟🌟🌟 |
-|Onboard|是现在github最火的引导页框架，使用几行代码就能轻松创建创建优美而迷人的引导页。|[点击前往](https://github.com/mamaral/Onboard)|🌟🌟🌟🌟|
-|DZNEmptyDataSet|是一个嵌入 UITableView/UICollectionView 超类的范畴(category),当视图没有要显示的内容时,它用于显示空数据集界面。|[点击前往](https://github.com/dzenbot/DZNEmptyDataSet)|🌟🌟🌟🌟|
-|XHLaunchAd|开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.|[点击前往](https://github.com/CoderZhuXH/XHLaunchAd)|🌟🌟🌟🌟|
-|CYLTableViewPlaceHolder|一行代码完成“空TableView占位视图”管理|[点击前往](https://github.com/ChenYilong/CYLTableViewPlaceHolder)|🌟🌟🌟|
+| Onboard |是现在github最火的引导页框架，使用几行代码就能轻松创建创建优美而迷人的引导页。|[点击前往](https://github.com/mamaral/Onboard)|🌟🌟🌟🌟|
+| DZNEmptyDataSet |是一个嵌入 UITableView/UICollectionView 超类的范畴(category),当视图没有要显示的内容时,它用于显示空数据集界面。|[点击前往](https://github.com/dzenbot/DZNEmptyDataSet)|🌟🌟🌟🌟|
+| XHLaunchAd |开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.|[点击前往](https://github.com/CoderZhuXH/XHLaunchAd)|🌟🌟🌟🌟|
+| CYLTableViewPlaceHolder |一行代码完成“空TableView占位视图”管理|[点击前往](https://github.com/ChenYilong/CYLTableViewPlaceHolder)|🌟🌟🌟|
 |PYSearch| 一个非常优雅的搜索控制器iOS框架|[点击前往](https://github.com/ko1o/PYSearch)|🌟🌟🌟🌟|
-|DKNightVersion|能够是使用几句代码就能为已有的项目添加夜间模式，极其方便。支持对UIBarbuttonItem,UIButton,UILabel,UINavigationBar,UIScrollview,UITabBar.UITableView,UITableViewCell,UIView进行颜色改变。 |[点击前往](https://github.com/Draveness/DKNightVersion)|🌟🌟🌟|
+|DKNightVersion|能够是使用几句代码就能为已有的项目添加夜间模式，极其方便。 |[点击前往](https://github.com/Draveness/DKNightVersion)|🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -28,8 +29,8 @@
 ## <div align=center>网络请求</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
-| AFNetworking | Http、Https网络请求框架。|  [点击前往](https://github.com/AFNetworking/AFNetworking)   |  🌟🌟🌟🌟🌟   |
-| CocoaAsyncSocket | 异步 socket 网络库。 | [点击前往](https://github.com/robbiehanson/CocoaAsyncSocket) | 🌟🌟🌟🌟🌟 |
+| AFNetworking | 一款轻量级网络请求开源框架，基于iOS和mac os 网络进行扩展的高性能框架，大大降低了iOS开发工程师处理网络请求的难度，让iOS开发变成一件愉快的事情。|  [点击前往](https://github.com/AFNetworking/AFNetworking)   |  🌟🌟🌟🌟🌟   |
+| CocoaAsyncSocket | 是谷歌的开发者，基于BSD-Socket写的一个IM框架，它给Mac和iOS提供了易于使用的、强大的异步套接字库，向上封装出简单易用OC接口。省去了我们面向Socket以及数据流Stream等繁琐复杂的编程。 | [点击前往](https://github.com/robbiehanson/CocoaAsyncSocket) | 🌟🌟🌟🌟🌟 |
 <br>
 <br>
 <br>
