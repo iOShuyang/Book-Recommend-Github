@@ -99,6 +99,7 @@
 | --- | --- | --- | --- |
 |Masonry|是一个轻量级的布局框架,拥有自己的描述语法,采用更优雅的链式语法封装自动布局,简洁明了并具有高可读性,而且同时支持 iOS 和 Max OS X。|[点击前往](https://github.com/SnapKit/Masonry)|🌟🌟🌟🌟🌟|
 |MyLinearLayout|是一套iOS界面视图布局框架。其内核是基于对UIView的layoutSubviews方法的重载以及对子视图的bounds和center属性的设置而实现的。|[点击前往](https://github.com/youngsoft/MyLinearLayout)|🌟🌟🌟|
+|iCarousel|是一个使用简单、高度自定义的多类型视图切换的控件,支持iOS/Mac OS、ARC & Thread Safety|[点击前往](https://github.com/nicklockwood/iCarousel)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -186,6 +187,8 @@
 |KVOController|是FaceBook的一个开源库,提供了方便的姿势让你去使用KVO。|[点击前往](https://github.com/facebook/KVOController)|🌟🌟🌟|
 |hpple|是一个XML/HTML解析框架,我们可以用来解析从后台发送过来的HTML数据。|[点击前往](https://github.com/topfunky/hpple)|🌟🌟🌟|
 |MLLabel|自动识别网址、号码、邮箱、@、#话题#和表情的label。|[点击前往](https://github.com/molon/MLLabel)|🌟🌟🌟|
+|DateTools|是Objective-C中简化日期和时间处理的工具.用于提高Objective-C中日期和时间相关操作的效率|[点击前往](https://github.com/MatthewYork/DateTools)|🌟🌟🌟🌟|
+|RKNotificationHub|快速给 UIView 添加上炫酷的通知图标(Badge、红点、提示)。|[点击前往](https://github.com/cwRichardKim/RKNotificationHub)|🌟🌟🌟🌟|
 
 <br>
 <br>
