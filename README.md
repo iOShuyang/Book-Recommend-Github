@@ -133,7 +133,7 @@
 |FLAnimatedImage|是由Flipboard开源的iOS平台上播放GIF动画的一个优秀解决方案,在内存占用和播放体验都有不错的表现。|[点击前往](https://github.com/Flipboard/FLAnimatedImage)|🌟🌟🌟🌟|
 |LKImageKit|是一个高性能的图片框架,包括了图片控件,图片下载、内存缓存、磁盘缓存、图片解码、图片处理等一系列能力。(腾讯高性能的图片框架)|[点击前往](https://github.com/Tencent/LKImageKit)|🌟🌟🌟🌟|
 |PEPhotoCropEditor|自定义拖动剪切图片|[点击前往](https://github.com/kishikawakatsumi/PEPhotoCropEditor)|🌟🌟🌟|
-
+|FastImageCache|是一种在 iOS 应用程序中高效、持续、超快速的存储和检索图像的解决方案。|[点击前往](https://github.com/path/FastImageCache)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -189,7 +189,8 @@
 |MLLabel|自动识别网址、号码、邮箱、@、#话题#和表情的label。|[点击前往](https://github.com/molon/MLLabel)|🌟🌟🌟|
 |DateTools|是Objective-C中简化日期和时间处理的工具.用于提高Objective-C中日期和时间相关操作的效率|[点击前往](https://github.com/MatthewYork/DateTools)|🌟🌟🌟🌟|
 |RKNotificationHub|快速给 UIView 添加上炫酷的通知图标(Badge、红点、提示)。|[点击前往](https://github.com/cwRichardKim/RKNotificationHub)|🌟🌟🌟🌟|
-
+|RTLabel|基于UILabel类的拓展,能够支持Html标记的富文本显示,它是基于Core Text,因此也支持Core Text上的一些东西。|[点击前往](https://github.com/honcheng/RTLabel)|🌟🌟🌟|
+|TYAttributedLabel| 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示|[点击前往](https://github.com/12207480/TYAttributedLabel)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -262,3 +263,5 @@
 |XCGLogger|是一个用于Swift项目的debug日志框架，可详细信息记录到控制台，就像使用NSLog或println那样，但是还带有其他额处信息，如日期、函数名、文件名以及行号。|[点击前往](https://github.com/DaveWoodCom/XCGLogger)|🌟🌟🌟🌟|
 |SwiftyUserDefaults|使用该组件,可以避免UserDefaults导致的crash,而且不必再通过手写字符串的方式作为key来存取数据,这无疑减小了出错的概率。|[点击前往](https://github.com/radex/SwiftyUserDefaults)|🌟🌟🌟🌟|
 |Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|
+|HanekeSwift|是一个轻量级的缓存,为UIImage,JSON,NSData,String提供记忆和LRU磁盘缓存。|[点击前往](https://github.com/Haneke/HanekeSwift)|🌟🌟🌟|
+
