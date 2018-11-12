@@ -71,7 +71,7 @@
 |SVProgressHUD|是一个单例（[SVProgressHUD method]），所以可以使用起来也相当方便跟简单，可以写在任意位置；但必须在主线程中进行显示，或则会报闪退；也可以用于显示一个提示信息。|[点击前往](https://github.com/SVProgressHUD/SVProgressHUD)|🌟🌟🌟|
 |Toast|是其中很常用的一种：它简单、小巧、对用户的打扰小的提示框。|[点击前往](https://github.com/scalessec/Toast)|🌟🌟🌟🌟|
 |TYAlertController|各种风格的弹框，满足你的各种需求。|[点击前往](https://github.com/12207480/TYAlertController)|🌟🌟🌟|
-
+|TSMessages|非HUD风格的iOS提示框(|[点击前往](https://github.com/KrauseFx/TSMessages/)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -191,7 +191,9 @@
 |RKNotificationHub|快速给 UIView 添加上炫酷的通知图标(Badge、红点、提示)。|[点击前往](https://github.com/cwRichardKim/RKNotificationHub)|🌟🌟🌟🌟|
 |RTLabel|基于UILabel类的拓展,能够支持Html标记的富文本显示,它是基于Core Text,因此也支持Core Text上的一些东西。|[点击前往](https://github.com/honcheng/RTLabel)|🌟🌟🌟|
 |TYAttributedLabel| 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示|[点击前往](https://github.com/12207480/TYAttributedLabel)|🌟🌟🌟|
-<br>
+|SWTableViewCell|是一个继承自UITableViewCell的自定义Cell,它上面放了一个UIScrollerView,这个滚动视图上放了Cell内容、左侧操作菜单和右侧操作菜单。（自定义Cell侧滑动作）|[点击前往](https://github.com/CEWendel/SWTableViewCell)|🌟🌟🌟|
+|MGSwipeTableCell|发中经常用到侧滑功能,如QQ、微信,当然还有简书,这里不介绍系统的侧滑方法,介绍一个强大的第三方库|[点击前往](https://github.com/MortimerGoro)|🌟🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -264,4 +266,5 @@
 |SwiftyUserDefaults|使用该组件,可以避免UserDefaults导致的crash,而且不必再通过手写字符串的方式作为key来存取数据,这无疑减小了出错的概率。|[点击前往](https://github.com/radex/SwiftyUserDefaults)|🌟🌟🌟🌟|
 |Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|
 |HanekeSwift|是一个轻量级的缓存,为UIImage,JSON,NSData,String提供记忆和LRU磁盘缓存。|[点击前往](https://github.com/Haneke/HanekeSwift)|🌟🌟🌟|
+|StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|
 
