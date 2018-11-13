@@ -8,7 +8,7 @@
 
 
 ##
-## <div align=center>框架搭建</div>
+## <div align=center>-------------------------框架搭建-------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 | CYLTabBarController | 【中国特色 TabBar】最低只需传两个数组即可完成主流App框架搭建。 | [点击前往](https://github.com/ChenYilong/CYLTabBarController) | 🌟🌟🌟🌟🌟 |
@@ -26,7 +26,7 @@
 
 
 ##
-## <div align=center>网络请求</div>
+## <div align=center>-------------------------网络请求-------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 | AFNetworking | 一款轻量级网络请求开源框架，基于iOS和mac os 网络进行扩展的高性能框架，大大降低了iOS开发工程师处理网络请求的难度，让iOS开发变成一件愉快的事情。|  [点击前往](https://github.com/AFNetworking/AFNetworking)   |  🌟🌟🌟🌟🌟   |
@@ -37,7 +37,7 @@
 <br>
 
 ##
-## <div align=center>数据解析</div>
+## <div align=center>-------------------------数据解析-------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |YYModel| 数据解析Json框架，支持自动的 JSON/Model 转换，支持定义映射过程。 |[点击前往](https://github.com/ibireme/YYModel)|🌟🌟🌟🌟|
@@ -50,7 +50,7 @@
 <br>
 
 ##
-## <div align=center>数据刷新</div>
+## <div align=center>-------------------------数据刷新-------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |MJRefresh|可高度自定义的刷新第三方框架。|[点击前往](https://github.com/CoderMJLee/MJRefresh)|🌟🌟🌟🌟🌟|
@@ -64,7 +64,7 @@
 <br>
 
 ##
-## <div align=center>数据加载</div>
+## <div align=center>-------------------------数据加载-------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |MBProgressHUD|实现了很多种样式的提示框,使用上简单、方便,并且可以对显示的内容进行自定义,功能很强大,很多项目中都有使用到。|[点击前往](https://github.com/jdg/MBProgressHUD)|🌟🌟🌟🌟🌟|
@@ -72,13 +72,14 @@
 |Toast|是其中很常用的一种：它简单、小巧、对用户的打扰小的提示框。|[点击前往](https://github.com/scalessec/Toast)|🌟🌟🌟🌟|
 |TYAlertController|各种风格的弹框，满足你的各种需求。|[点击前往](https://github.com/12207480/TYAlertController)|🌟🌟🌟|
 |TSMessages|非HUD风格的iOS提示框(|[点击前往](https://github.com/KrauseFx/TSMessages/)|🌟🌟🌟|
+|JGProgressHUD|灵感来源于众多曾经非常热门的进程指示器,比如MBProgressHUD、JGProgressHUD、SVProgressHUD以及HTProgressHUD等|[点击前往](https://github.com/JonasGessner/JGProgressHUD)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
 <br>
 
 ##
-## <div align=center>数据存储</div>
+## <div align=center>-------------------------数据存储-------------------------</div>
 ###### iOS端持久化的方案选择比较多，NSUserDefault，Keychain，File，sqlite都可以帮助存储关键的业务数据。NSUserDefault和Keychain都是轻量级解决方案，自定义数据格式的File则读取麻烦一些，每次更新部分数据都会导致整个文件io，数据的结构一旦复杂起来，最后还是会走向sqlite。
 
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
@@ -134,6 +135,7 @@
 |LKImageKit|是一个高性能的图片框架,包括了图片控件,图片下载、内存缓存、磁盘缓存、图片解码、图片处理等一系列能力。(腾讯高性能的图片框架)|[点击前往](https://github.com/Tencent/LKImageKit)|🌟🌟🌟🌟|
 |PEPhotoCropEditor|自定义拖动剪切图片|[点击前往](https://github.com/kishikawakatsumi/PEPhotoCropEditor)|🌟🌟🌟|
 |FastImageCache|是一种在 iOS 应用程序中高效、持续、超快速的存储和检索图像的解决方案。|[点击前往](https://github.com/path/FastImageCache)|🌟🌟🌟|
+|TZImagePickerController|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。|[点击前往](https://github.com/banchichen/TZImagePickerController)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -149,7 +151,6 @@
 |JXCategoryView|腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图。|[点击前往](https://github.com/pujiaxin33/JXCategoryView)|🌟🌟🌟🌟|
 |MMPopupView|是一个基于UIWindow的一个简洁、高效的弹出框组件。|[点击前往](https://github.com/adad184/MMPopupView)|🌟🌟🌟|
 |PNChart|是一个简单漂亮的动画图表库，Piner 和 CoinsMan 的 iOS 客户端中使用了这个框架。|[点击前往](https://github.com/kevinzhow/PNChart)|🌟🌟🌟🌟|
-|Charts|画 K 线图和折线图框架。|[点击前往](https://github.com/danielgindi/Charts)|🌟🌟🌟🌟|
 |FXBlurView|是UIView的子类，它实现毛玻璃效果的原理其实就是覆盖上一层FXBlurView的实例对象。|[点击前往](https://github.com/nicklockwood/FXBlurView)|🌟🌟🌟🌟|
 |BEMCheckBox|是一个开源库，可以轻松地为iOS创建漂亮，高度可定制的，有动画效果的复选框。|[点击前往](https://github.com/Boris-Em/BEMCheckBox)|🌟🌟🌟🌟|
 |XLForm|是最灵活且最强大的创建动态表单的iOS库。|[点击前往](https://github.com/xmartlabs/XLForm)|🌟🌟🌟|
@@ -193,7 +194,7 @@
 |TYAttributedLabel| 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示|[点击前往](https://github.com/12207480/TYAttributedLabel)|🌟🌟🌟|
 |SWTableViewCell|是一个继承自UITableViewCell的自定义Cell,它上面放了一个UIScrollerView,这个滚动视图上放了Cell内容、左侧操作菜单和右侧操作菜单。（自定义Cell侧滑动作）|[点击前往](https://github.com/CEWendel/SWTableViewCell)|🌟🌟🌟|
 |MGSwipeTableCell|发中经常用到侧滑功能,如QQ、微信,当然还有简书,这里不介绍系统的侧滑方法,介绍一个强大的第三方库|[点击前往](https://github.com/MortimerGoro)|🌟🌟🌟🌟|
-
+|FSCalendar|是开源iOS日历控件,支持横向、纵向滑动. 月模式,周模式. 显示农历,标记时间.定制时间范围.选择事件等多种需求. |[点击前往](https://github.com/WenchaoD/FSCalendar)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -267,4 +268,6 @@
 |Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|
 |HanekeSwift|是一个轻量级的缓存,为UIImage,JSON,NSData,String提供记忆和LRU磁盘缓存。|[点击前往](https://github.com/Haneke/HanekeSwift)|🌟🌟🌟|
 |StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|
+|Charts|画 K 线图和折线图框架。|[点击前往](https://github.com/danielgindi/Charts)|🌟🌟🌟🌟|
+
 
