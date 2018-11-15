@@ -269,5 +269,6 @@
 |HanekeSwift|是一个轻量级的缓存,为UIImage,JSON,NSData,String提供记忆和LRU磁盘缓存。|[点击前往](https://github.com/Haneke/HanekeSwift)|🌟🌟🌟|
 |StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|
 |Charts|画 K 线图和折线图框架。|[点击前往](https://github.com/danielgindi/Charts)|🌟🌟🌟🌟|
-
-
+|TextFieldEffects|是一个Swift的炫酷的TextField封装类|[点击前往](https://github.com/raulriera/TextFieldEffects)|🌟🌟🌟🌟|
+|SwiftString|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|[点击前往](https://github.com/amayne/SwiftString)|🌟🌟🌟|
+|Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|
