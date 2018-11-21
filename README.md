@@ -176,6 +176,7 @@
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |IQKeyboardManager|可以防止键盘滑动问题和覆盖UITextField / UITextView无需你输入任何代码,不需要额外的设置要求。|[点击前往](https://github.com/hackiftekhar/IQKeyboardManager)|🌟🌟🌟🌟|
+|TPKeyboardAvoiding|能实现屏幕自动向上滚动的功能，这样键盘就不会遮挡位置考下的输入框。|[点击前往](https://github.com/michaeltyson/TPKeyboardAvoiding)|🌟🌟🌟🌟|
 |LxDBAnything|封装了NSLog,可打印任何类型。|[点击前往](https://github.com/DeveloperLx/LxDBAnything)|🌟🌟🌟🌟|
 |JKCategories|iOS 中常用到的 Category|[点击前往](https://github.com/shaojiankui/JKCategories)|🌟🌟🌟|
 |DateTools|Objective-C中简化日期和时间处理的工具，让NSDate功能更完整,可以让你更容易地去获取日期各个组件的信息,如年 月 日等。|[点击前往](https://github.com/MatthewYork/DateTools)|🌟🌟🌟🌟|
@@ -195,6 +196,8 @@
 |SWTableViewCell|是一个继承自UITableViewCell的自定义Cell,它上面放了一个UIScrollerView,这个滚动视图上放了Cell内容、左侧操作菜单和右侧操作菜单。（自定义Cell侧滑动作）|[点击前往](https://github.com/CEWendel/SWTableViewCell)|🌟🌟🌟|
 |MGSwipeTableCell|发中经常用到侧滑功能,如QQ、微信,当然还有简书,这里不介绍系统的侧滑方法,介绍一个强大的第三方库|[点击前往](https://github.com/MortimerGoro)|🌟🌟🌟🌟|
 |FSCalendar|是开源iOS日历控件,支持横向、纵向滑动. 月模式,周模式. 显示农历,标记时间.定制时间范围.选择事件等多种需求. |[点击前往](https://github.com/WenchaoD/FSCalendar)|🌟🌟🌟🌟|
+|JDStatusBarNotification|用以在顶部的状态栏展示信息。可自定义颜色、字体以及动画。支持进度条展示,并可以显示活动指示器。|[点击前往](https://github.com/calimarkus/JDStatusBarNotification)|🌟🌟🌟|
+|UITableView-FDTemplateLayoutCell|是一个由国人团队开发的优化计算 UITableViewCell 高度的轻量级框架，由于实现逻辑简明清晰，代码也不复杂，非常适合作为新手学习其他著名却庞大的开源项目的“入门教材”。|[点击前往](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
