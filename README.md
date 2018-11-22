@@ -115,7 +115,8 @@
 |Pop|Facebook发布的动画引擎，用以扩展iOS、OSX的动画类型。相较于iOS、OSX中的基本动画效果，Pop扩展后支持弹簧动画效果与衰减动画效果，你可以用Pop动画引擎来构建出真实的物理交互效果。|[点击前往](https://github.com/facebook/pop)|🌟🌟🌟🌟|
 |RZTransitions|是一个适用于iOS 7.0及以上操作系统的视图控制器转场动画库,可以实现平滑流畅的转场动画效果,而且使用简便。|[点击前往](https://github.com/Raizlabs/RZTransitions)|🌟🌟🌟🌟|
 |JHChainableAnimations|让你能够在Objective-C中实现易读链式动画写法。|[点击前往](https://github.com/jhurray/JHChainableAnimations)|🌟🌟🌟🌟|
-
+|FeSpinner|加入沙漏等多种动画加载效果|[点击前往](https://github.com/NghiaTranUIT/FeSpinner)|🌟🌟🌟|
+|PulsingHalo|脉冲动画效果,可以自定义脉冲的颜色和扩散半径|[点击前往](https://github.com/shu223/PulsingHalo)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -198,6 +199,7 @@
 |FSCalendar|是开源iOS日历控件,支持横向、纵向滑动. 月模式,周模式. 显示农历,标记时间.定制时间范围.选择事件等多种需求. |[点击前往](https://github.com/WenchaoD/FSCalendar)|🌟🌟🌟🌟|
 |JDStatusBarNotification|用以在顶部的状态栏展示信息。可自定义颜色、字体以及动画。支持进度条展示,并可以显示活动指示器。|[点击前往](https://github.com/calimarkus/JDStatusBarNotification)|🌟🌟🌟|
 |UITableView-FDTemplateLayoutCell|是一个由国人团队开发的优化计算 UITableViewCell 高度的轻量级框架，由于实现逻辑简明清晰，代码也不复杂，非常适合作为新手学习其他著名却庞大的开源项目的“入门教材”。|[点击前往](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)|🌟🌟🌟🌟|
+|QBPopupMenu|弹出菜单,实现类似 UIMenuItem 的弹出菜单按钮。点击按钮,会弹出一个菜单,上面可以排列多个按钮。|[点击前往](https://github.com/questbeat/QBPopupMenu)|🌟🌟🌟|
 <br>
 <br>
 <br>
