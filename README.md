@@ -18,6 +18,7 @@
 | CYLTableViewPlaceHolder |一行代码完成“空TableView占位视图”管理|[点击前往](https://github.com/ChenYilong/CYLTableViewPlaceHolder)|🌟🌟🌟|
 |PYSearch| 一个非常优雅的搜索控制器iOS框架|[点击前往](https://github.com/ko1o/PYSearch)|🌟🌟🌟🌟|
 |DKNightVersion|能够是使用几句代码就能为已有的项目添加夜间模式，极其方便。 |[点击前往](https://github.com/Draveness/DKNightVersion)|🌟🌟🌟|
+|RDVTabBarController|是一个定制化的TabBarController库,可动画显示隐藏tabbar栏,可定制tabbar栏|[点击前往](https://github.com/robbdimitrov/RDVTabBarController)|🌟🌟🌟|
 
 <br>
 <br>
@@ -117,6 +118,8 @@
 |JHChainableAnimations|让你能够在Objective-C中实现易读链式动画写法。|[点击前往](https://github.com/jhurray/JHChainableAnimations)|🌟🌟🌟🌟|
 |FeSpinner|加入沙漏等多种动画加载效果|[点击前往](https://github.com/NghiaTranUIT/FeSpinner)|🌟🌟🌟|
 |PulsingHalo|脉冲动画效果,可以自定义脉冲的颜色和扩散半径|[点击前往](https://github.com/shu223/PulsingHalo)|🌟🌟🌟|
+|JazzHands|是一个帧动画的库,我们可以结合 Gesture,scrollView,KVO,RAC 制作交互式的动画. |[点击前往](https://github.com/IFTTT/JazzHands)|🌟🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -137,6 +140,7 @@
 |PEPhotoCropEditor|自定义拖动剪切图片|[点击前往](https://github.com/kishikawakatsumi/PEPhotoCropEditor)|🌟🌟🌟|
 |FastImageCache|是一种在 iOS 应用程序中高效、持续、超快速的存储和检索图像的解决方案。|[点击前往](https://github.com/path/FastImageCache)|🌟🌟🌟|
 |TZImagePickerController|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。|[点击前往](https://github.com/banchichen/TZImagePickerController)|🌟🌟🌟🌟|
+|NYXImagesKit|包含一组很有用的 UIImage 图像处理方法,包括 filtering, blurring, enhancing, masking, reflecting, resizing, rotating, saving. |[点击前往](https://github.com/Nyx0uf/NYXImagesKit)|🌟🌟🌟|
 <br>
 <br>
 <br>
