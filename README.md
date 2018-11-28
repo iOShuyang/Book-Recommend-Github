@@ -19,6 +19,7 @@
 |PYSearch| 一个非常优雅的搜索控制器iOS框架|[点击前往](https://github.com/ko1o/PYSearch)|🌟🌟🌟🌟|
 |DKNightVersion|能够是使用几句代码就能为已有的项目添加夜间模式，极其方便。 |[点击前往](https://github.com/Draveness/DKNightVersion)|🌟🌟🌟|
 |RDVTabBarController|是一个定制化的TabBarController库,可动画显示隐藏tabbar栏,可定制tabbar栏|[点击前往](https://github.com/robbdimitrov/RDVTabBarController)|🌟🌟🌟|
+|CocoaLumberjack|是一个可以在iOS和Mac开发中使用的日志库，强大又不失灵活。集成进项目后，可以灵活控制日志level输出，并保存在日志文件中，还能压缩上传到服务器。|[点击前往](https://github.com/CocoaLumberjack/CocoaLumberjack)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -204,6 +205,7 @@
 |JDStatusBarNotification|用以在顶部的状态栏展示信息。可自定义颜色、字体以及动画。支持进度条展示,并可以显示活动指示器。|[点击前往](https://github.com/calimarkus/JDStatusBarNotification)|🌟🌟🌟|
 |UITableView-FDTemplateLayoutCell|是一个由国人团队开发的优化计算 UITableViewCell 高度的轻量级框架，由于实现逻辑简明清晰，代码也不复杂，非常适合作为新手学习其他著名却庞大的开源项目的“入门教材”。|[点击前往](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)|🌟🌟🌟🌟|
 |QBPopupMenu|弹出菜单,实现类似 UIMenuItem 的弹出菜单按钮。点击按钮,会弹出一个菜单,上面可以排列多个按钮。|[点击前往](https://github.com/questbeat/QBPopupMenu)|🌟🌟🌟|
+|ActionSheetPicker-3.0| UIPickerView + UIActionSheet|[点击前往](https://github.com/skywinder/ActionSheetPicker-3.0)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -281,3 +283,4 @@
 |TextFieldEffects|是一个Swift的炫酷的TextField封装类|[点击前往](https://github.com/raulriera/TextFieldEffects)|🌟🌟🌟🌟|
 |SwiftString|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|[点击前往](https://github.com/amayne/SwiftString)|🌟🌟🌟|
 |Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|
+|AMPopTip|是一个动画信息提示控件,具有漂亮的弹出框动画效果。可以设置弹出框的弹出方向以及弹出框的箭头指向。|[点击前往](https://github.com/andreamazz/AMPopTip)|🌟🌟🌟|
