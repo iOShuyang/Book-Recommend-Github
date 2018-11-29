@@ -223,10 +223,11 @@
 
 
 ##
-## <div align=center>-------------------------音频处理-------------------------</div>
+## <div align=center>-------------------------音视频处理-------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |EZAudio|是一款兼容iOS及OSX的,非常强大的第三方波形绘制第三方库|[点击前往](https://github.com/syedhali/EZAudio)|🌟🌟🌟🌟|
+|ZFPlayer|是一款基于AVPlayer,支持横屏、竖屏(全屏播放还可锁定屏幕方向),上下滑动调节音量、屏幕亮度,左右滑动调节播放进度的视频播放器软件。|[点击前往](https://github.com/renzifeng/ZFPlayer)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -284,3 +285,5 @@
 |SwiftString|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|[点击前往](https://github.com/amayne/SwiftString)|🌟🌟🌟|
 |Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|
 |AMPopTip|是一个动画信息提示控件,具有漂亮的弹出框动画效果。可以设置弹出框的弹出方向以及弹出框的箭头指向。|[点击前往](https://github.com/andreamazz/AMPopTip)|🌟🌟🌟|
+|MobilePlayer|一个强大、可自定义的媒体播放器.|[点击前往](https://github.com/mobileplayer/mobileplayer-ios)|🌟🌟🌟|
+|Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|
