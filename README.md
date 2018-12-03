@@ -120,6 +120,7 @@
 |FeSpinner|加入沙漏等多种动画加载效果|[点击前往](https://github.com/NghiaTranUIT/FeSpinner)|🌟🌟🌟|
 |PulsingHalo|脉冲动画效果,可以自定义脉冲的颜色和扩散半径|[点击前往](https://github.com/shu223/PulsingHalo)|🌟🌟🌟|
 |JazzHands|是一个帧动画的库,我们可以结合 Gesture,scrollView,KVO,RAC 制作交互式的动画. |[点击前往](https://github.com/IFTTT/JazzHands)|🌟🌟🌟🌟|
+|ZLPhotoBrowser|方便易用的相册多选框架，支持预览/相册内拍照及录视频、拖拽/滑动选择，3DTouch预览，编辑裁剪图片(滤镜)/视频，导出视频(可添加水印，粒子特效，视频转码)；支持多语言国际化(中文简/繁，英语，日语，可手动切换)；在线下载iCloud端图片；支持预览网络及本地图片/视频|[点击前往](https://github.com/longitachi/ZLPhotoBrowser)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -206,6 +207,8 @@
 |UITableView-FDTemplateLayoutCell|是一个由国人团队开发的优化计算 UITableViewCell 高度的轻量级框架，由于实现逻辑简明清晰，代码也不复杂，非常适合作为新手学习其他著名却庞大的开源项目的“入门教材”。|[点击前往](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)|🌟🌟🌟🌟|
 |QBPopupMenu|弹出菜单,实现类似 UIMenuItem 的弹出菜单按钮。点击按钮,会弹出一个菜单,上面可以排列多个按钮。|[点击前往](https://github.com/questbeat/QBPopupMenu)|🌟🌟🌟|
 |ActionSheetPicker-3.0| UIPickerView + UIActionSheet|[点击前往](https://github.com/skywinder/ActionSheetPicker-3.0)|🌟🌟🌟|
+|VBFPopFlatButton|通过Facebook Pop实现按钮的动态变换。有圆底和平面两种风格。|[点击前往](https://github.com/victorBaro/VBFPopFlatButton)|🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -287,3 +290,4 @@
 |AMPopTip|是一个动画信息提示控件,具有漂亮的弹出框动画效果。可以设置弹出框的弹出方向以及弹出框的箭头指向。|[点击前往](https://github.com/andreamazz/AMPopTip)|🌟🌟🌟|
 |MobilePlayer|一个强大、可自定义的媒体播放器.|[点击前往](https://github.com/mobileplayer/mobileplayer-ios)|🌟🌟🌟|
 |Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|
+|Animated TabBar|是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|[点击前往](https://github.com/Ramotion/animated-tab-bar)|🌟🌟🌟🌟|
