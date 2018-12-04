@@ -277,7 +277,7 @@
 |ESTabBarController|高度自定义TabBarController，支持自定义TabBarItem样式或添加动画|[点击前往](https://github.com/eggswift/ESTabBarController)|🌟🌟🌟🌟|
 |IQKeyboardManagerSwift|使用IQKeyboardManager可以很容易地解决弹起键盘遮盖输入框的问题，并且易于集成，不需要侵入性地继承特定的类，也不需要实现某些奇怪的协议|[点击前往](https://github.com/hackiftekhar/IQKeyboardManager)|🌟🌟🌟🌟|
 |SwiftDate|是Github上开源的,使用Swift语言编写的NSDate封装库,可以很方便的在Swift中处理日期,比如日期创建,比较,输出等|[点击前往](https://github.com/malcommac/SwiftDate)|🌟🌟🌟🌟|
-|Material|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|[点击前往](https://github.com/angular/material)|🌟🌟🌟🌟|
+|Material|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟🌟|
 |XCGLogger|是一个用于Swift项目的debug日志框架，可详细信息记录到控制台，就像使用NSLog或println那样，但是还带有其他额处信息，如日期、函数名、文件名以及行号。|[点击前往](https://github.com/DaveWoodCom/XCGLogger)|🌟🌟🌟🌟|
 |SwiftyUserDefaults|使用该组件,可以避免UserDefaults导致的crash,而且不必再通过手写字符串的方式作为key来存取数据,这无疑减小了出错的概率。|[点击前往](https://github.com/radex/SwiftyUserDefaults)|🌟🌟🌟🌟|
 |Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|
