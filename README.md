@@ -294,3 +294,6 @@
 |FoldingCell|自然,清新的单元格折叠动画|[点击前往](https://github.com/Ramotion/folding-cell)|🌟🌟🌟🌟|
 | CircleMenu|是一个精美别致支持定制的圆形菜单,可以有 0 到 8 个子菜单按钮,按钮背景色,图标都可以修改。|[点击前往](https://github.com/Ramotion/circle-menu)|🌟🌟🌟|
 |Hero|适用于iOS和tvOS的优雅过渡库|[点击前往](https://github.com/lkzhao/Hero)|🌟🌟🌟🌟|
+|SwiftLint|是一个用于强制检查 Swift 代码风格和规定的一个工具，基本上以 GitHub's Swift 代码风格指南为基础。|[点击前往](https://github.com/realm/SwiftLint/blob/master/README_CN.md)|🌟🌟🌟🌟|
+|SkeletonView|骨架屏）基本原理是添加控件形成真实的布局，等有数据时隐藏。 |[点击前往](https://github.com/Juanpe/SkeletonView)|🌟🌟🌟🌟|
+|ARKit-CoreLocation|使用摄像头和运动数据来绘制用户移动时本地的地图。|[点击前往](https://github.com/ProjectDent/ARKit-CoreLocation)|🌟🌟🌟🌟|
