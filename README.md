@@ -267,39 +267,42 @@
 ### 基于Swift进行的相关推荐,常用程度：1-5星。<br> 
 ### 每天会不定时更新，推荐好玩有趣的第三方优秀框架。
 ### 麻烦给小编一颗🌟，让小编更有动力总结出更多优秀文章和作品。
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|Alamofire| 一个使用Swift开发的网络请求库，其开发团队是AFNetworking的原团队。它语法简洁,采用链式编程的思想，使用起来是相当的舒服。本质是基于NSURLSession进行封装。 |[点击前往](https://github.com/Alamofire/Alamofire)|🌟🌟🌟🌟|
-|SnapKit|是一个优秀的第三方自适应布局库,它可以让iOS、OS X应用更简单地实现自动布局(Auto Layout)|[点击前往](https://github.com/SnapKit/SnapKit)|🌟🌟🌟🌟|
-|SwiftyJSON|是个使用Swift语言编写的开源库,可以让我们很方便地处理JSON数据(解析数据、生成数据)。|[点击前往](https://github.com/SwiftyJSON/SwiftyJSON)|🌟🌟🌟🌟|
-|NVActivityIndicatorView|酷炫的装载动画库及演示。如此丰富的 Swift 装载动画集合,史无前例。|[点击前往](https://github.com/ninjaprox/NVActivityIndicatorView)|🌟🌟🌟🌟|
-|Kingfisher|是由 喵神 编写的用于下载和缓存网络图片的轻量级Swift工具库，其中涉及到了包括GCD、Swift高级语法、缓存、硬盘读写、网络编程、图像编码、图形绘制、Gif数据生成和处理、MD5、Associated Objects的使用等大量iOS开发知识。|[点击前往](https://github.com/onevcat/Kingfisher)|🌟🌟🌟🌟|
-|ESTabBarController|高度自定义TabBarController，支持自定义TabBarItem样式或添加动画|[点击前往](https://github.com/eggswift/ESTabBarController)|🌟🌟🌟🌟|
-|IQKeyboardManagerSwift|使用IQKeyboardManager可以很容易地解决弹起键盘遮盖输入框的问题，并且易于集成，不需要侵入性地继承特定的类，也不需要实现某些奇怪的协议|[点击前往](https://github.com/hackiftekhar/IQKeyboardManager)|🌟🌟🌟🌟|
-|SwiftDate|是Github上开源的,使用Swift语言编写的NSDate封装库,可以很方便的在Swift中处理日期,比如日期创建,比较,输出等|[点击前往](https://github.com/malcommac/SwiftDate)|🌟🌟🌟🌟|
-|Material|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟🌟|
-|XCGLogger|是一个用于Swift项目的debug日志框架，可详细信息记录到控制台，就像使用NSLog或println那样，但是还带有其他额处信息，如日期、函数名、文件名以及行号。|[点击前往](https://github.com/DaveWoodCom/XCGLogger)|🌟🌟🌟🌟|
-|SwiftyUserDefaults|使用该组件,可以避免UserDefaults导致的crash,而且不必再通过手写字符串的方式作为key来存取数据,这无疑减小了出错的概率。|[点击前往](https://github.com/radex/SwiftyUserDefaults)|🌟🌟🌟🌟|
-|Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|
-|HanekeSwift|是一个轻量级的缓存,为UIImage,JSON,NSData,String提供记忆和LRU磁盘缓存。|[点击前往](https://github.com/Haneke/HanekeSwift)|🌟🌟🌟|
-|StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|
-|Charts|画 K 线图和折线图框架。|[点击前往](https://github.com/danielgindi/Charts)|🌟🌟🌟🌟|
-|TextFieldEffects|是一个Swift的炫酷的TextField封装类|[点击前往](https://github.com/raulriera/TextFieldEffects)|🌟🌟🌟🌟|
-|SwiftString|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|[点击前往](https://github.com/amayne/SwiftString)|🌟🌟🌟|
-|Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|
-|AMPopTip|是一个动画信息提示控件,具有漂亮的弹出框动画效果。可以设置弹出框的弹出方向以及弹出框的箭头指向。|[点击前往](https://github.com/andreamazz/AMPopTip)|🌟🌟🌟|
-|MobilePlayer|一个强大、可自定义的媒体播放器.|[点击前往](https://github.com/mobileplayer/mobileplayer-ios)|🌟🌟🌟|
-|Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|
-|Animated TabBar|是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|[点击前往](https://github.com/Ramotion/animated-tab-bar)|🌟🌟🌟🌟|
-|FoldingCell|自然,清新的单元格折叠动画|[点击前往](https://github.com/Ramotion/folding-cell)|🌟🌟🌟🌟|
-|CircleMenu|是一个精美别致支持定制的圆形菜单,可以有 0 到 8 个子菜单按钮,按钮背景色,图标都可以修改。|[点击前往](https://github.com/Ramotion/circle-menu)|🌟🌟🌟|
-|Hero|适用于iOS和tvOS的优雅过渡库|[点击前往](https://github.com/lkzhao/Hero)|🌟🌟🌟🌟|
-|SwiftLint|是一个用于强制检查 Swift 代码风格和规定的一个工具，基本上以 GitHub's Swift 代码风格指南为基础。|[点击前往](https://github.com/realm/SwiftLint/blob/master/README_CN.md)|🌟🌟🌟🌟|
-|SkeletonView|骨架屏）基本原理是添加控件形成真实的布局，等有数据时隐藏。 |[点击前往](https://github.com/Juanpe/SkeletonView)|🌟🌟🌟🌟|
-|ARKit-CoreLocation|使用摄像头和运动数据来绘制用户移动时本地的地图。|[点击前往](https://github.com/ProjectDent/ARKit-CoreLocation)|🌟🌟🌟🌟|
-|PKHUD|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|[点击前往](https://github.com/pkluz/PKHUD)|🌟🌟🌟🌟|
-|Toast-Swift|一个Swift扩展，为UIView对象类添加了Toast通知|[点击前往](https://github.com/scalessec/Toast-Swift)|🌟🌟🌟🌟|
-|SwiftMessages|用于以屏幕顶部或底部的状态栏的形式显示简短的消息.|[点击前往](https://github.com/SwiftKickMobile/SwiftMessages)|🌟🌟🌟🌟|
+| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 ||
+| --- | --- | --- | --- | --- |
+|Alamofire| 一个使用Swift开发的网络请求库，其开发团队是AFNetworking的原团队。它语法简洁,采用链式编程的思想，使用起来是相当的舒服。本质是基于NSURLSession进行封装。 |[点击前往](https://github.com/Alamofire/Alamofire)|🌟🌟🌟🌟🌟|网络请求|
+|Moya| 是一个网络抽象层,它在底层将Alamofire进行封装,对外提供更简洁的接口供开发者调用。 |[点击前往](https://github.com/Moya/Moya)|🌟🌟🌟🌟|网络请求|
+|SnapKit|是一个优秀的第三方自适应布局库,它可以让iOS、OS X应用更简单地实现自动布局(Auto Layout)|[点击前往](https://github.com/SnapKit/SnapKit)|🌟🌟🌟🌟🌟|UI布局|
+|SwiftyJSON|是个使用Swift语言编写的开源库,可以让我们很方便地处理JSON数据(解析数据、生成数据)。|[点击前往](https://github.com/SwiftyJSON/SwiftyJSON)|🌟🌟🌟🌟🌟|JSON数据|
+|HandyJSON|是阿里巴巴开源的一个用于Swift语言中的JSON序列化/反序列化库，可以很方便进行json与model的转换，以及常用的字典与模型的互相转换。|[点击前往](https://github.com/alibaba/HandyJSON)|🌟🌟🌟🌟🌟|JSON数据|
+|ObjectMapper|ObjectMapper类是Jackson库的主要类。它提供一些功能将转换成Java对象匹配JSON结构，反之亦然。它使用JsonParser和JsonGenerator的实例实现JSON实际的读/写。|[点击前往](https://github.com/tristanhimmelman/ObjectMapper)|🌟🌟🌟🌟🌟|JSON数据|
+|NVActivityIndicatorView|酷炫的装载动画库及演示。如此丰富的 Swift 装载动画集合,史无前例。|[点击前往](https://github.com/ninjaprox/NVActivityIndicatorView)|🌟🌟🌟🌟|动画库|
+|Kingfisher|是由 喵神 编写的用于下载和缓存网络图片的轻量级Swift工具库，其中涉及到了包括GCD、Swift高级语法、缓存、硬盘读写、网络编程、图像编码、图形绘制、Gif数据生成和处理、MD5、Associated Objects的使用等大量iOS开发知识。|[点击前往](https://github.com/onevcat/Kingfisher)|🌟🌟🌟🌟|缓存图片|
+|ESTabBarController|高度自定义TabBarController，支持自定义TabBarItem样式或添加动画|[点击前往](https://github.com/eggswift/ESTabBarController)|🌟🌟🌟🌟|UI框架|
+|IQKeyboardManagerSwift|使用IQKeyboardManager可以很容易地解决弹起键盘遮盖输入框的问题，并且易于集成，不需要侵入性地继承特定的类，也不需要实现某些奇怪的协议|[点击前往](https://github.com/hackiftekhar/IQKeyboardManager)|🌟🌟🌟🌟|UI框架|
+|SwiftDate|是Github上开源的,使用Swift语言编写的NSDate封装库,可以很方便的在Swift中处理日期,比如日期创建,比较,输出等|[点击前往](https://github.com/malcommac/SwiftDate)|🌟🌟🌟🌟|扩展框架|
+|Material|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟🌟|UI框架|
+|XCGLogger|是一个用于Swift项目的debug日志框架，可详细信息记录到控制台，就像使用NSLog或println那样，但是还带有其他额处信息，如日期、函数名、文件名以及行号。|[点击前往](https://github.com/DaveWoodCom/XCGLogger)|🌟🌟🌟🌟|日志框架|
+|SwiftyUserDefaults|使用该组件,可以避免UserDefaults导致的crash,而且不必再通过手写字符串的方式作为key来存取数据,这无疑减小了出错的概率。|[点击前往](https://github.com/radex/SwiftyUserDefaults)|🌟🌟🌟🌟|扩展框架|
+|Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|异步库|
+|HanekeSwift|是一个轻量级的缓存,为UIImage,JSON,NSData,String提供记忆和LRU磁盘缓存。|[点击前往](https://github.com/Haneke/HanekeSwift)|🌟🌟🌟|缓存框架|
+|StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|动画库|
+|Charts|画 K 线图和折线图框架。|[点击前往](https://github.com/danielgindi/Charts)|🌟🌟🌟🌟|图表框架|
+|TextFieldEffects|是一个Swift的炫酷的TextField封装类|[点击前往](https://github.com/raulriera/TextFieldEffects)|🌟🌟🌟🌟|UI框架|
+|SwiftString|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|[点击前往](https://github.com/amayne/SwiftString)|🌟🌟🌟|扩展框架|
+|Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|颜色框架|
+|AMPopTip|是一个动画信息提示控件,具有漂亮的弹出框动画效果。可以设置弹出框的弹出方向以及弹出框的箭头指向。|[点击前往](https://github.com/andreamazz/AMPopTip)|🌟🌟🌟|UI框架|
+|MobilePlayer|一个强大、可自定义的媒体播放器.|[点击前往](https://github.com/mobileplayer/mobileplayer-ios)|🌟🌟🌟|音频框架|
+|Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|音频框架|
+|Animated TabBar|是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|[点击前往](https://github.com/Ramotion/animated-tab-bar)|🌟🌟🌟🌟|动画库|
+|FoldingCell|自然,清新的单元格折叠动画|[点击前往](https://github.com/Ramotion/folding-cell)|🌟🌟🌟🌟|动画库|
+|CircleMenu|是一个精美别致支持定制的圆形菜单,可以有 0 到 8 个子菜单按钮,按钮背景色,图标都可以修改。|[点击前往](https://github.com/Ramotion/circle-menu)|🌟🌟🌟|动画库|
+|Hero|适用于iOS和tvOS的优雅过渡库|[点击前往](https://github.com/lkzhao/Hero)|🌟🌟🌟🌟|动画库|
+|SwiftLint|是一个用于强制检查 Swift 代码风格和规定的一个工具，基本上以 GitHub's Swift 代码风格指南为基础。|[点击前往](https://github.com/realm/SwiftLint/blob/master/README_CN.md)|🌟🌟🌟🌟|代码风格|
+|SkeletonView|骨架屏）基本原理是添加控件形成真实的布局，等有数据时隐藏。 |[点击前往](https://github.com/Juanpe/SkeletonView)|🌟🌟🌟🌟|UI框架|
+|ARKit-CoreLocation|使用摄像头和运动数据来绘制用户移动时本地的地图。|[点击前往](https://github.com/ProjectDent/ARKit-CoreLocation)|🌟🌟🌟🌟|AR框架|
+|PKHUD|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|[点击前往](https://github.com/pkluz/PKHUD)|🌟🌟🌟🌟|UI框架|
+|Toast-Swift|一个Swift扩展，为UIView对象类添加了Toast通知|[点击前往](https://github.com/scalessec/Toast-Swift)|🌟🌟🌟🌟|UI框架|
+|SwiftMessages|用于以屏幕顶部或底部的状态栏的形式显示简短的消息.|[点击前往](https://github.com/SwiftKickMobile/SwiftMessages)|🌟🌟🌟🌟|UI框架|
 
 
 
