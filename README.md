@@ -20,6 +20,7 @@
 |DKNightVersion|能够是使用几句代码就能为已有的项目添加夜间模式，极其方便。 |[点击前往](https://github.com/Draveness/DKNightVersion)|🌟🌟🌟|
 |RDVTabBarController|是一个定制化的TabBarController库,可动画显示隐藏tabbar栏,可定制tabbar栏|[点击前往](https://github.com/robbdimitrov/RDVTabBarController)|🌟🌟🌟|
 |CocoaLumberjack|是一个可以在iOS和Mac开发中使用的日志库，强大又不失灵活。集成进项目后，可以灵活控制日志level输出，并保存在日志文件中，还能压缩上传到服务器。|[点击前往](https://github.com/CocoaLumberjack/CocoaLumberjack)|🌟🌟🌟🌟|
+|FDFullscreenPopGesture|pod安装一下即可,安装后无须再加任何代码,应用所有页面都将支持全屏侧滑。|[点击前往](https://github.com/forkingdog/FDFullscreenPopGesture)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -291,8 +292,6 @@
 |SwiftString|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|[点击前往](https://github.com/amayne/SwiftString)|🌟🌟🌟|扩展框架|
 |Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|颜色框架|
 |AMPopTip|是一个动画信息提示控件,具有漂亮的弹出框动画效果。可以设置弹出框的弹出方向以及弹出框的箭头指向。|[点击前往](https://github.com/andreamazz/AMPopTip)|🌟🌟🌟|UI框架|
-|MobilePlayer|一个强大、可自定义的媒体播放器.|[点击前往](https://github.com/mobileplayer/mobileplayer-ios)|🌟🌟🌟|音频框架|
-|Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|音频框架|
 |Animated TabBar|是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|[点击前往](https://github.com/Ramotion/animated-tab-bar)|🌟🌟🌟🌟|动画库|
 |FoldingCell|自然,清新的单元格折叠动画|[点击前往](https://github.com/Ramotion/folding-cell)|🌟🌟🌟🌟|动画库|
 |CircleMenu|是一个精美别致支持定制的圆形菜单,可以有 0 到 8 个子菜单按钮,按钮背景色,图标都可以修改。|[点击前往](https://github.com/Ramotion/circle-menu)|🌟🌟🌟|动画库|
@@ -303,8 +302,10 @@
 |PKHUD|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|[点击前往](https://github.com/pkluz/PKHUD)|🌟🌟🌟🌟|UI框架|
 |Toast-Swift|一个Swift扩展，为UIView对象类添加了Toast通知|[点击前往](https://github.com/scalessec/Toast-Swift)|🌟🌟🌟🌟|UI框架|
 |SwiftMessages|用于以屏幕顶部或底部的状态栏的形式显示简短的消息.|[点击前往](https://github.com/SwiftKickMobile/SwiftMessages)|🌟🌟🌟🌟|UI框架|
-
-
+|Reusable| 利用protocol extension结合泛型提供了一个优雅的方案来dequeueReusableCell|[点击前往](https://github.com/AliSoftware/Reusable)|🌟🌟🌟🌟|UI框架|
+|BMPlayer|适用于iOS的视频播放器，基于AVPlayer，支持水平垂直屏幕。支持调整音量，亮度和滑动搜索，支持字幕。|[点击前往](https://github.com/BrikerMan/BMPlayer)|🌟🌟🌟🌟|音频框架|
+|MobilePlayer|一个强大、可自定义的媒体播放器.|[点击前往](https://github.com/mobileplayer/mobileplayer-ios)|🌟🌟🌟|音频框架|
+|Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|音频框架|
 
 <br>
 
