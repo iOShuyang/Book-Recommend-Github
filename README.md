@@ -290,6 +290,7 @@
 |Charts|画 K 线图和折线图框架。|[点击前往](https://github.com/danielgindi/Charts)|🌟🌟🌟🌟|图表框架|
 |TextFieldEffects|是一个Swift的炫酷的TextField封装类|[点击前往](https://github.com/raulriera/TextFieldEffects)|🌟🌟🌟🌟|UI框架|
 |SwiftString|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|[点击前往](https://github.com/amayne/SwiftString)|🌟🌟🌟|扩展框架|
+|EZSwiftExtensions|提供了一系列对于 Swift 标准库、方法与 UIKit 的扩展，让你更加简单舒服地编写代码。|[点击前往](https://github.com/goktugyil/EZSwiftExtensions)|🌟🌟🌟|扩展框架|
 |Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|颜色框架|
 |AMPopTip|是一个动画信息提示控件,具有漂亮的弹出框动画效果。可以设置弹出框的弹出方向以及弹出框的箭头指向。|[点击前往](https://github.com/andreamazz/AMPopTip)|🌟🌟🌟|UI框架|
 |Animated TabBar|是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|[点击前往](https://github.com/Ramotion/animated-tab-bar)|🌟🌟🌟🌟|动画库|
@@ -306,6 +307,8 @@
 |BMPlayer|适用于iOS的视频播放器，基于AVPlayer，支持水平垂直屏幕。支持调整音量，亮度和滑动搜索，支持字幕。|[点击前往](https://github.com/BrikerMan/BMPlayer)|🌟🌟🌟🌟|音频框架|
 |MobilePlayer|一个强大、可自定义的媒体播放器.|[点击前往](https://github.com/mobileplayer/mobileplayer-ios)|🌟🌟🌟|音频框架|
 |Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|音频框架|
+|SpreadsheetView|用于iOS应用程序的完整可配置电子表格视图用户界面。使用此框架，您可以轻松创建复杂的布局，如计划，甘特图或时间表，就像使用Excel一样。|[点击前往](https://github.com/kishikawakatsumi/SpreadsheetView)|🌟🌟🌟🌟|UI框架|
+|MonkeyKing|帮助开发者快速集成国内主流社交应用(微信、微博、QQ、支付宝)的分享、授权、支付等功能。重要的是，不需要集成各种官方 SDK。目前由 4 名程序员维护。可用于生产环境、轻量级，能满足绝大部分的分享、授权、支付等需求。|[点击前往](https://github.com/nixzhu/MonkeyKing)|🌟🌟🌟🌟|UI框架|
 
 <br>
 
