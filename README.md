@@ -309,6 +309,10 @@
 |Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|音频框架|
 |SpreadsheetView|用于iOS应用程序的完整可配置电子表格视图用户界面。使用此框架，您可以轻松创建复杂的布局，如计划，甘特图或时间表，就像使用Excel一样。|[点击前往](https://github.com/kishikawakatsumi/SpreadsheetView)|🌟🌟🌟🌟|UI框架|
 |MonkeyKing|帮助开发者快速集成国内主流社交应用(微信、微博、QQ、支付宝)的分享、授权、支付等功能。重要的是，不需要集成各种官方 SDK。目前由 4 名程序员维护。可用于生产环境、轻量级，能满足绝大部分的分享、授权、支付等需求。|[点击前往](https://github.com/nixzhu/MonkeyKing)|🌟🌟🌟🌟|UI框架|
+|HGPlaceholders|是一个显示项目中任何 UITableView/UICollectionView 占位符和空状态的库。|[点击前往](https://github.com/HamzaGhazouani/HGPlaceholders)|🌟🌟🌟🌟|UI框架|
+|RxSwift|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|[点击前往](https://github.com/ReactiveX/RxSwift)|🌟🌟🌟🌟🌟|函数框架|
+|CryptoSwift |是一个使用 Swift 编写的加密工具包,支持多种加密算法,如:MD5、SHA1、AES-128 等等|[点击前往](https://github.com/krzyzanowskim/CryptoSwift)|🌟🌟🌟🌟|加密安全|
+
 
 <br>
 
