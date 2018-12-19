@@ -312,6 +312,9 @@
 |HGPlaceholders|是一个显示项目中任何 UITableView/UICollectionView 占位符和空状态的库。|[点击前往](https://github.com/HamzaGhazouani/HGPlaceholders)|🌟🌟🌟🌟|UI框架|
 |RxSwift|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|[点击前往](https://github.com/ReactiveX/RxSwift)|🌟🌟🌟🌟🌟|函数框架|
 |CryptoSwift |是一个使用 Swift 编写的加密工具包,支持多种加密算法,如:MD5、SHA1、AES-128 等等|[点击前往](https://github.com/krzyzanowskim/CryptoSwift)|🌟🌟🌟🌟|加密安全|
+|ActiveLabel|UILabel插件替换支持用Swift编写的Hashtags（＃），Mentions（@）和URL（http：//）|[点击前往](https://github.com/optonaut/ActiveLabel.swift)|🌟🌟🌟🌟|UI框架|
+|LTMorphingLabel|用Swift编写的UILabel的优美变形效果。|[点击前往](https://github.com/lexrus/LTMorphingLabel)|🌟🌟🌟🌟|UI框架|
+|SkyFloatingLabelTextField|似于OC的JVFloatLabeledTextField,编辑就会出现浮动的提示label|[点击前往](https://github.com/Skyscanner/SkyFloatingLabelTextField)|🌟🌟🌟🌟|UI框架|
 
 
 <br>
