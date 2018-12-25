@@ -307,7 +307,6 @@
 |BMPlayer|适用于iOS的视频播放器，基于AVPlayer，支持水平垂直屏幕。支持调整音量，亮度和滑动搜索，支持字幕。|[点击前往](https://github.com/BrikerMan/BMPlayer)|🌟🌟🌟🌟|音频框架|
 |MobilePlayer|一个强大、可自定义的媒体播放器.|[点击前往](https://github.com/mobileplayer/mobileplayer-ios)|🌟🌟🌟|音频框架|
 |Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|音频框架|
-|SpreadsheetView|用于iOS应用程序的完整可配置电子表格视图用户界面。使用此框架，您可以轻松创建复杂的布局，如计划，甘特图或时间表，就像使用Excel一样。|[点击前往](https://github.com/kishikawakatsumi/SpreadsheetView)|🌟🌟🌟🌟|UI框架|
 |MonkeyKing|帮助开发者快速集成国内主流社交应用(微信、微博、QQ、支付宝)的分享、授权、支付等功能。重要的是，不需要集成各种官方 SDK。目前由 4 名程序员维护。可用于生产环境、轻量级，能满足绝大部分的分享、授权、支付等需求。|[点击前往](https://github.com/nixzhu/MonkeyKing)|🌟🌟🌟🌟|UI框架|
 |HGPlaceholders|是一个显示项目中任何 UITableView/UICollectionView 占位符和空状态的库。|[点击前往](https://github.com/HamzaGhazouani/HGPlaceholders)|🌟🌟🌟🌟|UI框架|
 |RxSwift|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|[点击前往](https://github.com/ReactiveX/RxSwift)|🌟🌟🌟🌟🌟|函数框架|
@@ -315,7 +314,10 @@
 |ActiveLabel|UILabel插件替换支持用Swift编写的Hashtags（＃），Mentions（@）和URL（http：//）|[点击前往](https://github.com/optonaut/ActiveLabel.swift)|🌟🌟🌟🌟|UI框架|
 |LTMorphingLabel|用Swift编写的UILabel的优美变形效果。|[点击前往](https://github.com/lexrus/LTMorphingLabel)|🌟🌟🌟🌟|UI框架|
 |SkyFloatingLabelTextField|似于OC的JVFloatLabeledTextField,编辑就会出现浮动的提示label|[点击前往](https://github.com/Skyscanner/SkyFloatingLabelTextField)|🌟🌟🌟🌟|UI框架|
-
+|SpreadsheetView|用于iOS应用程序的完整可配置电子表格视图用户界面。使用此框架，您可以轻松创建复杂的布局，如计划，甘特图或时间表，就像使用Excel一样。|[点击前往](https://github.com/kishikawakatsumi/SpreadsheetView)|🌟🌟🌟🌟|UI框架|
+|ScrollableGraphView|iOS的自适应可滚动图形视图，用于显示简单的离散数据集。|[点击前往](https://github.com/philackm/ScrollableGraphView)|🌟🌟🌟🌟|UI框架|
+|JTAppleCalendar|非官方Apple iOS Swift日历视图。 iOS日历库。 iOS日历控件。 100％可定制|[点击前往](https://github.com/patchthecode/JTAppleCalendar)|🌟🌟🌟🌟|UI框架|
+|CalendarKit|完全可定制的iOS日历|[点击前往](https://github.com/richardtop/CalendarKit)|🌟🌟🌟🌟|UI框架|
 
 <br>
 
