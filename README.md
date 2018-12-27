@@ -122,6 +122,8 @@
 |PulsingHalo|脉冲动画效果,可以自定义脉冲的颜色和扩散半径|[点击前往](https://github.com/shu223/PulsingHalo)|🌟🌟🌟|
 |JazzHands|是一个帧动画的库,我们可以结合 Gesture,scrollView,KVO,RAC 制作交互式的动画. |[点击前往](https://github.com/IFTTT/JazzHands)|🌟🌟🌟🌟|
 |ZLPhotoBrowser|方便易用的相册多选框架，支持预览/相册内拍照及录视频、拖拽/滑动选择，3DTouch预览，编辑裁剪图片(滤镜)/视频，导出视频(可添加水印，粒子特效，视频转码)；支持多语言国际化(中文简/繁，英语，日语，可手动切换)；在线下载iCloud端图片；支持预览网络及本地图片/视频|[点击前往](https://github.com/longitachi/ZLPhotoBrowser)|🌟🌟🌟🌟|
+|SDPhotoBrowser|满足用户浏览图片的需求,例如单击图片隐藏、双击图片放大、手势缩放、左右切换以及保存图片等功能|[点击前往](https://github.com/gsdios/SDPhotoBrowser)|🌟🌟🌟|
+|NYTPhotoViewer|是一个幻灯片和图片浏览器,包括双击缩放,字母,支持多个图片,互动电影,动画缩放演示及更多功能。|[点击前往](https://github.com/NYTimes/NYTPhotoViewer)|🌟🌟🌟|
 
 <br>
 <br>
@@ -318,6 +320,7 @@
 |ScrollableGraphView|iOS的自适应可滚动图形视图，用于显示简单的离散数据集。|[点击前往](https://github.com/philackm/ScrollableGraphView)|🌟🌟🌟🌟|UI框架|
 |JTAppleCalendar|非官方Apple iOS Swift日历视图。 iOS日历库。 iOS日历控件。 100％可定制|[点击前往](https://github.com/patchthecode/JTAppleCalendar)|🌟🌟🌟🌟|UI框架|
 |CalendarKit|完全可定制的iOS日历|[点击前往](https://github.com/richardtop/CalendarKit)|🌟🌟🌟🌟|UI框架|
+|Lightbox|一个方便和易于使用的iOS图像浏览器|[点击前往](https://github.com/hyperoslo/Lightbox)|🌟🌟🌟|
 
 <br>
 
