@@ -320,7 +320,11 @@
 |ScrollableGraphView|iOS的自适应可滚动图形视图，用于显示简单的离散数据集。|[点击前往](https://github.com/philackm/ScrollableGraphView)|🌟🌟🌟🌟|UI框架|
 |JTAppleCalendar|非官方Apple iOS Swift日历视图。 iOS日历库。 iOS日历控件。 100％可定制|[点击前往](https://github.com/patchthecode/JTAppleCalendar)|🌟🌟🌟🌟|UI框架|
 |CalendarKit|完全可定制的iOS日历|[点击前往](https://github.com/richardtop/CalendarKit)|🌟🌟🌟🌟|UI框架|
-|Lightbox|一个方便和易于使用的iOS图像浏览器|[点击前往](https://github.com/hyperoslo/Lightbox)|🌟🌟🌟|
+|Lightbox|一个方便和易于使用的iOS图像浏览器|[点击前往](https://github.com/hyperoslo/Lightbox)|🌟🌟🌟|UI框架|
+|SwifterSwift|是一个用 Swift 编写的 Extension 的集合，涵盖了开发过程中大部分会用到的方法和函数，是一个不错的工具库.|[点击前往](https://github.com/SwifterSwift/SwifterSwift)|🌟🌟🌟🌟|扩展框架|
+|Chameleon|是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.|[点击前往](https://github.com/ViccAlexander/Chameleon)|🌟🌟🌟🌟|颜色框架|
+|UIImageColors|从图像中获取最主要和最突出的颜色。|[点击前往](https://github.com/jathu/UIImageColors)|🌟🌟🌟🌟|颜色框架|
+
 
 <br>
 
