@@ -234,6 +234,8 @@
 | --- | --- | --- | --- |
 |EZAudio|是一款兼容iOS及OSX的,非常强大的第三方波形绘制第三方库|[点击前往](https://github.com/syedhali/EZAudio)|🌟🌟🌟🌟|
 |ZFPlayer|是一款基于AVPlayer,支持横屏、竖屏(全屏播放还可锁定屏幕方向),上下滑动调节音量、屏幕亮度,左右滑动调节播放进度的视频播放器软件。|[点击前往](https://github.com/renzifeng/ZFPlayer)|🌟🌟🌟🌟|
+|EZAudio|是一款兼容iOS及OSX的,非常强大的第三方波形绘制第三方库|[点击前往](https://github.com/syedhali/EZAudio)|🌟🌟🌟🌟|
+|TheAmazingAudioEngine|是iOS音频应用的一个非常精致的框架,简单易用,可以根据开发者自己的习惯处理各种复杂的声音。|[点击前往](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -270,6 +272,16 @@
 ### 基于Swift进行的相关推荐,常用程度：1-5星。<br> 
 ### 每天会不定时更新，推荐好玩有趣的第三方优秀框架。
 ### 麻烦给小编一颗🌟，让小编更有动力总结出更多优秀文章和作品。
+
+⚠️
+#### 框架如下：
+网络请求   UI布局  JSON数据  缓存图片  UI框架  动画库  图表框架
+
+扩展框架   颜色框架 缓存框架 音频框架  代码风格 日志框架
+
+函数框架 加密安全 异步库
+
+
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 ||
 | --- | --- | --- | --- | --- |
 |Alamofire| 一个使用Swift开发的网络请求库，其开发团队是AFNetworking的原团队。它语法简洁,采用链式编程的思想，使用起来是相当的舒服。本质是基于NSURLSession进行封装。 |[点击前往](https://github.com/Alamofire/Alamofire)|🌟🌟🌟🌟🌟|网络请求|
@@ -324,7 +336,7 @@
 |SwifterSwift|是一个用 Swift 编写的 Extension 的集合，涵盖了开发过程中大部分会用到的方法和函数，是一个不错的工具库.|[点击前往](https://github.com/SwifterSwift/SwifterSwift)|🌟🌟🌟🌟|扩展框架|
 |Chameleon|是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.|[点击前往](https://github.com/ViccAlexander/Chameleon)|🌟🌟🌟🌟|颜色框架|
 |UIImageColors|从图像中获取最主要和最突出的颜色。|[点击前往](https://github.com/jathu/UIImageColors)|🌟🌟🌟🌟|颜色框架|
-
+|AudioKit|是一个用于在OS X、iOS、tvOS开发中进行音频合成、处理和分析的工具集|[点击前往](https://github.com/audiokit/AudioKit)|🌟🌟🌟🌟|音频框架|
 
 <br>
 
