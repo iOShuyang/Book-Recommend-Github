@@ -337,6 +337,9 @@
 |Chameleon|是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.|[点击前往](https://github.com/ViccAlexander/Chameleon)|🌟🌟🌟🌟|颜色框架|
 |UIImageColors|从图像中获取最主要和最突出的颜色。|[点击前往](https://github.com/jathu/UIImageColors)|🌟🌟🌟🌟|颜色框架|
 |AudioKit|是一个用于在OS X、iOS、tvOS开发中进行音频合成、处理和分析的工具集|[点击前往](https://github.com/audiokit/AudioKit)|🌟🌟🌟🌟|音频框架|
+|LayoutKit|是一个高性能的iOS应用视图布局库。|[点击前往](https://github.com/linkedin/LayoutKit)|🌟🌟🌟|UI布局|
+|Side-Menu.iOS|是带有动画效果 UI 的 iOS 侧边菜单。|[点击前往](https://github.com/Yalantis/Side-Menu.iOS)|🌟🌟🌟|UI框架|
+|MaterialKit|用Swift编写的iOS的材料设计组件|[点击前往](https://github.com/nghialv/MaterialKit)|🌟🌟🌟|UI框架|
 
 <br>
 
