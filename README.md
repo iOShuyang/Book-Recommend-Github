@@ -211,6 +211,8 @@
 |QBPopupMenu|弹出菜单,实现类似 UIMenuItem 的弹出菜单按钮。点击按钮,会弹出一个菜单,上面可以排列多个按钮。|[点击前往](https://github.com/questbeat/QBPopupMenu)|🌟🌟🌟|
 |ActionSheetPicker-3.0| UIPickerView + UIActionSheet|[点击前往](https://github.com/skywinder/ActionSheetPicker-3.0)|🌟🌟🌟|
 |VBFPopFlatButton|通过Facebook Pop实现按钮的动态变换。有圆底和平面两种风格。|[点击前往](https://github.com/victorBaro/VBFPopFlatButton)|🌟🌟🌟|
+|KYCircleMenu|一个开源的iOS的UI控件,允许你根据按钮的个数构建一个圆形按钮菜单。|[点击前往](https://github.com/Kjuly/KYCircleMenu)|🌟🌟🌟|
+|CHTCollectionViewWaterfallLayout|是UICollectionViewLayout的一个子类，尽可能地模仿了UICollectionViewFlowLayout的用法，灵感来源于Pinterest，同时还兼容PSTCollectionView。|[点击前往](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -236,6 +238,7 @@
 |ZFPlayer|是一款基于AVPlayer,支持横屏、竖屏(全屏播放还可锁定屏幕方向),上下滑动调节音量、屏幕亮度,左右滑动调节播放进度的视频播放器软件。|[点击前往](https://github.com/renzifeng/ZFPlayer)|🌟🌟🌟🌟|
 |EZAudio|是一款兼容iOS及OSX的,非常强大的第三方波形绘制第三方库|[点击前往](https://github.com/syedhali/EZAudio)|🌟🌟🌟🌟|
 |TheAmazingAudioEngine|是iOS音频应用的一个非常精致的框架,简单易用,可以根据开发者自己的习惯处理各种复杂的声音。|[点击前往](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)|🌟🌟🌟|
+|novocaine|应用于OSX和iOS的高性能音频框架|[点击前往](https://github.com/alexbw/novocaine)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
