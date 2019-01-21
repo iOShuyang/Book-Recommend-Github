@@ -159,6 +159,9 @@
 |FlatUIKit|是一组扁平风格的 iOS 组件集合，其灵感来自于 Flat UI 和 Kyle Miller. 该风格通过分类的方式替换已有的 UIKit 组件，可非常直接的集成到你的应用中。|[点击前往](https://github.com/Grouper/FlatUIKit)|🌟🌟🌟|
 |RKNotificationHub|快速给UIView 添加上炫酷通知图标。|[点击前往](https://github.com/cwRichardKim/RKNotificationHub)|🌟🌟🌟🌟|
 |JXCategoryView|腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图。|[点击前往](https://github.com/pujiaxin33/JXCategoryView)|🌟🌟🌟🌟|
+|VTMagic|类似网易、腾讯等应用的菜单分页组|[点击前往](https://github.com/tianzhuo112/VTMagic)|🌟🌟🌟|
+|HMSegmentedControl|一个代替 UISegmentedControl 的投递器, 它模仿了谷歌电流和其他各种谷歌产品中使用的分段控件的样式。|[点击前往](https://github.com/HeshamMegid/HMSegmentedControl)|🌟🌟🌟🌟|
+|WMPageController|一个简单的解决方案, 以页面控制器, 如网易新闻|[点击前往](https://github.com/wangmchn/WMPageController)|🌟🌟🌟🌟|
 |MMPopupView|是一个基于UIWindow的一个简洁、高效的弹出框组件。|[点击前往](https://github.com/adad184/MMPopupView)|🌟🌟🌟|
 |PNChart|是一个简单漂亮的动画图表库，Piner 和 CoinsMan 的 iOS 客户端中使用了这个框架。|[点击前往](https://github.com/kevinzhow/PNChart)|🌟🌟🌟🌟|
 |FXBlurView|是UIView的子类，它实现毛玻璃效果的原理其实就是覆盖上一层FXBlurView的实例对象。|[点击前往](https://github.com/nicklockwood/FXBlurView)|🌟🌟🌟🌟|
