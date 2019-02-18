@@ -216,6 +216,9 @@
 |VBFPopFlatButton|通过Facebook Pop实现按钮的动态变换。有圆底和平面两种风格。|[点击前往](https://github.com/victorBaro/VBFPopFlatButton)|🌟🌟🌟|
 |KYCircleMenu|一个开源的iOS的UI控件,允许你根据按钮的个数构建一个圆形按钮菜单。|[点击前往](https://github.com/Kjuly/KYCircleMenu)|🌟🌟🌟|
 |CHTCollectionViewWaterfallLayout|是UICollectionViewLayout的一个子类，尽可能地模仿了UICollectionViewFlowLayout的用法，灵感来源于Pinterest，同时还兼容PSTCollectionView。|[点击前往](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|🌟🌟🌟🌟|
+|JSBadgeView|购物车角标JSBadgeView|[点击前往](https://github.com/JaviSoto/JSBadgeView)|🌟🌟🌟🌟|
+|SCLAlertView|自定义的UIAlertView，更漂亮哦|[点击前往](https://github.com/dogo/SCLAlertView)|🌟🌟🌟|
+|PDTSimpleCalendar|使用UICollectionView的iOS简单日历/日期选择器|[点击前往](https://github.com/jivesoftware/PDTSimpleCalendar)|🌟🌟🌟|
 
 <br>
 <br>
