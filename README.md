@@ -219,6 +219,9 @@
 |JSBadgeView|购物车角标JSBadgeView|[点击前往](https://github.com/JaviSoto/JSBadgeView)|🌟🌟🌟🌟|
 |SCLAlertView|自定义的UIAlertView，更漂亮哦|[点击前往](https://github.com/dogo/SCLAlertView)|🌟🌟🌟|
 |PDTSimpleCalendar|使用UICollectionView的iOS简单日历/日期选择器|[点击前往](https://github.com/jivesoftware/PDTSimpleCalendar)|🌟🌟🌟|
+|ZLSwipeableView|一个类似Tinder和Potluck的卡片界面，滑动手指即可翻动展示下一张卡片，也可简单返回手势取消滑动操作。|[点击前往](https://github.com/zhxnlai/ZLSwipeableView)|🌟🌟🌟|
+|CRToast|用来简单创建出现在导航栏或者状态栏上的通知，基于另一个开源项目CWStatusBarNotification。使用ARC。|[点击前往](https://github.com/cruffenach/CRToast)|🌟🌟🌟|
+|SwipeView|是一个旨在简化iOS上水平分页滚动视图实现的类。它基于UIScrollView，但增加了方便的功能，例如UITableView样式的dataSource / delegate接口，用于动态加载视图，以及高效的视图加载，卸载和回收。|[点击前往](https://github.com/nicklockwood/SwipeView)|🌟🌟🌟|
 
 <br>
 <br>
