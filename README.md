@@ -355,13 +355,19 @@
 |LayoutKit|是一个高性能的iOS应用视图布局库。|[点击前往](https://github.com/linkedin/LayoutKit)|🌟🌟🌟|UI布局|
 |Side-Menu.iOS|是带有动画效果 UI 的 iOS 侧边菜单。|[点击前往](https://github.com/Yalantis/Side-Menu.iOS)|🌟🌟🌟|UI框架|
 |MaterialKit|用Swift编写的iOS的材料设计组件|[点击前往](https://github.com/nghialv/MaterialKit)|🌟🌟🌟|UI框架|
+|WKWebViewJavascriptBridge|在其上仅对 WKWebView 提供支持，由 Swift 实现！您可以通过使用 WKWebViewJavascriptBridge 书写几行代码实现混合模块，而无需关心底层的消息传递实现。|[点击前往](https://github.com/nghialv/MaterialKit)|🌟🌟🌟|UI框架|
+|PopMenu| 一款简易即可高度自定义化以又可以跟iOS默认的Action Sheet一样拥有很大的灵活性. 如果你的app需要一款灵活好看的弹出菜单的话，PopMenu就是你的不二之选|[点击前往](https://github.com/CaliCastle/PopMenu)|🌟🌟🌟🌟|UI框架|
+|CleanyModal|是Swift UI Kit提供的干净模态/警报对话框|[点击前往](https://github.com/loryhuz/CleanyModal)|🌟🌟🌟|UI框架|
 
 <br>
 
 ### 资料贡献：
 [30个Swift 库](https://www.jianshu.com/p/689781238afa)
+<br>
 [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS/blob/master/Swift.md#ui)
+<br>
 [30个让你眼前一亮的iOS Swift UI控件!](https://juejin.im/post/5c712bc8e51d45346b313dc2)
+<br>
 [10个让你相见恨晚的iOS Swift动画框架!](https://juejin.im/post/5c7d1ff3f265da2dcc8010e7)
 <br>
 <br>
