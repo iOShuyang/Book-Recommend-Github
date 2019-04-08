@@ -361,6 +361,18 @@
 |XLPagerTabStrip|是一个容器视图控制器，允许我们在一组视图控制器之间轻松切换。平移手势可用于移动到下一个或上一个视图控制器。它显示当前，上一个，下一个子视图控制器的交互式指示器。|[点击前往](https://github.com/xmartlabs/XLPagerTabStrip)|🌟🌟🌟|UI框架|
 |FlowingMenu|交互式视图过渡到在Swift中显示具有流动和弹跳效果的菜单|[点击前往](https://github.com/yannickl/FlowingMenu)|🌟🌟🌟|UI框架|
 |PageMenu|从滚动视图内部的其他视图控制器构建的分页菜单控制器（如Spotify，Windows Phone，Instagram）|[点击前往](https://github.com/PageMenu/PageMenu)|🌟🌟🌟|UI框架|
+|TwicketSegmentedControl|多页面切换滑块控件，能处理滑块的惯性，可以直接将滑块甩到到另一侧。|[点击前往](https://github.com/twicketapp/TwicketSegmentedControl)|🌟🌟🌟🌟|UI框架|
+|preview-transition|预览图片控件，带有丰富的过度动画|[点击前往](https://github.com/Ramotion/Preview-Transition)|🌟🌟🌟🌟|UI框架|
+|Popover|一款简洁的弹出式弹窗控件|[点击前往](https://github.com/corin8823/Popover)|🌟🌟🌟🌟|UI框架|
+|XLActionController|有多种可自定义可扩展的底部菜单栏控件|[点击前往](https://github.com/xmartlabs/XLActionController)|🌟🌟🌟🌟|UI框架|
+|expanding-collection|MaterialDesign 风格的扩展式卡片设计|[点击前往](https://github.com/Ramotion/expanding-collection)|🌟🌟🌟🌟|UI框架|
+|DGElasticPullToRefresh|弹性的下拉刷新控件|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|UI框架|
+|Instructions|一款能快速创建引导流程的控件|[点击前往](https://github.com/ephread/Instructions)|🌟🌟🌟🌟|UI框架|
+|FaceAware|能使UIImageView能够聚焦图像中的面部|[点击前往](https://github.com/BeauNouvelle/FaceAware)|🌟🌟🌟🌟|UI框架|
+|NMessenger|基于AsyncDisplaykit构建的快速、轻量级信息聊天UI组件|[点击前往](https://github.com/eBay/NMessenger)|🌟🌟🌟🌟|UI框架|
+|Bartinter|能神奇的根据其背后的内容动态更改状态栏样式|[点击前往](https://github.com/MaximKotliar/Bartinter)|🌟🌟🌟🌟|UI框架|
+|CardParts|基于卡片的响应式UI框架|[点击前往](https://github.com/intuit/CardParts)|🌟🌟🌟🌟|UI框架|
+
 
 <br>
 
