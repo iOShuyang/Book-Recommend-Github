@@ -369,9 +369,13 @@
 |DGElasticPullToRefresh|弹性的下拉刷新控件|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|UI框架|
 |Instructions|一款能快速创建引导流程的控件|[点击前往](https://github.com/ephread/Instructions)|🌟🌟🌟🌟|UI框架|
 |FaceAware|能使UIImageView能够聚焦图像中的面部|[点击前往](https://github.com/BeauNouvelle/FaceAware)|🌟🌟🌟🌟|UI框架|
-|NMessenger|基于AsyncDisplaykit构建的快速、轻量级信息聊天UI组件|[点击前往](https://github.com/eBay/NMessenger)|🌟🌟🌟🌟|UI框架|
 |Bartinter|能神奇的根据其背后的内容动态更改状态栏样式|[点击前往](https://github.com/MaximKotliar/Bartinter)|🌟🌟🌟🌟|UI框架|
 |CardParts|基于卡片的响应式UI框架|[点击前往](https://github.com/intuit/CardParts)|🌟🌟🌟🌟|UI框架|
+|aurora-imui|General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。|[点击前往](https://github.com/jpush/aurora-imui)|🌟🌟🌟🌟|UI框架|
+|NMessenger|基于AsyncDisplaykit构建的快速、轻量级信息聊天UI组件|[点击前往](https://github.com/eBay/NMessenger)|🌟🌟🌟🌟|UI框架|
+|Messenger|这是一个原生iOS Messenger应用程序，具有音频/视频通话和实时聊天对话（完全脱机支持）。|[点击前往](https://github.com/relatedcode/Messenger)|🌟🌟🌟🌟|UI框架|
+|Chatto|一个用于构建聊天应用程序的轻量级框架，由Swift制作|[点击前往](https://github.com/badoo/Chatto)|🌟🌟🌟🌟|UI框架|
+
 
 
 <br>
