@@ -375,8 +375,9 @@
 |NMessenger|基于AsyncDisplaykit构建的快速、轻量级信息聊天UI组件|[点击前往](https://github.com/eBay/NMessenger)|🌟🌟🌟🌟|UI框架|
 |Messenger|这是一个原生iOS Messenger应用程序，具有音频/视频通话和实时聊天对话（完全脱机支持）。|[点击前往](https://github.com/relatedcode/Messenger)|🌟🌟🌟🌟|UI框架|
 |Chatto|一个用于构建聊天应用程序的轻量级框架，由Swift制作|[点击前往](https://github.com/badoo/Chatto)|🌟🌟🌟🌟|UI框架|
-
-
+|IDMPhotoBrowser|是基于开源项目MWPhotoBrowser的新实现,从Facebook和 Tweetbot的照片浏览器借鉴了相关用户体验和技术性能。|[点击前往](https://github.com/thiagoperes/IDMPhotoBrowser)|🌟🌟🌟|UI框架|
+|SwiftPhotoGallery|用Swift编写的iOS照片库|[点击前往](https://github.com/Inspirato/SwiftPhotoGallery)|🌟🌟🌟|UI框架|
+|ImageViewer|Twitter上的图像查看器|[点击前往](https://github.com/Krisiacik/ImageViewer)|🌟🌟🌟🌟|UI框架|
 
 <br>
 
