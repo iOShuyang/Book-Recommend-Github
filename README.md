@@ -289,7 +289,7 @@
 
 ⚠️
 #### 框架如下：
-网络请求   UI布局  JSON数据  缓存图片  UI框架  动画库  图表框架
+网络请求   UI布局  JSON数据  缓存图片  UI框架  动画库  图表框架 操作权限
 
 扩展框架   颜色框架 缓存框架 音频框架  代码风格 日志框架
 
@@ -304,6 +304,7 @@
 |SwiftyJSON|是个使用Swift语言编写的开源库,可以让我们很方便地处理JSON数据(解析数据、生成数据)。|[点击前往](https://github.com/SwiftyJSON/SwiftyJSON)|🌟🌟🌟🌟🌟|JSON数据|
 |HandyJSON|是阿里巴巴开源的一个用于Swift语言中的JSON序列化/反序列化库，可以很方便进行json与model的转换，以及常用的字典与模型的互相转换。|[点击前往](https://github.com/alibaba/HandyJSON)|🌟🌟🌟🌟🌟|JSON数据|
 |ObjectMapper|ObjectMapper类是Jackson库的主要类。它提供一些功能将转换成Java对象匹配JSON结构，反之亦然。它使用JsonParser和JsonGenerator的实例实现JSON实际的读/写。|[点击前往](https://github.com/tristanhimmelman/ObjectMapper)|🌟🌟🌟🌟🌟|JSON数据|
+|AlamofireObjectMapper|Alamofire扩展，使用ObjectMapper将JSON响应数据转换为swift对象|[点击前往](https://github.com/tristanhimmelman/AlamofireObjectMapper)|🌟🌟🌟🌟|JSON数据|
 |NVActivityIndicatorView|酷炫的装载动画库及演示。如此丰富的 Swift 装载动画集合,史无前例。|[点击前往](https://github.com/ninjaprox/NVActivityIndicatorView)|🌟🌟🌟🌟|动画库|
 |Kingfisher|是由 喵神 编写的用于下载和缓存网络图片的轻量级Swift工具库，其中涉及到了包括GCD、Swift高级语法、缓存、硬盘读写、网络编程、图像编码、图形绘制、Gif数据生成和处理、MD5、Associated Objects的使用等大量iOS开发知识。|[点击前往](https://github.com/onevcat/Kingfisher)|🌟🌟🌟🌟|缓存图片|
 |ESTabBarController|高度自定义TabBarController，支持自定义TabBarItem样式或添加动画|[点击前往](https://github.com/eggswift/ESTabBarController)|🌟🌟🌟🌟|UI框架|
@@ -378,6 +379,11 @@
 |IDMPhotoBrowser|是基于开源项目MWPhotoBrowser的新实现,从Facebook和 Tweetbot的照片浏览器借鉴了相关用户体验和技术性能。|[点击前往](https://github.com/thiagoperes/IDMPhotoBrowser)|🌟🌟🌟|UI框架|
 |SwiftPhotoGallery|用Swift编写的iOS照片库|[点击前往](https://github.com/Inspirato/SwiftPhotoGallery)|🌟🌟🌟|UI框架|
 |ImageViewer|Twitter上的图像查看器|[点击前往](https://github.com/Krisiacik/ImageViewer)|🌟🌟🌟🌟|UI框架|
+|PeekPop|Peek和Pop是iPhone 6S和6S+上新增的一个很棒的iOS特性，可以很方便地使用3D touch来预览内容。|[点击前往](https://github.com/marmelroy/PeekPop)|🌟🌟🌟🌟|UI框架|
+|PromiseKit|异步编程类库 提供了很多实用的异步函数 让异步编程更简单|[点击前往](https://github.com/mxcl/PromiseKit)|🌟🌟🌟🌟|异步库|
+|EZSwiftExtensions|对Swift标准库， Foundation， UIKit 提供了很多高级扩展函数|[点击前往](https://github.com/goktugyil/EZSwiftExtensions)|🌟🌟🌟🌟|扩展框架|
+|Aspects|swift面向切面编程（AOP）库 【Method Swizzling】|[点击前往](https://github.com/steipete/Aspects)|🌟🌟🌟🌟|函数框架|
+|PermissionScope|权限管理库 提供申请权限授权操作|[点击前往](https://github.com/nickoneill/PermissionScope)|🌟🌟🌟🌟|操作权限|
 
 <br>
 
