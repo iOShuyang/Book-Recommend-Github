@@ -1,29 +1,44 @@
-# <div align=center>推荐生活当中积累的Objective-C优秀三方库</div>
+# <div align=center>推荐生活当中积累的Objective-C以及Swift优秀三方库</div>
 ### 基于OC进行的相关推荐,常用程度：1-5星。<br> 
 ### 每天会不定时更新，推荐好玩有趣的第三方优秀框架。
 ### 麻烦给小编一颗🌟，让小编更有动力总结出更多优秀文章和作品。
+
 <br>
 <br>
 <br>
 
-### 1. [Objective-C 框架搭建](#1)
-### 2. [Objective-C 网络请求](#2)
-### 3. [Objective-C 数据解析](#3)
-### 4. [Objective-C 数据刷新](#4)
-### 5. [Objective-C 数据加载](#5)
-### 6. [Objective-C 数据存储](#6)
-### 7. [Objective-C UI布局](#7)
-### 8. [Objective-C UI动画](#8)
-### 9. [Objective-C 图片加载](#9)
-### 10. [Objective-C UI控件](#10)
-### 11. [Objective-C 抽屉框架](#11)
-### 12. [Objective-C 大型框架](#12)
-### 13. [Objective-C 音视频处理](#13)
-### 14. [Objective-C 大汇总](#14)
+<span id="back"></span>
+
+| Objective-C |  | Swift |
+| --- | --- | --- |
+| [Objective-C 框架搭建](#1) |  | [Swift 基础框架](#a) |
+| [Objective-C 网络请求](#2) |  | [Swift 网络请求及数据解析](#b) |
+| [Objective-C 数据解析](#3) |  | [Swift 扩展框架](#c) |
+| [Objective-C 数据刷新](#4) |  | [Swift 弹窗控件](#d) |
+| [Objective-C 数据加载](#5) |  | [Swift 音视频](#e) |
+| [Objective-C 数据存储](#6) |  | [Swift 选择图片](#f) |
+| [Objective-C UI布局](#7) |  | [Swift 菜单控制器](#g) |
+| [Objective-C UI动画](#8) |  | [Swift 聊天 UI](#h) |
+| [Objective-C 图片加载](#9) |  | [Swift UI框架](#i) |
+| [Objective-C UI控件](#10) |  |  |
+| [Objective-C 抽屉框架](#11) |  |  |
+| [Objective-C 大型框架](#12) |  |  |
+| [Objective-C 音视频处理](#13) |  |  |
+|[Objective-C 大汇总](#14) |  |  |
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <span id="1"></span>
-## <div align=center>-------------------------Objective-C 框架搭建-------------------------</div>
+## <div align=center>-------------------------[Objective-C 框架搭建](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 | CYLTabBarController | 【中国特色 TabBar】最低只需传两个数组即可完成主流App框架搭建。 | [点击前往](https://github.com/ChenYilong/CYLTabBarController) | 🌟🌟🌟🌟🌟 |
@@ -44,7 +59,7 @@
 
 
 <span id="2"></span>
-## <div align=center>-------------------------Objective-C 网络请求-------------------------</div>
+## <div align=center>-------------------------[Objective-C 网络请求](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 | AFNetworking | 一款轻量级网络请求开源框架，基于iOS和mac os 网络进行扩展的高性能框架，大大降低了iOS开发工程师处理网络请求的难度，让iOS开发变成一件愉快的事情。|  [点击前往](https://github.com/AFNetworking/AFNetworking)   |  🌟🌟🌟🌟🌟   |
@@ -56,7 +71,7 @@
 <br>
 
 <span id="3"></span>
-## <div align=center>-------------------------Objective-C 数据解析-------------------------</div>
+## <div align=center>-------------------------[Objective-C 数据解析](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |YYModel| 数据解析Json框架，支持自动的 JSON/Model 转换，支持定义映射过程。 |[点击前往](https://github.com/ibireme/YYModel)|🌟🌟🌟🌟|
@@ -69,7 +84,7 @@
 <br>
 
 <span id="4"></span>
-## <div align=center>-------------------------Objective-C 数据刷新-------------------------</div>
+## <div align=center>-------------------------[Objective-C 数据刷新](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |MJRefresh|可高度自定义的刷新第三方框架。|[点击前往](https://github.com/CoderMJLee/MJRefresh)|🌟🌟🌟🌟🌟|
@@ -83,7 +98,7 @@
 <br>
 
 <span id="5"></span>
-## <div align=center>-------------------------Objective-C 数据加载-------------------------</div>
+## <div align=center>-------------------------[Objective-C 数据加载](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |MBProgressHUD|实现了很多种样式的提示框,使用上简单、方便,并且可以对显示的内容进行自定义,功能很强大,很多项目中都有使用到。|[点击前往](https://github.com/jdg/MBProgressHUD)|🌟🌟🌟🌟🌟|
@@ -98,7 +113,7 @@
 <br>
 
 <span id="6"></span>
-## <div align=center>-------------------------Objective-C 数据存储-------------------------</div>
+## <div align=center>-------------------------[Objective-C 数据存储](#back) -------------------------</div>
 ###### iOS端持久化的方案选择比较多，NSUserDefault，Keychain，File，sqlite都可以帮助存储关键的业务数据。NSUserDefault和Keychain都是轻量级解决方案，自定义数据格式的File则读取麻烦一些，每次更新部分数据都会导致整个文件io，数据的结构一旦复杂起来，最后还是会走向sqlite。
 
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
@@ -114,7 +129,7 @@
 <br>
 
 <span id="7"></span>
-## <div align=center>-------------------------Objective-C UI布局-------------------------</div>
+## <div align=center>-------------------------[Objective-C UI布局](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |Masonry|是一个轻量级的布局框架,拥有自己的描述语法,采用更优雅的链式语法封装自动布局,简洁明了并具有高可读性,而且同时支持 iOS 和 Max OS X。|[点击前往](https://github.com/SnapKit/Masonry)|🌟🌟🌟🌟🌟|
@@ -127,7 +142,7 @@
 <br>
 
 <span id="8"></span>
-## <div align=center>-------------------------Objective-C UI动画-------------------------</div>
+## <div align=center>-------------------------[Objective-C UI动画](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |LSAnimator|易于读写的多链式动画框架，可以用少量的代码实现复杂而又易于维护的动画。|[点击前往](https://github.com/Lision/LSAnimator)|🌟🌟🌟🌟|
@@ -147,7 +162,7 @@
 <br>
 
 <span id="9"></span>
-## <div align=center>-------------------------Objective-C 图片加载-------------------------</div>
+## <div align=center>-------------------------[Objective-C 图片加载](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |SDWebImage|一个可管理远程图片异步加载并缓存的类库。这个类库提供一个UIImageView类别以支持加载来自网络的远程图片。具有缓存管理、异步下载、同一个URL下载次数控制和优化等特征。|[点击前往](https://github.com/rs/SDWebImage)|🌟🌟🌟🌟🌟|
@@ -168,7 +183,7 @@
 <br>
 
 <span id="10"></span>
-## <div align=center>-------------------------Objective-C UI控件-------------------------</div>
+## <div align=center>-------------------------[Objective-C UI控件](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |SVSegmentedControl|实现UISwitch（开关）样式的UISegmentedControl。|[点击前往](https://github.com/samvermette/SVSegmentedControl)|🌟🌟🌟|
@@ -189,7 +204,7 @@
 <br>
 
 <span id="11"></span>
-## <div align=center>-------------------------Objective-C 抽屉框架-------------------------</div>
+## <div align=center>-------------------------[Objective-C 抽屉框架](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |RESideMenu|QQ类似侧滑抽屉式框架。|[点击前往](https://github.com/romaonthego/RESideMenu)|🌟🌟🌟🌟|
@@ -201,7 +216,7 @@
 <br>
 
 <span id="12"></span>
-## <div align=center>-------------------------Objective-C 大型框架-------------------------</div>
+## <div align=center>-------------------------[Objective-C 大型框架](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 | ReactiveCocoa | 是由GitHub团队开源的一套基于Cocoa的并且具有FRP特性的框架，一个函数响应式编程框架。| [点击前往](https://github.com/ReactiveCocoa/ReactiveCocoa) | 🌟🌟🌟🌟🌟 |
@@ -213,7 +228,7 @@
 
 
 <span id="13"></span>
-## <div align=center>-------------------------Objective-C 音视频处理-------------------------</div>
+## <div align=center>-------------------------[Objective-C 音视频处理](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |EZAudio|是一款兼容iOS及OSX的,非常强大的第三方波形绘制第三方库|[点击前往](https://github.com/syedhali/EZAudio)|🌟🌟🌟🌟|
@@ -228,7 +243,7 @@
 <br>
 
 <span id="14"></span>
-## <div align=center>-------------------------Objective-C 大汇总-------------------------</div>
+## <div align=center>-------------------------[Objective-C 大汇总](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |IQKeyboardManager|可以防止键盘滑动问题和覆盖UITextField / UITextView无需你输入任何代码,不需要额外的设置要求。|[点击前往](https://github.com/hackiftekhar/IQKeyboardManager)|🌟🌟🌟🌟|
@@ -284,27 +299,15 @@
 
 
 -------
-
 -------
 
-
+<span id="swift"></span>
 # <div align=center>推荐生活当中积累的Swift优秀三方库</div>
-### 基于Swift进行的相关推荐,常用程度：1-5星。<br> 
-### 每天会不定时更新，推荐好玩有趣的第三方优秀框架。
-### 麻烦给小编一颗🌟，让小编更有动力总结出更多优秀文章和作品。
 
-### 1. [Swift 基础框架](#a)
-### 2. [Swift 网络请求及数据解析](#b)
-### 3. [Swift 扩展框架](#c)
-### 4. [Swift 弹窗控件](#d)
-### 5. [Swift 音视频](#e)
-### 6. [Swift 选择图片](#f)
-### 7. [Swift 菜单控制器](#g)
-### 8. [Swift 聊天 UI](#h)
-### 9. [Swift UI框架](#i)
+
 
 <span id="a"></span>
-## <div align=center>-------------------------Swift 基础框架-------------------------</div>
+## <div align=center>-------------------------[Swift 基础框架](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |ESTabBarController|高度自定义TabBarController，支持自定义TabBarItem样式或添加动画|[点击前往](https://github.com/eggswift/ESTabBarController)|🌟🌟🌟🌟|
@@ -330,7 +333,7 @@
 
 
 <span id="b"></span>
-## <div align=center>-------------------------Swift 网络请求及数据解析-------------------------</div>
+## <div align=center>-------------------------[Swift 网络请求及数据解析](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |Alamofire| 一个使用Swift开发的网络请求库，其开发团队是AFNetworking的原团队。它语法简洁,采用链式编程的思想，使用起来是相当的舒服。本质是基于NSURLSession进行封装。 |[点击前往](https://github.com/Alamofire/Alamofire)|🌟🌟🌟🌟🌟|
@@ -346,7 +349,7 @@
 
 
 <span id="c"></span>
-## <div align=center>-------------------------Swift 扩展框架-------------------------</div>
+## <div align=center>-------------------------[Swift 扩展框架](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |SwiftDate|是Github上开源的,使用Swift语言编写的NSDate封装库,可以很方便的在Swift中处理日期,比如日期创建,比较,输出等|[点击前往](https://github.com/malcommac/SwiftDate)|🌟🌟🌟🌟|
@@ -370,7 +373,7 @@
 
 
 <span id="d"></span>
-## <div align=center>-------------------------Swift 弹窗控件-------------------------</div>
+## <div align=center>-------------------------[Swift 弹窗控件](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |Popover|一款简洁的弹出式弹窗控件|[点击前往](https://github.com/corin8823/Popover)|🌟🌟🌟🌟|
@@ -384,7 +387,7 @@
 
 
 <span id="e"></span>
-## <div align=center>-------------------------Swift 音视频-------------------------</div>
+## <div align=center>-------------------------[Swift 音视频](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |BMPlayer|适用于iOS的视频播放器，基于AVPlayer，支持水平垂直屏幕。支持调整音量，亮度和滑动搜索，支持字幕。|[点击前往](https://github.com/BrikerMan/BMPlayer)|🌟🌟🌟🌟|
@@ -398,7 +401,7 @@
 
 
 <span id="f"></span>
-## <div align=center>-------------------------Swift 选择图片-------------------------</div>
+## <div align=center>-------------------------[Swift 选择图片](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |Lightbox|一个方便和易于使用的iOS图像浏览器|[点击前往](https://github.com/hyperoslo/Lightbox)|🌟🌟🌟|
@@ -413,7 +416,7 @@
 
 
 <span id="g"></span>
-## <div align=center>-------------------------Swift 菜单控制器-------------------------</div>
+## <div align=center>-------------------------[Swift 菜单控制器](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |FlowingMenu|交互式视图过渡到在Swift中显示具有流动和弹跳效果的菜单|[点击前往](https://github.com/yannickl/FlowingMenu)|🌟🌟🌟|
@@ -428,7 +431,7 @@
 
 
 <span id="h"></span>
-## <div align=center>-------------------------Swift 聊天 UI-------------------------</div>
+## <div align=center>-------------------------[Swift 聊天 UI](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |aurora-imui|General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。|[点击前往](https://github.com/jpush/aurora-imui)|🌟🌟🌟🌟|
@@ -442,7 +445,7 @@
 
 
 <span id="i"></span>
-## <div align=center>-------------------------Swift UI框架-------------------------</div>
+## <div align=center>-------------------------[Swift UI框架](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |Material|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟🌟|
