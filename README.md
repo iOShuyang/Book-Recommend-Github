@@ -20,8 +20,8 @@
 | [Objective-C UI布局](#7) |  | [Swift 菜单控制器](#g) |
 | [Objective-C UI动画](#8) |  | [Swift 聊天 UI](#h) |
 | [Objective-C 图片加载](#9) |  | [Swift UI框架](#i) |
-| [Objective-C UI控件](#10) |  |  |
-| [Objective-C 抽屉框架](#11) |  |  |
+| [Objective-C UI控件](#10) |  | [Swift 动画框架](#j) |
+| [Objective-C 抽屉框架](#11) |  | [Swift 综合框架](#k) |
 | [Objective-C 大型框架](#12) |  |  |
 | [Objective-C 音视频处理](#13) |  |  |
 |[Objective-C 大汇总](#14) |  |  |
@@ -366,6 +366,7 @@
 |PromiseKit|异步编程类库 提供了很多实用的异步函数 让异步编程更简单|[点击前往](https://github.com/mxcl/PromiseKit)|🌟🌟🌟🌟|
 |Aspects|swift面向切面编程（AOP）库 【Method Swizzling】|[点击前往](https://github.com/steipete/Aspects)|🌟🌟🌟🌟|
 |PermissionScope|权限管理库 提供申请权限授权操作|[点击前往](https://github.com/nickoneill/PermissionScope)|🌟🌟🌟🌟|
+|Dollar|无需扩展任何内置对象就为Swift语言提供有效的函数式编程辅助方法,类似于Lo-Dash或JavaScript中的Underscore。|[点击前往](https://github.com/ankurp/Dollar)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -448,9 +449,6 @@
 ## <div align=center>-------------------------[Swift UI框架](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
-|Material|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟🌟|
-|NVActivityIndicatorView|酷炫的装载动画库及演示。如此丰富的 Swift 装载动画集合,史无前例。|[点击前往](https://github.com/ninjaprox/NVActivityIndicatorView)|🌟🌟🌟🌟|
-|StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|
 |Charts|画 K 线图和折线图框架。|[点击前往](https://github.com/danielgindi/Charts)|🌟🌟🌟🌟|
 |AAChartKit|极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图…|[点击前往](https://github.com/AAChartModel/AAChartKit)|🌟🌟🌟🌟|
 |SpreadsheetView|用于iOS应用程序的完整可配置电子表格视图用户界面。使用此框架，您可以轻松创建复杂的布局，如计划，甘特图或时间表，就像使用Excel一样。|[点击前往](https://github.com/kishikawakatsumi/SpreadsheetView)|🌟🌟🌟🌟|
@@ -475,12 +473,37 @@
 |XLPagerTabStrip|是一个容器视图控制器，允许我们在一组视图控制器之间轻松切换。平移手势可用于移动到下一个或上一个视图控制器。它显示当前，上一个，下一个子视图控制器的交互式指示器。|[点击前往](https://github.com/xmartlabs/XLPagerTabStrip)|🌟🌟🌟|
 |expanding-collection|MaterialDesign 风格的扩展式卡片设计|[点击前往](https://github.com/Ramotion/expanding-collection)|🌟🌟🌟🌟|
 |CardParts|基于卡片的响应式UI框架|[点击前往](https://github.com/intuit/CardParts)|🌟🌟🌟🌟|
+<br>
+<br>
+<br>
+<br>
 
 
+<span id="j"></span>
+## <div align=center>-------------------------[Swift 动画框架](#back) -------------------------</div>
+| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
+| --- | --- | --- | --- |
+|EasyAnimation|一个Swift库，将UIView.animateWithDuration(_:, animations:...) 的强大功能提升到一个全新的水平 - 图层，弹簧，可链接的动画，并将视图和图层动画混合在一起！ |[点击前往](https://github.com/icanzilb/EasyAnimation)|🌟🌟🌟🌟|
+|IBAnimatable|使用IBAnimatable为Interface Builder中的App Store准备应用程序设计和原型定制UI，交互，导航，转换和动画。|[点击前往](https://github.com/IBAnimatable/IBAnimatable)|🌟🌟🌟🌟|
+|Advance|适用于iOS，tvOS和macOS的基于物理的动画。|[点击前往](https://github.com/timdonnelly/Advance)|🌟🌟🌟🌟|
+|Material|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟🌟|
+|NVActivityIndicatorView|酷炫的装载动画库及演示。如此丰富的 Swift 装载动画集合,史无前例。|[点击前往](https://github.com/ninjaprox/NVActivityIndicatorView)|🌟🌟🌟🌟|
+|StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|
+<br>
+<br>
+<br>
+<br>
 
+<span id="j"></span>
+## <div align=center>-------------------------[Swift 综合框架](#back) -------------------------</div>
+| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
+| --- | --- | --- | --- |
+|Perfect| Perfect是一组完整、强大的工具箱、软件框架体系和Web应用服务器，可以在Linux、iOS和macOS (OS X)上使用。该软件体系为Swift工程师量身定制了一整套用于开发轻量、易维护、规模可扩展的Web应用及其它REST服务的解决方案，这样Swift工程师就可以实现同时在服务器和客户端上采用同一种语言开发软件项目。 |[点击前往](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md)|🌟🌟🌟🌟|
+|Surge| mattt写的性能加速框架，为数字信号处理和图像处理提供高性能。 |[点击前往](https://github.com/mattt/Surge)|🌟🌟🌟🌟|
 
 
 <br>
+
 
 ### 资料贡献：
 [30个Swift 库](https://www.jianshu.com/p/689781238afa)
