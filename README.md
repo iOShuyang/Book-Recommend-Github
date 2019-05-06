@@ -342,6 +342,9 @@
 |HandyJSON|是阿里巴巴开源的一个用于Swift语言中的JSON序列化/反序列化库，可以很方便进行json与model的转换，以及常用的字典与模型的互相转换。|[点击前往](https://github.com/alibaba/HandyJSON)|🌟🌟🌟🌟🌟|
 |ObjectMapper|ObjectMapper类是Jackson库的主要类。它提供一些功能将转换成Java对象匹配JSON结构，反之亦然。它使用JsonParser和JsonGenerator的实例实现JSON实际的读/写。|[点击前往](https://github.com/tristanhimmelman/ObjectMapper)|🌟🌟🌟🌟🌟|
 |AlamofireObjectMapper|Alamofire扩展，使用ObjectMapper将JSON响应数据转换为swift对象|[点击前往](https://github.com/tristanhimmelman/AlamofireObjectMapper)|🌟🌟🌟🌟|
+|Argo|函数式json解析转换库。|[点击前往](https://github.com/thoughtbot/Argo)|🌟🌟🌟|
+|SQLite|用swift封装的sqlite 3操作框架。|[点击前往](https://github.com/stephencelis/SQLite.swift)|🌟🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -354,6 +357,8 @@
 | --- | --- | --- | --- |
 |SwiftDate|是Github上开源的,使用Swift语言编写的NSDate封装库,可以很方便的在Swift中处理日期,比如日期创建,比较,输出等|[点击前往](https://github.com/malcommac/SwiftDate)|🌟🌟🌟🌟|
 |SwiftyUserDefaults|使用该组件,可以避免UserDefaults导致的crash,而且不必再通过手写字符串的方式作为key来存取数据,这无疑减小了出错的概率。|[点击前往](https://github.com/radex/SwiftyUserDefaults)|🌟🌟🌟🌟|
+|KeychainAccess|使用Keychain非常方便。|[点击前往](https://github.com/kishikawakatsumi/KeychainAccess)|🌟🌟🌟🌟|
+|ExSwift|包含一组标准类型和类的Swift扩展。|[点击前往](https://github.com/pNre/ExSwift)|🌟🌟🌟🌟|
 |SwiftString|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|[点击前往](https://github.com/amayne/SwiftString)|🌟🌟🌟|
 |SwifterSwift|是一个用 Swift 编写的 Extension 的集合，涵盖了开发过程中大部分会用到的方法和函数，是一个不错的工具库.|[点击前往](https://github.com/SwifterSwift/SwifterSwift)|🌟🌟🌟🌟|
 |EZSwiftExtensions|提供了一系列对于 Swift 标准库、方法与 UIKit 的扩展，让你更加简单舒服地编写代码。|[点击前往](https://github.com/goktugyil/EZSwiftExtensions)|🌟🌟🌟|
@@ -473,6 +478,7 @@
 |XLPagerTabStrip|是一个容器视图控制器，允许我们在一组视图控制器之间轻松切换。平移手势可用于移动到下一个或上一个视图控制器。它显示当前，上一个，下一个子视图控制器的交互式指示器。|[点击前往](https://github.com/xmartlabs/XLPagerTabStrip)|🌟🌟🌟|
 |expanding-collection|MaterialDesign 风格的扩展式卡片设计|[点击前往](https://github.com/Ramotion/expanding-collection)|🌟🌟🌟🌟|
 |CardParts|基于卡片的响应式UI框架|[点击前往](https://github.com/intuit/CardParts)|🌟🌟🌟🌟|
+|NumberMorphView|label数字变形过渡动画，用于金额数字变动或者时间上面会非常nice！|[点击前往](https://github.com/me-abhinav/NumberMorphView)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -489,12 +495,13 @@
 |Material|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟🌟|
 |NVActivityIndicatorView|酷炫的装载动画库及演示。如此丰富的 Swift 装载动画集合,史无前例。|[点击前往](https://github.com/ninjaprox/NVActivityIndicatorView)|🌟🌟🌟🌟|
 |StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|
+|FillableLoaders|自定义的进度加载动画。|[点击前往](https://github.com/polqf/FillableLoaders)|🌟🌟🌟|
 <br>
 <br>
 <br>
 <br>
 
-<span id="j"></span>
+<span id="k"></span>
 ## <div align=center>-------------------------[Swift 综合框架](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
