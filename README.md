@@ -325,6 +325,7 @@
 |ActiveLabel|UILabel插件替换支持用Swift编写的Hashtags（＃），Mentions（@）和URL（http：//）|[点击前往](https://github.com/optonaut/ActiveLabel.swift)|🌟🌟🌟🌟|
 |DGElasticPullToRefresh|弹性的下拉刷新控件|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
 |Instructions|一款能快速创建引导流程的控件|[点击前往](https://github.com/ephread/Instructions)|🌟🌟🌟🌟|
+|RazzleDazzle|集成引导页，具有不错的动画效果。|[点击前往](https://github.com/IFTTT/RazzleDazzle)|🌟🌟🌟🌟|
 |Bartinter|能神奇的根据其背后的内容动态更改状态栏样式|[点击前往](https://github.com/MaximKotliar/Bartinter)|🌟🌟🌟🌟|
 |Cartography|是用来声明 Swift 中的 Auto Layout,无需输入任何 stringly 就可设置自己 Auto Layout 的约束声明。|[点击前往](https://github.com/robb/Cartography)|🌟🌟🌟🌟|
 |Neon|是围绕如何让用户界面设计得更自然的框架 - 主视图锚定在屏幕两侧/边角,辅助视图被排列在相对于他的位置上。|[点击前往](https://github.com/mamaral/Neon)|🌟🌟🌟🌟|
@@ -389,6 +390,8 @@
 |PopMenu| 一款简易即可高度自定义化以又可以跟iOS默认的Action Sheet一样拥有很大的灵活性. 如果你的app需要一款灵活好看的弹出菜单的话，PopMenu就是你的不二之选|[点击前往](https://github.com/CaliCastle/PopMenu)|🌟🌟🌟🌟|
 |AMPopTip|是一个动画信息提示控件,具有漂亮的弹出框动画效果。可以设置弹出框的弹出方向以及弹出框的箭头指向。|[点击前往](https://github.com/andreamazz/AMPopTip)|🌟🌟🌟|
 |PeekPop|Peek和Pop是iPhone 6S和6S+上新增的一个很棒的iOS特性，可以很方便地使用3D touch来预览内容。|[点击前往](https://github.com/marmelroy/PeekPop)|🌟🌟🌟🌟|
+|SCLAlertView-Swift|不错的一款alert view。|[点击前往](https://github.com/vikmeup/SCLAlertView-Swift)|🌟🌟🌟🌟|
+|SweetAlert-iOS|Live animated Alert View |[点击前往](https://github.com/codestergit/SweetAlert-iOS)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -418,6 +421,7 @@
 |IDMPhotoBrowser|是基于开源项目MWPhotoBrowser的新实现,从Facebook和 Tweetbot的照片浏览器借鉴了相关用户体验和技术性能。|[点击前往](https://github.com/thiagoperes/IDMPhotoBrowser)|🌟🌟🌟|
 |SwiftPhotoGallery|用Swift编写的iOS照片库|[点击前往](https://github.com/Inspirato/SwiftPhotoGallery)|🌟🌟🌟|
 |ImageViewer|Twitter上的图像查看器|[点击前往](https://github.com/Krisiacik/ImageViewer)|🌟🌟🌟🌟|
+|ImagePicker|图片选择器，重塑ImagePicker的工作方式。|[点击前往](https://github.com/hyperoslo/ImagePicker)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -464,6 +468,7 @@
 |TextFieldEffects|是一个Swift的炫酷的TextField封装类|[点击前往](https://github.com/raulriera/TextFieldEffects)|🌟🌟🌟🌟|
 |Animated TabBar|是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|[点击前往](https://github.com/Ramotion/animated-tab-bar)|🌟🌟🌟🌟|
 |FoldingCell|自然,清新的单元格折叠动画|[点击前往](https://github.com/Ramotion/folding-cell)|🌟🌟🌟🌟|
+|Eureka|通过详细的映射，创建动态的table-view forms。|[点击前往](https://github.com/xmartlabs/Eureka)|🌟🌟🌟🌟|
 |Hero|适用于iOS和tvOS的优雅过渡库|[点击前往](https://github.com/lkzhao/Hero)|🌟🌟🌟🌟|
 |SkeletonView|骨架屏）基本原理是添加控件形成真实的布局，等有数据时隐藏。 |[点击前往](https://github.com/Juanpe/SkeletonView)|🌟🌟🌟🌟|
 |ARKit-CoreLocation|使用摄像头和运动数据来绘制用户移动时本地的地图。|[点击前往](https://github.com/ProjectDent/ARKit-CoreLocation)|🌟🌟🌟🌟|
@@ -483,6 +488,8 @@
 |expanding-collection|MaterialDesign 风格的扩展式卡片设计|[点击前往](https://github.com/Ramotion/expanding-collection)|🌟🌟🌟🌟|
 |CardParts|基于卡片的响应式UI框架|[点击前往](https://github.com/intuit/CardParts)|🌟🌟🌟🌟|
 |NumberMorphView|label数字变形过渡动画，用于金额数字变动或者时间上面会非常nice！|[点击前往](https://github.com/me-abhinav/NumberMorphView)|🌟🌟🌟|
+|DOFavoriteButton|有动画效果的button，适用于收藏、喜欢、点赞等。|[点击前往](https://github.com/okmr-d/DOFavoriteButton)|🌟🌟🌟🌟|
+|paper-switch|Ramotion出品，turned on覆盖父视图的动画效果。|[点击前往](https://github.com/Ramotion/paper-switch)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -500,6 +507,7 @@
 |NVActivityIndicatorView|酷炫的装载动画库及演示。如此丰富的 Swift 装载动画集合,史无前例。|[点击前往](https://github.com/ninjaprox/NVActivityIndicatorView)|🌟🌟🌟🌟|
 |StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|
 |FillableLoaders|自定义的进度加载动画。|[点击前往](https://github.com/polqf/FillableLoaders)|🌟🌟🌟|
+|Koloda|卡片视图，而且滑动视图有滑动卡片一样的动画效果。|[点击前往](https://github.com/Yalantis/Koloda)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
