@@ -1,7 +1,7 @@
 # <div align=center>推荐生活当中积累的Objective-C以及Swift优秀三方库</div>
-### 基于OC进行的相关推荐,常用程度：1-5星。<br> 
-### 每天会不定时更新，推荐好玩有趣的第三方优秀框架。
-### 麻烦给小编一颗🌟，让小编更有动力总结出更多优秀文章和作品。
+### <div align=center>基于Objective-C以及Swift进行的相关推荐,常用程度：1-5星。</div>
+### <div align=center>每天会不定时更新，推荐好玩有趣的第三方优秀框架。</div>
+### <div align=center>麻烦给小编一颗🌟，让小编更有动力总结出更多优秀文章和作品。</div>
 
 <br>
 <br>
@@ -376,6 +376,7 @@
 |Aspects|swift面向切面编程（AOP）库 【Method Swizzling】|[点击前往](https://github.com/steipete/Aspects)|🌟🌟🌟🌟|
 |PermissionScope|权限管理库 提供申请权限授权操作|[点击前往](https://github.com/nickoneill/PermissionScope)|🌟🌟🌟🌟|
 |Dollar|无需扩展任何内置对象就为Swift语言提供有效的函数式编程辅助方法,类似于Lo-Dash或JavaScript中的Underscore。|[点击前往](https://github.com/ankurp/Dollar)|🌟🌟🌟🌟|
+|TextAttributes|封装NSAttributedString的框架，让attributed strings处理更加简单，而且是链式结构，看起来更加直观。|[点击前往](https://github.com/delba/TextAttributes)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -433,10 +434,12 @@
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |FlowingMenu|交互式视图过渡到在Swift中显示具有流动和弹跳效果的菜单|[点击前往](https://github.com/yannickl/FlowingMenu)|🌟🌟🌟|
-|PageMenu|从滚动视图内部的其他视图控制器构建的分页菜单控制器（如Spotify，Windows Phone，Instagram）|[点击前往](https://github.com/PageMenu/PageMenu)|🌟🌟🌟|
+|XLPagerTabStrip|是一个容器视图控制器，允许我们在一组视图控制器之间轻松切换。平移手势可用于移动到下一个或上一个视图控制器。它显示当前，上一个，下一个子视图控制器的交互式指示器。|[点击前往](https://github.com/xmartlabs/XLPagerTabStrip)|🌟🌟🌟🌟|
+|PageMenu|从滚动视图内部的其他视图控制器构建的分页菜单控制器（如Spotify，Windows Phone，Instagram）|[点击前往](https://github.com/PageMenu/PageMenu)|🌟🌟🌟🌟|
 |TwicketSegmentedControl|多页面切换滑块控件，能处理滑块的惯性，可以直接将滑块甩到到另一侧。|[点击前往](https://github.com/twicketapp/TwicketSegmentedControl)|🌟🌟🌟🌟|
 |XLActionController|有多种可自定义可扩展的底部菜单栏控件|[点击前往](https://github.com/xmartlabs/XLActionController)|🌟🌟🌟🌟|
 |CircleMenu|是一个精美别致支持定制的圆形菜单,可以有 0 到 8 个子菜单按钮,按钮背景色,图标都可以修改。|[点击前往](https://github.com/Ramotion/circle-menu)|🌟🌟🌟|
+|ENSwiftSideMenu|手势侧滑menu|[点击前往](https://github.com/evnaz/ENSwiftSideMenu)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -484,12 +487,16 @@
 |MaterialKit|用Swift编写的iOS的材料设计组件|[点击前往](https://github.com/nghialv/MaterialKit)|🌟🌟🌟|
 |WKWebViewJavascriptBridge|在其上仅对 WKWebView 提供支持，由 Swift 实现！您可以通过使用 WKWebViewJavascriptBridge 书写几行代码实现混合模块，而无需关心底层的消息传递实现。|[点击前往](https://github.com/Lision/WKWebViewJavascriptBridge)|🌟🌟🌟|
 |CleanyModal|是Swift UI Kit提供的干净模态/警报对话框|[点击前往](https://github.com/loryhuz/CleanyModal)|🌟🌟🌟|
-|XLPagerTabStrip|是一个容器视图控制器，允许我们在一组视图控制器之间轻松切换。平移手势可用于移动到下一个或上一个视图控制器。它显示当前，上一个，下一个子视图控制器的交互式指示器。|[点击前往](https://github.com/xmartlabs/XLPagerTabStrip)|🌟🌟🌟|
 |expanding-collection|MaterialDesign 风格的扩展式卡片设计|[点击前往](https://github.com/Ramotion/expanding-collection)|🌟🌟🌟🌟|
 |CardParts|基于卡片的响应式UI框架|[点击前往](https://github.com/intuit/CardParts)|🌟🌟🌟🌟|
 |NumberMorphView|label数字变形过渡动画，用于金额数字变动或者时间上面会非常nice！|[点击前往](https://github.com/me-abhinav/NumberMorphView)|🌟🌟🌟|
 |DOFavoriteButton|有动画效果的button，适用于收藏、喜欢、点赞等。|[点击前往](https://github.com/okmr-d/DOFavoriteButton)|🌟🌟🌟🌟|
 |paper-switch|Ramotion出品，turned on覆盖父视图的动画效果。|[点击前往](https://github.com/Ramotion/paper-switch)|🌟🌟🌟🌟|
+|PhoneNumberKit|专门针对电话号码格式做的一个输入框|[点击前往](https://github.com/marmelroy/PhoneNumberKit)|🌟🌟🌟|
+|NextGrowingTextView|取自于HPGrowingTextView,文本输入视图，对于消息编辑非常有用。|[点击前往](https://github.com/muukii/NextGrowingTextView)|🌟🌟🌟|
+|Gifu|加载gif的框架，表现良好。|[点击前往](https://github.com/kaishin/Gifu)|🌟🌟🌟🌟|
+|Filterpedia|给图片加滤镜效果，有很多种滤镜。|[点击前往](https://github.com/FlexMonkey/Filterpedia)|🌟🌟🌟|
+|Toucan|图片处理，支持重设尺寸、裁剪、风格化等|[点击前往](https://github.com/gavinbunney/Toucan)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -519,7 +526,7 @@
 | --- | --- | --- | --- |
 |Perfect| Perfect是一组完整、强大的工具箱、软件框架体系和Web应用服务器，可以在Linux、iOS和macOS (OS X)上使用。该软件体系为Swift工程师量身定制了一整套用于开发轻量、易维护、规模可扩展的Web应用及其它REST服务的解决方案，这样Swift工程师就可以实现同时在服务器和客户端上采用同一种语言开发软件项目。 |[点击前往](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md)|🌟🌟🌟🌟|
 |Surge| mattt写的性能加速框架，为数字信号处理和图像处理提供高性能。 |[点击前往](https://github.com/mattt/Surge)|🌟🌟🌟🌟|
-
+|Quick|测试框架，支持Swift和OC，灵感来自于 RSpec, Specta, and Ginkgo。|[点击前往](https://github.com/Quick/Quick)|🌟🌟🌟🌟|
 
 <br>
 
