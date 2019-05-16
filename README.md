@@ -330,6 +330,7 @@
 |Cartography|是用来声明 Swift 中的 Auto Layout,无需输入任何 stringly 就可设置自己 Auto Layout 的约束声明。|[点击前往](https://github.com/robb/Cartography)|🌟🌟🌟🌟|
 |Neon|是围绕如何让用户界面设计得更自然的框架 - 主视图锚定在屏幕两侧/边角,辅助视图被排列在相对于他的位置上。|[点击前往](https://github.com/mamaral/Neon)|🌟🌟🌟🌟|
 |Stevia|iOS的优雅视图布局 |[点击前往](https://github.com/freshOS/Stevia)|🌟🌟🌟|
+|SwiftyStoreKit|封装的轻量级的APP内购框架。|[点击前往](https://github.com/bizz84/SwiftyStoreKit)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -371,10 +372,12 @@
 |CryptoSwift |是一个使用 Swift 编写的加密工具包,支持多种加密算法,如:MD5、SHA1、AES-128 等等|[点击前往](https://github.com/krzyzanowskim/CryptoSwift)|🌟🌟🌟🌟|
 |Chameleon|是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.|[点击前往](https://github.com/ViccAlexander/Chameleon)|🌟🌟🌟🌟|
 |UIImageColors|从图像中获取最主要和最突出的颜色。|[点击前往](https://github.com/jathu/UIImageColors)|🌟🌟🌟🌟|
+|SwiftOCR|ocr图像识别库。|[点击前往](https://github.com/garnele007/SwiftOCR)|🌟🌟🌟🌟|
 |FaceAware|能使UIImageView能够聚焦图像中的面部|[点击前往](https://github.com/BeauNouvelle/FaceAware)|🌟🌟🌟🌟|
 |PromiseKit|异步编程类库 提供了很多实用的异步函数 让异步编程更简单|[点击前往](https://github.com/mxcl/PromiseKit)|🌟🌟🌟🌟|
 |Aspects|swift面向切面编程（AOP）库 【Method Swizzling】|[点击前往](https://github.com/steipete/Aspects)|🌟🌟🌟🌟|
 |PermissionScope|权限管理库 提供申请权限授权操作|[点击前往](https://github.com/nickoneill/PermissionScope)|🌟🌟🌟🌟|
+|Permission|统一管理iOS系统的许可，比如相机、相片、定位等。|[点击前往](https://github.com/nickoneill/PermissionScope)|🌟🌟🌟|
 |Dollar|无需扩展任何内置对象就为Swift语言提供有效的函数式编程辅助方法,类似于Lo-Dash或JavaScript中的Underscore。|[点击前往](https://github.com/ankurp/Dollar)|🌟🌟🌟🌟|
 |TextAttributes|封装NSAttributedString的框架，让attributed strings处理更加简单，而且是链式结构，看起来更加直观。|[点击前往](https://github.com/delba/TextAttributes)|🌟🌟🌟🌟|
 <br>
@@ -527,6 +530,7 @@
 |Perfect| Perfect是一组完整、强大的工具箱、软件框架体系和Web应用服务器，可以在Linux、iOS和macOS (OS X)上使用。该软件体系为Swift工程师量身定制了一整套用于开发轻量、易维护、规模可扩展的Web应用及其它REST服务的解决方案，这样Swift工程师就可以实现同时在服务器和客户端上采用同一种语言开发软件项目。 |[点击前往](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md)|🌟🌟🌟🌟|
 |Surge| mattt写的性能加速框架，为数字信号处理和图像处理提供高性能。 |[点击前往](https://github.com/mattt/Surge)|🌟🌟🌟🌟|
 |Quick|测试框架，支持Swift和OC，灵感来自于 RSpec, Specta, and Ginkgo。|[点击前往](https://github.com/Quick/Quick)|🌟🌟🌟🌟|
+|swift-algorithm-club|swift中的算法以及数据结构，还有解释说明。|[点击前往](https://github.com/raywenderlich/swift-algorithm-club)|🌟🌟🌟🌟|
 
 <br>
 
