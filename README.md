@@ -495,7 +495,8 @@
 |NumberMorphView|label数字变形过渡动画，用于金额数字变动或者时间上面会非常nice！|[点击前往](https://github.com/me-abhinav/NumberMorphView)|🌟🌟🌟|
 |DOFavoriteButton|有动画效果的button，适用于收藏、喜欢、点赞等。|[点击前往](https://github.com/okmr-d/DOFavoriteButton)|🌟🌟🌟🌟|
 |paper-switch|Ramotion出品，turned on覆盖父视图的动画效果。|[点击前往](https://github.com/Ramotion/paper-switch)|🌟🌟🌟🌟|
-|PhoneNumberKit|专门针对电话号码格式做的一个输入框|[点击前往](https://github.com/marmelroy/PhoneNumberKit)|🌟🌟🌟|
+|PhoneNumberKit|国际电话验证 专门针对电话号码格式做的一个输入框|[点击前往](https://github.com/marmelroy/PhoneNumberKit)|🌟🌟🌟|
+|libPhoneNumber-iOS|来自libphonenumber的iOS端口（谷歌的电话号码处理库）|[点击前往](https://github.com/iziz/libPhoneNumber-iOS)|🌟🌟🌟|
 |NextGrowingTextView|取自于HPGrowingTextView,文本输入视图，对于消息编辑非常有用。|[点击前往](https://github.com/muukii/NextGrowingTextView)|🌟🌟🌟|
 |Gifu|加载gif的框架，表现良好。|[点击前往](https://github.com/kaishin/Gifu)|🌟🌟🌟🌟|
 |Filterpedia|给图片加滤镜效果，有很多种滤镜。|[点击前往](https://github.com/FlexMonkey/Filterpedia)|🌟🌟🌟|
@@ -518,6 +519,8 @@
 |StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|
 |FillableLoaders|自定义的进度加载动画。|[点击前往](https://github.com/polqf/FillableLoaders)|🌟🌟🌟|
 |Koloda|卡片视图，而且滑动视图有滑动卡片一样的动画效果。|[点击前往](https://github.com/Yalantis/Koloda)|🌟🌟🌟🌟|
+|Whisper|使用简单、功能实用的消息及应用通知组件。|[点击前往](https://github.com/hyperoslo/Whisper)|🌟🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -531,6 +534,9 @@
 |Surge| mattt写的性能加速框架，为数字信号处理和图像处理提供高性能。 |[点击前往](https://github.com/mattt/Surge)|🌟🌟🌟🌟|
 |Quick|测试框架，支持Swift和OC，灵感来自于 RSpec, Specta, and Ginkgo。|[点击前往](https://github.com/Quick/Quick)|🌟🌟🌟🌟|
 |swift-algorithm-club|swift中的算法以及数据结构，还有解释说明。|[点击前往](https://github.com/raywenderlich/swift-algorithm-club)|🌟🌟🌟🌟|
+|OAuthSwift|国外主流网站OAuth授权库。|[点击前往](https://github.com/OAuthSwift/OAuthSwift)|🌟🌟🌟🌟|
+|R.swift|以一种优雅安全的方式使用资源文件。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟|
+|Design-Patterns-In-Swift|:swift实现的各种设计模式。|[点击前往](https://github.com/ochococo/Design-Patterns-In-Swift)|🌟🌟🌟🌟|
 
 <br>
 
