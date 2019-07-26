@@ -51,6 +51,7 @@
 |RDVTabBarController|是一个定制化的TabBarController库,可动画显示隐藏tabbar栏,可定制tabbar栏|[点击前往](https://github.com/robbdimitrov/RDVTabBarController)|🌟🌟🌟|
 |CocoaLumberjack|是一个可以在iOS和Mac开发中使用的日志库，强大又不失灵活。集成进项目后，可以灵活控制日志level输出，并保存在日志文件中，还能压缩上传到服务器。|[点击前往](https://github.com/CocoaLumberjack/CocoaLumberjack)|🌟🌟🌟🌟|
 |FDFullscreenPopGesture|pod安装一下即可,安装后无须再加任何代码,应用所有页面都将支持全屏侧滑。|[点击前往](https://github.com/forkingdog/FDFullscreenPopGesture)|🌟🌟🌟🌟|
+|iVersion|非常赞👍 的一个灵活动态监测App是否有更新的库，并可以通知用户升级.|[点击前往](https://github.com/nicklockwood/iVersion)|🌟🌟🌟|
 
 <br>
 <br>
@@ -195,6 +196,10 @@
 |WMPageController|一个简单的解决方案, 以页面控制器, 如网易新闻|[点击前往](https://github.com/wangmchn/WMPageController)|🌟🌟🌟🌟|
 |MMPopupView|是一个基于UIWindow的一个简洁、高效的弹出框组件。|[点击前往](https://github.com/adad184/MMPopupView)|🌟🌟🌟|
 |PNChart|是一个简单漂亮的动画图表库，Piner 和 CoinsMan 的 iOS 客户端中使用了这个框架。|[点击前往](https://github.com/kevinzhow/PNChart)|🌟🌟🌟🌟|
+|TEAChart|一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等。|[点击前往](https://github.com/xhacker/TEAChart)|🌟🌟🌟🌟|
+|CVCalendar|是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用。|[点击前往](https://github.com/CVCalendar/CVCalendar)|🌟🌟🌟🌟|
+|XJYChart|优秀的的图表框架。支持动画，点击，滑动，区域高亮。|[点击前往](https://github.com/JunyiXie/XJYChart)|🌟🌟🌟|
+|XYPieChart|饼状图, 饼图, 数据统计, 数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片。|[点击前往](https://github.com/xyfeng/XYPieChart)|🌟🌟🌟|
 |FXBlurView|是UIView的子类，它实现毛玻璃效果的原理其实就是覆盖上一层FXBlurView的实例对象。|[点击前往](https://github.com/nicklockwood/FXBlurView)|🌟🌟🌟🌟|
 |BEMCheckBox|是一个开源库，可以轻松地为iOS创建漂亮，高度可定制的，有动画效果的复选框。|[点击前往](https://github.com/Boris-Em/BEMCheckBox)|🌟🌟🌟🌟|
 |XLForm|是最灵活且最强大的创建动态表单的iOS库。|[点击前往](https://github.com/xmartlabs/XLForm)|🌟🌟🌟|
@@ -317,6 +322,7 @@
 |XCGLogger|是一个用于Swift项目的debug日志框架，可详细信息记录到控制台，就像使用NSLog或println那样，但是还带有其他额处信息，如日期、函数名、文件名以及行号。|[点击前往](https://github.com/DaveWoodCom/XCGLogger)|🌟🌟🌟🌟|
 |Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|
 |SwiftLint|是一个用于强制检查 Swift 代码风格和规定的一个工具，基本上以 GitHub's Swift 代码风格指南为基础。|[点击前往](https://github.com/realm/SwiftLint/blob/master/README_CN.md)|🌟🌟🌟🌟|
+|SwiftFormat|SwiftFormat是一个代码库和命令行工具，用于在macOS或Linux上重新格式化swift代码。|[点击前往](https://github.com/nicklockwood/SwiftFormat)|🌟🌟🌟|
 |PKHUD|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|[点击前往](https://github.com/pkluz/PKHUD)|🌟🌟🌟🌟|
 |Toast-Swift|一个Swift扩展，为UIView对象类添加了Toast通知|[点击前往](https://github.com/scalessec/Toast-Swift)|🌟🌟🌟🌟|
 |Reusable| 利用protocol extension结合泛型提供了一个优雅的方案来dequeueReusableCell|[点击前往](https://github.com/AliSoftware/Reusable)|🌟🌟🌟🌟|
