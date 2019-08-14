@@ -92,6 +92,7 @@
 |SVPullToRefresh|以其简洁, 通俗易懂为大家所推崇的第三方框架。|[点击前往](https://github.com/samvermette/SVPullToRefresh)|🌟🌟🌟🌟|
 |ODRefreshControl|是一个UIScrollView下拉刷新列表的控件,支持自定义。|[点击前往](https://github.com/Sephiroth87/ODRefreshControl)|🌟🌟🌟|
 |CBStoreHouseRefreshControl|完全自定义的下拉刷新控件。|[点击前往](https://github.com/coolbeet/CBStoreHouseRefreshControl)|🌟🌟🌟|
+|TwitterCover|Twitter iOS客户端的下拉封面模糊效果。|[点击前往](https://github.com/cyndibaby905/TwitterCover)|🌟🌟🌟|
 
 <br>
 <br>
@@ -337,6 +338,9 @@
 |Neon|是围绕如何让用户界面设计得更自然的框架 - 主视图锚定在屏幕两侧/边角,辅助视图被排列在相对于他的位置上。|[点击前往](https://github.com/mamaral/Neon)|🌟🌟🌟🌟|
 |Stevia|iOS的优雅视图布局 |[点击前往](https://github.com/freshOS/Stevia)|🌟🌟🌟|
 |SwiftyStoreKit|封装的轻量级的APP内购框架。|[点击前往](https://github.com/bizz84/SwiftyStoreKit)|🌟🌟🌟🌟|
+|PullToBounce|下拉刷新的动画 for UIScrollView。|[点击前往](https://github.com/entotsu/PullToBounce)|🌟🌟🌟🌟|
+|DGElasticPullToRefresh|是一款带有弹性效果的 iOS 下拉刷新组件。|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
+|DGRunkeeperSwitch|是非常有趣的自定义的 Segment Control 的实现|[点击前往](https://github.com/gontovnik/DGRunkeeperSwitch)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
