@@ -453,6 +453,7 @@
 |XLActionController|有多种可自定义可扩展的底部菜单栏控件|[点击前往](https://github.com/xmartlabs/XLActionController)|🌟🌟🌟🌟|
 |CircleMenu|是一个精美别致支持定制的圆形菜单,可以有 0 到 8 个子菜单按钮,按钮背景色,图标都可以修改。|[点击前往](https://github.com/Ramotion/circle-menu)|🌟🌟🌟|
 |ENSwiftSideMenu|手势侧滑menu|[点击前往](https://github.com/evnaz/ENSwiftSideMenu)|🌟🌟🌟|
+|MessageKit|如果您想在应用程序中添加高度可定制的聊天或消息功能，那么这是一个很好的库。这个库可以支持不同的消息类型：短信、照片、视频、位置、表情符号、音频、联系|[点击前往](https://github.com/MessageKit/MessageKit)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -530,6 +531,7 @@
 |FillableLoaders|自定义的进度加载动画。|[点击前往](https://github.com/polqf/FillableLoaders)|🌟🌟🌟|
 |Koloda|卡片视图，而且滑动视图有滑动卡片一样的动画效果。|[点击前往](https://github.com/Yalantis/Koloda)|🌟🌟🌟🌟|
 |Whisper|使用简单、功能实用的消息及应用通知组件。|[点击前往](https://github.com/hyperoslo/Whisper)|🌟🌟🌟🌟|
+|WaterDrops|这个库模拟了温和的雨滴，是一个非常酷的动画，可用于使您的应用更具动态性并吸引用户。您可以配置雨滴方向，雨滴数，最小和最大尺寸以及最小和最大持续时间。|[点击前往](https://github.com/LeFal/WaterDrops)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -541,6 +543,7 @@
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |Perfect| Perfect是一组完整、强大的工具箱、软件框架体系和Web应用服务器，可以在Linux、iOS和macOS (OS X)上使用。该软件体系为Swift工程师量身定制了一整套用于开发轻量、易维护、规模可扩展的Web应用及其它REST服务的解决方案，这样Swift工程师就可以实现同时在服务器和客户端上采用同一种语言开发软件项目。 |[点击前往](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md)|🌟🌟🌟🌟|
+|Vapor| 是一个用苹果最新开源语言swift开发的一套web高性能框架,迄今为止是地球上最快的web开发框架! |[点击前往](https://github.com/vapor/vapor)|🌟🌟🌟🌟|
 |Surge| mattt写的性能加速框架，为数字信号处理和图像处理提供高性能。 |[点击前往](https://github.com/mattt/Surge)|🌟🌟🌟🌟|
 |Quick|测试框架，支持Swift和OC，灵感来自于 RSpec, Specta, and Ginkgo。|[点击前往](https://github.com/Quick/Quick)|🌟🌟🌟🌟|
 |swift-algorithm-club|swift中的算法以及数据结构，还有解释说明。|[点击前往](https://github.com/raywenderlich/swift-algorithm-club)|🌟🌟🌟🌟|
