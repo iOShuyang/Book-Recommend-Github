@@ -334,11 +334,11 @@
 |PKHUD|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|[点击前往](https://github.com/pkluz/PKHUD)|🌟🌟🌟🌟|
 |Toast-Swift|一个Swift扩展，为UIView对象类添加了Toast通知|[点击前往](https://github.com/scalessec/Toast-Swift)|🌟🌟🌟🌟|
 |Reusable| 利用protocol extension结合泛型提供了一个优雅的方案来dequeueReusableCell|[点击前往](https://github.com/AliSoftware/Reusable)|🌟🌟🌟🌟|
-｜FSPagerView｜是一个优雅的轮播控件,它可以十分轻松有效地制作轮播视图、产品展示、欢迎/指南页面。|[点击前往](https://github.com/WenchaoD/FSPagerView)|🌟🌟🌟🌟|
+|FSPagerView|是一个优雅的轮播控件,它可以十分轻松有效地制作轮播视图、产品展示、欢迎/指南页面。|[点击前往](https://github.com/WenchaoD/FSPagerView)|🌟🌟🌟🌟|
 |ActiveLabel|UILabel插件替换支持用Swift编写的Hashtags（＃），Mentions（@）和URL（http：//）|[点击前往](https://github.com/optonaut/ActiveLabel.swift)|🌟🌟🌟🌟|
 |DNSPageView|一个纯Swift的轻量级、灵活且易于使用的pageView|[点击前往](https://github.com/Danie1s/DNSPageView)|🌟🌟🌟🌟|
-｜JXSegmentedView｜(腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|[点击前往](https://github.com/pujiaxin33/JXSegmentedView)|🌟🌟🌟🌟|
-｜EmptyDataSet-Swift｜空白数据集显示框架｜|[点击前往](https://github.com/Xiaoye220/EmptyDataSet-Swift)|🌟🌟🌟|
+|JXSegmentedView|(腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|[点击前往](https://github.com/pujiaxin33/JXSegmentedView)|🌟🌟🌟🌟|
+|EmptyDataSet-Swift|空白数据集显示框架|[点击前往](https://github.com/Xiaoye220/EmptyDataSet-Swift)|🌟🌟🌟|
 |MonkeyKing|帮助开发者快速集成国内主流社交应用(微信、微博、QQ、支付宝)的分享、授权、支付等功能。重要的是，不需要集成各种官方 SDK。目前由 4 名程序员维护。可用于生产环境、轻量级，能满足绝大部分的分享、授权、支付等需求。|[点击前往](https://github.com/nixzhu/MonkeyKing)|🌟🌟🌟🌟|
 |DGElasticPullToRefresh|弹性的下拉刷新控件|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
 |Instructions|一款能快速创建引导流程的控件|[点击前往](https://github.com/ephread/Instructions)|🌟🌟🌟🌟|
@@ -526,7 +526,7 @@
 |PullToBounce|下拉刷新的动画 for UIScrollView。|[点击前往](https://github.com/entotsu/PullToBounce)|🌟🌟🌟🌟|
 |DGElasticPullToRefresh|是一款带有弹性效果的 iOS 下拉刷新组件。|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
 |DGRunkeeperSwitch|是非常有趣的自定义的 Segment Control 的实现|[点击前往](https://github.com/gontovnik/DGRunkeeperSwitch)|🌟🌟🌟🌟|
-|LTScrollView|ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案， 支持OC / Swift（持续更新中...）实现原理：http://blog.csdn.net/glt_code/article/details/78576628|[点击前往](https://github.com/gltwy/LTScrollView)|🌟🌟🌟|
+|LTScrollView|ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案|[点击前往](https://github.com/gltwy/LTScrollView)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -564,7 +564,7 @@
 |swift-algorithm-club|swift中的算法以及数据结构，还有解释说明。|[点击前往](https://github.com/raywenderlich/swift-algorithm-club)|🌟🌟🌟🌟|
 |OAuthSwift|国外主流网站OAuth授权库。|[点击前往](https://github.com/OAuthSwift/OAuthSwift)|🌟🌟🌟🌟|
 |R.swift|以一种优雅安全的方式使用资源文件。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟|
-|Design-Patterns-In-Swift|:swift实现的各种设计模式。|[点击前往](https://github.com/ochococo/Design-Patterns-In-Swift)|🌟🌟🌟🌟|
+|Design-Patterns-In-Swift|swift实现的各种设计模式。|[点击前往](https://github.com/ochococo/Design-Patterns-In-Swift)|🌟🌟🌟🌟|
 
 <br>
 
