@@ -243,6 +243,7 @@
 |TheAmazingAudioEngine|是iOS音频应用的一个非常精致的框架,简单易用,可以根据开发者自己的习惯处理各种复杂的声音。|[点击前往](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)|🌟🌟🌟|
 |novocaine|应用于OSX和iOS的高性能音频框架|[点击前往](https://github.com/alexbw/novocaine)|🌟🌟🌟🌟|
 |WMPlayer|万能播放器，内部封装了AVPlayer和FFmpeg最新版本(4.0.2)，两款播放器完全解耦设计，没有使用废弃api，支持几乎所有视频格式(avi、flv、m3u8、3gp、RTMP、RTSP、MKV、rmvb、wmv、mp4、mov)，网络和本地视频同时支持|[点击前往](https://github.com/zhengwenming/WMPlayer)|🌟🌟🌟|
+|StreamingKit|是一个强大的IOS音频播放工具|[点击前往](https://github.com/tumtumtum/StreamingKit|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -327,20 +328,16 @@
 |PKHUD|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|[点击前往](https://github.com/pkluz/PKHUD)|🌟🌟🌟🌟|
 |Toast-Swift|一个Swift扩展，为UIView对象类添加了Toast通知|[点击前往](https://github.com/scalessec/Toast-Swift)|🌟🌟🌟🌟|
 |Reusable| 利用protocol extension结合泛型提供了一个优雅的方案来dequeueReusableCell|[点击前往](https://github.com/AliSoftware/Reusable)|🌟🌟🌟🌟|
-|MonkeyKing|帮助开发者快速集成国内主流社交应用(微信、微博、QQ、支付宝)的分享、授权、支付等功能。重要的是，不需要集成各种官方 SDK。目前由 4 名程序员维护。可用于生产环境、轻量级，能满足绝大部分的分享、授权、支付等需求。|[点击前往](https://github.com/nixzhu/MonkeyKing)|🌟🌟🌟🌟|
-|RxSwift|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|[点击前往](https://github.com/ReactiveX/RxSwift)|🌟🌟🌟🌟🌟|
+｜FSPagerView｜是一个优雅的轮播控件,它可以十分轻松有效地制作轮播视图、产品展示、欢迎/指南页面。|[点击前往](https://github.com/WenchaoD/FSPagerView)|🌟🌟🌟🌟|
 |ActiveLabel|UILabel插件替换支持用Swift编写的Hashtags（＃），Mentions（@）和URL（http：//）|[点击前往](https://github.com/optonaut/ActiveLabel.swift)|🌟🌟🌟🌟|
+|DNSPageView|一个纯Swift的轻量级、灵活且易于使用的pageView|[点击前往](https://github.com/Danie1s/DNSPageView)|🌟🌟🌟🌟|
+|MonkeyKing|帮助开发者快速集成国内主流社交应用(微信、微博、QQ、支付宝)的分享、授权、支付等功能。重要的是，不需要集成各种官方 SDK。目前由 4 名程序员维护。可用于生产环境、轻量级，能满足绝大部分的分享、授权、支付等需求。|[点击前往](https://github.com/nixzhu/MonkeyKing)|🌟🌟🌟🌟|
 |DGElasticPullToRefresh|弹性的下拉刷新控件|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
 |Instructions|一款能快速创建引导流程的控件|[点击前往](https://github.com/ephread/Instructions)|🌟🌟🌟🌟|
 |RazzleDazzle|集成引导页，具有不错的动画效果。|[点击前往](https://github.com/IFTTT/RazzleDazzle)|🌟🌟🌟🌟|
-|Bartinter|能神奇的根据其背后的内容动态更改状态栏样式|[点击前往](https://github.com/MaximKotliar/Bartinter)|🌟🌟🌟🌟|
-|Cartography|是用来声明 Swift 中的 Auto Layout,无需输入任何 stringly 就可设置自己 Auto Layout 的约束声明。|[点击前往](https://github.com/robb/Cartography)|🌟🌟🌟🌟|
-|Neon|是围绕如何让用户界面设计得更自然的框架 - 主视图锚定在屏幕两侧/边角,辅助视图被排列在相对于他的位置上。|[点击前往](https://github.com/mamaral/Neon)|🌟🌟🌟🌟|
-|Stevia|iOS的优雅视图布局 |[点击前往](https://github.com/freshOS/Stevia)|🌟🌟🌟|
-|SwiftyStoreKit|封装的轻量级的APP内购框架。|[点击前往](https://github.com/bizz84/SwiftyStoreKit)|🌟🌟🌟🌟|
-|PullToBounce|下拉刷新的动画 for UIScrollView。|[点击前往](https://github.com/entotsu/PullToBounce)|🌟🌟🌟🌟|
-|DGElasticPullToRefresh|是一款带有弹性效果的 iOS 下拉刷新组件。|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
-|DGRunkeeperSwitch|是非常有趣的自定义的 Segment Control 的实现|[点击前往](https://github.com/gontovnik/DGRunkeeperSwitch)|🌟🌟🌟🌟|
+|JXMarqueeView| 一个强大易于使用的iOS跑马灯视图|[点击前往](https://github.com/pujiaxin33/JXMarqueeView)|🌟🌟🌟|
+|SwiftMessages|提供多种丰富的消息弹窗样式的控件|[点击前往](https://github.com/SwiftKickMobile/SwiftMessages)|🌟🌟🌟🌟|
+|RxSwift|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|[点击前往](https://github.com/ReactiveX/RxSwift)|🌟🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -512,6 +509,15 @@
 |Gifu|加载gif的框架，表现良好。|[点击前往](https://github.com/kaishin/Gifu)|🌟🌟🌟🌟|
 |Filterpedia|给图片加滤镜效果，有很多种滤镜。|[点击前往](https://github.com/FlexMonkey/Filterpedia)|🌟🌟🌟|
 |Toucan|图片处理，支持重设尺寸、裁剪、风格化等|[点击前往](https://github.com/gavinbunney/Toucan)|🌟🌟🌟|
+|Bartinter|能神奇的根据其背后的内容动态更改状态栏样式|[点击前往](https://github.com/MaximKotliar/Bartinter)|🌟🌟🌟🌟|
+|Cartography|是用来声明 Swift 中的 Auto Layout,无需输入任何 stringly 就可设置自己 Auto Layout 的约束声明。|[点击前往](https://github.com/robb/Cartography)|🌟🌟🌟🌟|
+|Neon|是围绕如何让用户界面设计得更自然的框架 - 主视图锚定在屏幕两侧/边角,辅助视图被排列在相对于他的位置上。|[点击前往](https://github.com/mamaral/Neon)|🌟🌟🌟🌟|
+|Stevia|iOS的优雅视图布局 |[点击前往](https://github.com/freshOS/Stevia)|🌟🌟🌟|
+|SwiftyStoreKit|封装的轻量级的APP内购框架。|[点击前往](https://github.com/bizz84/SwiftyStoreKit)|🌟🌟🌟🌟|
+|PullToBounce|下拉刷新的动画 for UIScrollView。|[点击前往](https://github.com/entotsu/PullToBounce)|🌟🌟🌟🌟|
+|DGElasticPullToRefresh|是一款带有弹性效果的 iOS 下拉刷新组件。|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
+|DGRunkeeperSwitch|是非常有趣的自定义的 Segment Control 的实现|[点击前往](https://github.com/gontovnik/DGRunkeeperSwitch)|🌟🌟🌟🌟|
+|LTScrollView|ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案， 支持OC / Swift（持续更新中...）实现原理：http://blog.csdn.net/glt_code/article/details/78576628|[点击前往](https://github.com/gltwy/LTScrollView)|🌟🌟🌟|
 <br>
 <br>
 <br>
