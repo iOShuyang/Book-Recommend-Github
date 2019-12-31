@@ -124,7 +124,7 @@
 |Realm|是由Y Combinator孵化的创业团队开源出来的一款可以用于iOS(同样适用于Swift&Objective-C)和Android的跨平台移动数据库。|[点击前往](https://github.com/realm/realm-cocoa)|🌟🌟🌟🌟|
 |UICKeyChainStore|对于一些私密信息，比如密码、证书等等，就需要使用更为安全的数据保存方式。|[点击前往](https://github.com/kishikawakatsumi/UICKeyChainStore)|🌟🌟🌟🌟|
 |SAMkeychain|钥匙串存取数据，可以用来储存用户的隐私信息。|[点击前往](https://github.com/soffes/SAMKeychain)|🌟🌟🌟|
-
+|YYCache|适用于iOS的高性能缓存框架。|[点击前往](https://github.com/ibireme/YYCache)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -168,6 +168,7 @@
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |SDWebImage|一个可管理远程图片异步加载并缓存的类库。这个类库提供一个UIImageView类别以支持加载来自网络的远程图片。具有缓存管理、异步下载、同一个URL下载次数控制和优化等特征。|[点击前往](https://github.com/rs/SDWebImage)|🌟🌟🌟🌟🌟|
+|YYWebImage|异步图像加载框架。|[点击前往](https://github.com/ibireme/YYWebImage)|🌟🌟🌟🌟|
 |YYImage|是一款功能强大的 iOS 图像框架（该项目是 YYKit 组件之一），支持目前市场上所有主流的图片格式的显示与编/解码，并且提供高效的动态内存缓存管理，以保证高性能低内存的动画播放。|[点击前往](https://github.com/ibireme/YYImage)|🌟🌟🌟🌟|
 |SDCycleScrollView|简单好用的 无限循环轮播工具。|[点击前往](https://github.com/gsdios/SDCycleScrollView)|🌟🌟🌟🌟|
 |MWPhotoBrowser|是一个强大且古老的图片浏览库，在GitHub上有英文版的详细使用说明。它同时依赖DACircularProgress ，MBProgressHUD ，SDWebImage。|[点击前往](https://github.com/mwaterfall/MWPhotoBrowser)|🌟🌟🌟|
@@ -243,7 +244,7 @@
 |TheAmazingAudioEngine|是iOS音频应用的一个非常精致的框架,简单易用,可以根据开发者自己的习惯处理各种复杂的声音。|[点击前往](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)|🌟🌟🌟|
 |novocaine|应用于OSX和iOS的高性能音频框架|[点击前往](https://github.com/alexbw/novocaine)|🌟🌟🌟🌟|
 |WMPlayer|万能播放器，内部封装了AVPlayer和FFmpeg最新版本(4.0.2)，两款播放器完全解耦设计，没有使用废弃api，支持几乎所有视频格式(avi、flv、m3u8、3gp、RTMP、RTSP、MKV、rmvb、wmv、mp4、mov)，网络和本地视频同时支持|[点击前往](https://github.com/zhengwenming/WMPlayer)|🌟🌟🌟|
-|StreamingKit|是一个强大的IOS音频播放工具|[点击前往](https://github.com/tumtumtum/StreamingKit|🌟🌟🌟🌟|
+|StreamingKit|是一个强大的IOS音频播放工具|[点击前往](https://github.com/tumtumtum/StreamingKit)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -260,6 +261,7 @@
 |DateTools|Objective-C中简化日期和时间处理的工具，让NSDate功能更完整,可以让你更容易地去获取日期各个组件的信息,如年 月 日等。|[点击前往](https://github.com/MatthewYork/DateTools)|🌟🌟🌟🌟|
 |BlocksKit|是对Cocoa Touch Block编程更进一步的支持,它简化了Block编程,发挥Block的相关优势,让更多UIKit类支持Block式编程。|[点击前往](https://github.com/BlocksKit/BlocksKit)|🌟🌟🌟🌟|
 |TTTAttributedLabel|是一个常用的富文本开源库,支持各种属性文本、数据探测器,链接等。|[点击前往](https://github.com/search?q=TTTAttributedLabel)|🌟🌟🌟🌟🌟|
+|YYText|适用于iOS的强大文本框架，用于显示和编辑RTF。|[点击前往](https://github.com/ibireme/YYText)|🌟🌟🌟🌟🌟|
 |DTCoreText|是可以将HTML字符串转化为富文本使用的工具,既保证原生实现又能适应灵活的样式修改,而且相比于使用WebView显示内容在性能上也有很大优势。|[点击前往](https://github.com/Cocoanetics/DTCoreText)|🌟🌟🌟🌟|
 |LTNavigationBar|动态的修改NavigationBar的颜色。|[点击前往](https://github.com/ltebean/LTNavigationBar)|🌟🌟🌟|
 |DOPDropDownMenu-Enhanced|类似美团，糯米，大众点评的筛选排序菜单。|[点击前往](https://github.com/12207480/DOPDropDownMenu-Enhanced)|🌟🌟🌟|
@@ -287,6 +289,10 @@
 |ZLSwipeableView|一个类似Tinder和Potluck的卡片界面，滑动手指即可翻动展示下一张卡片，也可简单返回手势取消滑动操作。|[点击前往](https://github.com/zhxnlai/ZLSwipeableView)|🌟🌟🌟|
 |CRToast|用来简单创建出现在导航栏或者状态栏上的通知，基于另一个开源项目CWStatusBarNotification。使用ARC。|[点击前往](https://github.com/cruffenach/CRToast)|🌟🌟🌟|
 |SwipeView|是一个旨在简化iOS上水平分页滚动视图实现的类。它基于UIScrollView，但增加了方便的功能，例如UITableView样式的dataSource / delegate接口，用于动态加载视图，以及高效的视图加载，卸载和回收。|[点击前往](https://github.com/nicklockwood/SwipeView)|🌟🌟🌟|
+|DZNSegmentedControl|UISegmentedControl的替代品，用于显示计数，通常在用户个人资料上使用|[点击前往](https://github.com/dzenbot/DZNSegmentedControl)|🌟🌟🌟|
+|DZNPhotoPickerController|使用热门图像提供程序（例如500px，Flickr，Instagram，Giphy，Google和Bing Images）的iOS照片搜索/选择器|[点击前往](https://github.com/dzenbot/DZNPhotoPickerController)|🌟🌟🌟|
+|YPNavigationBarTransition|类似微信 iOS Navigation Bar 的切换方案）|[点击前往](https://github.com/yiplee/YPNavigationBarTransition)|🌟🌟🌟|
+
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -331,6 +337,8 @@
 ｜FSPagerView｜是一个优雅的轮播控件,它可以十分轻松有效地制作轮播视图、产品展示、欢迎/指南页面。|[点击前往](https://github.com/WenchaoD/FSPagerView)|🌟🌟🌟🌟|
 |ActiveLabel|UILabel插件替换支持用Swift编写的Hashtags（＃），Mentions（@）和URL（http：//）|[点击前往](https://github.com/optonaut/ActiveLabel.swift)|🌟🌟🌟🌟|
 |DNSPageView|一个纯Swift的轻量级、灵活且易于使用的pageView|[点击前往](https://github.com/Danie1s/DNSPageView)|🌟🌟🌟🌟|
+｜JXSegmentedView｜(腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|[点击前往](https://github.com/pujiaxin33/JXSegmentedView)|🌟🌟🌟🌟|
+｜EmptyDataSet-Swift｜空白数据集显示框架｜|[点击前往](https://github.com/Xiaoye220/EmptyDataSet-Swift)|🌟🌟🌟|
 |MonkeyKing|帮助开发者快速集成国内主流社交应用(微信、微博、QQ、支付宝)的分享、授权、支付等功能。重要的是，不需要集成各种官方 SDK。目前由 4 名程序员维护。可用于生产环境、轻量级，能满足绝大部分的分享、授权、支付等需求。|[点击前往](https://github.com/nixzhu/MonkeyKing)|🌟🌟🌟🌟|
 |DGElasticPullToRefresh|弹性的下拉刷新控件|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
 |Instructions|一款能快速创建引导流程的控件|[点击前往](https://github.com/ephread/Instructions)|🌟🌟🌟🌟|
@@ -433,6 +441,7 @@
 |SwiftPhotoGallery|用Swift编写的iOS照片库|[点击前往](https://github.com/Inspirato/SwiftPhotoGallery)|🌟🌟🌟|
 |ImageViewer|Twitter上的图像查看器|[点击前往](https://github.com/Krisiacik/ImageViewer)|🌟🌟🌟🌟|
 |ImagePicker|图片选择器，重塑ImagePicker的工作方式。|[点击前往](https://github.com/hyperoslo/ImagePicker)|🌟🌟🌟🌟|
+|SKPhotoBrowser|受Facebook启发的简单PhotoBrowser / Viewer，swift编写的twitter照片浏览器|[点击前往](https://github.com/suzuki-0000/SKPhotoBrowser)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
