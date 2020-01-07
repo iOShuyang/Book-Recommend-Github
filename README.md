@@ -194,6 +194,7 @@
 |RKNotificationHub|快速给UIView 添加上炫酷通知图标。|[点击前往](https://github.com/cwRichardKim/RKNotificationHub)|🌟🌟🌟🌟|
 |JXCategoryView|腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图。|[点击前往](https://github.com/pujiaxin33/JXCategoryView)|🌟🌟🌟🌟|
 |VTMagic|类似网易、腾讯等应用的菜单分页组|[点击前往](https://github.com/tianzhuo112/VTMagic)|🌟🌟🌟|
+|CMPageTitleView|标题栏/菜单栏：一分钟集成类似抖音，新浪微博，腾讯视频，网易新闻，今日头条等常见的标题栏样式，api灵活易扩展，支持Cocoapods和Masonry布局，|[点击前往](https://github.com/CrabMen/CMPageTitleView)|🌟🌟🌟|
 |HMSegmentedControl|一个代替 UISegmentedControl 的投递器, 它模仿了谷歌电流和其他各种谷歌产品中使用的分段控件的样式。|[点击前往](https://github.com/HeshamMegid/HMSegmentedControl)|🌟🌟🌟🌟|
 |WMPageController|一个简单的解决方案, 以页面控制器, 如网易新闻|[点击前往](https://github.com/wangmchn/WMPageController)|🌟🌟🌟🌟|
 |MMPopupView|是一个基于UIWindow的一个简洁、高效的弹出框组件。|[点击前往](https://github.com/adad184/MMPopupView)|🌟🌟🌟|
@@ -292,7 +293,7 @@
 |DZNSegmentedControl|UISegmentedControl的替代品，用于显示计数，通常在用户个人资料上使用|[点击前往](https://github.com/dzenbot/DZNSegmentedControl)|🌟🌟🌟|
 |DZNPhotoPickerController|使用热门图像提供程序（例如500px，Flickr，Instagram，Giphy，Google和Bing Images）的iOS照片搜索/选择器|[点击前往](https://github.com/dzenbot/DZNPhotoPickerController)|🌟🌟🌟|
 |YPNavigationBarTransition|类似微信 iOS Navigation Bar 的切换方案）|[点击前往](https://github.com/yiplee/YPNavigationBarTransition)|🌟🌟🌟|
-
+|WRNavigationBar|超简单！！！ 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 ）|[点击前往](https://github.com/wangrui460/WRNavigationBar)|🌟🌟🌟|
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -527,6 +528,11 @@
 |DGElasticPullToRefresh|是一款带有弹性效果的 iOS 下拉刷新组件。|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
 |DGRunkeeperSwitch|是非常有趣的自定义的 Segment Control 的实现|[点击前往](https://github.com/gontovnik/DGRunkeeperSwitch)|🌟🌟🌟🌟|
 |LTScrollView|ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案|[点击前往](https://github.com/gltwy/LTScrollView)|🌟🌟🌟|
+|LLCycleScrollView|Swift - 轮播图，文本轮播，支持左右箭头|[点击前往](https://github.com/LvJianfeng/LLCycleScrollView)|🌟🌟🌟|
+|WRCycleScrollView|Swift 自动无限轮播用这个就够了 swift 4|[点击前往](https://github.com/wangrui460/WRCycleScrollView)|🌟🌟🌟|
+|ZCycleView|使用UICollectionView实现常见图片/文字无限轮播，支持自定义cell，自定义pageControl，以及轮播样式|[点击前往](https://github.com/MQZHot/ZCycleView)|🌟🌟🌟|
+|ZLaunchAd|快速集成启动广告,支持LaunchImage和LaunchScreen,支持GIF,支持本地图片,支持视图过渡动画|[点击前往](https://github.com/MQZHot/ZLaunchAd)|🌟🌟🌟|
+
 <br>
 <br>
 <br>
