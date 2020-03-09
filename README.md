@@ -294,6 +294,7 @@
 |DZNPhotoPickerController|使用热门图像提供程序（例如500px，Flickr，Instagram，Giphy，Google和Bing Images）的iOS照片搜索/选择器|[点击前往](https://github.com/dzenbot/DZNPhotoPickerController)|🌟🌟🌟|
 |YPNavigationBarTransition|类似微信 iOS Navigation Bar 的切换方案）|[点击前往](https://github.com/yiplee/YPNavigationBarTransition)|🌟🌟🌟|
 |WRNavigationBar|超简单！！！ 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 ）|[点击前往](https://github.com/wangrui460/WRNavigationBar)|🌟🌟🌟|
+|LBXScan|二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装|[点击前往](https://github.com/MxABC/LBXScan)|🌟🌟🌟🌟|
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -347,6 +348,8 @@
 |JXMarqueeView| 一个强大易于使用的iOS跑马灯视图|[点击前往](https://github.com/pujiaxin33/JXMarqueeView)|🌟🌟🌟|
 |SwiftMessages|提供多种丰富的消息弹窗样式的控件|[点击前往](https://github.com/SwiftKickMobile/SwiftMessages)|🌟🌟🌟🌟|
 |RxSwift|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|[点击前往](https://github.com/ReactiveX/RxSwift)|🌟🌟🌟🌟🌟|
+|R.swift|可以获取强类型、自动完成的资源，如图像、字体和段落完全类型化。更少的强制转换和猜测方法将返回什么编译时检查，运行时不再有导致应用程序崩溃的错误字符串自动完成，再也不用怀疑图片名字是不是复制错了。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟🌟|
+|swiftScan|二维码 各种码识别，生成，界面效果)|[点击前往](https://github.com/MxABC/swiftScan)|🌟🌟🌟|
 <br>
 <br>
 <br>
