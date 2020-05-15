@@ -349,7 +349,8 @@
 |SwiftMessages|提供多种丰富的消息弹窗样式的控件|[点击前往](https://github.com/SwiftKickMobile/SwiftMessages)|🌟🌟🌟🌟|
 |RxSwift|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|[点击前往](https://github.com/ReactiveX/RxSwift)|🌟🌟🌟🌟🌟|
 |R.swift|可以获取强类型、自动完成的资源，如图像、字体和段落完全类型化。更少的强制转换和猜测方法将返回什么编译时检查，运行时不再有导致应用程序崩溃的错误字符串自动完成，再也不用怀疑图片名字是不是复制错了。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟🌟|
-|swiftScan|二维码 各种码识别，生成，界面效果)|[点击前往](https://github.com/MxABC/swiftScan)|🌟🌟🌟|
+|swiftScan|二维码 各种码识别，生成，界面效果|[点击前往](https://github.com/MxABC/swiftScan)|🌟🌟🌟|
+|Reachability|网络监察|[点击前往](https://github.com/ashleymills/Reachability.swift)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -387,6 +388,7 @@
 |SwifterSwift|是一个用 Swift 编写的 Extension 的集合，涵盖了开发过程中大部分会用到的方法和函数，是一个不错的工具库.|[点击前往](https://github.com/SwifterSwift/SwifterSwift)|🌟🌟🌟🌟|
 |EZSwiftExtensions|提供了一系列对于 Swift 标准库、方法与 UIKit 的扩展，让你更加简单舒服地编写代码。|[点击前往](https://github.com/goktugyil/EZSwiftExtensions)|🌟🌟🌟|
 |Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|
+|Promisekit|异步编程|[点击前往](https://github.com/mxcl/PromiseKit)|🌟🌟🌟🌟|
 |HanekeSwift|是一个轻量级的缓存,为UIImage,JSON,NSData,String提供记忆和LRU磁盘缓存。|[点击前往](https://github.com/Haneke/HanekeSwift)|🌟🌟🌟|
 |CryptoSwift |是一个使用 Swift 编写的加密工具包,支持多种加密算法,如:MD5、SHA1、AES-128 等等|[点击前往](https://github.com/krzyzanowskim/CryptoSwift)|🌟🌟🌟🌟|
 |Chameleon|是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.|[点击前往](https://github.com/ViccAlexander/Chameleon)|🌟🌟🌟🌟|
@@ -415,6 +417,7 @@
 |PeekPop|Peek和Pop是iPhone 6S和6S+上新增的一个很棒的iOS特性，可以很方便地使用3D touch来预览内容。|[点击前往](https://github.com/marmelroy/PeekPop)|🌟🌟🌟🌟|
 |SCLAlertView-Swift|不错的一款alert view。|[点击前往](https://github.com/vikmeup/SCLAlertView-Swift)|🌟🌟🌟🌟|
 |SweetAlert-iOS|Live animated Alert View |[点击前往](https://github.com/codestergit/SweetAlert-iOS)|🌟🌟🌟🌟|
+|FloatingPanel|浮动界面 |[点击前往](https://github.com/SCENEE/FloatingPanel)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -446,6 +449,7 @@
 |ImageViewer|Twitter上的图像查看器|[点击前往](https://github.com/Krisiacik/ImageViewer)|🌟🌟🌟🌟|
 |ImagePicker|图片选择器，重塑ImagePicker的工作方式。|[点击前往](https://github.com/hyperoslo/ImagePicker)|🌟🌟🌟🌟|
 |SKPhotoBrowser|受Facebook启发的简单PhotoBrowser / Viewer，swift编写的twitter照片浏览器|[点击前往](https://github.com/suzuki-0000/SKPhotoBrowser)|🌟🌟🌟🌟|
+|SwiftyCam|由Swift编写的受Snapchat启发的iOS相机框架|[点击前往](https://github.com/Awalz/SwiftyCam)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -535,7 +539,13 @@
 |WRCycleScrollView|Swift 自动无限轮播用这个就够了 swift 4|[点击前往](https://github.com/wangrui460/WRCycleScrollView)|🌟🌟🌟|
 |ZCycleView|使用UICollectionView实现常见图片/文字无限轮播，支持自定义cell，自定义pageControl，以及轮播样式|[点击前往](https://github.com/MQZHot/ZCycleView)|🌟🌟🌟|
 |ZLaunchAd|快速集成启动广告,支持LaunchImage和LaunchScreen,支持GIF,支持本地图片,支持视图过渡动画|[点击前往](https://github.com/MQZHot/ZLaunchAd)|🌟🌟🌟|
-
+|ImageScout|最小网络代价获得图片大小及类型类|[点击前往](https://github.com/kaishin/ImageScout)|🌟🌟🌟|
+|Nuke|强大的图像加载和缓存系统|[点击前往](https://github.com/kean/Nuke)|🌟🌟🌟🌟|
+|Proposer|请求本地设备权限 |[点击前往](https://github.com/nixzhu/Proposer)|🌟🌟🌟|
+|Wormhole|设备之间的分享iPhone watch |[点击前往](https://github.com/nixzhu/Wormhole)|🌟🌟🌟|
+|Blueprints|多种瀑布流|[点击前往](https://github.com/zenangst/Blueprints)|🌟🌟🌟|
+|SideMenu|适用于iOS的简单侧面/幻灯片菜单控件，无需代码！很多定制。在5分钟或更短的时间内将其添加到您的项目中。|[点击前往](https://github.com/jonkykong/SideMenu)|🌟🌟🌟🌟|
+|NotificationBanner|在iOS中的应用程序通知横幅中显示高度可定制的最简单方法|[点击前往](https://github.com/Daltron/NotificationBanner)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -556,7 +566,7 @@
 |Koloda|卡片视图，而且滑动视图有滑动卡片一样的动画效果。|[点击前往](https://github.com/Yalantis/Koloda)|🌟🌟🌟🌟|
 |Whisper|使用简单、功能实用的消息及应用通知组件。|[点击前往](https://github.com/hyperoslo/Whisper)|🌟🌟🌟🌟|
 |WaterDrops|这个库模拟了温和的雨滴，是一个非常酷的动画，可用于使您的应用更具动态性并吸引用户。您可以配置雨滴方向，雨滴数，最小和最大尺寸以及最小和最大持续时间。|[点击前往](https://github.com/LeFal/WaterDrops)|🌟🌟🌟🌟|
-
+｜lottie-ios｜一个iOS库，用于原生渲染After Effects矢量动画|[点击前往](https://github.com/airbnb/lottie-ios)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
