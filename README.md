@@ -206,6 +206,7 @@
 |FXBlurView|是UIView的子类，它实现毛玻璃效果的原理其实就是覆盖上一层FXBlurView的实例对象。|[点击前往](https://github.com/nicklockwood/FXBlurView)|🌟🌟🌟🌟|
 |BEMCheckBox|是一个开源库，可以轻松地为iOS创建漂亮，高度可定制的，有动画效果的复选框。|[点击前往](https://github.com/Boris-Em/BEMCheckBox)|🌟🌟🌟🌟|
 |XLForm|是最灵活且最强大的创建动态表单的iOS库。|[点击前往](https://github.com/xmartlabs/XLForm)|🌟🌟🌟|
+|LiquidFloatingActionButton|液态的材料设计浮动动作按钮|[点击前往](https://github.com/yoavlt/LiquidFloatingActionButton)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -351,6 +352,7 @@
 |R.swift|可以获取强类型、自动完成的资源，如图像、字体和段落完全类型化。更少的强制转换和猜测方法将返回什么编译时检查，运行时不再有导致应用程序崩溃的错误字符串自动完成，再也不用怀疑图片名字是不是复制错了。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟🌟|
 |swiftScan|二维码 各种码识别，生成，界面效果|[点击前往](https://github.com/MxABC/swiftScan)|🌟🌟🌟|
 |Reachability|网络监察|[点击前往](https://github.com/ashleymills/Reachability.swift)|🌟🌟🌟🌟|
+|Tiercel|简单易用、功能丰富的纯 Swift 下载框架|[点击前往](https://github.com/Danie1s/Tiercel)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -584,7 +586,7 @@
 |OAuthSwift|国外主流网站OAuth授权库。|[点击前往](https://github.com/OAuthSwift/OAuthSwift)|🌟🌟🌟🌟|
 |R.swift|以一种优雅安全的方式使用资源文件。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟|
 |Design-Patterns-In-Swift|swift实现的各种设计模式。|[点击前往](https://github.com/ochococo/Design-Patterns-In-Swift)|🌟🌟🌟🌟|
-
+|XcodeGen|一个用于生成Xcode项目的Swift命令行工具|[点击前往](https://github.com/yonaskolb/XcodeGen)|🌟🌟🌟|
 <br>
 
 
