@@ -66,6 +66,7 @@
 | AFNetworking | 一款轻量级网络请求开源框架，基于iOS和mac os 网络进行扩展的高性能框架，大大降低了iOS开发工程师处理网络请求的难度，让iOS开发变成一件愉快的事情。|  [点击前往](https://github.com/AFNetworking/AFNetworking)   |  🌟🌟🌟🌟🌟   |
 | CocoaAsyncSocket | 是谷歌的开发者，基于BSD-Socket写的一个IM框架，它给Mac和iOS提供了易于使用的、强大的异步套接字库，向上封装出简单易用OC接口。省去了我们面向Socket以及数据流Stream等繁琐复杂的编程。 | [点击前往](https://github.com/robbiehanson/CocoaAsyncSocket) | 🌟🌟🌟🌟🌟 |
 |YTKNetwork|是猿题库 iOS 研发团队基于 AFNetworking 封装的 iOS 网络库，提供了更高层次的网络访问抽象。|[点击前往](https://github.com/yuantiku/YTKNetwork)|🌟🌟🌟🌟|
+|OHHTTPStubs|轻松添加您的网络请求！使用伪造的网络数据和自定义响应时间，响应代码和标头测试您的应用！|[点击前往](https://github.com/AliSoftware/OHHTTPStubs)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -266,6 +267,9 @@
 |YYText|适用于iOS的强大文本框架，用于显示和编辑RTF。|[点击前往](https://github.com/ibireme/YYText)|🌟🌟🌟🌟🌟|
 |DTCoreText|是可以将HTML字符串转化为富文本使用的工具,既保证原生实现又能适应灵活的样式修改,而且相比于使用WebView显示内容在性能上也有很大优势。|[点击前往](https://github.com/Cocoanetics/DTCoreText)|🌟🌟🌟🌟|
 |LTNavigationBar|动态的修改NavigationBar的颜色。|[点击前往](https://github.com/ltebean/LTNavigationBar)|🌟🌟🌟|
+|KMNavigationBarTransition|嵌入式通用库可帮助您管理导航栏样式，并使各种导航栏样式之间的过渡动​​画平滑，同时为所有方向推或弹出视图控制器。而且您无需为此编写任何代码，所有这些都会自动发生。|[点击前往](https://github.com/MoZhouqi/KMNavigationBarTransition)|🌟🌟🌟🌟|
+|YPNavigationBarTransition|类似微信 iOS Navigation Bar 的切换方案）|[点击前往](https://github.com/yiplee/YPNavigationBarTransition)|🌟🌟🌟|
+|WRNavigationBar|超简单！！！ 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 ）|[点击前往](https://github.com/wangrui460/WRNavigationBar)|🌟🌟🌟|
 |DOPDropDownMenu-Enhanced|类似美团，糯米，大众点评的筛选排序菜单。|[点击前往](https://github.com/12207480/DOPDropDownMenu-Enhanced)|🌟🌟🌟|
 |Shimmer|是一款开源的加载效果工具,能够非常简单地向应用中的任何视图添加闪闪发光的字体效果,并且不会显得突兀。|[点击前往](https://github.com/facebook/Shimmer)|🌟🌟🌟|
 |KVOController|是FaceBook的一个开源库,提供了方便的姿势让你去使用KVO。|[点击前往](https://github.com/facebook/KVOController)|🌟🌟🌟|
@@ -293,9 +297,10 @@
 |SwipeView|是一个旨在简化iOS上水平分页滚动视图实现的类。它基于UIScrollView，但增加了方便的功能，例如UITableView样式的dataSource / delegate接口，用于动态加载视图，以及高效的视图加载，卸载和回收。|[点击前往](https://github.com/nicklockwood/SwipeView)|🌟🌟🌟|
 |DZNSegmentedControl|UISegmentedControl的替代品，用于显示计数，通常在用户个人资料上使用|[点击前往](https://github.com/dzenbot/DZNSegmentedControl)|🌟🌟🌟|
 |DZNPhotoPickerController|使用热门图像提供程序（例如500px，Flickr，Instagram，Giphy，Google和Bing Images）的iOS照片搜索/选择器|[点击前往](https://github.com/dzenbot/DZNPhotoPickerController)|🌟🌟🌟|
-|YPNavigationBarTransition|类似微信 iOS Navigation Bar 的切换方案）|[点击前往](https://github.com/yiplee/YPNavigationBarTransition)|🌟🌟🌟|
-|WRNavigationBar|超简单！！！ 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 ）|[点击前往](https://github.com/wangrui460/WRNavigationBar)|🌟🌟🌟|
 |LBXScan|二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装|[点击前往](https://github.com/MxABC/LBXScan)|🌟🌟🌟🌟|
+|LBXScan|二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装|[点击前往](https://github.com/MxABC/LBXScan)|🌟🌟🌟🌟|
+
+
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -569,6 +574,8 @@
 |Whisper|使用简单、功能实用的消息及应用通知组件。|[点击前往](https://github.com/hyperoslo/Whisper)|🌟🌟🌟🌟|
 |WaterDrops|这个库模拟了温和的雨滴，是一个非常酷的动画，可用于使您的应用更具动态性并吸引用户。您可以配置雨滴方向，雨滴数，最小和最大尺寸以及最小和最大持续时间。|[点击前往](https://github.com/LeFal/WaterDrops)|🌟🌟🌟🌟|
 ｜lottie-ios｜一个iOS库，用于原生渲染After Effects矢量动画|[点击前往](https://github.com/airbnb/lottie-ios)|🌟🌟🌟🌟|
+｜Magnetic｜SpriteKit浮动气泡选取器（受Apple Music启发）|[点击前往](https://github.com/efremidze/Magnetic)|🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -587,6 +594,7 @@
 |R.swift|以一种优雅安全的方式使用资源文件。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟|
 |Design-Patterns-In-Swift|swift实现的各种设计模式。|[点击前往](https://github.com/ochococo/Design-Patterns-In-Swift)|🌟🌟🌟🌟|
 |XcodeGen|一个用于生成Xcode项目的Swift命令行工具|[点击前往](https://github.com/yonaskolb/XcodeGen)|🌟🌟🌟|
+|Bagel|适用于iOS的本地网络调试工具|[点击前往](https://github.com/yagiz/Bagel)|🌟🌟🌟|
 <br>
 
 
