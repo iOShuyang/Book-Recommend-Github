@@ -573,8 +573,8 @@
 |Koloda|卡片视图，而且滑动视图有滑动卡片一样的动画效果。|[点击前往](https://github.com/Yalantis/Koloda)|🌟🌟🌟🌟|
 |Whisper|使用简单、功能实用的消息及应用通知组件。|[点击前往](https://github.com/hyperoslo/Whisper)|🌟🌟🌟🌟|
 |WaterDrops|这个库模拟了温和的雨滴，是一个非常酷的动画，可用于使您的应用更具动态性并吸引用户。您可以配置雨滴方向，雨滴数，最小和最大尺寸以及最小和最大持续时间。|[点击前往](https://github.com/LeFal/WaterDrops)|🌟🌟🌟🌟|
-｜lottie-ios｜一个iOS库，用于原生渲染After Effects矢量动画|[点击前往](https://github.com/airbnb/lottie-ios)|🌟🌟🌟🌟|
-｜Magnetic｜SpriteKit浮动气泡选取器（受Apple Music启发）|[点击前往](https://github.com/efremidze/Magnetic)|🌟🌟🌟|
+|lottie-ios|一个iOS库，用于原生渲染After Effects矢量动画|[点击前往](https://github.com/airbnb/lottie-ios)|🌟🌟🌟🌟|
+|Magnetic|SpriteKit浮动气泡选取器（受Apple Music启发）|[点击前往](https://github.com/efremidze/Magnetic)|🌟🌟🌟|
 
 <br>
 <br>
