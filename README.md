@@ -248,6 +248,8 @@
 |novocaine|应用于OSX和iOS的高性能音频框架|[点击前往](https://github.com/alexbw/novocaine)|🌟🌟🌟🌟|
 |WMPlayer|万能播放器，内部封装了AVPlayer和FFmpeg最新版本(4.0.2)，两款播放器完全解耦设计，没有使用废弃api，支持几乎所有视频格式(avi、flv、m3u8、3gp、RTMP、RTSP、MKV、rmvb、wmv、mp4、mov)，网络和本地视频同时支持|[点击前往](https://github.com/zhengwenming/WMPlayer)|🌟🌟🌟|
 |StreamingKit|是一个强大的IOS音频播放工具|[点击前往](https://github.com/tumtumtum/StreamingKit)|🌟🌟🌟🌟|
+|GPUImage|用于基于GPU的图像和视频处理的开源iOS框架|[点击前往](https://github.com/BradLarson/GPUImage)|🌟🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -299,7 +301,7 @@
 |DZNPhotoPickerController|使用热门图像提供程序（例如500px，Flickr，Instagram，Giphy，Google和Bing Images）的iOS照片搜索/选择器|[点击前往](https://github.com/dzenbot/DZNPhotoPickerController)|🌟🌟🌟|
 |LBXScan|二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装|[点击前往](https://github.com/MxABC/LBXScan)|🌟🌟🌟🌟|
 |LBXScan|二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装|[点击前往](https://github.com/MxABC/LBXScan)|🌟🌟🌟🌟|
-
+|XLUIKit|iOS UI工具集|[点击前往](https://github.com/mengxianliang/XLUIKit)|🌟🌟🌟|
 
 
 ## <div align=center>-------------------------感谢-------------------------</div>
@@ -439,6 +441,7 @@
 |MobilePlayer|一个强大、可自定义的媒体播放器.|[点击前往](https://github.com/mobileplayer/mobileplayer-ios)|🌟🌟🌟|
 |Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|
 |AudioKit|是一个用于在OS X、iOS、tvOS开发中进行音频合成、处理和分析的工具集|[点击前往](https://github.com/audiokit/AudioKit)|🌟🌟🌟🌟|
+|GPUImage2|GPUImage 2是BSD许可的Swift框架，用于GPU加速的视频和图像处理。|[点击前往](https://github.com/BradLarson/GPUImage2)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -595,6 +598,8 @@
 |Design-Patterns-In-Swift|swift实现的各种设计模式。|[点击前往](https://github.com/ochococo/Design-Patterns-In-Swift)|🌟🌟🌟🌟|
 |XcodeGen|一个用于生成Xcode项目的Swift命令行工具|[点击前往](https://github.com/yonaskolb/XcodeGen)|🌟🌟🌟|
 |Bagel|适用于iOS的本地网络调试工具|[点击前往](https://github.com/yagiz/Bagel)|🌟🌟🌟|
+|Ink|用Swift编写的快速灵活的Markdown解析器。|[点击前往](https://github.com/JohnSundell/Ink)|🌟🌟🌟|
+
 <br>
 
 
