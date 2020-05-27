@@ -44,6 +44,7 @@
 | CYLTabBarController | 【中国特色 TabBar】最低只需传两个数组即可完成主流App框架搭建。 | [点击前往](https://github.com/ChenYilong/CYLTabBarController) | 🌟🌟🌟🌟🌟 |
 | Onboard |是现在github最火的引导页框架，使用几行代码就能轻松创建创建优美而迷人的引导页。|[点击前往](https://github.com/mamaral/Onboard)|🌟🌟🌟🌟|
 | DZNEmptyDataSet |是一个嵌入 UITableView/UICollectionView 超类的范畴(category),当视图没有要显示的内容时,它用于显示空数据集界面。|[点击前往](https://github.com/dzenbot/DZNEmptyDataSet)|🌟🌟🌟🌟|
+| LYEmptyView |iOS一行代码集成空白页面占位图(无数据、无网络占位图)|[点击前往](https://github.com/dev-liyang/LYEmptyView)|🌟🌟🌟|
 | XHLaunchAd |开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.|[点击前往](https://github.com/CoderZhuXH/XHLaunchAd)|🌟🌟🌟🌟|
 | CYLTableViewPlaceHolder |一行代码完成“空TableView占位视图”管理|[点击前往](https://github.com/ChenYilong/CYLTableViewPlaceHolder)|🌟🌟🌟|
 |PYSearch| 一个非常优雅的搜索控制器iOS框架|[点击前往](https://github.com/ko1o/PYSearch)|🌟🌟🌟🌟|
@@ -206,8 +207,8 @@
 |XYPieChart|饼状图, 饼图, 数据统计, 数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片。|[点击前往](https://github.com/xyfeng/XYPieChart)|🌟🌟🌟|
 |FXBlurView|是UIView的子类，它实现毛玻璃效果的原理其实就是覆盖上一层FXBlurView的实例对象。|[点击前往](https://github.com/nicklockwood/FXBlurView)|🌟🌟🌟🌟|
 |BEMCheckBox|是一个开源库，可以轻松地为iOS创建漂亮，高度可定制的，有动画效果的复选框。|[点击前往](https://github.com/Boris-Em/BEMCheckBox)|🌟🌟🌟🌟|
-|XLForm|是最灵活且最强大的创建动态表单的iOS库。|[点击前往](https://github.com/xmartlabs/XLForm)|🌟🌟🌟|
 |LiquidFloatingActionButton|液态的材料设计浮动动作按钮|[点击前往](https://github.com/yoavlt/LiquidFloatingActionButton)|🌟🌟🌟🌟|
+|XLForm|是最灵活且最强大的创建动态表单的iOS库。|[点击前往](https://github.com/xmartlabs/XLForm)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -300,9 +301,12 @@
 |DZNSegmentedControl|UISegmentedControl的替代品，用于显示计数，通常在用户个人资料上使用|[点击前往](https://github.com/dzenbot/DZNSegmentedControl)|🌟🌟🌟|
 |DZNPhotoPickerController|使用热门图像提供程序（例如500px，Flickr，Instagram，Giphy，Google和Bing Images）的iOS照片搜索/选择器|[点击前往](https://github.com/dzenbot/DZNPhotoPickerController)|🌟🌟🌟|
 |LBXScan|二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装|[点击前往](https://github.com/MxABC/LBXScan)|🌟🌟🌟🌟|
-|LBXScan|二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装|[点击前往](https://github.com/MxABC/LBXScan)|🌟🌟🌟🌟|
 |XLUIKit|iOS UI工具集|[点击前往](https://github.com/mengxianliang/XLUIKit)|🌟🌟🌟|
-
+|GKPageScrollView|iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果|[点击前往](https://github.com/QuintGao/GKPageScrollView)|🌟🌟🌟|
+|GKPhotoBrowser|iOS仿微信、今日头条等图片浏览器|[点击前往](https://github.com/QuintGao/GKPhotoBrowser)|🌟🌟🌟|
+|GKNavigationBarViewController|iOS自定义导航栏-导航栏联动|[点击前往](https://github.com/QuintGao/GKNavigationBarViewController)|🌟🌟🌟|
+|iOSMixProject|混淆加固工程|[点击前往](https://github.com/JourneyYoung/iOSMixProject)|🌟🌟🌟|
+|ZSSRichTextEditor|用于iOS的漂亮的RTF所见即所得编辑器，带有突出显示语法的源代码视图|[点击前往](https://github.com/nnhubbard/ZSSRichTextEditor)|🌟🌟🌟🌟|
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -375,6 +379,7 @@
 |SwiftyJSON|是个使用Swift语言编写的开源库,可以让我们很方便地处理JSON数据(解析数据、生成数据)。|[点击前往](https://github.com/SwiftyJSON/SwiftyJSON)|🌟🌟🌟🌟🌟|
 |HandyJSON|是阿里巴巴开源的一个用于Swift语言中的JSON序列化/反序列化库，可以很方便进行json与model的转换，以及常用的字典与模型的互相转换。|[点击前往](https://github.com/alibaba/HandyJSON)|🌟🌟🌟🌟🌟|
 |ObjectMapper|ObjectMapper类是Jackson库的主要类。它提供一些功能将转换成Java对象匹配JSON结构，反之亦然。它使用JsonParser和JsonGenerator的实例实现JSON实际的读/写。|[点击前往](https://github.com/tristanhimmelman/ObjectMapper)|🌟🌟🌟🌟🌟|
+|Codextended|Swift 中高效的JSON 转Model 框架|[点击前往](https://github.com/JohnSundell/Codextended)|🌟🌟🌟|
 |AlamofireObjectMapper|Alamofire扩展，使用ObjectMapper将JSON响应数据转换为swift对象|[点击前往](https://github.com/tristanhimmelman/AlamofireObjectMapper)|🌟🌟🌟🌟|
 |Argo|函数式json解析转换库。|[点击前往](https://github.com/thoughtbot/Argo)|🌟🌟🌟|
 |SQLite|用swift封装的sqlite 3操作框架。|[点击前往](https://github.com/stephencelis/SQLite.swift)|🌟🌟🌟🌟|
@@ -410,6 +415,8 @@
 |Permission|统一管理iOS系统的许可，比如相机、相片、定位等。|[点击前往](https://github.com/nickoneill/PermissionScope)|🌟🌟🌟|
 |Dollar|无需扩展任何内置对象就为Swift语言提供有效的函数式编程辅助方法,类似于Lo-Dash或JavaScript中的Underscore。|[点击前往](https://github.com/ankurp/Dollar)|🌟🌟🌟🌟|
 |TextAttributes|封装NSAttributedString的框架，让attributed strings处理更加简单，而且是链式结构，看起来更加直观。|[点击前往](https://github.com/delba/TextAttributes)|🌟🌟🌟🌟|
+|DifferenceKit|快速，灵活的O（n）差异算法框架，用于Swift收集。|[点击前往](https://github.com/ra1028/DifferenceKit)|🌟🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -509,7 +516,6 @@
 |TextFieldEffects|是一个Swift的炫酷的TextField封装类|[点击前往](https://github.com/raulriera/TextFieldEffects)|🌟🌟🌟🌟|
 |Animated TabBar|是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|[点击前往](https://github.com/Ramotion/animated-tab-bar)|🌟🌟🌟🌟|
 |FoldingCell|自然,清新的单元格折叠动画|[点击前往](https://github.com/Ramotion/folding-cell)|🌟🌟🌟🌟|
-|Eureka|通过详细的映射，创建动态的table-view forms。|[点击前往](https://github.com/xmartlabs/Eureka)|🌟🌟🌟🌟|
 |Hero|适用于iOS和tvOS的优雅过渡库|[点击前往](https://github.com/lkzhao/Hero)|🌟🌟🌟🌟|
 |SkeletonView|骨架屏）基本原理是添加控件形成真实的布局，等有数据时隐藏。 |[点击前往](https://github.com/Juanpe/SkeletonView)|🌟🌟🌟🌟|
 |ARKit-CoreLocation|使用摄像头和运动数据来绘制用户移动时本地的地图。|[点击前往](https://github.com/ProjectDent/ARKit-CoreLocation)|🌟🌟🌟🌟|
@@ -556,6 +562,11 @@
 |Blueprints|多种瀑布流|[点击前往](https://github.com/zenangst/Blueprints)|🌟🌟🌟|
 |SideMenu|适用于iOS的简单侧面/幻灯片菜单控件，无需代码！很多定制。在5分钟或更短的时间内将其添加到您的项目中。|[点击前往](https://github.com/jonkykong/SideMenu)|🌟🌟🌟🌟|
 |NotificationBanner|在iOS中的应用程序通知横幅中显示高度可定制的最简单方法|[点击前往](https://github.com/Daltron/NotificationBanner)|🌟🌟🌟🌟|
+|Eureka|通过详细的映射，创建动态的table-view forms。|[点击前往](https://github.com/xmartlabs/Eureka)|🌟🌟🌟🌟|
+|Former|Former是一个完全可自定义的Swift库，用于轻松创建基于UITableView的表单。|[点击前往](https://github.com/ra1028/Former)|🌟🌟🌟|
+|SwiftForms|用Swift编写的小型轻量级库，可让您轻松创建表单。|[点击前往](https://github.com/ortuman/SwiftForms)|🌟🌟🌟|
+|Carbon|一个声明性库，用于在UITableView和UICollectionView中构建基于组件的用户界面。 |[点击前往](https://github.com/ra1028/Carbon)|🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -599,6 +610,9 @@
 |XcodeGen|一个用于生成Xcode项目的Swift命令行工具|[点击前往](https://github.com/yonaskolb/XcodeGen)|🌟🌟🌟|
 |Bagel|适用于iOS的本地网络调试工具|[点击前往](https://github.com/yagiz/Bagel)|🌟🌟🌟|
 |Ink|用Swift编写的快速灵活的Markdown解析器。|[点击前往](https://github.com/JohnSundell/Ink)|🌟🌟🌟|
+|Publish|适用于Swift开发人员的静态网站生成器。 |[点击前往](https://github.com/JohnSundell/Publish)|🌟🌟🌟|
+|Plot|用于在Swift中编写类型安全的HTML，XML和RSS的DSL。 |[点击前往](https://github.com/JohnSundell/Plot)|🌟🌟🌟|
+|Files|在Swift中处理文件和文件夹的更好方法。 |[点击前往](https://github.com/JohnSundell/Files)|🌟🌟🌟|
 
 <br>
 
