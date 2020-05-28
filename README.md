@@ -138,6 +138,7 @@
 | --- | --- | --- | --- |
 |Masonry|是一个轻量级的布局框架,拥有自己的描述语法,采用更优雅的链式语法封装自动布局,简洁明了并具有高可读性,而且同时支持 iOS 和 Max OS X。|[点击前往](https://github.com/SnapKit/Masonry)|🌟🌟🌟🌟🌟|
 |MyLinearLayout|是一套iOS界面视图布局框架。其内核是基于对UIView的layoutSubviews方法的重载以及对子视图的bounds和center属性的设置而实现的。|[点击前往](https://github.com/youngsoft/MyLinearLayout)|🌟🌟🌟|
+|SDAutoLayout|一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。|[点击前往](https://github.com/gsdios/SDAutoLayout)|🌟🌟🌟🌟|
 |iCarousel|是一个使用简单、高度自定义的多类型视图切换的控件,支持iOS/Mac OS、ARC & Thread Safety|[点击前往](https://github.com/nicklockwood/iCarousel)|🌟🌟🌟🌟|
 
 <br>
@@ -209,6 +210,7 @@
 |BEMCheckBox|是一个开源库，可以轻松地为iOS创建漂亮，高度可定制的，有动画效果的复选框。|[点击前往](https://github.com/Boris-Em/BEMCheckBox)|🌟🌟🌟🌟|
 |LiquidFloatingActionButton|液态的材料设计浮动动作按钮|[点击前往](https://github.com/yoavlt/LiquidFloatingActionButton)|🌟🌟🌟🌟|
 |XLForm|是最灵活且最强大的创建动态表单的iOS库。|[点击前往](https://github.com/xmartlabs/XLForm)|🌟🌟🌟🌟|
+|TBActionSheet|一个 ActionSheet 满足所有样式！超高自由度的可定制！|[点击前往](https://github.com/yulingtianxia/TBActionSheet)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -599,8 +601,8 @@
 ## <div align=center>-------------------------[Swift 综合框架](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
+|Vapor| 是一个用苹果最新开源语言swift开发的一套web高性能框架,迄今为止是地球上最快的web开发框架! |[点击前往](https://github.com/vapor/vapor)|🌟🌟🌟🌟🌟|
 |Perfect| Perfect是一组完整、强大的工具箱、软件框架体系和Web应用服务器，可以在Linux、iOS和macOS (OS X)上使用。该软件体系为Swift工程师量身定制了一整套用于开发轻量、易维护、规模可扩展的Web应用及其它REST服务的解决方案，这样Swift工程师就可以实现同时在服务器和客户端上采用同一种语言开发软件项目。 |[点击前往](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md)|🌟🌟🌟🌟|
-|Vapor| 是一个用苹果最新开源语言swift开发的一套web高性能框架,迄今为止是地球上最快的web开发框架! |[点击前往](https://github.com/vapor/vapor)|🌟🌟🌟🌟|
 |Surge| mattt写的性能加速框架，为数字信号处理和图像处理提供高性能。 |[点击前往](https://github.com/mattt/Surge)|🌟🌟🌟🌟|
 |Quick|测试框架，支持Swift和OC，灵感来自于 RSpec, Specta, and Ginkgo。|[点击前往](https://github.com/Quick/Quick)|🌟🌟🌟🌟|
 |swift-algorithm-club|swift中的算法以及数据结构，还有解释说明。|[点击前往](https://github.com/raywenderlich/swift-algorithm-club)|🌟🌟🌟🌟|
@@ -613,7 +615,8 @@
 |Publish|适用于Swift开发人员的静态网站生成器。 |[点击前往](https://github.com/JohnSundell/Publish)|🌟🌟🌟|
 |Plot|用于在Swift中编写类型安全的HTML，XML和RSS的DSL。 |[点击前往](https://github.com/JohnSundell/Plot)|🌟🌟🌟|
 |Files|在Swift中处理文件和文件夹的更好方法。 |[点击前往](https://github.com/JohnSundell/Files)|🌟🌟🌟|
-
+|Carthage|Carthage和CocoaPods相比，轻量级一些，在swift中使用很方便，它本身就是swift写的。|[点击前往](https://github.com/Carthage/Carthage)|🌟🌟🌟🌟|
+|Burritos|Swift Property Wrappers的集合。 |[点击前往](https://github.com/guillermomuntaner/Burritos)|🌟🌟🌟|
 <br>
 
 
