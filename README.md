@@ -362,10 +362,10 @@
 |JXMarqueeView| 一个强大易于使用的iOS跑马灯视图|[点击前往](https://github.com/pujiaxin33/JXMarqueeView)|🌟🌟🌟|
 |SwiftMessages|提供多种丰富的消息弹窗样式的控件|[点击前往](https://github.com/SwiftKickMobile/SwiftMessages)|🌟🌟🌟🌟|
 |RxSwift|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|[点击前往](https://github.com/ReactiveX/RxSwift)|🌟🌟🌟🌟🌟|
-|R.swift|可以获取强类型、自动完成的资源，如图像、字体和段落完全类型化。更少的强制转换和猜测方法将返回什么编译时检查，运行时不再有导致应用程序崩溃的错误字符串自动完成，再也不用怀疑图片名字是不是复制错了。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟🌟|
 |swiftScan|二维码 各种码识别，生成，界面效果|[点击前往](https://github.com/MxABC/swiftScan)|🌟🌟🌟|
 |Reachability|网络监察|[点击前往](https://github.com/ashleymills/Reachability.swift)|🌟🌟🌟🌟|
 |Tiercel|简单易用、功能丰富的纯 Swift 下载框架|[点击前往](https://github.com/Danie1s/Tiercel)|🌟🌟🌟🌟|
+|SwiftTheme|Powerful theme/skin manager for iOS 8+ 主题/换肤, 暗色模式|[点击前往](https://github.com/wxxsw/SwiftTheme)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -602,6 +602,7 @@
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |Vapor| 是一个用苹果最新开源语言swift开发的一套web高性能框架,迄今为止是地球上最快的web开发框架! |[点击前往](https://github.com/vapor/vapor)|🌟🌟🌟🌟🌟|
+|OnionBrowser| 适用于iOS的开放源代码，增强隐私的Web浏览器，利用Tor匿名网络 |[点击前往](https://github.com/OnionBrowser/OnionBrowser)|🌟🌟🌟|
 |Perfect| Perfect是一组完整、强大的工具箱、软件框架体系和Web应用服务器，可以在Linux、iOS和macOS (OS X)上使用。该软件体系为Swift工程师量身定制了一整套用于开发轻量、易维护、规模可扩展的Web应用及其它REST服务的解决方案，这样Swift工程师就可以实现同时在服务器和客户端上采用同一种语言开发软件项目。 |[点击前往](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md)|🌟🌟🌟🌟|
 |Surge| mattt写的性能加速框架，为数字信号处理和图像处理提供高性能。 |[点击前往](https://github.com/mattt/Surge)|🌟🌟🌟🌟|
 |Quick|测试框架，支持Swift和OC，灵感来自于 RSpec, Specta, and Ginkgo。|[点击前往](https://github.com/Quick/Quick)|🌟🌟🌟🌟|
@@ -617,6 +618,7 @@
 |Files|在Swift中处理文件和文件夹的更好方法。 |[点击前往](https://github.com/JohnSundell/Files)|🌟🌟🌟|
 |Carthage|Carthage和CocoaPods相比，轻量级一些，在swift中使用很方便，它本身就是swift写的。|[点击前往](https://github.com/Carthage/Carthage)|🌟🌟🌟🌟|
 |Burritos|Swift Property Wrappers的集合。 |[点击前往](https://github.com/guillermomuntaner/Burritos)|🌟🌟🌟|
+|OpenCombine|苹果公司Combine框架的开源实现，可随着时间的推移来处理价值。 |[点击前往](https://github.com/broadwaylamb/OpenCombine)|🌟🌟🌟|
 <br>
 
 
