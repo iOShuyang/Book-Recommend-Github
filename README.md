@@ -234,6 +234,7 @@
 | --- | --- | --- | --- |
 | ReactiveCocoa | 是由GitHub团队开源的一套基于Cocoa的并且具有FRP特性的框架，一个函数响应式编程框架。| [点击前往](https://github.com/ReactiveCocoa/ReactiveCocoa) | 🌟🌟🌟🌟🌟 |
 |WebViewJavascriptBridge|是一个Objective-C与JavaScript进行消息互通的三方库。通过WebViewJavascriptBridge，我们可以很方便的实现OC和Javascript互调的功能。|[点击前往](https://github.com/marcuswestin/WebViewJavascriptBridge)| 🌟🌟🌟🌟🌟 |
+|expo|一个使用React制作通用本机应用程序的开源平台。expo在Android，iOS和网络上运行。|[点击前往](https://github.com/expo/expo)| 🌟🌟🌟🌟 |
 <br>
 <br>
 <br>
@@ -309,6 +310,7 @@
 |GKNavigationBarViewController|iOS自定义导航栏-导航栏联动|[点击前往](https://github.com/QuintGao/GKNavigationBarViewController)|🌟🌟🌟|
 |iOSMixProject|混淆加固工程|[点击前往](https://github.com/JourneyYoung/iOSMixProject)|🌟🌟🌟|
 |ZSSRichTextEditor|用于iOS的漂亮的RTF所见即所得编辑器，带有突出显示语法的源代码视图|[点击前往](https://github.com/nnhubbard/ZSSRichTextEditor)|🌟🌟🌟🌟|
+|TYSnapshotScroll|一句代码保存截图，将 UIScrollView UITableView UICollectionView UIWebView WKWebView 网页 保存 为 长图 查看。|[点击前往](https://github.com/TonyReet/TYSnapshotScroll)|🌟🌟🌟|
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -401,6 +403,7 @@
 |KeychainAccess|使用Keychain非常方便。|[点击前往](https://github.com/kishikawakatsumi/KeychainAccess)|🌟🌟🌟🌟|
 |ExSwift|包含一组标准类型和类的Swift扩展。|[点击前往](https://github.com/pNre/ExSwift)|🌟🌟🌟🌟|
 |SwiftString|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|[点击前往](https://github.com/amayne/SwiftString)|🌟🌟🌟|
+|SwiftRichString|优雅，简单，快捷的方式来创建属性字符串。|[点击前往](https://github.com/malcommac/SwiftRichString)|🌟🌟🌟🌟|
 |SwifterSwift|是一个用 Swift 编写的 Extension 的集合，涵盖了开发过程中大部分会用到的方法和函数，是一个不错的工具库.|[点击前往](https://github.com/SwifterSwift/SwifterSwift)|🌟🌟🌟🌟|
 |EZSwiftExtensions|提供了一系列对于 Swift 标准库、方法与 UIKit 的扩展，让你更加简单舒服地编写代码。|[点击前往](https://github.com/goktugyil/EZSwiftExtensions)|🌟🌟🌟|
 |Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|
