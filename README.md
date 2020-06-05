@@ -211,6 +211,7 @@
 |LiquidFloatingActionButton|液态的材料设计浮动动作按钮|[点击前往](https://github.com/yoavlt/LiquidFloatingActionButton)|🌟🌟🌟🌟|
 |XLForm|是最灵活且最强大的创建动态表单的iOS库。|[点击前往](https://github.com/xmartlabs/XLForm)|🌟🌟🌟🌟|
 |TBActionSheet|一个 ActionSheet 满足所有样式！超高自由度的可定制！|[点击前往](https://github.com/yulingtianxia/TBActionSheet)|🌟🌟🌟|
+|UITextView-Placeholder|UITextView缺少占位符。|[点击前往](https://github.com/devxoul/UITextView-Placeholder)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -344,13 +345,15 @@
 |ESTabBarController|高度自定义TabBarController，支持自定义TabBarItem样式或添加动画|[点击前往](https://github.com/eggswift/ESTabBarController)|🌟🌟🌟🌟|
 |Kingfisher|是由 喵神 编写的用于下载和缓存网络图片的轻量级Swift工具库，其中涉及到了包括GCD、Swift高级语法、缓存、硬盘读写、网络编程、图像编码、图形绘制、Gif数据生成和处理、MD5、Associated Objects的使用等大量iOS开发知识。|[点击前往](https://github.com/onevcat/Kingfisher)|🌟🌟🌟🌟|
 |SnapKit|是一个优秀的第三方自适应布局库,它可以让iOS、OS X应用更简单地实现自动布局(Auto Layout)|[点击前往](https://github.com/SnapKit/SnapKit)|🌟🌟🌟🌟🌟|
+|RxKeyboard|观察键盘框架变化的反应式方法库|[点击前往](https://github.com/RxSwiftCommunity/RxKeyboard)|🌟🌟🌟|
 |IQKeyboardManagerSwift|使用IQKeyboardManager可以很容易地解决弹起键盘遮盖输入框的问题，并且易于集成，不需要侵入性地继承特定的类，也不需要实现某些奇怪的协议|[点击前往](https://github.com/hackiftekhar/IQKeyboardManager)|🌟🌟🌟🌟|
 |XCGLogger|是一个用于Swift项目的debug日志框架，可详细信息记录到控制台，就像使用NSLog或println那样，但是还带有其他额处信息，如日期、函数名、文件名以及行号。|[点击前往](https://github.com/DaveWoodCom/XCGLogger)|🌟🌟🌟🌟|
 |Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|
 |SwiftLint|是一个用于强制检查 Swift 代码风格和规定的一个工具，基本上以 GitHub's Swift 代码风格指南为基础。|[点击前往](https://github.com/realm/SwiftLint/blob/master/README_CN.md)|🌟🌟🌟🌟|
 |SwiftFormat|SwiftFormat是一个代码库和命令行工具，用于在macOS或Linux上重新格式化swift代码。|[点击前往](https://github.com/nicklockwood/SwiftFormat)|🌟🌟🌟|
+|PKHUD|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|[点击前往](https://github.com/pkluz/PKHUD)|🌟🌟🌟|
+|Toaster|Swift的Toast通知|[点击前往](https://github.com/devxoul/Toaster)|🌟🌟🌟🌟|
 |PKHUD|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|[点击前往](https://github.com/pkluz/PKHUD)|🌟🌟🌟🌟|
-|Toast-Swift|一个Swift扩展，为UIView对象类添加了Toast通知|[点击前往](https://github.com/scalessec/Toast-Swift)|🌟🌟🌟🌟|
 |Reusable| 利用protocol extension结合泛型提供了一个优雅的方案来dequeueReusableCell|[点击前往](https://github.com/AliSoftware/Reusable)|🌟🌟🌟🌟|
 |FSPagerView|是一个优雅的轮播控件,它可以十分轻松有效地制作轮播视图、产品展示、欢迎/指南页面。|[点击前往](https://github.com/WenchaoD/FSPagerView)|🌟🌟🌟🌟|
 |ActiveLabel|UILabel插件替换支持用Swift编写的Hashtags（＃），Mentions（@）和URL（http：//）|[点击前往](https://github.com/optonaut/ActiveLabel.swift)|🌟🌟🌟🌟|
@@ -364,6 +367,10 @@
 |JXMarqueeView| 一个强大易于使用的iOS跑马灯视图|[点击前往](https://github.com/pujiaxin33/JXMarqueeView)|🌟🌟🌟|
 |SwiftMessages|提供多种丰富的消息弹窗样式的控件|[点击前往](https://github.com/SwiftKickMobile/SwiftMessages)|🌟🌟🌟🌟|
 |RxSwift|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|[点击前往](https://github.com/ReactiveX/RxSwift)|🌟🌟🌟🌟🌟|
+|ReactorKit|结合了 Flux 和响应式编程。用户行为和页面状态都是通过序列相互传递。这些序列都是单向的：页面只能发出用户行为，然而反应器（Reactor）只能发出状态。|[点击前往](https://github.com/ReactorKit/ReactorKit)|🌟🌟🌟🌟|
+|Then|Swift初始化器的超级甜蜜语法糖.|[点击前往](https://github.com/devxoul/Then)|🌟🌟🌟🌟|
+|URLNavigator|Swift的优雅URL路由.|[点击前往](https://github.com/devxoul/URLNavigator)|🌟🌟🌟🌟|
+|SwiftyImage|在Swift中用颜色生成图像资源|[点击前往](https://github.com/devxoul/SwiftyImage)|🌟🌟🌟🌟|
 |swiftScan|二维码 各种码识别，生成，界面效果|[点击前往](https://github.com/MxABC/swiftScan)|🌟🌟🌟|
 |Reachability|网络监察|[点击前往](https://github.com/ashleymills/Reachability.swift)|🌟🌟🌟🌟|
 |Tiercel|简单易用、功能丰富的纯 Swift 下载框架|[点击前往](https://github.com/Danie1s/Tiercel)|🌟🌟🌟🌟|
@@ -553,7 +560,6 @@
 |Stevia|iOS的优雅视图布局 |[点击前往](https://github.com/freshOS/Stevia)|🌟🌟🌟|
 |SwiftyStoreKit|封装的轻量级的APP内购框架。|[点击前往](https://github.com/bizz84/SwiftyStoreKit)|🌟🌟🌟🌟|
 |PullToBounce|下拉刷新的动画 for UIScrollView。|[点击前往](https://github.com/entotsu/PullToBounce)|🌟🌟🌟🌟|
-|DGElasticPullToRefresh|是一款带有弹性效果的 iOS 下拉刷新组件。|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
 |DGRunkeeperSwitch|是非常有趣的自定义的 Segment Control 的实现|[点击前往](https://github.com/gontovnik/DGRunkeeperSwitch)|🌟🌟🌟🌟|
 |LTScrollView|ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案|[点击前往](https://github.com/gltwy/LTScrollView)|🌟🌟🌟|
 |LLCycleScrollView|Swift - 轮播图，文本轮播，支持左右箭头|[点击前往](https://github.com/LvJianfeng/LLCycleScrollView)|🌟🌟🌟|
