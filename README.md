@@ -312,6 +312,8 @@
 |iOSMixProject|混淆加固工程|[点击前往](https://github.com/JourneyYoung/iOSMixProject)|🌟🌟🌟|
 |ZSSRichTextEditor|用于iOS的漂亮的RTF所见即所得编辑器，带有突出显示语法的源代码视图|[点击前往](https://github.com/nnhubbard/ZSSRichTextEditor)|🌟🌟🌟🌟|
 |TYSnapshotScroll|一句代码保存截图，将 UIScrollView UITableView UICollectionView UIWebView WKWebView 网页 保存 为 长图 查看。|[点击前往](https://github.com/TonyReet/TYSnapshotScroll)|🌟🌟🌟|
+|TransitionKit|一个Objective-C库，用于优雅地实现状态机。|[点击前往](https://github.com/blakewatters/TransitionKit)|🌟🌟🌟|
+
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -361,7 +363,9 @@
 |JXSegmentedView|(腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|[点击前往](https://github.com/pujiaxin33/JXSegmentedView)|🌟🌟🌟🌟|
 |EmptyDataSet-Swift|空白数据集显示框架|[点击前往](https://github.com/Xiaoye220/EmptyDataSet-Swift)|🌟🌟🌟|
 |MonkeyKing|帮助开发者快速集成国内主流社交应用(微信、微博、QQ、支付宝)的分享、授权、支付等功能。重要的是，不需要集成各种官方 SDK。目前由 4 名程序员维护。可用于生产环境、轻量级，能满足绝大部分的分享、授权、支付等需求。|[点击前往](https://github.com/nixzhu/MonkeyKing)|🌟🌟🌟🌟|
-|DGElasticPullToRefresh|弹性的下拉刷新控件|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟🌟|
+|DGElasticPullToRefresh|弹性的下拉刷新控件|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟|
+|BreakOutToRefresh|使用SpriteKit进行可播放拉动以刷新视图|[点击前往](https://github.com/dasdom/BreakOutToRefresh)|🌟🌟🌟|
+|PullToBounce|动画的UIScrollView“拉动刷新”库|[点击前往](https://github.com/entotsu/PullToBounce)|🌟🌟🌟|
 |Instructions|一款能快速创建引导流程的控件|[点击前往](https://github.com/ephread/Instructions)|🌟🌟🌟🌟|
 |RazzleDazzle|集成引导页，具有不错的动画效果。|[点击前往](https://github.com/IFTTT/RazzleDazzle)|🌟🌟🌟🌟|
 |JXMarqueeView| 一个强大易于使用的iOS跑马灯视图|[点击前往](https://github.com/pujiaxin33/JXMarqueeView)|🌟🌟🌟|
@@ -600,6 +604,7 @@
 |WaterDrops|这个库模拟了温和的雨滴，是一个非常酷的动画，可用于使您的应用更具动态性并吸引用户。您可以配置雨滴方向，雨滴数，最小和最大尺寸以及最小和最大持续时间。|[点击前往](https://github.com/LeFal/WaterDrops)|🌟🌟🌟🌟|
 |lottie-ios|一个iOS库，用于原生渲染After Effects矢量动画|[点击前往](https://github.com/airbnb/lottie-ios)|🌟🌟🌟🌟|
 |Magnetic|SpriteKit浮动气泡选取器（受Apple Music启发）|[点击前往](https://github.com/efremidze/Magnetic)|🌟🌟🌟|
+|TKSubmitTransition|加载动画和过渡动画的动画UIButton|[点击前往](https://github.com/entotsu/TKSubmitTransition)|🌟🌟🌟|
 
 <br>
 <br>
