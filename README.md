@@ -313,7 +313,7 @@
 |ZSSRichTextEditor|用于iOS的漂亮的RTF所见即所得编辑器，带有突出显示语法的源代码视图|[点击前往](https://github.com/nnhubbard/ZSSRichTextEditor)|🌟🌟🌟🌟|
 |TYSnapshotScroll|一句代码保存截图，将 UIScrollView UITableView UICollectionView UIWebView WKWebView 网页 保存 为 长图 查看。|[点击前往](https://github.com/TonyReet/TYSnapshotScroll)|🌟🌟🌟|
 |TransitionKit|一个Objective-C库，用于优雅地实现状态机。|[点击前往](https://github.com/blakewatters/TransitionKit)|🌟🌟🌟|
-
+|PinYin4Objc|是一种流行的Objective-C库，支持中文（简体和繁体）与大多数流行的拼音系统之间的转换，它的性能非常高效，首次缓存了数据，并使用带有块的异步方法，这可以避免ui阻塞，并顺利运行。拼音的输出格式可以自定义... |[点击前往](https://github.com/kimziv/PinYin4Objc)|🌟🌟🌟|
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -581,6 +581,7 @@
 |Former|Former是一个完全可自定义的Swift库，用于轻松创建基于UITableView的表单。|[点击前往](https://github.com/ra1028/Former)|🌟🌟🌟|
 |SwiftForms|用Swift编写的小型轻量级库，可让您轻松创建表单。|[点击前往](https://github.com/ortuman/SwiftForms)|🌟🌟🌟|
 |Carbon|一个声明性库，用于在UITableView和UICollectionView中构建基于组件的用户界面。 |[点击前往](https://github.com/ra1028/Carbon)|🌟🌟🌟|
+|SwiftLinkPreview|它从URL进行预览，获取所有信息，例如标题，相关文本和图像。  |[点击前往](https://github.com/LeonardoCardoso/SwiftLinkPreview)|🌟🌟🌟|
 
 <br>
 <br>
@@ -605,6 +606,7 @@
 |lottie-ios|一个iOS库，用于原生渲染After Effects矢量动画|[点击前往](https://github.com/airbnb/lottie-ios)|🌟🌟🌟🌟|
 |Magnetic|SpriteKit浮动气泡选取器（受Apple Music启发）|[点击前往](https://github.com/efremidze/Magnetic)|🌟🌟🌟|
 |TKSubmitTransition|加载动画和过渡动画的动画UIButton|[点击前往](https://github.com/entotsu/TKSubmitTransition)|🌟🌟🌟|
+|NFDownloadButton|改进的下载按钮。这有点像Netflix应用程序下载按钮的反向工程。|[点击前往](https://github.com/LeonardoCardoso/NFDownloadButton)|🌟🌟🌟|
 
 <br>
 <br>
