@@ -108,9 +108,11 @@
 |MBProgressHUD|实现了很多种样式的提示框,使用上简单、方便,并且可以对显示的内容进行自定义,功能很强大,很多项目中都有使用到。|[点击前往](https://github.com/jdg/MBProgressHUD)|🌟🌟🌟🌟🌟|
 |SVProgressHUD|是一个单例（[SVProgressHUD method]），所以可以使用起来也相当方便跟简单，可以写在任意位置；但必须在主线程中进行显示，或则会报闪退；也可以用于显示一个提示信息。|[点击前往](https://github.com/SVProgressHUD/SVProgressHUD)|🌟🌟🌟|
 |Toast|是其中很常用的一种：它简单、小巧、对用户的打扰小的提示框。|[点击前往](https://github.com/scalessec/Toast)|🌟🌟🌟🌟|
-|TYAlertController|各种风格的弹框，满足你的各种需求。|[点击前往](https://github.com/12207480/TYAlertController)|🌟🌟🌟|
 |TSMessages|非HUD风格的iOS提示框(|[点击前往](https://github.com/KrauseFx/TSMessages/)|🌟🌟🌟|
 |JGProgressHUD|灵感来源于众多曾经非常热门的进程指示器,比如MBProgressHUD、JGProgressHUD、SVProgressHUD以及HTProgressHUD等|[点击前往](https://github.com/JonasGessner/JGProgressHUD)|🌟🌟🌟🌟|
+|TYAlertController|各种风格的弹框，满足你的各种需求。|[点击前往](https://github.com/12207480/TYAlertController)|🌟🌟🌟|
+|SCLAlertView|自定义的UIAlertView，更漂亮哦|[点击前往](https://github.com/dogo/SCLAlertView)|🌟🌟🌟|
+|LEEAlert|优雅的可自定义 Alert ActionSheet|[点击前往](https://github.com/lixiang1994/LEEAlert)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -160,6 +162,7 @@
 |ZLPhotoBrowser|方便易用的相册多选框架，支持预览/相册内拍照及录视频、拖拽/滑动选择，3DTouch预览，编辑裁剪图片(滤镜)/视频，导出视频(可添加水印，粒子特效，视频转码)；支持多语言国际化(中文简/繁，英语，日语，可手动切换)；在线下载iCloud端图片；支持预览网络及本地图片/视频|[点击前往](https://github.com/longitachi/ZLPhotoBrowser)|🌟🌟🌟🌟|
 |SDPhotoBrowser|满足用户浏览图片的需求,例如单击图片隐藏、双击图片放大、手势缩放、左右切换以及保存图片等功能|[点击前往](https://github.com/gsdios/SDPhotoBrowser)|🌟🌟🌟|
 |NYTPhotoViewer|是一个幻灯片和图片浏览器,包括双击缩放,字母,支持多个图片,互动电影,动画缩放演示及更多功能。|[点击前往](https://github.com/NYTimes/NYTPhotoViewer)|🌟🌟🌟|
+|HHTransition|主流转场动画，无侵入，API简单易用。|[点击前往](https://github.com/yuwind/HHTransition)|🌟🌟🌟|
 
 <br>
 <br>
@@ -198,6 +201,7 @@
 |JXCategoryView|腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图。|[点击前往](https://github.com/pujiaxin33/JXCategoryView)|🌟🌟🌟🌟|
 |VTMagic|类似网易、腾讯等应用的菜单分页组|[点击前往](https://github.com/tianzhuo112/VTMagic)|🌟🌟🌟|
 |CMPageTitleView|标题栏/菜单栏：一分钟集成类似抖音，新浪微博，腾讯视频，网易新闻，今日头条等常见的标题栏样式，api灵活易扩展，支持Cocoapods和Masonry布局，|[点击前往](https://github.com/CrabMen/CMPageTitleView)|🌟🌟🌟|
+|SGPagingView|QQ、淘宝、微博、腾讯、网易新闻、今日头条等标题滚动视图|[点击前往](https://github.com/kingsic/SGPagingView)|🌟🌟🌟|
 |HMSegmentedControl|一个代替 UISegmentedControl 的投递器, 它模仿了谷歌电流和其他各种谷歌产品中使用的分段控件的样式。|[点击前往](https://github.com/HeshamMegid/HMSegmentedControl)|🌟🌟🌟🌟|
 |WMPageController|一个简单的解决方案, 以页面控制器, 如网易新闻|[点击前往](https://github.com/wangmchn/WMPageController)|🌟🌟🌟🌟|
 |MMPopupView|是一个基于UIWindow的一个简洁、高效的弹出框组件。|[点击前往](https://github.com/adad184/MMPopupView)|🌟🌟🌟|
@@ -297,7 +301,6 @@
 |KYCircleMenu|一个开源的iOS的UI控件,允许你根据按钮的个数构建一个圆形按钮菜单。|[点击前往](https://github.com/Kjuly/KYCircleMenu)|🌟🌟🌟|
 |CHTCollectionViewWaterfallLayout|是UICollectionViewLayout的一个子类，尽可能地模仿了UICollectionViewFlowLayout的用法，灵感来源于Pinterest，同时还兼容PSTCollectionView。|[点击前往](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|🌟🌟🌟🌟|
 |JSBadgeView|购物车角标JSBadgeView|[点击前往](https://github.com/JaviSoto/JSBadgeView)|🌟🌟🌟🌟|
-|SCLAlertView|自定义的UIAlertView，更漂亮哦|[点击前往](https://github.com/dogo/SCLAlertView)|🌟🌟🌟|
 |PDTSimpleCalendar|使用UICollectionView的iOS简单日历/日期选择器|[点击前往](https://github.com/jivesoftware/PDTSimpleCalendar)|🌟🌟🌟|
 |ZLSwipeableView|一个类似Tinder和Potluck的卡片界面，滑动手指即可翻动展示下一张卡片，也可简单返回手势取消滑动操作。|[点击前往](https://github.com/zhxnlai/ZLSwipeableView)|🌟🌟🌟|
 |CRToast|用来简单创建出现在导航栏或者状态栏上的通知，基于另一个开源项目CWStatusBarNotification。使用ARC。|[点击前往](https://github.com/cruffenach/CRToast)|🌟🌟🌟|
@@ -305,6 +308,7 @@
 |DZNSegmentedControl|UISegmentedControl的替代品，用于显示计数，通常在用户个人资料上使用|[点击前往](https://github.com/dzenbot/DZNSegmentedControl)|🌟🌟🌟|
 |DZNPhotoPickerController|使用热门图像提供程序（例如500px，Flickr，Instagram，Giphy，Google和Bing Images）的iOS照片搜索/选择器|[点击前往](https://github.com/dzenbot/DZNPhotoPickerController)|🌟🌟🌟|
 |LBXScan|二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装|[点击前往](https://github.com/MxABC/LBXScan)|🌟🌟🌟🌟|
+|SGQRCode|iOS 原生二维码生成与扫描 -> 高仿微信|[点击前往](https://github.com/kingsic/SGQRCode)|🌟🌟🌟|
 |XLUIKit|iOS UI工具集|[点击前往](https://github.com/mengxianliang/XLUIKit)|🌟🌟🌟|
 |GKPageScrollView|iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果|[点击前往](https://github.com/QuintGao/GKPageScrollView)|🌟🌟🌟|
 |GKPhotoBrowser|iOS仿微信、今日头条等图片浏览器|[点击前往](https://github.com/QuintGao/GKPhotoBrowser)|🌟🌟🌟|
@@ -314,6 +318,10 @@
 |TYSnapshotScroll|一句代码保存截图，将 UIScrollView UITableView UICollectionView UIWebView WKWebView 网页 保存 为 长图 查看。|[点击前往](https://github.com/TonyReet/TYSnapshotScroll)|🌟🌟🌟|
 |TransitionKit|一个Objective-C库，用于优雅地实现状态机。|[点击前往](https://github.com/blakewatters/TransitionKit)|🌟🌟🌟|
 |PinYin4Objc|是一种流行的Objective-C库，支持中文（简体和繁体）与大多数流行的拼音系统之间的转换，它的性能非常高效，首次缓存了数据，并使用带有块的异步方法，这可以避免ui阻塞，并顺利运行。拼音的输出格式可以自定义... |[点击前往](https://github.com/kimziv/PinYin4Objc)|🌟🌟🌟|
+|DBDebugToolkit|适用于iOS开发人员和质量检查工程师的易于使用的调试工具集。 |[点击前往](https://github.com/dbukowski/DBDebugToolkit)|🌟🌟🌟|
+|LEETheme|优雅的主题管理库- 一行代码完成多样式切换 |[点击前往](https://github.com/lixiang1994/LEETheme)|🌟🌟🌟|
+
+
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -350,6 +358,7 @@
 |RxKeyboard|观察键盘框架变化的反应式方法库|[点击前往](https://github.com/RxSwiftCommunity/RxKeyboard)|🌟🌟🌟|
 |IQKeyboardManagerSwift|使用IQKeyboardManager可以很容易地解决弹起键盘遮盖输入框的问题，并且易于集成，不需要侵入性地继承特定的类，也不需要实现某些奇怪的协议|[点击前往](https://github.com/hackiftekhar/IQKeyboardManager)|🌟🌟🌟🌟|
 |XCGLogger|是一个用于Swift项目的debug日志框架，可详细信息记录到控制台，就像使用NSLog或println那样，但是还带有其他额处信息，如日期、函数名、文件名以及行号。|[点击前往](https://github.com/DaveWoodCom/XCGLogger)|🌟🌟🌟🌟|
+|swift-log|Swift的Logging API |[点击前往](https://github.com/apple/swift-log)|🌟🌟🌟|
 |Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|
 |SwiftLint|是一个用于强制检查 Swift 代码风格和规定的一个工具，基本上以 GitHub's Swift 代码风格指南为基础。|[点击前往](https://github.com/realm/SwiftLint/blob/master/README_CN.md)|🌟🌟🌟🌟|
 |SwiftFormat|SwiftFormat是一个代码库和命令行工具，用于在macOS或Linux上重新格式化swift代码。|[点击前往](https://github.com/nicklockwood/SwiftFormat)|🌟🌟🌟|
@@ -419,6 +428,7 @@
 |EZSwiftExtensions|提供了一系列对于 Swift 标准库、方法与 UIKit 的扩展，让你更加简单舒服地编写代码。|[点击前往](https://github.com/goktugyil/EZSwiftExtensions)|🌟🌟🌟|
 |Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|
 |Promisekit|异步编程|[点击前往](https://github.com/mxcl/PromiseKit)|🌟🌟🌟🌟|
+|Promises|Promises是一个现代框架，为Objective-C和Swift提供了一个同步结构，以方便编写异步代码。|[点击前往](https://github.com/google/promises)|🌟🌟🌟🌟|
 |HanekeSwift|是一个轻量级的缓存,为UIImage,JSON,NSData,String提供记忆和LRU磁盘缓存。|[点击前往](https://github.com/Haneke/HanekeSwift)|🌟🌟🌟|
 |CryptoSwift |是一个使用 Swift 编写的加密工具包,支持多种加密算法,如:MD5、SHA1、AES-128 等等|[点击前往](https://github.com/krzyzanowskim/CryptoSwift)|🌟🌟🌟🌟|
 |Chameleon|是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.|[点击前往](https://github.com/ViccAlexander/Chameleon)|🌟🌟🌟🌟|
@@ -633,6 +643,7 @@
 |Plot|用于在Swift中编写类型安全的HTML，XML和RSS的DSL。 |[点击前往](https://github.com/JohnSundell/Plot)|🌟🌟🌟|
 |Files|在Swift中处理文件和文件夹的更好方法。 |[点击前往](https://github.com/JohnSundell/Files)|🌟🌟🌟|
 |Carthage|Carthage和CocoaPods相比，轻量级一些，在swift中使用很方便，它本身就是swift写的。|[点击前往](https://github.com/Carthage/Carthage)|🌟🌟🌟🌟|
+|swift-package-manager|是苹果在swift3.0中加入的一个包管理工具，用于处理模块代码的下载、编译和依赖关系等。跟CocoaPods和Carthage功能类似，不过比这两个更简洁，代码的侵入性更小，也不需要额外安装工具。|[点击前往](https://github.com/apple/swift-package-manager)|🌟🌟🌟🌟|
 |Burritos|Swift Property Wrappers的集合。 |[点击前往](https://github.com/guillermomuntaner/Burritos)|🌟🌟🌟|
 |OpenCombine|苹果公司Combine框架的开源实现，可随着时间的推移来处理价值。 |[点击前往](https://github.com/broadwaylamb/OpenCombine)|🌟🌟🌟|
 <br>
@@ -649,4 +660,6 @@
 <br>
 [swift常用第三方库](https://www.cnblogs.com/fengmin/p/6923328.html)
 <br>
+[Apple官方关于swift的Github](https://github.com/apple?language=swift)
 <br>
+[Google官方关于swift的Github](https://github.com/google?q=&type=&language=swift)
