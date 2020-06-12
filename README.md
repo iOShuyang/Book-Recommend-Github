@@ -320,7 +320,7 @@
 |PinYin4Objc|是一种流行的Objective-C库，支持中文（简体和繁体）与大多数流行的拼音系统之间的转换，它的性能非常高效，首次缓存了数据，并使用带有块的异步方法，这可以避免ui阻塞，并顺利运行。拼音的输出格式可以自定义... |[点击前往](https://github.com/kimziv/PinYin4Objc)|🌟🌟🌟|
 |DBDebugToolkit|适用于iOS开发人员和质量检查工程师的易于使用的调试工具集。 |[点击前往](https://github.com/dbukowski/DBDebugToolkit)|🌟🌟🌟|
 |LEETheme|优雅的主题管理库- 一行代码完成多样式切换 |[点击前往](https://github.com/lixiang1994/LEETheme)|🌟🌟🌟|
-
+|MonkeyDev|CaptainHook Tweak，Logo Tweak和命令行工具，修补iOS应用程序，无需越狱。(iOS逆向) |[点击前往](https://github.com/AloneMonkey/MonkeyDev)|🌟🌟🌟🌟|
 
 
 ## <div align=center>-------------------------感谢-------------------------</div>
@@ -386,6 +386,7 @@
 |SwiftyImage|在Swift中用颜色生成图像资源|[点击前往](https://github.com/devxoul/SwiftyImage)|🌟🌟🌟🌟|
 |swiftScan|二维码 各种码识别，生成，界面效果|[点击前往](https://github.com/MxABC/swiftScan)|🌟🌟🌟|
 |Reachability|网络监察|[点击前往](https://github.com/ashleymills/Reachability.swift)|🌟🌟🌟🌟|
+|Connectivity|通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加可靠。 |[点击前往](https://github.com/rwbutler/Connectivity)|🌟🌟🌟|
 |Tiercel|简单易用、功能丰富的纯 Swift 下载框架|[点击前往](https://github.com/Danie1s/Tiercel)|🌟🌟🌟🌟|
 |SwiftTheme|Powerful theme/skin manager for iOS 8+ 主题/换肤, 暗色模式|[点击前往](https://github.com/wxxsw/SwiftTheme)|🌟🌟🌟🌟|
 <br>
@@ -592,7 +593,7 @@
 |SwiftForms|用Swift编写的小型轻量级库，可让您轻松创建表单。|[点击前往](https://github.com/ortuman/SwiftForms)|🌟🌟🌟|
 |Carbon|一个声明性库，用于在UITableView和UICollectionView中构建基于组件的用户界面。 |[点击前往](https://github.com/ra1028/Carbon)|🌟🌟🌟|
 |SwiftLinkPreview|它从URL进行预览，获取所有信息，例如标题，相关文本和图像。  |[点击前往](https://github.com/LeonardoCardoso/SwiftLinkPreview)|🌟🌟🌟|
-
+|CollectionViewSlantedLayout|显示倾斜单元格的CollectionView布局 |[点击前往](https://github.com/yacir/CollectionViewSlantedLayout)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
