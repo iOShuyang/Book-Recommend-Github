@@ -487,7 +487,6 @@
 | 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
 | --- | --- | --- | --- |
 |Lightbox|一个方便和易于使用的iOS图像浏览器|[点击前往](https://github.com/hyperoslo/Lightbox)|🌟🌟🌟|
-|preview-transition|预览图片控件，带有丰富的过度动画|[点击前往](https://github.com/Ramotion/Preview-Transition)|🌟🌟🌟🌟|
 |IDMPhotoBrowser|是基于开源项目MWPhotoBrowser的新实现,从Facebook和 Tweetbot的照片浏览器借鉴了相关用户体验和技术性能。|[点击前往](https://github.com/thiagoperes/IDMPhotoBrowser)|🌟🌟🌟|
 |SwiftPhotoGallery|用Swift编写的iOS照片库|[点击前往](https://github.com/Inspirato/SwiftPhotoGallery)|🌟🌟🌟|
 |ImageViewer|Twitter上的图像查看器|[点击前往](https://github.com/Krisiacik/ImageViewer)|🌟🌟🌟🌟|
@@ -509,7 +508,6 @@
 |PageMenu|从滚动视图内部的其他视图控制器构建的分页菜单控制器（如Spotify，Windows Phone，Instagram）|[点击前往](https://github.com/PageMenu/PageMenu)|🌟🌟🌟🌟|
 |TwicketSegmentedControl|多页面切换滑块控件，能处理滑块的惯性，可以直接将滑块甩到到另一侧。|[点击前往](https://github.com/twicketapp/TwicketSegmentedControl)|🌟🌟🌟🌟|
 |XLActionController|有多种可自定义可扩展的底部菜单栏控件|[点击前往](https://github.com/xmartlabs/XLActionController)|🌟🌟🌟🌟|
-|CircleMenu|是一个精美别致支持定制的圆形菜单,可以有 0 到 8 个子菜单按钮,按钮背景色,图标都可以修改。|[点击前往](https://github.com/Ramotion/circle-menu)|🌟🌟🌟|
 |ENSwiftSideMenu|手势侧滑menu|[点击前往](https://github.com/evnaz/ENSwiftSideMenu)|🌟🌟🌟|
 |MessageKit|如果您想在应用程序中添加高度可定制的聊天或消息功能，那么这是一个很好的库。这个库可以支持不同的消息类型：短信、照片、视频、位置、表情符号、音频、联系|[点击前往](https://github.com/MessageKit/MessageKit)|🌟🌟🌟🌟|
 <br>
@@ -541,8 +539,6 @@
 |PNChart-Swift|是一款用Swift语言实现的iOS开源动画图标类库,可以生成简单、漂亮且有动画效果的柱状图、曲线图、折线图、饼图。|[点击前往](https://github.com/kevinzhow/PNChart-Swift)|🌟🌟🌟|
 |SpreadsheetView|用于iOS应用程序的完整可配置电子表格视图用户界面。使用此框架，您可以轻松创建复杂的布局，如计划，甘特图或时间表，就像使用Excel一样。|[点击前往](https://github.com/kishikawakatsumi/SpreadsheetView)|🌟🌟🌟🌟|
 |TextFieldEffects|是一个Swift的炫酷的TextField封装类|[点击前往](https://github.com/raulriera/TextFieldEffects)|🌟🌟🌟🌟|
-|Animated TabBar|是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|[点击前往](https://github.com/Ramotion/animated-tab-bar)|🌟🌟🌟🌟|
-|FoldingCell|自然,清新的单元格折叠动画|[点击前往](https://github.com/Ramotion/folding-cell)|🌟🌟🌟🌟|
 |Hero|适用于iOS和tvOS的优雅过渡库|[点击前往](https://github.com/lkzhao/Hero)|🌟🌟🌟🌟|
 |SkeletonView|骨架屏）基本原理是添加控件形成真实的布局，等有数据时隐藏。 |[点击前往](https://github.com/Juanpe/SkeletonView)|🌟🌟🌟🌟|
 |ARKit-CoreLocation|使用摄像头和运动数据来绘制用户移动时本地的地图。|[点击前往](https://github.com/ProjectDent/ARKit-CoreLocation)|🌟🌟🌟🌟|
@@ -558,11 +554,9 @@
 |MaterialKit|用Swift编写的iOS的材料设计组件|[点击前往](https://github.com/nghialv/MaterialKit)|🌟🌟🌟|
 |WKWebViewJavascriptBridge|在其上仅对 WKWebView 提供支持，由 Swift 实现！您可以通过使用 WKWebViewJavascriptBridge 书写几行代码实现混合模块，而无需关心底层的消息传递实现。|[点击前往](https://github.com/Lision/WKWebViewJavascriptBridge)|🌟🌟🌟|
 |CleanyModal|是Swift UI Kit提供的干净模态/警报对话框|[点击前往](https://github.com/loryhuz/CleanyModal)|🌟🌟🌟|
-|expanding-collection|MaterialDesign 风格的扩展式卡片设计|[点击前往](https://github.com/Ramotion/expanding-collection)|🌟🌟🌟🌟|
 |CardParts|基于卡片的响应式UI框架|[点击前往](https://github.com/intuit/CardParts)|🌟🌟🌟🌟|
 |NumberMorphView|label数字变形过渡动画，用于金额数字变动或者时间上面会非常nice！|[点击前往](https://github.com/me-abhinav/NumberMorphView)|🌟🌟🌟|
 |DOFavoriteButton|有动画效果的button，适用于收藏、喜欢、点赞等。|[点击前往](https://github.com/okmr-d/DOFavoriteButton)|🌟🌟🌟🌟|
-|paper-switch|Ramotion出品，turned on覆盖父视图的动画效果。|[点击前往](https://github.com/Ramotion/paper-switch)|🌟🌟🌟🌟|
 |PhoneNumberKit|国际电话验证 专门针对电话号码格式做的一个输入框|[点击前往](https://github.com/marmelroy/PhoneNumberKit)|🌟🌟🌟|
 |libPhoneNumber-iOS|来自libphonenumber的iOS端口（谷歌的电话号码处理库）|[点击前往](https://github.com/iziz/libPhoneNumber-iOS)|🌟🌟🌟|
 |NextGrowingTextView|取自于HPGrowingTextView,文本输入视图，对于消息编辑非常有用。|[点击前往](https://github.com/muukii/NextGrowingTextView)|🌟🌟🌟|
@@ -594,6 +588,8 @@
 |Carbon|一个声明性库，用于在UITableView和UICollectionView中构建基于组件的用户界面。 |[点击前往](https://github.com/ra1028/Carbon)|🌟🌟🌟|
 |SwiftLinkPreview|它从URL进行预览，获取所有信息，例如标题，相关文本和图像。  |[点击前往](https://github.com/LeonardoCardoso/SwiftLinkPreview)|🌟🌟🌟|
 |CollectionViewSlantedLayout|显示倾斜单元格的CollectionView布局 |[点击前往](https://github.com/yacir/CollectionViewSlantedLayout)|🌟🌟🌟🌟|
+|BouncyLayout|是使您的单元格反弹的集合视图布局。|[点击前往](https://github.com/roberthein/BouncyLayout)|🌟🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -618,6 +614,22 @@
 |Magnetic|SpriteKit浮动气泡选取器（受Apple Music启发）|[点击前往](https://github.com/efremidze/Magnetic)|🌟🌟🌟|
 |TKSubmitTransition|加载动画和过渡动画的动画UIButton|[点击前往](https://github.com/entotsu/TKSubmitTransition)|🌟🌟🌟|
 |NFDownloadButton|改进的下载按钮。这有点像Netflix应用程序下载按钮的反向工程。|[点击前往](https://github.com/LeonardoCardoso/NFDownloadButton)|🌟🌟🌟|
+|Animated TabBar|Ramotion出品，是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|[点击前往](https://github.com/Ramotion/animated-tab-bar)|🌟🌟🌟🌟|
+|FoldingCell|Ramotion出品，自然,清新的单元格折叠动画|[点击前往](https://github.com/Ramotion/folding-cell)|🌟🌟🌟🌟|
+|paper-onboarding|Ramotion出品，是一种材质设计UI滑块|[点击前往](https://github.com/Ramotion/paper-onboarding)|🌟🌟🌟🌟|
+|CircleMenu|Ramotion出品，是一个精美别致支持定制的圆形菜单,可以有 0 到 8 个子菜单按钮,按钮背景色,图标都可以修改。|[点击前往](https://github.com/Ramotion/circle-menu)|🌟🌟🌟🌟|
+|paper-onboarding|Ramotion出品，是一种材质设计UI滑块|[点击前往](https://github.com/Ramotion/paper-onboarding)|🌟🌟🌟🌟|
+|gliding-collection|Ramotion出品，滑行集合是UICollectionView Swift Controller的平滑，流畅，可自定义的决定。|[点击前往](https://github.com/Ramotion/gliding-collection)|🌟🌟🌟🌟|
+|fluid-slider|Ramotion出品，带有弹出气泡的滑块小部件，显示选定的精确值。|[点击前往](https://github.com/Ramotion/fluid-slider)|🌟🌟🌟🌟|
+|preview-transition|Ramotion出品，预览过渡是带有动画过渡的简单预览库UI控制器|[点击前往](https://github.com/Ramotion/Preview-Transition)|🌟🌟🌟🌟|
+|adaptive-tab-bar|Ramotion出品，自适应标签栏|[点击前往](https://github.com/Ramotion/adaptive-tab-bar)|🌟🌟🌟🌟|
+|navigation-stack|Ramotion出品，是一个具有堆栈建模的UI导航控制器的库。|[点击前往](https://github.com/Ramotion/navigation-stack)|🌟🌟🌟🌟|
+|reel-search|Ramotion出品，是一个Swift UI控制器，可让您从列表中选择选项.|[点击前往](https://github.com/Ramotion/reel-search)|🌟🌟🌟🌟|
+|reel-search|Ramotion出品，是一个Swift UI控制器，可让您从列表中选择选项.|[点击前往](https://github.com/Ramotion/reel-search)|🌟🌟🌟🌟|
+|paper-switch|Ramotion出品，turned on覆盖父视图的动画效果。|[点击前往](https://github.com/Ramotion/paper-switch)|🌟🌟🌟🌟|
+|paper-switch|Ramotion出品，turned on覆盖父视图的动画效果。|[点击前往](https://github.com/Ramotion/paper-switch)|🌟🌟🌟🌟|
+|expanding-collection|Ramotion出品，MaterialDesign 风格的扩展式卡片设计|[点击前往](https://github.com/Ramotion/expanding-collection)|🌟🌟🌟🌟|
+|cardslider|Ramotion出品，使您可以在带有图片的卡片之间滑动。|[点击前往](https://github.com/Ramotion/cardslider)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -664,3 +676,5 @@
 [Apple官方关于swift的Github](https://github.com/apple?language=swift)
 <br>
 [Google官方关于swift的Github](https://github.com/google?q=&type=&language=swift)
+<br>
+[Swift UI Animation Libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)
