@@ -129,6 +129,7 @@
 |UICKeyChainStore|对于一些私密信息，比如密码、证书等等，就需要使用更为安全的数据保存方式。|[点击前往](https://github.com/kishikawakatsumi/UICKeyChainStore)|🌟🌟🌟🌟|
 |SAMkeychain|钥匙串存取数据，可以用来储存用户的隐私信息。|[点击前往](https://github.com/soffes/SAMKeychain)|🌟🌟🌟|
 |YYCache|适用于iOS的高性能缓存框架。|[点击前往](https://github.com/ibireme/YYCache)|🌟🌟🌟|
+|MagicalRecord|是对CoreData进行了一次封装，封装了多线程Core Data中复杂的操作，并提供了丰富的封装方法，使用起来代码清晰简洁。|[点击前往](https://github.com/magicalpanda/MagicalRecord)|🌟🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -240,6 +241,7 @@
 | ReactiveCocoa | 是由GitHub团队开源的一套基于Cocoa的并且具有FRP特性的框架，一个函数响应式编程框架。| [点击前往](https://github.com/ReactiveCocoa/ReactiveCocoa) | 🌟🌟🌟🌟🌟 |
 |WebViewJavascriptBridge|是一个Objective-C与JavaScript进行消息互通的三方库。通过WebViewJavascriptBridge，我们可以很方便的实现OC和Javascript互调的功能。|[点击前往](https://github.com/marcuswestin/WebViewJavascriptBridge)| 🌟🌟🌟🌟🌟 |
 |expo|一个使用React制作通用本机应用程序的开源平台。expo在Android，iOS和网络上运行。|[点击前往](https://github.com/expo/expo)| 🌟🌟🌟🌟 |
+|RestKit|一个用于更好支持RESTful风格服务器接口的iOS库|[点击前往](https://github.com/RestKit/RestKit)| 🌟🌟🌟🌟 |
 <br>
 <br>
 <br>
@@ -321,6 +323,8 @@
 |DBDebugToolkit|适用于iOS开发人员和质量检查工程师的易于使用的调试工具集。 |[点击前往](https://github.com/dbukowski/DBDebugToolkit)|🌟🌟🌟|
 |LEETheme|优雅的主题管理库- 一行代码完成多样式切换 |[点击前往](https://github.com/lixiang1994/LEETheme)|🌟🌟🌟|
 |MonkeyDev|CaptainHook Tweak，Logo Tweak和命令行工具，修补iOS应用程序，无需越狱。(iOS逆向) |[点击前往](https://github.com/AloneMonkey/MonkeyDev)|🌟🌟🌟🌟|
+|OCBarrage|iOS 弹幕库 OCBarrage, 同时渲染5000条弹幕也不卡, 轻量, 可拓展, 高度自定义动画, 超高性能, 简单易上手 |[点击前往](https://github.com/w1531724247/OCBarrage)|🌟🌟🌟|
+|JSQMessagesViewController|适用于iOS的精美消息UI库 |[点击前往](https://github.com/jessesquires/JSQMessagesViewController)|🌟🌟🌟|
 
 
 ## <div align=center>-------------------------感谢-------------------------</div>
@@ -630,6 +634,7 @@
 |paper-switch|Ramotion出品，turned on覆盖父视图的动画效果。|[点击前往](https://github.com/Ramotion/paper-switch)|🌟🌟🌟🌟|
 |expanding-collection|Ramotion出品，MaterialDesign 风格的扩展式卡片设计|[点击前往](https://github.com/Ramotion/expanding-collection)|🌟🌟🌟🌟|
 |cardslider|Ramotion出品，使您可以在带有图片的卡片之间滑动。|[点击前往](https://github.com/Ramotion/cardslider)|🌟🌟🌟🌟|
+|Spring|一个库，用于简化Swift中的iOS动画。|[点击前往](https://github.com/MengTo/Spring)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -659,6 +664,9 @@
 |swift-package-manager|是苹果在swift3.0中加入的一个包管理工具，用于处理模块代码的下载、编译和依赖关系等。跟CocoaPods和Carthage功能类似，不过比这两个更简洁，代码的侵入性更小，也不需要额外安装工具。|[点击前往](https://github.com/apple/swift-package-manager)|🌟🌟🌟🌟|
 |Burritos|Swift Property Wrappers的集合。 |[点击前往](https://github.com/guillermomuntaner/Burritos)|🌟🌟🌟|
 |OpenCombine|苹果公司Combine框架的开源实现，可随着时间的推移来处理价值。 |[点击前往](https://github.com/broadwaylamb/OpenCombine)|🌟🌟🌟|
+|SwiftTask|Promise + progress + pause + cancel + retry for Swift. |[点击前往](https://github.com/ReactKit/SwiftTask)|🌟🌟🌟|
+|Material|一个用于创建漂亮应用程序的UI / UX框架.|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟|
+
 <br>
 
 
