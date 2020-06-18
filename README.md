@@ -393,6 +393,11 @@
 |Connectivity|通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加可靠。 |[点击前往](https://github.com/rwbutler/Connectivity)|🌟🌟🌟|
 |Tiercel|简单易用、功能丰富的纯 Swift 下载框架|[点击前往](https://github.com/Danie1s/Tiercel)|🌟🌟🌟🌟|
 |SwiftTheme|Powerful theme/skin manager for iOS 8+ 主题/换肤, 暗色模式|[点击前往](https://github.com/wxxsw/SwiftTheme)|🌟🌟🌟🌟|
+|RandomColorSwift|Swift的有吸引力的颜色生成器。从randomColor.js移植。|[点击前往](https://github.com/onevcat/RandomColorSwift)|🌟🌟🌟|
+|FengNiao|用于清除Xcode中未使用资源的命令行工具。|[点击前往](https://github.com/onevcat/FengNiao)|🌟🌟🌟🌟|
+|APNGKit|高性能和令人愉悦的方式，可在iOS中使用APNG格式播放。|[点击前往](https://github.com/onevcat/APNGKit)|🌟🌟🌟|
+|Rainbow|Swift开发人员的令人愉快的控制台输出。|[点击前往](https://github.com/onevcat/Rainbow)|🌟🌟🌟|
+
 <br>
 <br>
 <br>
