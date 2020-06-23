@@ -598,6 +598,8 @@
 |SwiftLinkPreview|它从URL进行预览，获取所有信息，例如标题，相关文本和图像。  |[点击前往](https://github.com/LeonardoCardoso/SwiftLinkPreview)|🌟🌟🌟|
 |CollectionViewSlantedLayout|显示倾斜单元格的CollectionView布局 |[点击前往](https://github.com/yacir/CollectionViewSlantedLayout)|🌟🌟🌟🌟|
 |BouncyLayout|是使您的单元格反弹的集合视图布局。|[点击前往](https://github.com/roberthein/BouncyLayout)|🌟🌟🌟🌟|
+|MagazineLayout|能够在垂直滚动的网格和列表中布置视图的集合视图布局。|[点击前往](https://github.com/airbnb/MagazineLayout)|🌟🌟🌟🌟|
+|HorizonCalendar|一个声明性，高性能的iOS日历UI组件，支持从简单的日期选择器一直到功能齐全的日历应用程序的用例。|[点击前往](https://github.com/airbnb/HorizonCalendar)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -671,6 +673,7 @@
 |OpenCombine|苹果公司Combine框架的开源实现，可随着时间的推移来处理价值。 |[点击前往](https://github.com/broadwaylamb/OpenCombine)|🌟🌟🌟|
 |SwiftTask|Promise + progress + pause + cancel + retry for Swift. |[点击前往](https://github.com/ReactKit/SwiftTask)|🌟🌟🌟|
 |Material|一个用于创建漂亮应用程序的UI / UX框架.|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟|
+|Lona|用于定义设计系统并使用它们生成跨平台UI代码，Sketch文件和其他工件的工具。|[点击前往](https://github.com/airbnb/Lona)|🌟🌟🌟|
 
 <br>
 
