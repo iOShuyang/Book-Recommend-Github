@@ -242,6 +242,10 @@
 |WebViewJavascriptBridge|是一个Objective-C与JavaScript进行消息互通的三方库。通过WebViewJavascriptBridge，我们可以很方便的实现OC和Javascript互调的功能。|[点击前往](https://github.com/marcuswestin/WebViewJavascriptBridge)| 🌟🌟🌟🌟🌟 |
 |expo|一个使用React制作通用本机应用程序的开源平台。expo在Android，iOS和网络上运行。|[点击前往](https://github.com/expo/expo)| 🌟🌟🌟🌟 |
 |RestKit|一个用于更好支持RESTful风格服务器接口的iOS库|[点击前往](https://github.com/RestKit/RestKit)| 🌟🌟🌟🌟 |
+|IGListKit|一个UICollectionView用于构建快速灵活列表的数据驱动框架。|[点击前往](https://github.com/Instagram/IGListKit)| 🌟🌟🌟🌟 |
+|VasSonic|是腾讯团队研发的一个轻量级的高性能的Hybrid框架，专注于提升页面首屏加载速度。|[点击前往](https://github.com/Tencent/VasSonic)| 🌟🌟🌟🌟 |
+|SocketRocket|符合标准的Objective-C WebSocket客户端库。|[点击前往](https://github.com/facebookarchive/SocketRocket)| 🌟🌟🌟🌟 |
+
 <br>
 <br>
 <br>
@@ -547,6 +551,7 @@
 |AAChartKit|极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图…|[点击前往](https://github.com/AAChartModel/AAChartKit)|🌟🌟🌟🌟|
 |PNChart-Swift|是一款用Swift语言实现的iOS开源动画图标类库,可以生成简单、漂亮且有动画效果的柱状图、曲线图、折线图、饼图。|[点击前往](https://github.com/kevinzhow/PNChart-Swift)|🌟🌟🌟|
 |SpreadsheetView|用于iOS应用程序的完整可配置电子表格视图用户界面。使用此框架，您可以轻松创建复杂的布局，如计划，甘特图或时间表，就像使用Excel一样。|[点击前往](https://github.com/kishikawakatsumi/SpreadsheetView)|🌟🌟🌟🌟|
+|HSStockChart|是一个绘制股票分时图、K 线图的库。支持流畅的回弹拖动，长按十字线，捏合放大缩小等功能，主要使用了 CAShapeLayer 来绘图，相比使用 Core Graphics 和重写 drawRect 的方法更高效，占用内存更小。|[点击前往](https://github.com/zyphs21/HSStockChart)|🌟🌟🌟🌟|
 |TextFieldEffects|是一个Swift的炫酷的TextField封装类|[点击前往](https://github.com/raulriera/TextFieldEffects)|🌟🌟🌟🌟|
 |Hero|适用于iOS和tvOS的优雅过渡库|[点击前往](https://github.com/lkzhao/Hero)|🌟🌟🌟🌟|
 |SkeletonView|骨架屏）基本原理是添加控件形成真实的布局，等有数据时隐藏。 |[点击前往](https://github.com/Juanpe/SkeletonView)|🌟🌟🌟🌟|
@@ -599,6 +604,7 @@
 |CollectionViewSlantedLayout|显示倾斜单元格的CollectionView布局 |[点击前往](https://github.com/yacir/CollectionViewSlantedLayout)|🌟🌟🌟🌟|
 |BouncyLayout|是使您的单元格反弹的集合视图布局。|[点击前往](https://github.com/roberthein/BouncyLayout)|🌟🌟🌟🌟|
 |MagazineLayout|能够在垂直滚动的网格和列表中布置视图的集合视图布局。|[点击前往](https://github.com/airbnb/MagazineLayout)|🌟🌟🌟🌟|
+|IBPCollectionViewCompositionalLayout|可以在几行代码内通过独立滚动的部分来制作非常复杂的布局，甚至是嵌套的集合视图。|[点击前往](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout)|🌟🌟🌟🌟|
 |HorizonCalendar|一个声明性，高性能的iOS日历UI组件，支持从简单的日期选择器一直到功能齐全的日历应用程序的用例。|[点击前往](https://github.com/airbnb/HorizonCalendar)|🌟🌟🌟🌟|
 
 <br>
