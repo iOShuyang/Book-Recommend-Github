@@ -229,6 +229,8 @@
 |RESideMenu|QQ类似侧滑抽屉式框架。|[点击前往](https://github.com/romaonthego/RESideMenu)|🌟🌟🌟🌟|
 |MMDrawerController|是一个轻量级的侧边栏抽屉控件,其支持左侧抽屉和右侧抽屉,可以很好的支持导航控制器,并且支持开发者对手势和动画进行自定义。|[点击前往](https://github.com/mutualmobile/MMDrawerController)|🌟🌟🌟🌟|
 |ViewDeck|是一个有黑色透明遮罩层轻量级的侧边栏抽屉控件,其支持左侧抽屉和右侧抽屉。|[点击前往](https://github.com/ViewDeck/ViewDeck)|🌟🌟🌟🌟|
+|CWLateralSlide|一行代码集成0耦合侧滑抽屉！|[点击前往](https://github.com/ChavezChen/CWLateralSlide)|🌟🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -329,6 +331,8 @@
 |MonkeyDev|CaptainHook Tweak，Logo Tweak和命令行工具，修补iOS应用程序，无需越狱。(iOS逆向) |[点击前往](https://github.com/AloneMonkey/MonkeyDev)|🌟🌟🌟🌟|
 |OCBarrage|iOS 弹幕库 OCBarrage, 同时渲染5000条弹幕也不卡, 轻量, 可拓展, 高度自定义动画, 超高性能, 简单易上手 |[点击前往](https://github.com/w1531724247/OCBarrage)|🌟🌟🌟|
 |JSQMessagesViewController|适用于iOS的精美消息UI库 |[点击前往](https://github.com/jessesquires/JSQMessagesViewController)|🌟🌟🌟|
+|UUChatTableView|UI组件，用于带有文本，图像和音频支持的群组或私人聊天气泡|[点击前往](https://github.com/ZhipingYang/UUChatTableView)| 🌟🌟🌟 |
+|GYBootingProtection|用于检测和修复iOS App连续启动崩溃的工具|[点击前往](https://github.com/liuslevis/GYBootingProtection)| 🌟🌟🌟 |
 
 
 ## <div align=center>-------------------------感谢-------------------------</div>
@@ -666,6 +670,7 @@
 |swift-algorithm-club|swift中的算法以及数据结构，还有解释说明。|[点击前往](https://github.com/raywenderlich/swift-algorithm-club)|🌟🌟🌟🌟|
 |OAuthSwift|国外主流网站OAuth授权库。|[点击前往](https://github.com/OAuthSwift/OAuthSwift)|🌟🌟🌟🌟|
 |R.swift|以一种优雅安全的方式使用资源文件。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟|
+|SwiftGen|是一种工具，可以为项目的资源（例如图像，本地化的字符串等）自动生成Swift代码，以使其易于使用。|[点击前往](https://github.com/SwiftGen/SwiftGen)|🌟🌟🌟🌟|
 |Design-Patterns-In-Swift|swift实现的各种设计模式。|[点击前往](https://github.com/ochococo/Design-Patterns-In-Swift)|🌟🌟🌟🌟|
 |XcodeGen|一个用于生成Xcode项目的Swift命令行工具|[点击前往](https://github.com/yonaskolb/XcodeGen)|🌟🌟🌟|
 |Bagel|适用于iOS的本地网络调试工具|[点击前往](https://github.com/yagiz/Bagel)|🌟🌟🌟|
@@ -680,6 +685,7 @@
 |SwiftTask|Promise + progress + pause + cancel + retry for Swift. |[点击前往](https://github.com/ReactKit/SwiftTask)|🌟🌟🌟|
 |Material|一个用于创建漂亮应用程序的UI / UX框架.|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟|
 |Lona|用于定义设计系统并使用它们生成跨平台UI代码，Sketch文件和其他工件的工具。|[点击前往](https://github.com/airbnb/Lona)|🌟🌟🌟|
+|Dip| 简单的Swift依赖项容器。使用协议来解决您的依赖性，避免单例/ sharedInstances！|[点击前往](https://github.com/AliSoftware/Reusable)|🌟🌟🌟|
 
 <br>
 
