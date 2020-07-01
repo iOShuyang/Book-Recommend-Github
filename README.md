@@ -164,6 +164,9 @@
 |SDPhotoBrowser|满足用户浏览图片的需求,例如单击图片隐藏、双击图片放大、手势缩放、左右切换以及保存图片等功能|[点击前往](https://github.com/gsdios/SDPhotoBrowser)|🌟🌟🌟|
 |NYTPhotoViewer|是一个幻灯片和图片浏览器,包括双击缩放,字母,支持多个图片,互动电影,动画缩放演示及更多功能。|[点击前往](https://github.com/NYTimes/NYTPhotoViewer)|🌟🌟🌟|
 |HHTransition|主流转场动画，无侵入，API简单易用。|[点击前往](https://github.com/yuwind/HHTransition)|🌟🌟🌟|
+|BCGenieEffect|实现了在Mac OS 中最小化或最大化窗口时的过渡效果。BCGenieEffect包含一个UIView category，允许你在iOS视图中添加这个效果。自定义长方形的起点、终点以及边缘。基于CoreAnimation。|[点击前往](https://github.com/Ciechan/BCGenieEffect)|🌟🌟🌟|
+|BCMeshTransformView| 利用mesh变形算法实现三种特殊的视图效果，一种是拉动窗帘布的效果，一种是鱼眼（Fish Eye）局部放大图片的效果，一种是类似橡皮泥变形效果。|[点击前往](https://github.com/Ciechan/BCMeshTransformView)|🌟🌟🌟|
+|RBBAnimation| 基于块的动画变得容易，带有缓动功能和CASpringAnimation替换。|[点击前往](https://github.com/robb/RBBAnimation)|🌟🌟🌟|
 
 <br>
 <br>
@@ -230,6 +233,7 @@
 |MMDrawerController|是一个轻量级的侧边栏抽屉控件,其支持左侧抽屉和右侧抽屉,可以很好的支持导航控制器,并且支持开发者对手势和动画进行自定义。|[点击前往](https://github.com/mutualmobile/MMDrawerController)|🌟🌟🌟🌟|
 |ViewDeck|是一个有黑色透明遮罩层轻量级的侧边栏抽屉控件,其支持左侧抽屉和右侧抽屉。|[点击前往](https://github.com/ViewDeck/ViewDeck)|🌟🌟🌟🌟|
 |CWLateralSlide|一行代码集成0耦合侧滑抽屉！|[点击前往](https://github.com/ChavezChen/CWLateralSlide)|🌟🌟🌟🌟|
+|PKRevealController|是由ZUUIRevealController改进而来，是一个简单、漂亮的开源库。实现了Facebook iOS客户端左右两边侧边菜单栏的效果|[点击前往](https://github.com/pkluz/PKRevealController)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -247,6 +251,7 @@
 |IGListKit|一个UICollectionView用于构建快速灵活列表的数据驱动框架。|[点击前往](https://github.com/Instagram/IGListKit)| 🌟🌟🌟🌟 |
 |VasSonic|是腾讯团队研发的一个轻量级的高性能的Hybrid框架，专注于提升页面首屏加载速度。|[点击前往](https://github.com/Tencent/VasSonic)| 🌟🌟🌟🌟 |
 |SocketRocket|符合标准的Objective-C WebSocket客户端库。|[点击前往](https://github.com/facebookarchive/SocketRocket)| 🌟🌟🌟🌟 |
+|Nimbus|是面向经验丰富的iOS软件设计师的工具包。它提供了有据可查的模块化组件，可以解决许多常见的iOS软件要求。这包括： 带超链接的富文本标签； Web视图控制器 ; 表格模型， 广播组和 表格动作的一种简单方法 ; 标准化的app间通信，以及强大的调试工具等许多功能。|[点击前往](https://github.com/jverkoey/nimbus)| 🌟🌟🌟🌟 |
 
 <br>
 <br>
@@ -266,6 +271,7 @@
 |WMPlayer|万能播放器，内部封装了AVPlayer和FFmpeg最新版本(4.0.2)，两款播放器完全解耦设计，没有使用废弃api，支持几乎所有视频格式(avi、flv、m3u8、3gp、RTMP、RTSP、MKV、rmvb、wmv、mp4、mov)，网络和本地视频同时支持|[点击前往](https://github.com/zhengwenming/WMPlayer)|🌟🌟🌟|
 |StreamingKit|是一个强大的IOS音频播放工具|[点击前往](https://github.com/tumtumtum/StreamingKit)|🌟🌟🌟🌟|
 |GPUImage|用于基于GPU的图像和视频处理的开源iOS框架|[点击前往](https://github.com/BradLarson/GPUImage)|🌟🌟🌟🌟|
+|SuperPlayer_iOS|超级播放器是基于腾讯云播放器SDK的播放器，能快速的集成视频信息拉取、横竖屏切换、清晰度选择、弹幕、直播时移等功能。灵活易用，可高度定制和二次开发。|[点击前往](https://github.com/tencentyun/SuperPlayer_iOS)|🌟🌟🌟🌟|
 
 <br>
 <br>
