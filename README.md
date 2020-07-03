@@ -53,6 +53,8 @@
 |CocoaLumberjack|是一个可以在iOS和Mac开发中使用的日志库，强大又不失灵活。集成进项目后，可以灵活控制日志level输出，并保存在日志文件中，还能压缩上传到服务器。|[点击前往](https://github.com/CocoaLumberjack/CocoaLumberjack)|🌟🌟🌟🌟|
 |FDFullscreenPopGesture|pod安装一下即可,安装后无须再加任何代码,应用所有页面都将支持全屏侧滑。|[点击前往](https://github.com/forkingdog/FDFullscreenPopGesture)|🌟🌟🌟🌟|
 |iVersion|非常赞👍 的一个灵活动态监测App是否有更新的库，并可以通知用户升级.|[点击前往](https://github.com/nicklockwood/iVersion)|🌟🌟🌟|
+|Harpy|当有新版本的应用程序可用时通知用户，并提示他们进行升级。|[点击前往](https://github.com/ArtSabintsev/Harpy)|🌟🌟🌟|
+|FontAwesomeKit|非常棒，使用此库，您可以轻松地将字体添加到项目中，并以多种方式使用它。|[点击前往](https://github.com/PrideChung/FontAwesomeKit)| 🌟🌟🌟🌟 |
 
 <br>
 <br>
@@ -113,6 +115,7 @@
 |TYAlertController|各种风格的弹框，满足你的各种需求。|[点击前往](https://github.com/12207480/TYAlertController)|🌟🌟🌟|
 |SCLAlertView|自定义的UIAlertView，更漂亮哦|[点击前往](https://github.com/dogo/SCLAlertView)|🌟🌟🌟|
 |LEEAlert|优雅的可自定义 Alert ActionSheet|[点击前往](https://github.com/lixiang1994/LEEAlert)|🌟🌟🌟|
+
 <br>
 <br>
 <br>
@@ -142,7 +145,6 @@
 |Masonry|是一个轻量级的布局框架,拥有自己的描述语法,采用更优雅的链式语法封装自动布局,简洁明了并具有高可读性,而且同时支持 iOS 和 Max OS X。|[点击前往](https://github.com/SnapKit/Masonry)|🌟🌟🌟🌟🌟|
 |MyLinearLayout|是一套iOS界面视图布局框架。其内核是基于对UIView的layoutSubviews方法的重载以及对子视图的bounds和center属性的设置而实现的。|[点击前往](https://github.com/youngsoft/MyLinearLayout)|🌟🌟🌟|
 |SDAutoLayout|一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。|[点击前往](https://github.com/gsdios/SDAutoLayout)|🌟🌟🌟🌟|
-|iCarousel|是一个使用简单、高度自定义的多类型视图切换的控件,支持iOS/Mac OS、ARC & Thread Safety|[点击前往](https://github.com/nicklockwood/iCarousel)|🌟🌟🌟🌟|
 
 <br>
 <br>
@@ -190,6 +192,7 @@
 |FastImageCache|是一种在 iOS 应用程序中高效、持续、超快速的存储和检索图像的解决方案。|[点击前往](https://github.com/path/FastImageCache)|🌟🌟🌟|
 |TZImagePickerController|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。|[点击前往](https://github.com/banchichen/TZImagePickerController)|🌟🌟🌟🌟|
 |NYXImagesKit|包含一组很有用的 UIImage 图像处理方法,包括 filtering, blurring, enhancing, masking, reflecting, resizing, rotating, saving. |[点击前往](https://github.com/Nyx0uf/NYXImagesKit)|🌟🌟🌟|
+|Concorde|在iOS上下载和解码渐进JPEG。 |[点击前往](https://github.com/contentful-labs/Concorde)|🌟🌟🌟|
 <br>
 <br>
 <br>
@@ -234,6 +237,11 @@
 |ViewDeck|是一个有黑色透明遮罩层轻量级的侧边栏抽屉控件,其支持左侧抽屉和右侧抽屉。|[点击前往](https://github.com/ViewDeck/ViewDeck)|🌟🌟🌟🌟|
 |CWLateralSlide|一行代码集成0耦合侧滑抽屉！|[点击前往](https://github.com/ChavezChen/CWLateralSlide)|🌟🌟🌟🌟|
 |PKRevealController|是由ZUUIRevealController改进而来，是一个简单、漂亮的开源库。实现了Facebook iOS客户端左右两边侧边菜单栏的效果|[点击前往](https://github.com/pkluz/PKRevealController)|🌟🌟🌟🌟|
+|iRate| 是一个库，可通过提示用户在使用几天后对其进行评分来帮助您推广iPhone和Mac App Store应用。通过仅定位常规用户（大概喜欢该应用程序或他们不会继续使用它的用户），这种方法是获得正面评价的最佳方法之一。|[点击前往](https://github.com/nicklockwood/iRate)|🌟🌟🌟|
+|iCarousel|是一个使用简单、高度自定义的多类型视图切换的控件,支持iOS/Mac OS、ARC & Thread Safety|[点击前往](https://github.com/nicklockwood/iCarousel)|🌟🌟🌟|
+|SlackTextViewController|UIViewController子类，具有不断增长的文本输入视图和其他有用的消息传递功能|[点击前往](https://github.com/slackhq/SlackTextViewController)|🌟🌟🌟|
+|REFrostedViewController|出现在视图控制器顶部的iOS 7/8样式模糊视图控制器。|[点击前往](https://github.com/romaonthego/REFrostedViewController)|🌟🌟🌟|
+|RETableViewManager|强大的数据驱动的UITableView内容管理器。|[点击前往](https://github.com/romaonthego/RETableViewManager)|🌟🌟🌟|
 
 <br>
 <br>
@@ -339,7 +347,8 @@
 |JSQMessagesViewController|适用于iOS的精美消息UI库 |[点击前往](https://github.com/jessesquires/JSQMessagesViewController)|🌟🌟🌟|
 |UUChatTableView|UI组件，用于带有文本，图像和音频支持的群组或私人聊天气泡|[点击前往](https://github.com/ZhipingYang/UUChatTableView)| 🌟🌟🌟 |
 |GYBootingProtection|用于检测和修复iOS App连续启动崩溃的工具|[点击前往](https://github.com/liuslevis/GYBootingProtection)| 🌟🌟🌟 |
-
+|IAPHelper| 应用内购买为我们带来了很多样板代码，该库不再使用这些样板代码，并且为我们提供了一个简单的包装程序，以处理与从iOS用户到您（或您的公司）钱包的资金转账有关的大多数常见任务。|[点击前往](https://github.com/saturngod/IAPHelper)|🌟🌟🌟|
+|TAPromotee| Objective-C库交叉推广iOS应用|[点击前往](https://github.com/JanC/TAPromotee)|🌟🌟🌟|
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -411,6 +420,7 @@
 |FengNiao|用于清除Xcode中未使用资源的命令行工具。|[点击前往](https://github.com/onevcat/FengNiao)|🌟🌟🌟🌟|
 |APNGKit|高性能和令人愉悦的方式，可在iOS中使用APNG格式播放。|[点击前往](https://github.com/onevcat/APNGKit)|🌟🌟🌟|
 |Rainbow|Swift开发人员的令人愉快的控制台输出。|[点击前往](https://github.com/onevcat/Rainbow)|🌟🌟🌟|
+|Siren|当有新版本的应用程序可用时通知用户，并提示他们进行升级。|[点击前往](https://github.com/ArtSabintsev/Siren)|🌟🌟🌟|
 
 <br>
 <br>
@@ -677,6 +687,7 @@
 |OAuthSwift|国外主流网站OAuth授权库。|[点击前往](https://github.com/OAuthSwift/OAuthSwift)|🌟🌟🌟🌟|
 |R.swift|以一种优雅安全的方式使用资源文件。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟|
 |SwiftGen|是一种工具，可以为项目的资源（例如图像，本地化的字符串等）自动生成Swift代码，以使其易于使用。|[点击前往](https://github.com/SwiftGen/SwiftGen)|🌟🌟🌟🌟|
+|FontBlaster|轻松将自定义字体加载到您的应用中。|[点击前往](https://github.com/ArtSabintsev/FontBlaster)|🌟🌟🌟|
 |Design-Patterns-In-Swift|swift实现的各种设计模式。|[点击前往](https://github.com/ochococo/Design-Patterns-In-Swift)|🌟🌟🌟🌟|
 |XcodeGen|一个用于生成Xcode项目的Swift命令行工具|[点击前往](https://github.com/yonaskolb/XcodeGen)|🌟🌟🌟|
 |Bagel|适用于iOS的本地网络调试工具|[点击前往](https://github.com/yagiz/Bagel)|🌟🌟🌟|
@@ -692,6 +703,7 @@
 |Material|一个用于创建漂亮应用程序的UI / UX框架.|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟|
 |Lona|用于定义设计系统并使用它们生成跨平台UI代码，Sketch文件和其他工件的工具。|[点击前往](https://github.com/airbnb/Lona)|🌟🌟🌟|
 |Dip| 简单的Swift依赖项容器。使用协议来解决您的依赖性，避免单例/ sharedInstances！|[点击前往](https://github.com/AliSoftware/Reusable)|🌟🌟🌟|
+
 
 <br>
 
