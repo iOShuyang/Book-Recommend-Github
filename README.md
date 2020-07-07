@@ -22,8 +22,8 @@
 | [Objective-C 图片加载](#9) |  | [Swift UI框架](#i) |
 | [Objective-C UI控件](#10) |  | [Swift 动画框架](#j) |
 | [Objective-C 抽屉框架](#11) |  | [Swift 综合框架](#k) |
-| [Objective-C 大型框架](#12) |  |  |
-| [Objective-C 音视频处理](#13) |  |  |
+| [Objective-C 大型框架](#12) |  | [Swift UI布局](#l)  |
+| [Objective-C 音视频处理](#13) |  | [Swift 相关资料](#m) |
 |[Objective-C 大汇总](#14) |  |  |
 
 <br>
@@ -379,50 +379,49 @@
 
 <span id="a"></span>
 ## <div align=center>-------------------------[Swift 基础框架](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|ESTabBarController|高度自定义TabBarController，支持自定义TabBarItem样式或添加动画|[点击前往](https://github.com/eggswift/ESTabBarController)|🌟🌟🌟🌟|
-|Kingfisher|是由 喵神 编写的用于下载和缓存网络图片的轻量级Swift工具库，其中涉及到了包括GCD、Swift高级语法、缓存、硬盘读写、网络编程、图像编码、图形绘制、Gif数据生成和处理、MD5、Associated Objects的使用等大量iOS开发知识。|[点击前往](https://github.com/onevcat/Kingfisher)|🌟🌟🌟🌟|
-|SnapKit|是一个优秀的第三方自适应布局库,它可以让iOS、OS X应用更简单地实现自动布局(Auto Layout)|[点击前往](https://github.com/SnapKit/SnapKit)|🌟🌟🌟🌟🌟|
-|RxKeyboard|观察键盘框架变化的反应式方法库|[点击前往](https://github.com/RxSwiftCommunity/RxKeyboard)|🌟🌟🌟|
-|IQKeyboardManagerSwift|使用IQKeyboardManager可以很容易地解决弹起键盘遮盖输入框的问题，并且易于集成，不需要侵入性地继承特定的类，也不需要实现某些奇怪的协议|[点击前往](https://github.com/hackiftekhar/IQKeyboardManager)|🌟🌟🌟🌟|
-|XCGLogger|是一个用于Swift项目的debug日志框架，可详细信息记录到控制台，就像使用NSLog或println那样，但是还带有其他额处信息，如日期、函数名、文件名以及行号。|[点击前往](https://github.com/DaveWoodCom/XCGLogger)|🌟🌟🌟🌟|
-|swift-log|Swift的Logging API |[点击前往](https://github.com/apple/swift-log)|🌟🌟🌟|
-|Hue|集成color功用的库，使用的是hex颜色值。|[点击前往](https://github.com/hyperoslo/Hue)|🌟🌟🌟🌟|
-|SwiftLint|是一个用于强制检查 Swift 代码风格和规定的一个工具，基本上以 GitHub's Swift 代码风格指南为基础。|[点击前往](https://github.com/realm/SwiftLint/blob/master/README_CN.md)|🌟🌟🌟🌟|
-|SwiftFormat|SwiftFormat是一个代码库和命令行工具，用于在macOS或Linux上重新格式化swift代码。|[点击前往](https://github.com/nicklockwood/SwiftFormat)|🌟🌟🌟|
-|PKHUD|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|[点击前往](https://github.com/pkluz/PKHUD)|🌟🌟🌟|
-|Toaster|Swift的Toast通知|[点击前往](https://github.com/devxoul/Toaster)|🌟🌟🌟🌟|
-|PKHUD|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|[点击前往](https://github.com/pkluz/PKHUD)|🌟🌟🌟🌟|
-|Reusable| 利用protocol extension结合泛型提供了一个优雅的方案来dequeueReusableCell|[点击前往](https://github.com/AliSoftware/Reusable)|🌟🌟🌟🌟|
-|FSPagerView|是一个优雅的轮播控件,它可以十分轻松有效地制作轮播视图、产品展示、欢迎/指南页面。|[点击前往](https://github.com/WenchaoD/FSPagerView)|🌟🌟🌟🌟|
-|ActiveLabel|UILabel插件替换支持用Swift编写的Hashtags（＃），Mentions（@）和URL（http：//）|[点击前往](https://github.com/optonaut/ActiveLabel.swift)|🌟🌟🌟🌟|
-|DNSPageView|一个纯Swift的轻量级、灵活且易于使用的pageView|[点击前往](https://github.com/Danie1s/DNSPageView)|🌟🌟🌟🌟|
-|JXSegmentedView|(腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|[点击前往](https://github.com/pujiaxin33/JXSegmentedView)|🌟🌟🌟🌟|
-|EmptyDataSet-Swift|空白数据集显示框架|[点击前往](https://github.com/Xiaoye220/EmptyDataSet-Swift)|🌟🌟🌟|
-|MonkeyKing|帮助开发者快速集成国内主流社交应用(微信、微博、QQ、支付宝)的分享、授权、支付等功能。重要的是，不需要集成各种官方 SDK。目前由 4 名程序员维护。可用于生产环境、轻量级，能满足绝大部分的分享、授权、支付等需求。|[点击前往](https://github.com/nixzhu/MonkeyKing)|🌟🌟🌟🌟|
-|DGElasticPullToRefresh|弹性的下拉刷新控件|[点击前往](https://github.com/gontovnik/DGElasticPullToRefresh)|🌟🌟🌟|
-|BreakOutToRefresh|使用SpriteKit进行可播放拉动以刷新视图|[点击前往](https://github.com/dasdom/BreakOutToRefresh)|🌟🌟🌟|
-|PullToBounce|动画的UIScrollView“拉动刷新”库|[点击前往](https://github.com/entotsu/PullToBounce)|🌟🌟🌟|
-|Instructions|一款能快速创建引导流程的控件|[点击前往](https://github.com/ephread/Instructions)|🌟🌟🌟🌟|
-|RazzleDazzle|集成引导页，具有不错的动画效果。|[点击前往](https://github.com/IFTTT/RazzleDazzle)|🌟🌟🌟🌟|
-|JXMarqueeView| 一个强大易于使用的iOS跑马灯视图|[点击前往](https://github.com/pujiaxin33/JXMarqueeView)|🌟🌟🌟|
-|SwiftMessages|提供多种丰富的消息弹窗样式的控件|[点击前往](https://github.com/SwiftKickMobile/SwiftMessages)|🌟🌟🌟🌟|
-|RxSwift|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|[点击前往](https://github.com/ReactiveX/RxSwift)|🌟🌟🌟🌟🌟|
-|ReactorKit|结合了 Flux 和响应式编程。用户行为和页面状态都是通过序列相互传递。这些序列都是单向的：页面只能发出用户行为，然而反应器（Reactor）只能发出状态。|[点击前往](https://github.com/ReactorKit/ReactorKit)|🌟🌟🌟🌟|
-|Then|Swift初始化器的超级甜蜜语法糖.|[点击前往](https://github.com/devxoul/Then)|🌟🌟🌟🌟|
-|URLNavigator|Swift的优雅URL路由.|[点击前往](https://github.com/devxoul/URLNavigator)|🌟🌟🌟🌟|
-|SwiftyImage|在Swift中用颜色生成图像资源|[点击前往](https://github.com/devxoul/SwiftyImage)|🌟🌟🌟🌟|
-|swiftScan|二维码 各种码识别，生成，界面效果|[点击前往](https://github.com/MxABC/swiftScan)|🌟🌟🌟|
-|Reachability|网络监察|[点击前往](https://github.com/ashleymills/Reachability.swift)|🌟🌟🌟🌟|
-|Connectivity|通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加可靠。 |[点击前往](https://github.com/rwbutler/Connectivity)|🌟🌟🌟|
-|Tiercel|简单易用、功能丰富的纯 Swift 下载框架|[点击前往](https://github.com/Danie1s/Tiercel)|🌟🌟🌟🌟|
-|SwiftTheme|Powerful theme/skin manager for iOS 8+ 主题/换肤, 暗色模式|[点击前往](https://github.com/wxxsw/SwiftTheme)|🌟🌟🌟🌟|
-|RandomColorSwift|Swift的有吸引力的颜色生成器。从randomColor.js移植。|[点击前往](https://github.com/onevcat/RandomColorSwift)|🌟🌟🌟|
-|FengNiao|用于清除Xcode中未使用资源的命令行工具。|[点击前往](https://github.com/onevcat/FengNiao)|🌟🌟🌟🌟|
-|APNGKit|高性能和令人愉悦的方式，可在iOS中使用APNG格式播放。|[点击前往](https://github.com/onevcat/APNGKit)|🌟🌟🌟|
-|Rainbow|Swift开发人员的令人愉快的控制台输出。|[点击前往](https://github.com/onevcat/Rainbow)|🌟🌟🌟|
-|Siren|当有新版本的应用程序可用时通知用户，并提示他们进行升级。|[点击前往](https://github.com/ArtSabintsev/Siren)|🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[ESTabBarController](https://github.com/eggswift/ESTabBarController)|高度自定义TabBarController，支持自定义TabBarItem样式或添加动画|updating|🌟🌟🌟🌟| 4.2k|
+|[Kingfisher](https://github.com/onevcat/Kingfisher)|是由 喵神 编写的用于下载和缓存网络图片的轻量级Swift工具库，其中涉及到了包括GCD、Swift高级语法、缓存、硬盘读写、网络编程、图像编码、图形绘制、Gif数据生成和处理、MD5、Associated Objects的使用等大量iOS开发知识。|updating|🌟🌟🌟🌟| 16.3k|
+|[SnapKit](https://github.com/SnapKit/SnapKit)|是一个优秀的第三方自适应布局库,它可以让iOS、OS X应用更简单地实现自动布局(Auto Layout)|updating|🌟🌟🌟🌟🌟| 16.6k|
+|[RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard)|观察键盘框架变化的反应式方法库|2019|🌟🌟🌟| 1.2k|
+|[IQKeyboardManagerSwift](https://github.com/hackiftekhar/IQKeyboardManager)|使用IQKeyboardManager可以很容易地解决弹起键盘遮盖输入框的问题，并且易于集成，不需要侵入性地继承特定的类，也不需要实现某些奇怪的协议|updating|🌟🌟🌟🌟| 14.4k|
+|[XCGLogger](https://github.com/DaveWoodCom/XCGLogger)|是一个用于Swift项目的debug日志框架，可详细信息记录到控制台，就像使用NSLog或println那样，但是还带有其他额处信息，如日期、函数名、文件名以及行号。|updating|🌟🌟🌟🌟| 3.5k|
+|[swift-log](https://github.com/apple/swift-log)|Swift的Logging API |updating|🌟🌟🌟| 1.9k|
+|[Hue](https://github.com/hyperoslo/Hue)|集成color功用的库，使用的是hex颜色值。|2019|🌟🌟🌟🌟| 3.1k|
+|[SwiftLint](https://github.com/realm/SwiftLint)|是一个用于强制检查 Swift 代码风格和规定的一个工具，基本上以 GitHub's Swift 代码风格指南为基础。|updating|🌟🌟🌟🌟| 13.6|
+|[SwiftFormat](https://github.com/nicklockwood/SwiftFormat)|SwiftFormat是一个代码库和命令行工具，用于在macOS或Linux上重新格式化swift代码。|updating|🌟🌟🌟| 4k|
+|[PKHUD](https://github.com/pkluz/PKHUD)|提供用swift写多个指示层HUD,包括展示状态,进度,上标题+图片,下标题+图片,普通文本等等的多种形式的HUD|2019|🌟🌟🌟| 3.4k|
+|[Toaster](https://github.com/devxoul/Toaster)|Swift的Toast通知|updating|🌟🌟🌟🌟| 1.3k|
+|[Reusable](https://github.com/AliSoftware/Reusable)| 利用protocol extension结合泛型提供了一个优雅的方案来dequeueReusableCell|updating|🌟🌟🌟🌟| 2.5k|
+|[FSPagerView](https://github.com/WenchaoD/FSPagerView)|是一个优雅的轮播控件,它可以十分轻松有效地制作轮播视图、产品展示、欢迎/指南页面。|updating|🌟🌟🌟🌟| 5.4k|
+|[ActiveLabel](https://github.com/optonaut/ActiveLabel.swift)|UILabel插件替换支持用Swift编写的Hashtags（＃），Mentions（@）和URL（http：//）|2019|🌟🌟🌟🌟| 3.5k|
+|[DNSPageView](https://github.com/Danie1s/DNSPageView)|一个纯Swift的轻量级、灵活且易于使用的pageView|updating|🌟🌟🌟🌟| <1k|
+|[JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|(腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|updating|🌟🌟🌟🌟| 1.2k|
+|[mptyDataSet-Swift](https://github.com/Xiaoye220/EmptyDataSet-Swift)|空白数据集显示框架|updating|🌟🌟🌟| <1k|
+|[MonkeyKing](https://github.com/nixzhu/MonkeyKing)|帮助开发者快速集成国内主流社交应用(微信、微博、QQ、支付宝)的分享、授权、支付等功能。重要的是，不需要集成各种官方 SDK。目前由 4 名程序员维护。可用于生产环境、轻量级，能满足绝大部分的分享、授权、支付等需求。|updating|🌟🌟🌟🌟| 2.5k|
+|[DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|弹性的下拉刷新控件|2016|🌟🌟🌟| 3.5k|
+|[BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh)|使用SpriteKit进行可播放拉动以刷新视图|updating|🌟🌟🌟| 2.4k|
+|[PullToBounce](https://github.com/entotsu/PullToBounce)|动画的UIScrollView“拉动刷新”库|2018|🌟🌟🌟| 1.9k|
+|[Instructions](https://github.com/ephread/Instructions)|一款能快速创建引导流程的控件|updating|🌟🌟🌟🌟| 4.3k|
+|[RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)|集成引导页，具有不错的动画效果。|2016|🌟🌟🌟🌟| 3.2k|
+|[JXMarqueeView](https://github.com/pujiaxin33/JXMarqueeView)| 一个强大易于使用的iOS跑马灯视图|2019|🌟🌟🌟| <1k|
+|[SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)|提供多种丰富的消息弹窗样式的控件|updating|🌟🌟🌟🌟| 5.6k|
+|[RxSwift](https://github.com/ReactiveX/RxSwift)|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|updating|🌟🌟🌟🌟🌟| 18.6k|
+|[ReactorKit](https://github.com/ReactorKit/ReactorKit)|结合了 Flux 和响应式编程。用户行为和页面状态都是通过序列相互传递。这些序列都是单向的：页面只能发出用户行为，然而反应器（Reactor）只能发出状态。|updating|🌟🌟🌟🌟| 1.9k|
+|[Then](https://github.com/devxoul/Then)|Swift初始化器的超级甜蜜语法糖.|updating|🌟🌟🌟🌟| 3.2k|
+|[URLNavigator](https://github.com/devxoul/URLNavigator)|Swift的优雅URL路由.|updating|🌟🌟🌟🌟| 2.4k|
+|[SwiftyImage](https://github.com/devxoul/SwiftyImage)|在Swift中用颜色生成图像资源|updating|🌟🌟🌟🌟| <1k|
+|[swiftScan](https://github.com/MxABC/swiftScan)|二维码 各种码识别，生成，界面效果|updating|🌟🌟🌟| 1.2k|
+|[Reachability](https://github.com/ashleymills/Reachability.swift)|网络监察|updating|🌟🌟🌟🌟| 6.8k|
+|[Connectivity](https://github.com/rwbutler/Connectivity)|通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加可靠。 |updating|🌟🌟🌟| 1.3k|
+|[Tiercel](https://github.com/Danie1s/Tiercel)|简单易用、功能丰富的纯 Swift 下载框架|updating|🌟🌟🌟🌟| 1.8k|
+|[SwiftTheme](https://github.com/wxxsw/SwiftTheme)|Powerful theme/skin manager for iOS 8+ 主题/换肤, 暗色模式|updating|🌟🌟🌟🌟| 1.9k|
+|[RandomColorSwift](https://github.com/onevcat/RandomColorSwift)|Swift的有吸引力的颜色生成器。从randomColor.js移植。|updating|🌟🌟🌟| <1k|
+|[FengNiao](https://github.com/onevcat/FengNiao)|用于清除Xcode中未使用资源的命令行工具。|updating|🌟🌟🌟🌟| 2.5k|
+|[APNGKit](https://github.com/onevcat/APNGKit)|高性能和令人愉悦的方式，可在iOS中使用APNG格式播放。|updating|🌟🌟🌟| 1.7k|
+|[Rainbow](https://github.com/onevcat/Rainbow)|Swift开发人员的令人愉快的控制台输出。|updating|🌟🌟🌟| 1.3k|
+|[Siren](https://github.com/ArtSabintsev/Siren)|当有新版本的应用程序可用时通知用户，并提示他们进行升级。|updating|🌟🌟🌟🌟| 3.6k|
 
 <br>
 <br>
@@ -432,17 +431,17 @@
 
 <span id="b"></span>
 ## <div align=center>-------------------------[Swift 网络请求及数据解析](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|Alamofire| 一个使用Swift开发的网络请求库，其开发团队是AFNetworking的原团队。它语法简洁,采用链式编程的思想，使用起来是相当的舒服。本质是基于NSURLSession进行封装。 |[点击前往](https://github.com/Alamofire/Alamofire)|🌟🌟🌟🌟🌟|
-|Moya| 是一个网络抽象层,它在底层将Alamofire进行封装,对外提供更简洁的接口供开发者调用。 |[点击前往](https://github.com/Moya/Moya)|🌟🌟🌟🌟|
-|SwiftyJSON|是个使用Swift语言编写的开源库,可以让我们很方便地处理JSON数据(解析数据、生成数据)。|[点击前往](https://github.com/SwiftyJSON/SwiftyJSON)|🌟🌟🌟🌟🌟|
-|HandyJSON|是阿里巴巴开源的一个用于Swift语言中的JSON序列化/反序列化库，可以很方便进行json与model的转换，以及常用的字典与模型的互相转换。|[点击前往](https://github.com/alibaba/HandyJSON)|🌟🌟🌟🌟🌟|
-|ObjectMapper|ObjectMapper类是Jackson库的主要类。它提供一些功能将转换成Java对象匹配JSON结构，反之亦然。它使用JsonParser和JsonGenerator的实例实现JSON实际的读/写。|[点击前往](https://github.com/tristanhimmelman/ObjectMapper)|🌟🌟🌟🌟🌟|
-|Codextended|Swift 中高效的JSON 转Model 框架|[点击前往](https://github.com/JohnSundell/Codextended)|🌟🌟🌟|
-|AlamofireObjectMapper|Alamofire扩展，使用ObjectMapper将JSON响应数据转换为swift对象|[点击前往](https://github.com/tristanhimmelman/AlamofireObjectMapper)|🌟🌟🌟🌟|
-|Argo|函数式json解析转换库。|[点击前往](https://github.com/thoughtbot/Argo)|🌟🌟🌟|
-|SQLite|用swift封装的sqlite 3操作框架。|[点击前往](https://github.com/stephencelis/SQLite.swift)|🌟🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[Alamofire](https://github.com/Alamofire/Alamofire)| 一个使用Swift开发的网络请求库，其开发团队是AFNetworking的原团队。它语法简洁,采用链式编程的思想，使用起来是相当的舒服。本质是基于NSURLSession进行封装。 |updating|🌟🌟🌟🌟🌟| 33.9k|
+|[Moya](https://github.com/Moya/Moya)| 是一个网络抽象层,它在底层将Alamofire进行封装,对外提供更简洁的接口供开发者调用。 |updating|🌟🌟🌟🌟| 12.2k|
+|[SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)|是个使用Swift语言编写的开源库,可以让我们很方便地处理JSON数据(解析数据、生成数据)。|2019|🌟🌟🌟🌟🌟| 19.7k|
+|[HandyJSON](https://github.com/alibaba/HandyJSON)|是阿里巴巴开源的一个用于Swift语言中的JSON序列化/反序列化库，可以很方便进行json与model的转换，以及常用的字典与模型的互相转换。|updating|🌟🌟🌟🌟| 3.4k|
+|[ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper)|ObjectMapper类是Jackson库的主要类。它提供一些功能将转换成Java对象匹配JSON结构，反之亦然。它使用JsonParser和JsonGenerator的实例实现JSON实际的读/写。|updating|🌟🌟🌟🌟🌟| 8.5k|
+|[Codextended](https://github.com/JohnSundell/Codextended)|Swift 中高效的JSON 转Model 框架|2019|🌟🌟🌟| 1.2k|
+|[AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)|Alamofire扩展，使用ObjectMapper将JSON响应数据转换为swift对象|updating|🌟🌟🌟🌟| 2.6k|
+|[Argo](https://github.com/thoughtbot/Argo)|函数式json解析转换库。|updating|🌟🌟🌟| 3.5k|
+|[SQLite](https://github.com/stephencelis/SQLite.swift)|用swift封装的sqlite 3操作框架。|2019|🌟🌟🌟🌟| 7k|
 
 <br>
 <br>
@@ -452,32 +451,30 @@
 
 <span id="c"></span>
 ## <div align=center>-------------------------[Swift 扩展框架](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|SwiftDate|是Github上开源的,使用Swift语言编写的NSDate封装库,可以很方便的在Swift中处理日期,比如日期创建,比较,输出等|[点击前往](https://github.com/malcommac/SwiftDate)|🌟🌟🌟🌟|
-|SwiftyUserDefaults|使用该组件,可以避免UserDefaults导致的crash,而且不必再通过手写字符串的方式作为key来存取数据,这无疑减小了出错的概率。|[点击前往](https://github.com/radex/SwiftyUserDefaults)|🌟🌟🌟🌟|
-|KeychainAccess|使用Keychain非常方便。|[点击前往](https://github.com/kishikawakatsumi/KeychainAccess)|🌟🌟🌟🌟|
-|ExSwift|包含一组标准类型和类的Swift扩展。|[点击前往](https://github.com/pNre/ExSwift)|🌟🌟🌟🌟|
-|SwiftString|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|[点击前往](https://github.com/amayne/SwiftString)|🌟🌟🌟|
-|SwiftRichString|优雅，简单，快捷的方式来创建属性字符串。|[点击前往](https://github.com/malcommac/SwiftRichString)|🌟🌟🌟🌟|
-|SwifterSwift|是一个用 Swift 编写的 Extension 的集合，涵盖了开发过程中大部分会用到的方法和函数，是一个不错的工具库.|[点击前往](https://github.com/SwifterSwift/SwifterSwift)|🌟🌟🌟🌟|
-|EZSwiftExtensions|提供了一系列对于 Swift 标准库、方法与 UIKit 的扩展，让你更加简单舒服地编写代码。|[点击前往](https://github.com/goktugyil/EZSwiftExtensions)|🌟🌟🌟|
-|Async|异步操作库，类似promise|[点击前往](https://github.com/duemunk/Async)|🌟🌟🌟🌟|
-|Promisekit|异步编程|[点击前往](https://github.com/mxcl/PromiseKit)|🌟🌟🌟🌟|
-|Promises|Promises是一个现代框架，为Objective-C和Swift提供了一个同步结构，以方便编写异步代码。|[点击前往](https://github.com/google/promises)|🌟🌟🌟🌟|
-|HanekeSwift|是一个轻量级的缓存,为UIImage,JSON,NSData,String提供记忆和LRU磁盘缓存。|[点击前往](https://github.com/Haneke/HanekeSwift)|🌟🌟🌟|
-|CryptoSwift |是一个使用 Swift 编写的加密工具包,支持多种加密算法,如:MD5、SHA1、AES-128 等等|[点击前往](https://github.com/krzyzanowskim/CryptoSwift)|🌟🌟🌟🌟|
-|Chameleon|是一个非常棒👍👍👍iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.|[点击前往](https://github.com/ViccAlexander/Chameleon)|🌟🌟🌟🌟|
-|UIImageColors|从图像中获取最主要和最突出的颜色。|[点击前往](https://github.com/jathu/UIImageColors)|🌟🌟🌟🌟|
-|SwiftOCR|ocr图像识别库。|[点击前往](https://github.com/garnele007/SwiftOCR)|🌟🌟🌟🌟|
-|FaceAware|能使UIImageView能够聚焦图像中的面部|[点击前往](https://github.com/BeauNouvelle/FaceAware)|🌟🌟🌟🌟|
-|PromiseKit|异步编程类库 提供了很多实用的异步函数 让异步编程更简单|[点击前往](https://github.com/mxcl/PromiseKit)|🌟🌟🌟🌟|
-|Aspects|swift面向切面编程（AOP）库 【Method Swizzling】|[点击前往](https://github.com/steipete/Aspects)|🌟🌟🌟🌟|
-|PermissionScope|权限管理库 提供申请权限授权操作|[点击前往](https://github.com/nickoneill/PermissionScope)|🌟🌟🌟🌟|
-|Permission|统一管理iOS系统的许可，比如相机、相片、定位等。|[点击前往](https://github.com/nickoneill/PermissionScope)|🌟🌟🌟|
-|Dollar|无需扩展任何内置对象就为Swift语言提供有效的函数式编程辅助方法,类似于Lo-Dash或JavaScript中的Underscore。|[点击前往](https://github.com/ankurp/Dollar)|🌟🌟🌟🌟|
-|TextAttributes|封装NSAttributedString的框架，让attributed strings处理更加简单，而且是链式结构，看起来更加直观。|[点击前往](https://github.com/delba/TextAttributes)|🌟🌟🌟🌟|
-|DifferenceKit|快速，灵活的O（n）差异算法框架，用于Swift收集。|[点击前往](https://github.com/ra1028/DifferenceKit)|🌟🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[SwiftDate](https://github.com/malcommac/SwiftDate)|是Github上开源的,使用Swift语言编写的NSDate封装库,可以很方便的在Swift中处理日期,比如日期创建,比较,输出等|updating|🌟🌟🌟🌟| 5.8k|
+|[SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)|使用该组件,可以避免UserDefaults导致的crash,而且不必再通过手写字符串的方式作为key来存取数据,这无疑减小了出错的概率。|updating|🌟🌟🌟🌟| 4.2k|
+|[KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)|使用Keychain非常方便。|updating|🌟🌟🌟🌟| 5.7k|
+|[ExSwift](https://github.com/pNre/ExSwift)|包含一组标准类型和类的Swift扩展。|2015(Archived)|🌟🌟🌟🌟| 3.4k|
+|[SwiftString](https://github.com/amayne/SwiftString)|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|2016|🌟🌟🌟| 1.5k|
+|[SwiftRichString](https://github.com/malcommac/SwiftRichString)|优雅，简单，快捷的方式来创建属性字符串。|updating|🌟🌟🌟🌟| 2.4k|
+|[SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|是一个用 Swift 编写的 Extension 的集合，涵盖了开发过程中大部分会用到的方法和函数，是一个不错的工具库.|updating|🌟🌟🌟🌟| 8.6k|
+|[EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)|提供了一系列对于 Swift 标准库、方法与 UIKit 的扩展，让你更加简单舒服地编写代码。|2019|🌟🌟🌟| 2.8k|
+|[Async](https://github.com/duemunk/Async)|异步操作库，类似promise|updating|🌟🌟🌟🌟| 4.5k|
+|[Promisekit](https://github.com/mxcl/PromiseKit)|异步编程|updating|🌟🌟🌟🌟🌟| 12.7k|
+|[Promises](https://github.com/google/promises)|Promises是一个现代框架，为Objective-C和Swift提供了一个同步结构，以方便编写异步代码。|2019|🌟🌟🌟🌟| 3.3k|
+|[HanekeSwift](https://github.com/Haneke/HanekeSwift)|是一个轻量级的缓存,为UIImage,JSON,NSData,String提供记忆和LRU磁盘缓存。|2019|🌟🌟🌟| 5k|
+|[CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) |是一个使用 Swift 编写的加密工具包,支持多种加密算法,如:MD5、SHA1、AES-128 等等|updating|🌟🌟🌟🌟| 7.9k|
+|[Chameleon](https://github.com/ViccAlexander/Chameleon)|是一个非常棒的iOS的色彩框架。它运用现代化flat color将UIColor扩展地非常美观。我们还可以通过它运用自定义颜色创建调色板。它还有很多功用，请浏览readme。同时支持Objective-C.|2017|🌟🌟🌟🌟🌟| 12.4k|
+|[UIImageColors](https://github.com/jathu/UIImageColors)|从图像中获取最主要和最突出的颜色。|updating|🌟🌟🌟🌟| 2.8k|
+|[SwiftOCR](https://github.com/garnele007/SwiftOCR)|ocr图像识别库。|updating|🌟🌟🌟🌟| 4.2k|
+|[FaceAware](https://github.com/BeauNouvelle/FaceAware)|能使UIImageView能够聚焦图像中的面部|updating|🌟🌟🌟🌟| 2.9k|
+|[Aspects](https://github.com/steipete/Aspects)|swift面向切面编程（AOP）库 【Method Swizzling】|2016|🌟🌟🌟🌟| 7.9k|
+|[PermissionScope](https://github.com/nickoneill/PermissionScope)|权限管理库 提供申请权限授权操作|2017(Archived)|🌟🌟🌟🌟| 4.9k|
+|[Dollar](https://github.com/ankurp/Dollar)|无需扩展任何内置对象就为Swift语言提供有效的函数式编程辅助方法,类似于Lo-Dash或JavaScript中的Underscore。| updating |🌟🌟🌟🌟| 4.1k|
+|[TextAttributes](https://github.com/delba/TextAttributes)|封装NSAttributedString的框架，让attributed strings处理更加简单，而且是链式结构，看起来更加直观。|updating|🌟🌟🌟🌟| 2.1k|
+|[DifferenceKit](https://github.com/ra1028/DifferenceKit)|快速，灵活的O（n）差异算法框架，用于Swift收集。|updating|🌟🌟🌟🌟| 2.5k|
 
 
 <br>
@@ -488,15 +485,15 @@
 
 <span id="d"></span>
 ## <div align=center>-------------------------[Swift 弹窗控件](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|Popover|一款简洁的弹出式弹窗控件|[点击前往](https://github.com/corin8823/Popover)|🌟🌟🌟🌟|
-|PopMenu| 一款简易即可高度自定义化以又可以跟iOS默认的Action Sheet一样拥有很大的灵活性. 如果你的app需要一款灵活好看的弹出菜单的话，PopMenu就是你的不二之选|[点击前往](https://github.com/CaliCastle/PopMenu)|🌟🌟🌟🌟|
-|AMPopTip|是一个动画信息提示控件,具有漂亮的弹出框动画效果。可以设置弹出框的弹出方向以及弹出框的箭头指向。|[点击前往](https://github.com/andreamazz/AMPopTip)|🌟🌟🌟|
-|PeekPop|Peek和Pop是iPhone 6S和6S+上新增的一个很棒的iOS特性，可以很方便地使用3D touch来预览内容。|[点击前往](https://github.com/marmelroy/PeekPop)|🌟🌟🌟🌟|
-|SCLAlertView-Swift|不错的一款alert view。|[点击前往](https://github.com/vikmeup/SCLAlertView-Swift)|🌟🌟🌟🌟|
-|SweetAlert-iOS|Live animated Alert View |[点击前往](https://github.com/codestergit/SweetAlert-iOS)|🌟🌟🌟🌟|
-|FloatingPanel|浮动界面 |[点击前往](https://github.com/SCENEE/FloatingPanel)|🌟🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[Popover](https://github.com/corin8823/Popover)|一款简洁的弹出式弹窗控件|updating|🌟🌟🌟| 1.8k|
+|[PopMenu](https://github.com/CaliCastle/PopMenu)| 一款简易即可高度自定义化以又可以跟iOS默认的Action Sheet一样拥有很大的灵活性. 如果你的app需要一款灵活好看的弹出菜单的话，PopMenu就是你的不二之选|2018|🌟🌟🌟| 1k|
+|[AMPopTip](https://github.com/andreamazz/AMPopTip)|是一个动画信息提示控件,具有漂亮的弹出框动画效果。可以设置弹出框的弹出方向以及弹出框的箭头指向。|updating|🌟🌟🌟| 2.6k|
+|[PeekPop](https://github.com/marmelroy/PeekPop)|Peek和Pop是iPhone 6S和6S+上新增的一个很棒的iOS特性，可以很方便地使用3D touch来预览内容。|2016|🌟🌟🌟🌟| 2k|
+|[SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)|不错的一款alert view。|updating|🌟🌟🌟🌟| 5k|
+|[SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)|Live animated Alert View |2017|🌟🌟🌟🌟| 2k|
+|[FloatingPanel](https://github.com/SCENEE/FloatingPanel)|浮动界面 |updating|🌟🌟🌟🌟| 3.7k|
 <br>
 <br>
 <br>
@@ -505,13 +502,13 @@
 
 <span id="e"></span>
 ## <div align=center>-------------------------[Swift 音视频](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|BMPlayer|适用于iOS的视频播放器，基于AVPlayer，支持水平垂直屏幕。支持调整音量，亮度和滑动搜索，支持字幕。|[点击前往](https://github.com/BrikerMan/BMPlayer)|🌟🌟🌟🌟|
-|MobilePlayer|一个强大、可自定义的媒体播放器.|[点击前往](https://github.com/mobileplayer/mobileplayer-ios)|🌟🌟🌟|
-|Player|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|[点击前往](https://github.com/piemonte/Player)|🌟🌟🌟|
-|AudioKit|是一个用于在OS X、iOS、tvOS开发中进行音频合成、处理和分析的工具集|[点击前往](https://github.com/audiokit/AudioKit)|🌟🌟🌟🌟|
-|GPUImage2|GPUImage 2是BSD许可的Swift框架，用于GPU加速的视频和图像处理。|[点击前往](https://github.com/BradLarson/GPUImage2)|🌟🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[BMPlayer](https://github.com/BrikerMan/BMPlayer)|适用于iOS的视频播放器，基于AVPlayer，支持水平垂直屏幕。支持调整音量，亮度和滑动搜索，支持字幕。|updating|🌟🌟🌟| 1.5k|
+|[MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios)|一个强大、可自定义的媒体播放器.|2019|🌟🌟🌟| 2.8k|
+|[Player](https://github.com/piemonte/Player)|一个简单方法播放视频和流媒体的播放器，支持iOS和tvOS.|updating|🌟🌟🌟| 1.6k|
+|[AudioKit](https://github.com/audiokit/AudioKit)|是一个用于在OS X、iOS、tvOS开发中进行音频合成、处理和分析的工具集|updating|🌟🌟🌟🌟| 7.7k|
+|[GPUImage2](https://github.com/BradLarson/GPUImage2)|GPUImage 2是BSD许可的Swift框架，用于GPU加速的视频和图像处理。|2019|🌟🌟🌟🌟| 4.4k|
 <br>
 <br>
 <br>
@@ -520,15 +517,15 @@
 
 <span id="f"></span>
 ## <div align=center>-------------------------[Swift 选择图片](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|Lightbox|一个方便和易于使用的iOS图像浏览器|[点击前往](https://github.com/hyperoslo/Lightbox)|🌟🌟🌟|
-|IDMPhotoBrowser|是基于开源项目MWPhotoBrowser的新实现,从Facebook和 Tweetbot的照片浏览器借鉴了相关用户体验和技术性能。|[点击前往](https://github.com/thiagoperes/IDMPhotoBrowser)|🌟🌟🌟|
-|SwiftPhotoGallery|用Swift编写的iOS照片库|[点击前往](https://github.com/Inspirato/SwiftPhotoGallery)|🌟🌟🌟|
-|ImageViewer|Twitter上的图像查看器|[点击前往](https://github.com/Krisiacik/ImageViewer)|🌟🌟🌟🌟|
-|ImagePicker|图片选择器，重塑ImagePicker的工作方式。|[点击前往](https://github.com/hyperoslo/ImagePicker)|🌟🌟🌟🌟|
-|SKPhotoBrowser|受Facebook启发的简单PhotoBrowser / Viewer，swift编写的twitter照片浏览器|[点击前往](https://github.com/suzuki-0000/SKPhotoBrowser)|🌟🌟🌟🌟|
-|SwiftyCam|由Swift编写的受Snapchat启发的iOS相机框架|[点击前往](https://github.com/Awalz/SwiftyCam)|🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[Lightbox](https://github.com/hyperoslo/Lightbox)|一个方便和易于使用的iOS图像浏览器|updating|🌟🌟🌟| 1.2k|
+|[IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|是基于开源项目MWPhotoBrowser的新实现,从Facebook和 Tweetbot的照片浏览器借鉴了相关用户体验和技术性能。|2018|🌟🌟🌟| 2.7k|
+|[SwiftPhotoGallery](https://github.com/Inspirato/SwiftPhotoGallery)|用Swift编写的iOS照片库|2019|🌟🌟🌟| <1k|
+|[ImageViewer](https://github.com/Krisiacik/ImageViewer)|Twitter上的图像查看器|updating|🌟🌟🌟🌟| 2.3k|
+|[ImagePicker](https://github.com/hyperoslo/ImagePicker)|图片选择器，重塑ImagePicker的工作方式。|updating|🌟🌟🌟🌟| 4.3k|
+|[SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)|受Facebook启发的简单PhotoBrowser / Viewer，swift编写的twitter照片浏览器|2019|🌟🌟🌟🌟| 2.1k|
+|[SwiftyCam](https://github.com/Awalz/SwiftyCam)|由Swift编写的受Snapchat启发的iOS相机框架|2019|🌟🌟🌟| 1.7k|
 <br>
 <br>
 <br>
@@ -537,15 +534,15 @@
 
 <span id="g"></span>
 ## <div align=center>-------------------------[Swift 菜单控制器](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|FlowingMenu|交互式视图过渡到在Swift中显示具有流动和弹跳效果的菜单|[点击前往](https://github.com/yannickl/FlowingMenu)|🌟🌟🌟|
-|XLPagerTabStrip|是一个容器视图控制器，允许我们在一组视图控制器之间轻松切换。平移手势可用于移动到下一个或上一个视图控制器。它显示当前，上一个，下一个子视图控制器的交互式指示器。|[点击前往](https://github.com/xmartlabs/XLPagerTabStrip)|🌟🌟🌟🌟|
-|PageMenu|从滚动视图内部的其他视图控制器构建的分页菜单控制器（如Spotify，Windows Phone，Instagram）|[点击前往](https://github.com/PageMenu/PageMenu)|🌟🌟🌟🌟|
-|TwicketSegmentedControl|多页面切换滑块控件，能处理滑块的惯性，可以直接将滑块甩到到另一侧。|[点击前往](https://github.com/twicketapp/TwicketSegmentedControl)|🌟🌟🌟🌟|
-|XLActionController|有多种可自定义可扩展的底部菜单栏控件|[点击前往](https://github.com/xmartlabs/XLActionController)|🌟🌟🌟🌟|
-|ENSwiftSideMenu|手势侧滑menu|[点击前往](https://github.com/evnaz/ENSwiftSideMenu)|🌟🌟🌟|
-|MessageKit|如果您想在应用程序中添加高度可定制的聊天或消息功能，那么这是一个很好的库。这个库可以支持不同的消息类型：短信、照片、视频、位置、表情符号、音频、联系|[点击前往](https://github.com/MessageKit/MessageKit)|🌟🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[FlowingMenu](https://github.com/yannickl/FlowingMenu)|交互式视图过渡到在Swift中显示具有流动和弹跳效果的菜单|updating|🌟🌟🌟| <1k|
+|[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)|是一个容器视图控制器，允许我们在一组视图控制器之间轻松切换。平移手势可用于移动到下一个或上一个视图控制器。它显示当前，上一个，下一个子视图控制器的交互式指示器。|2019|🌟🌟🌟🌟| 6.3k|
+|[PageMenu](https://github.com/PageMenu/PageMenu)|从滚动视图内部的其他视图控制器构建的分页菜单控制器（如Spotify，Windows Phone，Instagram）|2018|🌟🌟🌟🌟| 5.1k|
+|[TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl)|多页面切换滑块控件，能处理滑块的惯性，可以直接将滑块甩到到另一侧。|2016|🌟🌟🌟| 1.6k|
+|[XLActionController](https://github.com/xmartlabs/XLActionController)|有多种可自定义可扩展的底部菜单栏控件|updating|🌟🌟🌟🌟| 3.1k|
+|[ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu)|手势侧滑menu|2019|🌟🌟🌟| 1.8k|
+|[MessageKit](https://github.com/MessageKit/MessageKit)|如果您想在应用程序中添加高度可定制的聊天或消息功能，那么这是一个很好的库。这个库可以支持不同的消息类型：短信、照片、视频、位置、表情符号、音频、联系|updating|🌟🌟🌟🌟| 4.2k|
 <br>
 <br>
 <br>
@@ -554,12 +551,12 @@
 
 <span id="h"></span>
 ## <div align=center>-------------------------[Swift 聊天 UI](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|aurora-imui|General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。|[点击前往](https://github.com/jpush/aurora-imui)|🌟🌟🌟🌟|
-|NMessenger|基于AsyncDisplaykit构建的快速、轻量级信息聊天UI组件|[点击前往](https://github.com/eBay/NMessenger)|🌟🌟🌟🌟|
-|Messenger|这是一个原生iOS Messenger应用程序，具有音频/视频通话和实时聊天对话（完全脱机支持）。|[点击前往](https://github.com/relatedcode/Messenger)|🌟🌟🌟🌟|
-|Chatto|一个用于构建聊天应用程序的轻量级框架，由Swift制作|[点击前往](https://github.com/badoo/Chatto)|🌟🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[aurora-imui](https://github.com/jpush/aurora-imui)|General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。|updating|🌟🌟🌟🌟| 5.2k|
+|[NMessenger](https://github.com/eBay/NMessenger)|基于AsyncDisplaykit构建的快速、轻量级信息聊天UI组件|2017(Archived)|🌟🌟🌟🌟| 2.5k|
+|[Messenger](https://github.com/relatedcode/Messenger)|这是一个原生iOS Messenger应用程序，具有音频/视频通话和实时聊天对话（完全脱机支持）。|updating|🌟🌟🌟🌟| 3.9k|
+|[Chatto](https://github.com/badoo/Chatto)|一个用于构建聊天应用程序的轻量级框架，由Swift制作|updating|🌟🌟🌟🌟| 4.1k|
 <br>
 <br>
 <br>
@@ -568,67 +565,61 @@
 
 <span id="i"></span>
 ## <div align=center>-------------------------[Swift UI框架](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|Charts|画 K 线图和折线图框架。|[点击前往](https://github.com/danielgindi/Charts)|🌟🌟🌟🌟|
-|AAChartKit|极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图…|[点击前往](https://github.com/AAChartModel/AAChartKit)|🌟🌟🌟🌟|
-|PNChart-Swift|是一款用Swift语言实现的iOS开源动画图标类库,可以生成简单、漂亮且有动画效果的柱状图、曲线图、折线图、饼图。|[点击前往](https://github.com/kevinzhow/PNChart-Swift)|🌟🌟🌟|
-|SpreadsheetView|用于iOS应用程序的完整可配置电子表格视图用户界面。使用此框架，您可以轻松创建复杂的布局，如计划，甘特图或时间表，就像使用Excel一样。|[点击前往](https://github.com/kishikawakatsumi/SpreadsheetView)|🌟🌟🌟🌟|
-|HSStockChart|是一个绘制股票分时图、K 线图的库。支持流畅的回弹拖动，长按十字线，捏合放大缩小等功能，主要使用了 CAShapeLayer 来绘图，相比使用 Core Graphics 和重写 drawRect 的方法更高效，占用内存更小。|[点击前往](https://github.com/zyphs21/HSStockChart)|🌟🌟🌟🌟|
-|TextFieldEffects|是一个Swift的炫酷的TextField封装类|[点击前往](https://github.com/raulriera/TextFieldEffects)|🌟🌟🌟🌟|
-|Hero|适用于iOS和tvOS的优雅过渡库|[点击前往](https://github.com/lkzhao/Hero)|🌟🌟🌟🌟|
-|SkeletonView|骨架屏）基本原理是添加控件形成真实的布局，等有数据时隐藏。 |[点击前往](https://github.com/Juanpe/SkeletonView)|🌟🌟🌟🌟|
-|ARKit-CoreLocation|使用摄像头和运动数据来绘制用户移动时本地的地图。|[点击前往](https://github.com/ProjectDent/ARKit-CoreLocation)|🌟🌟🌟🌟|
-|SwiftMessages|用于以屏幕顶部或底部的状态栏的形式显示简短的消息.|[点击前往](https://github.com/SwiftKickMobile/SwiftMessages)|🌟🌟🌟🌟|
-|HGPlaceholders|是一个显示项目中任何 UITableView/UICollectionView 占位符和空状态的库。|[点击前往](https://github.com/HamzaGhazouani/HGPlaceholders)|🌟🌟🌟🌟|
-|LTMorphingLabel|用Swift编写的UILabel的优美变形效果。|[点击前往](https://github.com/lexrus/LTMorphingLabel)|🌟🌟🌟🌟|
-|SkyFloatingLabelTextField|似于OC的JVFloatLabeledTextField,编辑就会出现浮动的提示label|[点击前往](https://github.com/Skyscanner/SkyFloatingLabelTextField)|🌟🌟🌟🌟|
-|ScrollableGraphView|iOS的自适应可滚动图形视图，用于显示简单的离散数据集。|[点击前往](https://github.com/philackm/ScrollableGraphView)|🌟🌟🌟🌟|
-|JTAppleCalendar|非官方Apple iOS Swift日历视图。 iOS日历库。 iOS日历控件。 100％可定制|[点击前往](https://github.com/patchthecode/JTAppleCalendar)|🌟🌟🌟🌟|
-|CalendarKit|完全可定制的iOS日历|[点击前往](https://github.com/richardtop/CalendarKit)|🌟🌟🌟🌟|
-|LayoutKit|是一个高性能的iOS应用视图布局库。|[点击前往](https://github.com/linkedin/LayoutKit)|🌟🌟🌟|
-|Side-Menu.iOS|是带有动画效果 UI 的 iOS 侧边菜单。|[点击前往](https://github.com/Yalantis/Side-Menu.iOS)|🌟🌟🌟|
-|MaterialKit|用Swift编写的iOS的材料设计组件|[点击前往](https://github.com/nghialv/MaterialKit)|🌟🌟🌟|
-|WKWebViewJavascriptBridge|在其上仅对 WKWebView 提供支持，由 Swift 实现！您可以通过使用 WKWebViewJavascriptBridge 书写几行代码实现混合模块，而无需关心底层的消息传递实现。|[点击前往](https://github.com/Lision/WKWebViewJavascriptBridge)|🌟🌟🌟|
-|CleanyModal|是Swift UI Kit提供的干净模态/警报对话框|[点击前往](https://github.com/loryhuz/CleanyModal)|🌟🌟🌟|
-|CardParts|基于卡片的响应式UI框架|[点击前往](https://github.com/intuit/CardParts)|🌟🌟🌟🌟|
-|NumberMorphView|label数字变形过渡动画，用于金额数字变动或者时间上面会非常nice！|[点击前往](https://github.com/me-abhinav/NumberMorphView)|🌟🌟🌟|
-|DOFavoriteButton|有动画效果的button，适用于收藏、喜欢、点赞等。|[点击前往](https://github.com/okmr-d/DOFavoriteButton)|🌟🌟🌟🌟|
-|PhoneNumberKit|国际电话验证 专门针对电话号码格式做的一个输入框|[点击前往](https://github.com/marmelroy/PhoneNumberKit)|🌟🌟🌟|
-|libPhoneNumber-iOS|来自libphonenumber的iOS端口（谷歌的电话号码处理库）|[点击前往](https://github.com/iziz/libPhoneNumber-iOS)|🌟🌟🌟|
-|NextGrowingTextView|取自于HPGrowingTextView,文本输入视图，对于消息编辑非常有用。|[点击前往](https://github.com/muukii/NextGrowingTextView)|🌟🌟🌟|
-|Gifu|加载gif的框架，表现良好。|[点击前往](https://github.com/kaishin/Gifu)|🌟🌟🌟🌟|
-|Filterpedia|给图片加滤镜效果，有很多种滤镜。|[点击前往](https://github.com/FlexMonkey/Filterpedia)|🌟🌟🌟|
-|Toucan|图片处理，支持重设尺寸、裁剪、风格化等|[点击前往](https://github.com/gavinbunney/Toucan)|🌟🌟🌟|
-|Bartinter|能神奇的根据其背后的内容动态更改状态栏样式|[点击前往](https://github.com/MaximKotliar/Bartinter)|🌟🌟🌟🌟|
-|Cartography|是用来声明 Swift 中的 Auto Layout,无需输入任何 stringly 就可设置自己 Auto Layout 的约束声明。|[点击前往](https://github.com/robb/Cartography)|🌟🌟🌟🌟|
-|Neon|是围绕如何让用户界面设计得更自然的框架 - 主视图锚定在屏幕两侧/边角,辅助视图被排列在相对于他的位置上。|[点击前往](https://github.com/mamaral/Neon)|🌟🌟🌟🌟|
-|Stevia|iOS的优雅视图布局 |[点击前往](https://github.com/freshOS/Stevia)|🌟🌟🌟|
-|SwiftyStoreKit|封装的轻量级的APP内购框架。|[点击前往](https://github.com/bizz84/SwiftyStoreKit)|🌟🌟🌟🌟|
-|PullToBounce|下拉刷新的动画 for UIScrollView。|[点击前往](https://github.com/entotsu/PullToBounce)|🌟🌟🌟🌟|
-|DGRunkeeperSwitch|是非常有趣的自定义的 Segment Control 的实现|[点击前往](https://github.com/gontovnik/DGRunkeeperSwitch)|🌟🌟🌟🌟|
-|LTScrollView|ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案|[点击前往](https://github.com/gltwy/LTScrollView)|🌟🌟🌟|
-|LLCycleScrollView|Swift - 轮播图，文本轮播，支持左右箭头|[点击前往](https://github.com/LvJianfeng/LLCycleScrollView)|🌟🌟🌟|
-|WRCycleScrollView|Swift 自动无限轮播用这个就够了 swift 4|[点击前往](https://github.com/wangrui460/WRCycleScrollView)|🌟🌟🌟|
-|ZCycleView|使用UICollectionView实现常见图片/文字无限轮播，支持自定义cell，自定义pageControl，以及轮播样式|[点击前往](https://github.com/MQZHot/ZCycleView)|🌟🌟🌟|
-|ZLaunchAd|快速集成启动广告,支持LaunchImage和LaunchScreen,支持GIF,支持本地图片,支持视图过渡动画|[点击前往](https://github.com/MQZHot/ZLaunchAd)|🌟🌟🌟|
-|ImageScout|最小网络代价获得图片大小及类型类|[点击前往](https://github.com/kaishin/ImageScout)|🌟🌟🌟|
-|Nuke|强大的图像加载和缓存系统|[点击前往](https://github.com/kean/Nuke)|🌟🌟🌟🌟|
-|Proposer|请求本地设备权限 |[点击前往](https://github.com/nixzhu/Proposer)|🌟🌟🌟|
-|Wormhole|设备之间的分享iPhone watch |[点击前往](https://github.com/nixzhu/Wormhole)|🌟🌟🌟|
-|Blueprints|多种瀑布流|[点击前往](https://github.com/zenangst/Blueprints)|🌟🌟🌟|
-|SideMenu|适用于iOS的简单侧面/幻灯片菜单控件，无需代码！很多定制。在5分钟或更短的时间内将其添加到您的项目中。|[点击前往](https://github.com/jonkykong/SideMenu)|🌟🌟🌟🌟|
-|NotificationBanner|在iOS中的应用程序通知横幅中显示高度可定制的最简单方法|[点击前往](https://github.com/Daltron/NotificationBanner)|🌟🌟🌟🌟|
-|Eureka|通过详细的映射，创建动态的table-view forms。|[点击前往](https://github.com/xmartlabs/Eureka)|🌟🌟🌟🌟|
-|Former|Former是一个完全可自定义的Swift库，用于轻松创建基于UITableView的表单。|[点击前往](https://github.com/ra1028/Former)|🌟🌟🌟|
-|SwiftForms|用Swift编写的小型轻量级库，可让您轻松创建表单。|[点击前往](https://github.com/ortuman/SwiftForms)|🌟🌟🌟|
-|Carbon|一个声明性库，用于在UITableView和UICollectionView中构建基于组件的用户界面。 |[点击前往](https://github.com/ra1028/Carbon)|🌟🌟🌟|
-|SwiftLinkPreview|它从URL进行预览，获取所有信息，例如标题，相关文本和图像。  |[点击前往](https://github.com/LeonardoCardoso/SwiftLinkPreview)|🌟🌟🌟|
-|CollectionViewSlantedLayout|显示倾斜单元格的CollectionView布局 |[点击前往](https://github.com/yacir/CollectionViewSlantedLayout)|🌟🌟🌟🌟|
-|BouncyLayout|是使您的单元格反弹的集合视图布局。|[点击前往](https://github.com/roberthein/BouncyLayout)|🌟🌟🌟🌟|
-|MagazineLayout|能够在垂直滚动的网格和列表中布置视图的集合视图布局。|[点击前往](https://github.com/airbnb/MagazineLayout)|🌟🌟🌟🌟|
-|IBPCollectionViewCompositionalLayout|可以在几行代码内通过独立滚动的部分来制作非常复杂的布局，甚至是嵌套的集合视图。|[点击前往](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout)|🌟🌟🌟🌟|
-|HorizonCalendar|一个声明性，高性能的iOS日历UI组件，支持从简单的日期选择器一直到功能齐全的日历应用程序的用例。|[点击前往](https://github.com/airbnb/HorizonCalendar)|🌟🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[Charts](https://github.com/danielgindi/Charts)|画 K 线图和折线图框架。|updating|🌟🌟🌟🌟🌟| 23k|
+|[AAChartKit](https://github.com/AAChartModel/AAChartKit)|极其精美而又强大的 iOS 图表组件库,支持柱状图、条形图、折线图、曲线图、折线填充图、曲线填充图、气泡图、扇形图、环形图、散点图、雷达图、混合图等各种类型的多达几十种的信息图图…|updating|🌟🌟🌟🌟| 3.9k|
+|[PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift)|是一款用Swift语言实现的iOS开源动画图标类库,可以生成简单、漂亮且有动画效果的柱状图、曲线图、折线图、饼图。|2017|🌟🌟🌟| 1.3k|
+|[SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView)|用于iOS应用程序的完整可配置电子表格视图用户界面。使用此框架，您可以轻松创建复杂的布局，如计划，甘特图或时间表，就像使用Excel一样。|2018|🌟🌟🌟🌟| 3.1k|
+|[HSStockChart](https://github.com/zyphs21/HSStockChart)|是一个绘制股票分时图、K 线图的库。支持流畅的回弹拖动，长按十字线，捏合放大缩小等功能，主要使用了 CAShapeLayer 来绘图，相比使用 Core Graphics 和重写 drawRect 的方法更高效，占用内存更小。|updating|🌟🌟🌟| <1k|
+|[TextFieldEffects](https://github.com/raulriera/TextFieldEffects)|是一个Swift的炫酷的TextField封装类|updating|🌟🌟🌟🌟| 5.4k|
+|[Hero](https://github.com/lkzhao/Hero)|适用于iOS和tvOS的优雅过渡库|updating|🌟🌟🌟🌟🌟| 18.6k|
+|[SkeletonView](https://github.com/Juanpe/SkeletonView)|骨架屏）基本原理是添加控件形成真实的布局，等有数据时隐藏。 |updating|🌟🌟🌟🌟| 9.2k|
+|[ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation)|使用摄像头和运动数据来绘制用户移动时本地的地图。|updating|🌟🌟🌟🌟| 4.8k|
+|[SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)|用于以屏幕顶部或底部的状态栏的形式显示简短的消息.|updating|🌟🌟🌟🌟| 5.6k|
+|[HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders)|是一个显示项目中任何 UITableView/UICollectionView 占位符和空状态的库。|updating|🌟🌟🌟🌟| 1.9k|
+|[LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel)|用Swift编写的UILabel的优美变形效果。|updating|🌟🌟🌟🌟| 7.3k|
+|[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)|似于OC的JVFloatLabeledTextField,编辑就会出现浮动的提示label|updating|🌟🌟🌟🌟| 3.7k|
+|[ScrollableGraphView](https://github.com/philackm/ScrollableGraphView)|iOS的自适应可滚动图形视图，用于显示简单的离散数据集。|2018|🌟🌟🌟🌟| 5.1k|
+|[JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar)|非官方Apple iOS Swift日历视图。 iOS日历库。 iOS日历控件。 100％可定制|updating|🌟🌟🌟🌟| 6.6k|
+|[CalendarKit](https://github.com/richardtop/CalendarKit)|完全可定制的iOS日历|updating|🌟🌟🌟| 1.5k|
+|[HorizonCalendar](https://github.com/airbnb/HorizonCalendar)|一个声明性，高性能的iOS日历UI组件，支持从简单的日期选择器一直到功能齐全的日历应用程序的用例。|updating|🌟🌟🌟🌟| 1.4k|
+|[Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS)|是带有动画效果 UI 的 iOS 侧边菜单。|updating|🌟🌟🌟| 2.7k|
+|[MaterialKit](https://github.com/nghialv/MaterialKit)|用Swift编写的iOS的材料设计组件|2016|🌟🌟🌟| 2.5k|
+|[WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge)|在其上仅对 WKWebView 提供支持，由 Swift 实现！您可以通过使用 WKWebViewJavascriptBridge 书写几行代码实现混合模块，而无需关心底层的消息传递实现。|updating|🌟🌟🌟| <1k|
+|[CleanyModal](https://github.com/loryhuz/CleanyModal)|是Swift UI Kit提供的干净模态/警报对话框|updating|🌟🌟🌟| <1k|
+|[CardParts](https://github.com/intuit/CardParts)|基于卡片的响应式UI框架|updating|🌟🌟🌟🌟| 2.1k|
+|[NumberMorphView](https://github.com/me-abhinav/NumberMorphView)|label数字变形过渡动画，用于金额数字变动或者时间上面会非常nice！|2017|🌟🌟🌟| 1.5k|
+|[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)|有动画效果的button，适用于收藏、喜欢、点赞等。|2016|🌟🌟🌟🌟| 3.4k|
+|[PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit)|国际电话验证 专门针对电话号码格式做的一个输入框|updating|🌟🌟🌟| 3.7k|
+|[libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS)|来自libphonenumber的iOS端口（谷歌的电话号码处理库）|updating|🌟🌟🌟| 2.1k|
+|[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)|取自于HPGrowingTextView,文本输入视图，对于消息编辑非常有用。|updating|🌟🌟🌟| 1.3k|
+|[Gifu](https://github.com/kaishin/Gifu)|加载gif的框架，表现良好。|updating|🌟🌟🌟🌟| 2.4k|
+|[Filterpedia](https://github.com/FlexMonkey/Filterpedia)|给图片加滤镜效果，有很多种滤镜。|2016|🌟🌟🌟| 2.1k|
+|[Toucan](https://github.com/gavinbunney/Toucan)|图片处理，支持重设尺寸、裁剪、风格化等|2018|🌟🌟🌟| 2.4k|
+|[Bartinter](https://github.com/MaximKotliar/Bartinter)|能神奇的根据其背后的内容动态更改状态栏样式|updating|🌟🌟🌟| 1.6k|
+|[Cartography](https://github.com/robb/Cartography)|是用来声明 Swift 中的 Auto Layout,无需输入任何 stringly 就可设置自己 Auto Layout 的约束声明。|2019|🌟🌟🌟🌟| 7.1k|
+|[Neon](https://github.com/mamaral/Neon)|是围绕如何让用户界面设计得更自然的框架 - 主视图锚定在屏幕两侧/边角,辅助视图被排列在相对于他的位置上。|2017|🌟🌟🌟🌟| 4.6k|
+|[SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)|封装的轻量级的APP内购框架。|updating|🌟🌟🌟🌟| 4.9k|
+|[DGRunkeeperSwitch](https://github.com/gontovnik/DGRunkeeperSwitch)|是非常有趣的自定义的 Segment Control 的实现| 2017|🌟🌟🌟| 1.9k|
+|[LTScrollView](https://github.com/gltwy/LTScrollView)|ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案|2018|🌟🌟🌟| <1k|
+|[LLCycleScrollView](https://github.com/LvJianfeng/LLCycleScrollView)|Swift - 轮播图，文本轮播，支持左右箭头|2019|🌟🌟🌟| <1k|
+|[WRCycleScrollView](https://github.com/wangrui460/WRCycleScrollView)|Swift 自动无限轮播用这个就够了 swift 4|2017|🌟🌟🌟| <1k|
+|[ZCycleView](https://github.com/MQZHot/ZCycleView)|使用UICollectionView实现常见图片/文字无限轮播，支持自定义cell，自定义pageControl，以及轮播样式|updating|🌟🌟🌟| <1k|
+|[ZLaunchAd](https://github.com/MQZHot/ZLaunchAd)|快速集成启动广告,支持LaunchImage和LaunchScreen,支持GIF,支持本地图片,支持视图过渡动画|updating|🌟🌟🌟| <1k|
+|[ImageScout](https://github.com/kaishin/ImageScout)|最小网络代价获得图片大小及类型类|uodating|🌟🌟🌟| <1k|
+|[Nuke](https://github.com/kean/Nuke)|强大的图像加载和缓存系统|updating|🌟🌟🌟🌟| 5.2k|
+|[Proposer](https://github.com/nixzhu/Proposer)|请求本地设备权限 |updating|🌟🌟🌟| <1k|
+|[Wormhole](https://github.com/nixzhu/Wormhole)|设备之间的分享iPhone watch |2015|🌟🌟🌟| <1k|
+|[Blueprints](https://github.com/zenangst/Blueprints)|多种瀑布流|updating|🌟🌟🌟| <1k|
+|[SideMenu](https://github.com/jonkykong/SideMenu)|适用于iOS的简单侧面/幻灯片菜单控件，无需代码！很多定制。在5分钟或更短的时间内将其添加到您的项目中。|updating|🌟🌟🌟🌟| 4.7k|
+|[NotificationBanner](https://github.com/Daltron/NotificationBanner)|在iOS中的应用程序通知横幅中显示高度可定制的最简单方法|updating|🌟🌟🌟🌟| 3.8k|
+|[Eureka](https://github.com/xmartlabs/Eureka)|通过详细的映射，创建动态的table-view forms。|updating|🌟🌟🌟🌟| 10.8k|
+|[Former](https://github.com/ra1028/Former)|Former是一个完全可自定义的Swift库，用于轻松创建基于UITableView的表单。|updating|🌟🌟🌟| 1.3k|
+|[SwiftForms](https://github.com/ortuman/SwiftForms)|用Swift编写的小型轻量级库，可让您轻松创建表单。|2018|🌟🌟🌟| 1.3k|
+|[Carbon](https://github.com/ra1028/Carbon)|一个声明性库，用于在UITableView和UICollectionView中构建基于组件的用户界面。 |updating|🌟🌟🌟| <1k|
+|[SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview)|它从URL进行预览，获取所有信息，例如标题，相关文本和图像。  |updating|🌟🌟🌟| 1.1k|
+
 
 <br>
 <br>
@@ -638,39 +629,37 @@
 
 <span id="j"></span>
 ## <div align=center>-------------------------[Swift 动画框架](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|EasyAnimation|一个Swift库，将UIView.animateWithDuration(_:, animations:...) 的强大功能提升到一个全新的水平 - 图层，弹簧，可链接的动画，并将视图和图层动画混合在一起！ |[点击前往](https://github.com/icanzilb/EasyAnimation)|🌟🌟🌟🌟|
-|IBAnimatable|使用IBAnimatable为Interface Builder中的App Store准备应用程序设计和原型定制UI，交互，导航，转换和动画。|[点击前往](https://github.com/IBAnimatable/IBAnimatable)|🌟🌟🌟🌟|
-|Advance|适用于iOS，tvOS和macOS的基于物理的动画。|[点击前往](https://github.com/timdonnelly/Advance)|🌟🌟🌟🌟|
-|Material|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟🌟|
-|NVActivityIndicatorView|酷炫的装载动画库及演示。如此丰富的 Swift 装载动画集合,史无前例。|[点击前往](https://github.com/ninjaprox/NVActivityIndicatorView)|🌟🌟🌟🌟|
-|StarWars.iOS| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |[点击前往](https://github.com/Yalantis/StarWars.iOS)|🌟🌟🌟|
-|FillableLoaders|自定义的进度加载动画。|[点击前往](https://github.com/polqf/FillableLoaders)|🌟🌟🌟|
-|Koloda|卡片视图，而且滑动视图有滑动卡片一样的动画效果。|[点击前往](https://github.com/Yalantis/Koloda)|🌟🌟🌟🌟|
-|Whisper|使用简单、功能实用的消息及应用通知组件。|[点击前往](https://github.com/hyperoslo/Whisper)|🌟🌟🌟🌟|
-|WaterDrops|这个库模拟了温和的雨滴，是一个非常酷的动画，可用于使您的应用更具动态性并吸引用户。您可以配置雨滴方向，雨滴数，最小和最大尺寸以及最小和最大持续时间。|[点击前往](https://github.com/LeFal/WaterDrops)|🌟🌟🌟🌟|
-|lottie-ios|一个iOS库，用于原生渲染After Effects矢量动画|[点击前往](https://github.com/airbnb/lottie-ios)|🌟🌟🌟🌟|
-|Magnetic|SpriteKit浮动气泡选取器（受Apple Music启发）|[点击前往](https://github.com/efremidze/Magnetic)|🌟🌟🌟|
-|TKSubmitTransition|加载动画和过渡动画的动画UIButton|[点击前往](https://github.com/entotsu/TKSubmitTransition)|🌟🌟🌟|
-|NFDownloadButton|改进的下载按钮。这有点像Netflix应用程序下载按钮的反向工程。|[点击前往](https://github.com/LeonardoCardoso/NFDownloadButton)|🌟🌟🌟|
-|Animated TabBar|Ramotion出品，是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|[点击前往](https://github.com/Ramotion/animated-tab-bar)|🌟🌟🌟🌟|
-|FoldingCell|Ramotion出品，自然,清新的单元格折叠动画|[点击前往](https://github.com/Ramotion/folding-cell)|🌟🌟🌟🌟|
-|paper-onboarding|Ramotion出品，是一种材质设计UI滑块|[点击前往](https://github.com/Ramotion/paper-onboarding)|🌟🌟🌟🌟|
-|CircleMenu|Ramotion出品，是一个精美别致支持定制的圆形菜单,可以有 0 到 8 个子菜单按钮,按钮背景色,图标都可以修改。|[点击前往](https://github.com/Ramotion/circle-menu)|🌟🌟🌟🌟|
-|paper-onboarding|Ramotion出品，是一种材质设计UI滑块|[点击前往](https://github.com/Ramotion/paper-onboarding)|🌟🌟🌟🌟|
-|gliding-collection|Ramotion出品，滑行集合是UICollectionView Swift Controller的平滑，流畅，可自定义的决定。|[点击前往](https://github.com/Ramotion/gliding-collection)|🌟🌟🌟🌟|
-|fluid-slider|Ramotion出品，带有弹出气泡的滑块小部件，显示选定的精确值。|[点击前往](https://github.com/Ramotion/fluid-slider)|🌟🌟🌟🌟|
-|preview-transition|Ramotion出品，预览过渡是带有动画过渡的简单预览库UI控制器|[点击前往](https://github.com/Ramotion/Preview-Transition)|🌟🌟🌟🌟|
-|adaptive-tab-bar|Ramotion出品，自适应标签栏|[点击前往](https://github.com/Ramotion/adaptive-tab-bar)|🌟🌟🌟🌟|
-|navigation-stack|Ramotion出品，是一个具有堆栈建模的UI导航控制器的库。|[点击前往](https://github.com/Ramotion/navigation-stack)|🌟🌟🌟🌟|
-|reel-search|Ramotion出品，是一个Swift UI控制器，可让您从列表中选择选项.|[点击前往](https://github.com/Ramotion/reel-search)|🌟🌟🌟🌟|
-|reel-search|Ramotion出品，是一个Swift UI控制器，可让您从列表中选择选项.|[点击前往](https://github.com/Ramotion/reel-search)|🌟🌟🌟🌟|
-|paper-switch|Ramotion出品，turned on覆盖父视图的动画效果。|[点击前往](https://github.com/Ramotion/paper-switch)|🌟🌟🌟🌟|
-|paper-switch|Ramotion出品，turned on覆盖父视图的动画效果。|[点击前往](https://github.com/Ramotion/paper-switch)|🌟🌟🌟🌟|
-|expanding-collection|Ramotion出品，MaterialDesign 风格的扩展式卡片设计|[点击前往](https://github.com/Ramotion/expanding-collection)|🌟🌟🌟🌟|
-|cardslider|Ramotion出品，使您可以在带有图片的卡片之间滑动。|[点击前往](https://github.com/Ramotion/cardslider)|🌟🌟🌟🌟|
-|Spring|一个库，用于简化Swift中的iOS动画。|[点击前往](https://github.com/MengTo/Spring)|🌟🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[EasyAnimation](https://github.com/icanzilb/EasyAnimation)|一个Swift库，将UIView.animateWithDuration(_:, animations:...) 的强大功能提升到一个全新的水平 - 图层，弹簧，可链接的动画，并将视图和图层动画混合在一起！ |2018|🌟🌟🌟🌟| 2.8k|
+|[IBAnimatable](https://github.com/IBAnimatable/IBAnimatable)|使用IBAnimatable为Interface Builder中的App Store准备应用程序设计和原型定制UI，交互，导航，转换和动画。|updating|🌟🌟🌟🌟| 8.4k|
+|[Advance](https://github.com/timdonnelly/Advance)|适用于iOS，tvOS和macOS的基于物理的动画。|updating|🌟🌟🌟🌟| 4.4k|
+|[Material](https://github.com/CosmicMind/Material)|集Animation和UI与一身，还有Icon、Color等元素，使用这个库就可以打造一个漂亮的UI界面并具有优雅的动画效果。|updating|🌟🌟🌟🌟🌟| 11.5k|
+|[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)|酷炫的装载动画库及演示。如此丰富的 Swift 装载动画集合,史无前例。|updating|🌟🌟🌟🌟| 9.3k|
+|[StarWars.iOS](https://github.com/Yalantis/StarWars.iOS)| 炫酷的星战动画效果微博上很火的一个库,超级炫酷,专门做了性能优化,强烈推荐 |updating|🌟🌟🌟| 3.6k|
+|[FillableLoaders](https://github.com/polqf/FillableLoaders)|自定义的进度加载动画。|2017|🌟🌟🌟| 2k|
+|[Koloda](https://github.com/Yalantis/Koloda)|卡片视图，而且滑动视图有滑动卡片一样的动画效果。|2019|🌟🌟🌟🌟| 4.7k|
+|[Whisper](https://github.com/hyperoslo/Whisper)|使用简单、功能实用的消息及应用通知组件。|updating|🌟🌟🌟🌟| 3.6k|
+|[WaterDrops](https://github.com/LeFal/WaterDrops)|这个库模拟了温和的雨滴，是一个非常酷的动画，可用于使您的应用更具动态性并吸引用户。您可以配置雨滴方向，雨滴数，最小和最大尺寸以及最小和最大持续时间。|2017|🌟🌟🌟| <1k|
+|[lottie-ios](https://github.com/airbnb/lottie-ios)|一个iOS库，用于原生渲染After Effects矢量动画|updating|🌟🌟🌟🌟🌟| 19.9k|
+|[Magnetic](https://github.com/efremidze/Magnetic)|SpriteKit浮动气泡选取器（受Apple Music启发）|2017|🌟🌟🌟| 1.1k|
+|[TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)|加载动画和过渡动画的动画UIButton|updating|🌟🌟🌟| 2.2k|
+|[NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)|改进的下载按钮。这有点像Netflix应用程序下载按钮的反向工程。|2018|🌟🌟🌟| <1k|
+|[Animated TabBar](https://github.com/Ramotion/animated-tab-bar)|Ramotion出品，是使用swift写的,为TabBarItem提供生动精致的动画。支持多达9种动画方式,同时也支持自定义动画。直接使用StoryBoard就可以使用。|updating|🌟🌟🌟🌟| 10.5k|
+|[FoldingCell](https://github.com/Ramotion/folding-cell)|Ramotion出品，自然,清新的单元格折叠动画|updating|🌟🌟🌟🌟| 9.7k|
+|[paper-onboarding](https://github.com/Ramotion/paper-onboarding)|Ramotion出品，是一种材质设计UI滑块|updating|🌟🌟🌟🌟| 3k|
+|[CircleMenu](https://github.com/Ramotion/circle-menu)|Ramotion出品，是一个精美别致支持定制的圆形菜单,可以有 0 到 8 个子菜单按钮,按钮背景色,图标都可以修改。|updating|🌟🌟🌟🌟| 3.2k|
+|[paper-onboarding](https://github.com/Ramotion/paper-onboarding)|Ramotion出品，是一种材质设计UI滑块|updating|🌟🌟🌟🌟| 3k|
+|[gliding-collection](https://github.com/Ramotion/gliding-collection)|Ramotion出品，滑行集合是UICollectionView Swift Controller的平滑，流畅，可自定义的决定。|2019|🌟🌟🌟| 1.4k|
+|[fluid-slider](https://github.com/Ramotion/fluid-slider)|Ramotion出品，带有弹出气泡的滑块小部件，显示选定的精确值。|2019|🌟🌟🌟| 1.6k|
+|[preview-transition](https://github.com/Ramotion/Preview-Transition)|Ramotion出品，预览过渡是带有动画过渡的简单预览库UI控制器|updating|🌟🌟🌟| 2k|
+|[adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar)|Ramotion出品，自适应标签栏|[updating|🌟🌟🌟| 2k|
+|[navigation-stack](https://github.com/Ramotion/navigation-stack)|Ramotion出品，是一个具有堆栈建模的UI导航控制器的库。|updating|🌟🌟🌟| 2.3k|
+|[reel-search](https://github.com/Ramotion/reel-search)|Ramotion出品，是一个Swift UI控制器，可让您从列表中选择选项.|updating|🌟🌟🌟| 2.5k|
+|[paper-switch](https://github.com/Ramotion/paper-switch)|Ramotion出品，turned on覆盖父视图的动画效果。|2019|🌟🌟🌟| 2.8k|
+|[expanding-collection](https://github.com/Ramotion/expanding-collection)|Ramotion出品，MaterialDesign 风格的扩展式卡片设计|updating|🌟🌟🌟🌟| 5.3k|
+|[cardslider](https://github.com/Ramotion/cardslider)|Ramotion出品，使您可以在带有图片的卡片之间滑动。|updating|🌟🌟🌟|<1k|
+|[Spring](https://github.com/MengTo/Spring)|一个库，用于简化Swift中的iOS动画。|2019|🌟🌟🌟🌟| 13.7k|
 
 <br>
 <br>
@@ -679,37 +668,65 @@
 
 <span id="k"></span>
 ## <div align=center>-------------------------[Swift 综合框架](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 |
-| --- | --- | --- | --- |
-|Vapor| 是一个用苹果最新开源语言swift开发的一套web高性能框架,迄今为止是地球上最快的web开发框架! |[点击前往](https://github.com/vapor/vapor)|🌟🌟🌟🌟🌟|
-|OnionBrowser| 适用于iOS的开放源代码，增强隐私的Web浏览器，利用Tor匿名网络 |[点击前往](https://github.com/OnionBrowser/OnionBrowser)|🌟🌟🌟|
-|Perfect| Perfect是一组完整、强大的工具箱、软件框架体系和Web应用服务器，可以在Linux、iOS和macOS (OS X)上使用。该软件体系为Swift工程师量身定制了一整套用于开发轻量、易维护、规模可扩展的Web应用及其它REST服务的解决方案，这样Swift工程师就可以实现同时在服务器和客户端上采用同一种语言开发软件项目。 |[点击前往](https://github.com/PerfectlySoft/Perfect/blob/master/README.zh_CN.md)|🌟🌟🌟🌟|
-|Surge| mattt写的性能加速框架，为数字信号处理和图像处理提供高性能。 |[点击前往](https://github.com/mattt/Surge)|🌟🌟🌟🌟|
-|Quick|测试框架，支持Swift和OC，灵感来自于 RSpec, Specta, and Ginkgo。|[点击前往](https://github.com/Quick/Quick)|🌟🌟🌟🌟|
-|swift-algorithm-club|swift中的算法以及数据结构，还有解释说明。|[点击前往](https://github.com/raywenderlich/swift-algorithm-club)|🌟🌟🌟🌟|
-|OAuthSwift|国外主流网站OAuth授权库。|[点击前往](https://github.com/OAuthSwift/OAuthSwift)|🌟🌟🌟🌟|
-|R.swift|以一种优雅安全的方式使用资源文件。|[点击前往](https://github.com/mac-cain13/R.swift)|🌟🌟🌟🌟|
-|SwiftGen|是一种工具，可以为项目的资源（例如图像，本地化的字符串等）自动生成Swift代码，以使其易于使用。|[点击前往](https://github.com/SwiftGen/SwiftGen)|🌟🌟🌟🌟|
-|FontBlaster|轻松将自定义字体加载到您的应用中。|[点击前往](https://github.com/ArtSabintsev/FontBlaster)|🌟🌟🌟|
-|Design-Patterns-In-Swift|swift实现的各种设计模式。|[点击前往](https://github.com/ochococo/Design-Patterns-In-Swift)|🌟🌟🌟🌟|
-|XcodeGen|一个用于生成Xcode项目的Swift命令行工具|[点击前往](https://github.com/yonaskolb/XcodeGen)|🌟🌟🌟|
-|Bagel|适用于iOS的本地网络调试工具|[点击前往](https://github.com/yagiz/Bagel)|🌟🌟🌟|
-|Ink|用Swift编写的快速灵活的Markdown解析器。|[点击前往](https://github.com/JohnSundell/Ink)|🌟🌟🌟|
-|Publish|适用于Swift开发人员的静态网站生成器。 |[点击前往](https://github.com/JohnSundell/Publish)|🌟🌟🌟|
-|Plot|用于在Swift中编写类型安全的HTML，XML和RSS的DSL。 |[点击前往](https://github.com/JohnSundell/Plot)|🌟🌟🌟|
-|Files|在Swift中处理文件和文件夹的更好方法。 |[点击前往](https://github.com/JohnSundell/Files)|🌟🌟🌟|
-|Carthage|Carthage和CocoaPods相比，轻量级一些，在swift中使用很方便，它本身就是swift写的。|[点击前往](https://github.com/Carthage/Carthage)|🌟🌟🌟🌟|
-|swift-package-manager|是苹果在swift3.0中加入的一个包管理工具，用于处理模块代码的下载、编译和依赖关系等。跟CocoaPods和Carthage功能类似，不过比这两个更简洁，代码的侵入性更小，也不需要额外安装工具。|[点击前往](https://github.com/apple/swift-package-manager)|🌟🌟🌟🌟|
-|Burritos|Swift Property Wrappers的集合。 |[点击前往](https://github.com/guillermomuntaner/Burritos)|🌟🌟🌟|
-|OpenCombine|苹果公司Combine框架的开源实现，可随着时间的推移来处理价值。 |[点击前往](https://github.com/broadwaylamb/OpenCombine)|🌟🌟🌟|
-|SwiftTask|Promise + progress + pause + cancel + retry for Swift. |[点击前往](https://github.com/ReactKit/SwiftTask)|🌟🌟🌟|
-|Material|一个用于创建漂亮应用程序的UI / UX框架.|[点击前往](https://github.com/CosmicMind/Material)|🌟🌟🌟|
-|Lona|用于定义设计系统并使用它们生成跨平台UI代码，Sketch文件和其他工件的工具。|[点击前往](https://github.com/airbnb/Lona)|🌟🌟🌟|
-|Dip| 简单的Swift依赖项容器。使用协议来解决您的依赖性，避免单例/ sharedInstances！|[点击前往](https://github.com/AliSoftware/Reusable)|🌟🌟🌟|
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[Vapor](https://github.com/vapor/vapor)| 是一个用苹果最新开源语言swift开发的一套web高性能框架,迄今为止是地球上最快的web开发框架! |updating|🌟🌟🌟🌟🌟| 19k|
+|[OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)| 适用于iOS的开放源代码，增强隐私的Web浏览器，利用Tor匿名网络 |updating|🌟🌟🌟| 1.3k|
+|[Perfect](https://github.com/PerfectlySoft/Perfect)| Perfect是一组完整、强大的工具箱、软件框架体系和Web应用服务器，可以在Linux、iOS和macOS (OS X)上使用。该软件体系为Swift工程师量身定制了一整套用于开发轻量、易维护、规模可扩展的Web应用及其它REST服务的解决方案，这样Swift工程师就可以实现同时在服务器和客户端上采用同一种语言开发软件项目。 |updating|🌟🌟🌟🌟| 13.8k|
+|[Surge](https://github.com/Jounce/Surge)| mattt写的性能加速框架，为数字信号处理和图像处理提供高性能。 |updating|🌟🌟🌟🌟| 4.7k|
+|[Quick](https://github.com/Quick/Quick)|测试框架，支持Swift和OC，灵感来自于 RSpec, Specta, and Ginkgo。|updating|🌟🌟🌟🌟| 8.8k|
+|[OAuthSwift](https://github.com/OAuthSwift/OAuthSwift)|国外主流网站OAuth授权库。|updating|🌟🌟🌟| 2.7k|
+|[R.swift](https://github.com/mac-cain13/R.swift)|以一种优雅安全的方式使用资源文件。|updating|🌟🌟🌟🌟| 7.5k|
+|[SwiftGen](https://github.com/SwiftGen/SwiftGen)|是一种工具，可以为项目的资源（例如图像，本地化的字符串等）自动生成Swift代码，以使其易于使用。|updating|🌟🌟🌟🌟| 6.4k|
+|[FontBlaster](https://github.com/ArtSabintsev/FontBlaster)|轻松将自定义字体加载到您的应用中。|updating|🌟🌟🌟|<1k|
+|[XcodeGen](https://github.com/yonaskolb/XcodeGen)|一个用于生成Xcode项目的Swift命令行工具|updating|🌟🌟🌟| 3.7k|
+|[Bagel](https://github.com/yagiz/Bagel)|适用于iOS的本地网络调试工具|updating|🌟🌟🌟| 3.5k|
+|[Plot](https://github.com/JohnSundell/Plot)|用于在Swift中编写类型安全的HTML，XML和RSS的DSL。 |updating|🌟🌟🌟| 1.3k|
+|[Files](https://github.com/JohnSundell/Files)|在Swift中处理文件和文件夹的更好方法。 |updating|🌟🌟🌟| 1.9k|
+|[Burritos](https://github.com/guillermomuntaner/Burritos)|Swift Property Wrappers的集合。 |updating|🌟🌟🌟| 1k|
+|[OpenCombine](https://github.com/broadwaylamb/OpenCombine)|苹果公司Combine框架的开源实现，可随着时间的推移来处理价值。 |updating|🌟🌟🌟| 1.2k|
+|[SwiftTask](https://github.com/ReactKit/SwiftTask)|Promise + progress + pause + cancel + retry for Swift. |2016|🌟🌟🌟| 1.9k|
+|[Lona](https://github.com/airbnb/Lona)|用于定义设计系统并使用它们生成跨平台UI代码，Sketch文件和其他工件的工具。|updating|🌟🌟🌟| 7.1k|
+|[Dip](https://github.com/AliSoftware/Reusable)| 简单的Swift依赖项容器。使用协议来解决您的依赖性，避免单例/ sharedInstances！|updating|🌟🌟🌟| 2.5k|
+|[GRDB.swift](https://github.com/groue/GRDB.swift)| 用于SQLite数据库的工具包，重点是应用程序开发|updating|🌟🌟🌟| 3.1k|
+
+<br>
+<br>
+<br>
+<br>
+
+<span id="l"></span>
+## <div align=center>-------------------------[Swift UI布局](#back) -------------------------</div>
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[Stevia](https://github.com/freshOS/Stevia)|iOS的优雅视图布局 |updating|🌟🌟🌟| 2.9k|
+|[LayoutKit](https://github.com/linkedin/LayoutKit)|是一个高性能的iOS应用视图布局库。|2019|🌟🌟🌟| 3.1k|
+|[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout)|显示倾斜单元格的CollectionView布局 |updating|🌟🌟🌟| 1.7k|
+|[BouncyLayout](https://github.com/roberthein/BouncyLayout)|是使您的单元格反弹的集合视图布局。|2019|🌟🌟🌟🌟| 3.7k|
+|[MagazineLayout](https://github.com/airbnb/MagazineLayout)|能够在垂直滚动的网格和列表中布置视图的集合视图布局。|updating|🌟🌟🌟🌟| 2.7k|
+|[IBPCollectionViewCompositionalLayout](https://github.com/kishikawakatsumi/IBPCollectionViewCompositionalLayout)|可以在几行代码内通过独立滚动的部分来制作非常复杂的布局，甚至是嵌套的集合视图。|updating|🌟🌟🌟| <1k|
+
+<br>
+<br>
+<br>
+<br>
+
+<span id="m"></span>
+## <div align=center>-------------------------[Swift 相关资料](#back) -------------------------</div>
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
+| --- | --- | --- | --- | --- |
+|[swift-package-manager](https://github.com/apple/swift-package-manager)|是苹果在swift3.0中加入的一个包管理工具，用于处理模块代码的下载、编译和依赖关系等。跟CocoaPods和Carthage功能类似，不过比这两个更简洁，代码的侵入性更小，也不需要额外安装工具。|updating|🌟🌟🌟🌟| 7.8k|
+|[Carthage](https://github.com/Carthage/Carthage)|Carthage和CocoaPods相比，轻量级一些，在swift中使用很方便，它本身就是swift写的。|updating|🌟🌟🌟🌟| 13.8k|
+|[Publish](https://github.com/JohnSundell/Publish)|适用于Swift开发人员的静态网站生成器。 |updating|🌟🌟🌟| 2.6k|
+|[Ink](https://github.com/JohnSundell/Ink)|用Swift编写的快速灵活的Markdown解析器。|updating|🌟🌟🌟| 1.7k|
+|[Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|swift实现的各种设计模式。|updating|🌟🌟🌟🌟| 11.9k|
+|[swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)|swift中的算法以及数据结构，还有解释说明。|2019|🌟🌟🌟🌟🌟| 23.2k|
 
 
 <br>
-
+<br>
+<br>
+<br>
 
 ### 资料贡献：
 [30个Swift 库](https://www.jianshu.com/p/689781238afa)
