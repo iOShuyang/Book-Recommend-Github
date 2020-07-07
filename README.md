@@ -39,22 +39,22 @@
 
 <span id="1"></span>
 ## <div align=center>-------------------------[Objective-C 框架搭建](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-| CYLTabBarController | 【中国特色 TabBar】最低只需传两个数组即可完成主流App框架搭建。 | [点击前往](https://github.com/ChenYilong/CYLTabBarController) | 🌟🌟🌟🌟🌟 | 6.2k/updating|
-| Onboard |是现在github最火的引导页框架，使用几行代码就能轻松创建创建优美而迷人的引导页。|[点击前往](https://github.com/mamaral/Onboard)|🌟🌟🌟🌟| 6.5k/2018|
-| DZNEmptyDataSet |是一个嵌入 UITableView/UICollectionView 超类的范畴(category),当视图没有要显示的内容时,它用于显示空数据集界面。|[点击前往](https://github.com/dzenbot/DZNEmptyDataSet)|🌟🌟🌟🌟| 11.8k/updating |
-| LYEmptyView |iOS一行代码集成空白页面占位图(无数据、无网络占位图)|[点击前往](https://github.com/dev-liyang/LYEmptyView)|🌟🌟🌟| 1.4k/updating |
-| XHLaunchAd |开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.|[点击前往](https://github.com/CoderZhuXH/XHLaunchAd)|🌟🌟🌟🌟| 3.3k/updating |
-| CYLTableViewPlaceHolder |一行代码完成“空TableView占位视图”管理|[点击前往](https://github.com/ChenYilong/CYLTableViewPlaceHolder)|🌟🌟🌟| <1k/2018|
-|PYSearch| 一个非常优雅的搜索控制器iOS框架|[点击前往](https://github.com/ko1o/PYSearch)|🌟🌟🌟🌟| 3.7k/updating |
-|DKNightVersion|能够是使用几句代码就能为已有的项目添加夜间模式，极其方便。 |[点击前往](https://github.com/Draveness/DKNightVersion)|🌟🌟🌟| 3.5k/updating |
-|RDVTabBarController|是一个定制化的TabBarController库,可动画显示隐藏tabbar栏,可定制tabbar栏|[点击前往](https://github.com/robbdimitrov/RDVTabBarController)|🌟🌟🌟| 2.3k/updating |
-|CocoaLumberjack|是一个可以在iOS和Mac开发中使用的日志库，强大又不失灵活。集成进项目后，可以灵活控制日志level输出，并保存在日志文件中，还能压缩上传到服务器。|[点击前往](https://github.com/CocoaLumberjack/CocoaLumberjack)|🌟🌟🌟🌟| 12k/updating |
-|FDFullscreenPopGesture|pod安装一下即可,安装后无须再加任何代码,应用所有页面都将支持全屏侧滑。|[点击前往](https://github.com/forkingdog/FDFullscreenPopGesture)|🌟🌟🌟🌟| 5.7k/2017 |
-|iVersion|非常赞👍 的一个灵活动态监测App是否有更新的库，并可以通知用户升级.|[点击前往](https://github.com/nicklockwood/iVersion)|🌟🌟🌟| 2k/2017|
-|Harpy|当有新版本的应用程序可用时通知用户，并提示他们进行升级。|[点击前往](https://github.com/ArtSabintsev/Harpy)|🌟🌟🌟| 2.6k/2017|
-|FontAwesomeKit|非常棒，使用此库，您可以轻松地将字体添加到项目中，并以多种方式使用它。|[点击前往](https://github.com/PrideChung/FontAwesomeKit)| 🌟🌟🌟🌟 | 2.8k/2016|
+| [CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController) | 【中国特色 TabBar】最低只需传两个数组即可完成主流App框架搭建。 | updating | 🌟🌟🌟🌟🌟 | 6.2k|
+| [Onboard](https://github.com/mamaral/Onboard) |是现在github最火的引导页框架，使用几行代码就能轻松创建创建优美而迷人的引导页。|2018|🌟🌟🌟🌟| 6.5k|
+| [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) |是一个嵌入 UITableView/UICollectionView 超类的范畴(category),当视图没有要显示的内容时,它用于显示空数据集界面。|updating|🌟🌟🌟🌟| 11.8k|
+| [LYEmptyView](https://github.com/dev-liyang/LYEmptyView) |iOS一行代码集成空白页面占位图(无数据、无网络占位图)|updating|🌟🌟🌟| 1.4k|
+| [XHLaunchAd](https://github.com/CoderZhuXH/XHLaunchAd) |开屏广告、启动广告解决方案-支持静态/动态图片广告,mp4视频广告,全屏/半屏广告、兼容iPhone/iPad.|updating|🌟🌟🌟🌟| 3.3k|
+| [CYLTableViewPlaceHolder](https://github.com/ChenYilong/CYLTableViewPlaceHolder) |一行代码完成“空TableView占位视图”管理|2018|🌟🌟🌟| <1k|
+|[PYSearch](https://github.com/ko1o/PYSearch)| 一个非常优雅的搜索控制器iOS框架|updating|🌟🌟🌟🌟| 3.7k|
+|[DKNightVersion](https://github.com/Draveness/DKNightVersion)|能够是使用几句代码就能为已有的项目添加夜间模式，极其方便。 |updating|🌟🌟🌟| 3.5k|
+|[RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)|是一个定制化的TabBarController库,可动画显示隐藏tabbar栏,可定制tabbar栏|updating|🌟🌟🌟| 2.3k |
+|[CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|是一个可以在iOS和Mac开发中使用的日志库，强大又不失灵活。集成进项目后，可以灵活控制日志level输出，并保存在日志文件中，还能压缩上传到服务器。|updating|🌟🌟🌟🌟| 12k|
+|[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)|pod安装一下即可,安装后无须再加任何代码,应用所有页面都将支持全屏侧滑。|2017|🌟🌟🌟🌟| 5.7k |
+|[iVersion](https://github.com/nicklockwood/iVersion)|非常赞👍 的一个灵活动态监测App是否有更新的库，并可以通知用户升级.|2017|🌟🌟🌟| 2k|
+|[Harpy](https://github.com/ArtSabintsev/Harpy)|当有新版本的应用程序可用时通知用户，并提示他们进行升级。|2017|🌟🌟🌟| 2.6k|
+|[FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit)|非常棒，使用此库，您可以轻松地将字体添加到项目中，并以多种方式使用它。|2016| 🌟🌟🌟🌟 | 2.8k|
 
 <br>
 <br>
@@ -64,12 +64,12 @@
 
 <span id="2"></span>
 ## <div align=center>-------------------------[Objective-C 网络请求](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更细时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-| AFNetworking | 一款轻量级网络请求开源框架，基于iOS和mac os 网络进行扩展的高性能框架，大大降低了iOS开发工程师处理网络请求的难度，让iOS开发变成一件愉快的事情。|  [点击前往](https://github.com/AFNetworking/AFNetworking)   |  🌟🌟🌟🌟🌟   | 32.9k/updating |
-| CocoaAsyncSocket | 是谷歌的开发者，基于BSD-Socket写的一个IM框架，它给Mac和iOS提供了易于使用的、强大的异步套接字库，向上封装出简单易用OC接口。省去了我们面向Socket以及数据流Stream等繁琐复杂的编程。 | [点击前往](https://github.com/robbiehanson/CocoaAsyncSocket) | 🌟🌟🌟🌟🌟 | 11.6k/updating|
-|YTKNetwork|是猿题库 iOS 研发团队基于 AFNetworking 封装的 iOS 网络库，提供了更高层次的网络访问抽象。|[点击前往](https://github.com/yuantiku/YTKNetwork)|🌟🌟🌟🌟| 6.2k/updating|
-|OHHTTPStubs|轻松添加您的网络请求！使用伪造的网络数据和自定义响应时间，响应代码和标头测试您的应用！|[点击前往](https://github.com/AliSoftware/OHHTTPStubs)|🌟🌟🌟🌟| 4.5k/updating|
+| [AFNetworking](https://github.com/AFNetworking/AFNetworking) | 一款轻量级网络请求开源框架，基于iOS和mac os 网络进行扩展的高性能框架，大大降低了iOS开发工程师处理网络请求的难度，让iOS开发变成一件愉快的事情。|  updating |  🌟🌟🌟🌟🌟   | 32.9k |
+| [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 是谷歌的开发者，基于BSD-Socket写的一个IM框架，它给Mac和iOS提供了易于使用的、强大的异步套接字库，向上封装出简单易用OC接口。省去了我们面向Socket以及数据流Stream等繁琐复杂的编程。 | updating | 🌟🌟🌟🌟🌟 | 11.6k|
+|[YTKNetwork](https://github.com/yuantiku/YTKNetwork)|是猿题库 iOS 研发团队基于 AFNetworking 封装的 iOS 网络库，提供了更高层次的网络访问抽象。|updating|🌟🌟🌟🌟| 6.2k|
+|[OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)|轻松添加您的网络请求！使用伪造的网络数据和自定义响应时间，响应代码和标头测试您的应用！|updating|🌟🌟🌟🌟| 4.5k|
 <br>
 <br>
 <br>
@@ -77,12 +77,12 @@
 
 <span id="3"></span>
 ## <div align=center>-------------------------[Objective-C 数据解析](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started 和 update |
 | --- | --- | --- | --- | --- |
-|YYModel| 数据解析Json框架，支持自动的 JSON/Model 转换，支持定义映射过程。 |[点击前往](https://github.com/ibireme/YYModel)|🌟🌟🌟🌟|4.1k/2017|
-|JSONModel| 基于 JSON 的数据模型化框架。Model 需要继承自 JSONModel。| [点击前往](https://github.com/jsonmodel/jsonmodel) | 🌟🌟🌟🌟 |6.8k/2018|
-|Mantle|面向 Cocoa 和 Cocoa Touch 的模型框架 Model。Github 官方团队开发的 JSON 模型转换库，Model 需要继承自 MTLModel。功能丰富，文档完善，使用广泛 。|[点击前往](https://github.com/Mantle/Mantle)|🌟🌟🌟🌟|11.2k/updating|
-|MJExtension|利用Obj-C的运行时机制编写数据解析Json框架。国内开发者”小码哥”开发的 JSON 模型库，号称性能超过 JSONModel 和 Mantle，使用简单无侵入。|[点击前往](https://github.com/CoderMJLee/MJExtension)|🌟🌟🌟🌟|8.3k/updating|
+|[YYModel](https://github.com/ibireme/YYModel)| 数据解析Json框架，支持自动的 JSON/Model 转换，支持定义映射过程。 |2017|🌟🌟🌟🌟|4.1k|
+|[JSONModel](https://github.com/jsonmodel/jsonmodel)| 基于 JSON 的数据模型化框架。Model 需要继承自 JSONModel。| 2018 | 🌟🌟🌟🌟 |6.8k|
+|[Mantle](https://github.com/Mantle/Mantle)|面向 Cocoa 和 Cocoa Touch 的模型框架 Model。Github 官方团队开发的 JSON 模型转换库，Model 需要继承自 MTLModel。功能丰富，文档完善，使用广泛 。|updating|🌟🌟🌟🌟|11.2k|
+|[MJExtension](https://github.com/CoderMJLee/MJExtension)|利用Obj-C的运行时机制编写数据解析Json框架。国内开发者”小码哥”开发的 JSON 模型库，号称性能超过 JSONModel 和 Mantle，使用简单无侵入。|updating|🌟🌟🌟🌟|8.3k|
 <br>
 <br>
 <br>
@@ -90,13 +90,13 @@
 
 <span id="4"></span>
 ## <div align=center>-------------------------[Objective-C 数据刷新](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- |--- |
-|MJRefresh|可高度自定义的刷新第三方框架。|[点击前往](https://github.com/CoderMJLee/MJRefresh)|🌟🌟🌟🌟🌟|13.2k/updating|
-|SVPullToRefresh|以其简洁, 通俗易懂为大家所推崇的第三方框架。|[点击前往](https://github.com/samvermette/SVPullToRefresh)|🌟🌟🌟🌟|4.9k/2013|
-|ODRefreshControl|是一个UIScrollView下拉刷新列表的控件,支持自定义。|[点击前往](https://github.com/Sephiroth87/ODRefreshControl)|🌟🌟🌟|2.2k/2015|
-|CBStoreHouseRefreshControl|完全自定义的下拉刷新控件。|[点击前往](https://github.com/coolbeet/CBStoreHouseRefreshControl)|🌟🌟🌟🌟|4k/2015|
-|TwitterCover|Twitter iOS客户端的下拉封面模糊效果。|[点击前往](https://github.com/cyndibaby905/TwitterCover)|🌟🌟🌟|1.2k/2015|
+|[MJRefresh](https://github.com/CoderMJLee/MJRefresh)|可高度自定义的刷新第三方框架。|updating|🌟🌟🌟🌟🌟|13.2k|
+|[SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh)|以其简洁, 通俗易懂为大家所推崇的第三方框架。|2013|🌟🌟🌟🌟|4.9k|
+|[ODRefreshControl](https://github.com/Sephiroth87/ODRefreshControl)|是一个UIScrollView下拉刷新列表的控件,支持自定义。|2015|🌟🌟🌟|2.2k|
+|[CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl)|完全自定义的下拉刷新控件。|2015|🌟🌟🌟🌟|4k|
+|[TwitterCover](https://github.com/cyndibaby905/TwitterCover)|Twitter iOS客户端的下拉封面模糊效果。|2015|🌟🌟🌟|1.2k|
 
 <br>
 <br>
@@ -105,16 +105,16 @@
 
 <span id="5"></span>
 ## <div align=center>-------------------------[Objective-C 数据加载](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-|MBProgressHUD|实现了很多种样式的提示框,使用上简单、方便,并且可以对显示的内容进行自定义,功能很强大,很多项目中都有使用到。|[点击前往](https://github.com/jdg/MBProgressHUD)|🌟🌟🌟🌟🌟| 15.7k/updating|
-|SVProgressHUD|是一个单例（[SVProgressHUD method]），所以可以使用起来也相当方便跟简单，可以写在任意位置；但必须在主线程中进行显示，或则会报闪退；也可以用于显示一个提示信息。|[点击前往](https://github.com/SVProgressHUD/SVProgressHUD)|🌟🌟🌟🌟| 12.1k/updating|
-|Toast|是其中很常用的一种：它简单、小巧、对用户的打扰小的提示框。|[点击前往](https://github.com/scalessec/Toast)|🌟🌟🌟| 3.6k/2017|
-|TSMessages|非HUD风格的iOS提示框(|[点击前往](https://github.com/KrauseFx/TSMessages/)|🌟🌟🌟| 5k/2018|
-|JGProgressHUD|灵感来源于众多曾经非常热门的进程指示器,比如MBProgressHUD、JGProgressHUD、SVProgressHUD以及HTProgressHUD等|[点击前往](https://github.com/JonasGessner/JGProgressHUD)|🌟🌟🌟🌟| 2.8k/updating|
-|TYAlertController|各种风格的弹框，满足你的各种需求。|[点击前往](https://github.com/12207480/TYAlertController)|🌟🌟🌟| 1.3k/2018|
-|SCLAlertView|自定义的UIAlertView，更漂亮哦|[点击前往](https://github.com/dogo/SCLAlertView)|🌟🌟🌟🌟| 3.4k/2018|
-|LEEAlert|优雅的可自定义 Alert ActionSheet|[点击前往](https://github.com/lixiang1994/LEEAlert)|🌟🌟🌟| <1k/updating|
+|[MBProgressHUD](https://github.com/jdg/MBProgressHUD)|实现了很多种样式的提示框,使用上简单、方便,并且可以对显示的内容进行自定义,功能很强大,很多项目中都有使用到。|updating|🌟🌟🌟🌟🌟| 15.7k|
+|[SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)|是一个单例（[SVProgressHUD method]），所以可以使用起来也相当方便跟简单，可以写在任意位置；但必须在主线程中进行显示，或则会报闪退；也可以用于显示一个提示信息。|updating|🌟🌟🌟🌟| 12.1k|
+|[Toast](https://github.com/scalessec/Toast)|是其中很常用的一种：它简单、小巧、对用户的打扰小的提示框。|2017|🌟🌟🌟| 3.6k|
+|[TSMessages](https://github.com/KrauseFx/TSMessages/)|非HUD风格的iOS提示框(|2018|🌟🌟🌟| 5k|
+|[JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)|灵感来源于众多曾经非常热门的进程指示器,比如MBProgressHUD、JGProgressHUD、SVProgressHUD以及HTProgressHUD等|updating|🌟🌟🌟🌟| 2.8k|
+|[TYAlertController](https://github.com/12207480/TYAlertController)|各种风格的弹框，满足你的各种需求。|2018|🌟🌟🌟| 1.3k|
+|[SCLAlertView](https://github.com/dogo/SCLAlertView)|自定义的UIAlertView，更漂亮哦|2018|🌟🌟🌟🌟| 3.4k|
+|[LEEAlert](https://github.com/lixiang1994/LEEAlert)|优雅的可自定义 Alert ActionSheet|updating|🌟🌟🌟| <1k|
 
 <br>
 <br>
@@ -125,14 +125,14 @@
 ## <div align=center>-------------------------[Objective-C 数据存储](#back) -------------------------</div>
 ###### iOS端持久化的方案选择比较多，NSUserDefault，Keychain，File，sqlite都可以帮助存储关键的业务数据。NSUserDefault和Keychain都是轻量级解决方案，自定义数据格式的File则读取麻烦一些，每次更新部分数据都会导致整个文件io，数据的结构一旦复杂起来，最后还是会走向sqlite。
 
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-|FMDB|是针对libsqlite3框架进行封装的三方，它以OC的方式封装了SQLite的C语言的API，使用步骤与SQLite相似。|[点击前往](https://github.com/ccgus/fmdb)|🌟🌟🌟🌟🌟| 13.4k/updating|
-|Realm|是由Y Combinator孵化的创业团队开源出来的一款可以用于iOS(同样适用于Swift&Objective-C)和Android的跨平台移动数据库。|[点击前往](https://github.com/realm/realm-cocoa)|🌟🌟🌟🌟| 14k/updating|
-|UICKeyChainStore|对于一些私密信息，比如密码、证书等等，就需要使用更为安全的数据保存方式。|[点击前往](https://github.com/kishikawakatsumi/UICKeyChainStore)|🌟🌟🌟🌟| 2.9k/updating|
-|SAMkeychain|钥匙串存取数据，可以用来储存用户的隐私信息。|[点击前往](https://github.com/soffes/SAMKeychain)|🌟🌟🌟| 5.3k/2018(Archived)|
-|YYCache|适用于iOS的高性能缓存框架。|[点击前往](https://github.com/ibireme/YYCache)|🌟🌟🌟| 2.2k/2017|
-|MagicalRecord|是对CoreData进行了一次封装，封装了多线程Core Data中复杂的操作，并提供了丰富的封装方法，使用起来代码清晰简洁。|[点击前往](https://github.com/magicalpanda/MagicalRecord)|🌟🌟🌟🌟| 10.9k/updating|
+|[FMDB](https://github.com/ccgus/fmdb)|是针对libsqlite3框架进行封装的三方，它以OC的方式封装了SQLite的C语言的API，使用步骤与SQLite相似。|updating|🌟🌟🌟🌟🌟| 13.4k|
+|[Realm](https://github.com/realm/realm-cocoa)|是由Y Combinator孵化的创业团队开源出来的一款可以用于iOS(同样适用于Swift&Objective-C)和Android的跨平台移动数据库。|updating|🌟🌟🌟🌟| 14k|
+|[UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore)|对于一些私密信息，比如密码、证书等等，就需要使用更为安全的数据保存方式。|updating|🌟🌟🌟🌟| 2.9k|
+|[SAMkeychain](https://github.com/soffes/SAMKeychain)|钥匙串存取数据，可以用来储存用户的隐私信息。|2018(Archived)|🌟🌟🌟| 5.3k|
+|[YYCache](https://github.com/ibireme/YYCache)|适用于iOS的高性能缓存框架。|2017|🌟🌟🌟| 2.2k|
+|[MagicalRecord](https://github.com/magicalpanda/MagicalRecord)|是对CoreData进行了一次封装，封装了多线程Core Data中复杂的操作，并提供了丰富的封装方法，使用起来代码清晰简洁。|updating|🌟🌟🌟🌟| 10.9k|
 
 <br>
 <br>
@@ -141,12 +141,12 @@
 
 <span id="7"></span>
 ## <div align=center>-------------------------[Objective-C UI布局](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-|Masonry|是一个轻量级的布局框架,拥有自己的描述语法,采用更优雅的链式语法封装自动布局,简洁明了并具有高可读性,而且同时支持 iOS 和 Max OS X。|[点击前往](https://github.com/SnapKit/Masonry)|🌟🌟🌟🌟🌟| 17.8k/2017|
-|MyLinearLayout|是一套iOS界面视图布局框架。其内核是基于对UIView的layoutSubviews方法的重载以及对子视图的bounds和center属性的设置而实现的。|[点击前往](https://github.com/youngsoft/MyLinearLayout)|🌟🌟🌟🌟| 3.9k/updating|
-|SDAutoLayout|一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。|[点击前往](https://github.com/gsdios/SDAutoLayout)|🌟🌟🌟🌟| 5.8k/updating|
-|PureLayout|iOS和OS X Auto Layout的终极API-极其简单，功能强大。与Objective-C和Swift兼容。|[点击前往](https://github.com/PureLayout/PureLayout)|🌟🌟🌟🌟| 7.4k/updating|
+|[Masonry](https://github.com/SnapKit/Masonry)|是一个轻量级的布局框架,拥有自己的描述语法,采用更优雅的链式语法封装自动布局,简洁明了并具有高可读性,而且同时支持 iOS 和 Max OS X。|2017|🌟🌟🌟🌟🌟| 17.8k|
+|[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)|是一套iOS界面视图布局框架。其内核是基于对UIView的layoutSubviews方法的重载以及对子视图的bounds和center属性的设置而实现的。|updating|🌟🌟🌟🌟| 3.9k|
+|[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)|一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。|updating|🌟🌟🌟🌟| 5.8k|
+|[PureLayout](https://github.com/PureLayout/PureLayout)|iOS和OS X Auto Layout的终极API-极其简单，功能强大。与Objective-C和Swift兼容。|updating|🌟🌟🌟🌟| 7.4k|
 
 <br>
 <br>
@@ -155,22 +155,22 @@
 
 <span id="8"></span>
 ## <div align=center>-------------------------[Objective-C UI动画](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-|LSAnimator|易于读写的多链式动画框架，可以用少量的代码实现复杂而又易于维护的动画。|[点击前往](https://github.com/Lision/LSAnimator)|🌟🌟🌟🌟| 1.5k/updating|
-|Pop|Facebook发布的动画引擎，用以扩展iOS、OSX的动画类型。相较于iOS、OSX中的基本动画效果，Pop扩展后支持弹簧动画效果与衰减动画效果，你可以用Pop动画引擎来构建出真实的物理交互效果。|[点击前往](https://github.com/facebook/pop)|🌟🌟🌟🌟🌟| 19.9k/2018|
-|RZTransitions|是一个适用于iOS 7.0及以上操作系统的视图控制器转场动画库,可以实现平滑流畅的转场动画效果,而且使用简便。|[点击前往](https://github.com/Raizlabs/RZTransitions)|🌟🌟🌟🌟| 1.9k/updating|
-|JHChainableAnimations|让你能够在Objective-C中实现易读链式动画写法。|[点击前往](https://github.com/jhurray/JHChainableAnimations)|🌟🌟🌟🌟| 3.2k/2017|
-|FeSpinner|加入沙漏等多种动画加载效果|[点击前往](https://github.com/NghiaTranUIT/FeSpinner)|🌟🌟🌟| 1.5k/2014|
-|PulsingHalo|脉冲动画效果,可以自定义脉冲的颜色和扩散半径|[点击前往](https://github.com/shu223/PulsingHalo)|🌟🌟🌟| 1.8k/2019|
-|JazzHands|是一个帧动画的库,我们可以结合 Gesture,scrollView,KVO,RAC 制作交互式的动画. |[点击前往](https://github.com/IFTTT/JazzHands)|🌟🌟🌟🌟|  6.5k/2015|
-|ZLPhotoBrowser|方便易用的相册多选框架，支持预览/相册内拍照及录视频、拖拽/滑动选择，3DTouch预览，编辑裁剪图片(滤镜)/视频，导出视频(可添加水印，粒子特效，视频转码)；支持多语言国际化(中文简/繁，英语，日语，可手动切换)；在线下载iCloud端图片；支持预览网络及本地图片/视频|[点击前往](https://github.com/longitachi/ZLPhotoBrowser)|🌟🌟🌟🌟|  3k/updating|
-|SDPhotoBrowser|满足用户浏览图片的需求,例如单击图片隐藏、双击图片放大、手势缩放、左右切换以及保存图片等功能|[点击前往](https://github.com/gsdios/SDPhotoBrowser)|🌟🌟🌟|  1.1k/2018|
-|NYTPhotoViewer|是一个幻灯片和图片浏览器,包括双击缩放,字母,支持多个图片,互动电影,动画缩放演示及更多功能。|[点击前往](https://github.com/NYTimes/NYTPhotoViewer)|🌟🌟🌟|  2.7k/updating|
-|HHTransition|主流转场动画，无侵入，API简单易用。|[点击前往](https://github.com/yuwind/HHTransition)|🌟🌟🌟| <1k/updating|
-|BCGenieEffect|实现了在Mac OS 中最小化或最大化窗口时的过渡效果。BCGenieEffect包含一个UIView category，允许你在iOS视图中添加这个效果。自定义长方形的起点、终点以及边缘。基于CoreAnimation。|[点击前往](https://github.com/Ciechan/BCGenieEffect)|🌟🌟🌟| 1.4k/2012|
-|BCMeshTransformView| 利用mesh变形算法实现三种特殊的视图效果，一种是拉动窗帘布的效果，一种是鱼眼（Fish Eye）局部放大图片的效果，一种是类似橡皮泥变形效果。|[点击前往](https://github.com/Ciechan/BCMeshTransformView)|🌟🌟🌟| 1.2k/2014|
-|RBBAnimation| 基于块的动画变得容易，带有缓动功能和CASpringAnimation替换。|[点击前往](https://github.com/robb/RBBAnimation)|🌟🌟🌟| 2k/2015|
+|[LSAnimator](https://github.com/Lision/LSAnimator)|易于读写的多链式动画框架，可以用少量的代码实现复杂而又易于维护的动画。|updating|🌟🌟🌟🌟| 1.5k|
+|[Pop](https://github.com/facebook/pop)|Facebook发布的动画引擎，用以扩展iOS、OSX的动画类型。相较于iOS、OSX中的基本动画效果，Pop扩展后支持弹簧动画效果与衰减动画效果，你可以用Pop动画引擎来构建出真实的物理交互效果。|2018|🌟🌟🌟🌟🌟| 19.9k|
+|[RZTransitions](https://github.com/Raizlabs/RZTransitions)|是一个适用于iOS 7.0及以上操作系统的视图控制器转场动画库,可以实现平滑流畅的转场动画效果,而且使用简便。|updating|🌟🌟🌟🌟| 1.9k|
+|[JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations)|让你能够在Objective-C中实现易读链式动画写法。|2017|🌟🌟🌟🌟| 3.2k|
+|[FeSpinner](https://github.com/NghiaTranUIT/FeSpinner)|加入沙漏等多种动画加载效果|2014|🌟🌟🌟| 1.5k|
+|[PulsingHalo](https://github.com/shu223/PulsingHalo)|脉冲动画效果,可以自定义脉冲的颜色和扩散半径|2019|🌟🌟🌟| 1.8k|
+|[JazzHands](https://github.com/IFTTT/JazzHands)|是一个帧动画的库,我们可以结合 Gesture,scrollView,KVO,RAC 制作交互式的动画. |2015|🌟🌟🌟🌟|  6.5k|
+|[ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser)|方便易用的相册多选框架，支持预览/相册内拍照及录视频、拖拽/滑动选择，3DTouch预览，编辑裁剪图片(滤镜)/视频，导出视频(可添加水印，粒子特效，视频转码)；支持多语言国际化(中文简/繁，英语，日语，可手动切换)；在线下载iCloud端图片；支持预览网络及本地图片/视频|updating|🌟🌟🌟🌟|  3k|
+|[SDPhotoBrowser](https://github.com/gsdios/SDPhotoBrowser)|满足用户浏览图片的需求,例如单击图片隐藏、双击图片放大、手势缩放、左右切换以及保存图片等功能|2018|🌟🌟🌟|  1.1k|
+|[NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer)|是一个幻灯片和图片浏览器,包括双击缩放,字母,支持多个图片,互动电影,动画缩放演示及更多功能。|updating|🌟🌟🌟|  2.7k|
+|[HHTransition](https://github.com/yuwind/HHTransition)|主流转场动画，无侵入，API简单易用。|updating|🌟🌟🌟| <1k|
+|[BCGenieEffect](https://github.com/Ciechan/BCGenieEffect)|实现了在Mac OS 中最小化或最大化窗口时的过渡效果。BCGenieEffect包含一个UIView category，允许你在iOS视图中添加这个效果。自定义长方形的起点、终点以及边缘。基于CoreAnimation。|2012|🌟🌟🌟| 1.4k|
+|[BCMeshTransformView](https://github.com/Ciechan/BCMeshTransformView)| 利用mesh变形算法实现三种特殊的视图效果，一种是拉动窗帘布的效果，一种是鱼眼（Fish Eye）局部放大图片的效果，一种是类似橡皮泥变形效果。|2014|🌟🌟🌟| 1.2k|
+|[RBBAnimation](https://github.com/robb/RBBAnimation)| 基于块的动画变得容易，带有缓动功能和CASpringAnimation替换。|2015|🌟🌟🌟| 2k|
 
 <br>
 <br>
@@ -179,22 +179,22 @@
 
 <span id="9"></span>
 ## <div align=center>-------------------------[Objective-C 图片加载](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-|SDWebImage|一个可管理远程图片异步加载并缓存的类库。这个类库提供一个UIImageView类别以支持加载来自网络的远程图片。具有缓存管理、异步下载、同一个URL下载次数控制和优化等特征。|[点击前往](https://github.com/rs/SDWebImage)|🌟🌟🌟🌟🌟| 22.8k/updating|
-|YYWebImage|异步图像加载框架。|[点击前往](https://github.com/ibireme/YYWebImage)|🌟🌟🌟🌟| 3.5k/2017|
-|YYImage|是一款功能强大的 iOS 图像框架（该项目是 YYKit 组件之一），支持目前市场上所有主流的图片格式的显示与编/解码，并且提供高效的动态内存缓存管理，以保证高性能低内存的动画播放。|[点击前往](https://github.com/ibireme/YYImage)|🌟🌟🌟🌟| 1.6k/2017|
-|SDCycleScrollView|简单好用的 无限循环轮播工具。|[点击前往](https://github.com/gsdios/SDCycleScrollView)|🌟🌟🌟🌟| 5.8k/2019|
-|MWPhotoBrowser|是一个强大且古老的图片浏览库，在GitHub上有英文版的详细使用说明。它同时依赖DACircularProgress ，MBProgressHUD ，SDWebImage。|[点击前往](https://github.com/mwaterfall/MWPhotoBrowser)|🌟🌟🌟🌟| 8.7k/2016|
-|CTAssetsPickerController|一个选择器组件, 支持从用户的相片库选择多张照片和视频。|[点击前往](https://github.com/chiunam/CTAssetsPickerController)|🌟🌟🌟| 2.2k/2016|
-|GKPhotoBrowser|iOS仿微信、今日头条等图片浏览器|[点击前往](https://github.com/QuintGao/GKPhotoBrowser)|🌟🌟🌟| <1k/updating|
-|FLAnimatedImage|是由Flipboard开源的iOS平台上播放GIF动画的一个优秀解决方案,在内存占用和播放体验都有不错的表现。|[点击前往](https://github.com/Flipboard/FLAnimatedImage)|🌟🌟🌟🌟| 7.5k/2014|
-|LKImageKit|是一个高性能的图片框架,包括了图片控件,图片下载、内存缓存、磁盘缓存、图片解码、图片处理等一系列能力。(腾讯高性能的图片框架)|[点击前往](https://github.com/Tencent/LKImageKit)|🌟🌟🌟🌟| 2k/2018|
-|PEPhotoCropEditor|自定义拖动剪切图片|[点击前往](https://github.com/kishikawakatsumi/PEPhotoCropEditor)|🌟🌟🌟| 1.1k/2018|
-|FastImageCache|是一种在 iOS 应用程序中高效、持续、超快速的存储和检索图像的解决方案。|[点击前往](https://github.com/path/FastImageCache)|🌟🌟🌟🌟| 8.1k/2016|
-|TZImagePickerController|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。|[点击前往](https://github.com/banchichen/TZImagePickerController)|🌟🌟🌟🌟| 7.2k/updating|
-|NYXImagesKit|包含一组很有用的 UIImage 图像处理方法,包括 filtering, blurring, enhancing, masking, reflecting, resizing, rotating, saving. |[点击前往](https://github.com/Nyx0uf/NYXImagesKit)|🌟🌟🌟| 2.6k/2018|
-|Concorde|在iOS上下载和解码渐进JPEG。 |[点击前往](https://github.com/contentful-labs/Concorde)|🌟🌟🌟| 1.4k/2018|
+|[SDWebImage](https://github.com/rs/SDWebImage)|一个可管理远程图片异步加载并缓存的类库。这个类库提供一个UIImageView类别以支持加载来自网络的远程图片。具有缓存管理、异步下载、同一个URL下载次数控制和优化等特征。|updating|🌟🌟🌟🌟🌟| 22.8k|
+|[YYWebImage](https://github.com/ibireme/YYWebImage)|异步图像加载框架。|2017|🌟🌟🌟🌟| 3.5k|
+|[YYImage](https://github.com/ibireme/YYImage)|是一款功能强大的 iOS 图像框架（该项目是 YYKit 组件之一），支持目前市场上所有主流的图片格式的显示与编/解码，并且提供高效的动态内存缓存管理，以保证高性能低内存的动画播放。|2017|🌟🌟🌟🌟| 1.6k|
+|[SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)|简单好用的 无限循环轮播工具。|2019|🌟🌟🌟🌟| 5.8k|
+|[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser)|是一个强大且古老的图片浏览库，在GitHub上有英文版的详细使用说明。它同时依赖DACircularProgress ，MBProgressHUD ，SDWebImage。|2016|🌟🌟🌟🌟| 8.7k|
+|[CTAssetsPickerController](https://github.com/chiunam/CTAssetsPickerController)|一个选择器组件, 支持从用户的相片库选择多张照片和视频。|2016|🌟🌟🌟| 2.2k|
+|[GKPhotoBrowser](https://github.com/QuintGao/GKPhotoBrowser)|iOS仿微信、今日头条等图片浏览器|updating|🌟🌟🌟| <1k|
+|[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)|是由Flipboard开源的iOS平台上播放GIF动画的一个优秀解决方案,在内存占用和播放体验都有不错的表现。|2014|🌟🌟🌟🌟| 7.5k|
+|[LKImageKit](https://github.com/Tencent/LKImageKit)|是一个高性能的图片框架,包括了图片控件,图片下载、内存缓存、磁盘缓存、图片解码、图片处理等一系列能力。(腾讯高性能的图片框架)|2018|🌟🌟🌟🌟| 2k|
+|[PEPhotoCropEditor](https://github.com/kishikawakatsumi/PEPhotoCropEditor)|自定义拖动剪切图片|2018|🌟🌟🌟| 1.1k|
+|[FastImageCache](https://github.com/path/FastImageCache)|是一种在 iOS 应用程序中高效、持续、超快速的存储和检索图像的解决方案。|2016|🌟🌟🌟🌟| 8.1k|
+|[TZImagePickerController](https://github.com/banchichen/TZImagePickerController)|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。|updating|🌟🌟🌟🌟| 7.2k|
+|[NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit)|包含一组很有用的 UIImage 图像处理方法,包括 filtering, blurring, enhancing, masking, reflecting, resizing, rotating, saving. |2018|🌟🌟🌟| 2.6k|
+|[Concorde](https://github.com/contentful-labs/Concorde)|在iOS上下载和解码渐进JPEG。 |2018|🌟🌟🌟| 1.4k|
 <br>
 <br>
 <br>
@@ -202,29 +202,29 @@
 
 <span id="10"></span>
 ## <div align=center>-------------------------[Objective-C UI控件](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-|SVSegmentedControl|实现UISwitch（开关）样式的UISegmentedControl。|[点击前往](https://github.com/samvermette/SVSegmentedControl)|🌟🌟🌟| 1.4k/2013|
-|FlatUIKit|是一组扁平风格的 iOS 组件集合，其灵感来自于 Flat UI 和 Kyle Miller. 该风格通过分类的方式替换已有的 UIKit 组件，可非常直接的集成到你的应用中。|[点击前往](https://github.com/Grouper/FlatUIKit)|🌟🌟🌟🌟| 7.9k/2015|
-|RKNotificationHub|快速给UIView 添加上炫酷通知图标。|[点击前往](https://github.com/cwRichardKim/RKNotificationHub)|🌟🌟🌟🌟| 3.1k/2018|
-|JXCategoryView|腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图。|[点击前往](https://github.com/pujiaxin33/JXCategoryView)|🌟🌟🌟🌟| 4.7k/updating|
-|VTMagic|类似网易、腾讯等应用的菜单分页组|[点击前往](https://github.com/tianzhuo112/VTMagic)|🌟🌟🌟| 1.8k/2018|
-|CMPageTitleView|标题栏/菜单栏：一分钟集成类似抖音，新浪微博，腾讯视频，网易新闻，今日头条等常见的标题栏样式，api灵活易扩展，支持Cocoapods和Masonry布局，|[点击前往](https://github.com/CrabMen/CMPageTitleView)|🌟🌟🌟| <1k/updating|
-|SGPagingView|QQ、淘宝、微博、腾讯、网易新闻、今日头条等标题滚动视图|[点击前往](https://github.com/kingsic/SGPagingView)|🌟🌟🌟| 1.4k/updating|
-|HMSegmentedControl|一个代替 UISegmentedControl 的投递器, 它模仿了谷歌电流和其他各种谷歌产品中使用的分段控件的样式。|[点击前往](https://github.com/HeshamMegid/HMSegmentedControl)|🌟🌟🌟🌟| 3.7k/updating|
-|WMPageController|一个简单的解决方案, 以页面控制器, 如网易新闻|[点击前往](https://github.com/wangmchn/WMPageController)|🌟🌟🌟🌟| 2.8k/2018|
-|MMPopupView|是一个基于UIWindow的一个简洁、高效的弹出框组件。|[点击前往](https://github.com/adad184/MMPopupView)|🌟🌟🌟| 2.1k/2016|
-|PNChart|是一个简单漂亮的动画图表库，Piner 和 CoinsMan 的 iOS 客户端中使用了这个框架。|[点击前往](https://github.com/kevinzhow/PNChart)|🌟🌟🌟🌟| 9.7k/2018|
-|TEAChart|一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等。|[点击前往](https://github.com/xhacker/TEAChart)|🌟🌟🌟🌟| 1.2k/2017|
-|CVCalendar|是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用。|[点击前往](https://github.com/CVCalendar/CVCalendar)|🌟🌟🌟🌟| 3.3k/updating|
-|XJYChart|优秀的的图表框架。支持动画，点击，滑动，区域高亮。|[点击前往](https://github.com/JunyiXie/XJYChart)|🌟🌟🌟| <1k/updating|
-|XYPieChart|饼状图, 饼图, 数据统计, 数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片。|[点击前往](https://github.com/xyfeng/XYPieChart)|🌟🌟🌟| 1.8k/2013|
-|FXBlurView|是UIView的子类，它实现毛玻璃效果的原理其实就是覆盖上一层FXBlurView的实例对象。|[点击前往](https://github.com/nicklockwood/FXBlurView)|🌟🌟🌟🌟| 5k/2017|
-|BEMCheckBox|是一个开源库，可以轻松地为iOS创建漂亮，高度可定制的，有动画效果的复选框。|[点击前往](https://github.com/Boris-Em/BEMCheckBox)|🌟🌟🌟🌟| 2.5k/updating|
-|LiquidFloatingActionButton|液态的材料设计浮动动作按钮|[点击前往](https://github.com/yoavlt/LiquidFloatingActionButton)|🌟🌟🌟🌟| 3.6k/updating|
-|XLForm|是最灵活且最强大的创建动态表单的iOS库。|[点击前往](https://github.com/xmartlabs/XLForm)|🌟🌟🌟🌟| 5.7k/updating|
-|TBActionSheet|一个 ActionSheet 满足所有样式！超高自由度的可定制！|[点击前往](https://github.com/yulingtianxia/TBActionSheet)|🌟🌟🌟| <1k/updating|
-|UITextView-Placeholder|UITextView缺少占位符。|[点击前往](https://github.com/devxoul/UITextView-Placeholder)|🌟🌟🌟🌟| 1.3k/updating|
+|[SVSegmentedControl](https://github.com/samvermette/SVSegmentedControl)|实现UISwitch（开关）样式的UISegmentedControl。|2013|🌟🌟🌟| 1.4k|
+|[FlatUIKit](https://github.com/Grouper/FlatUIKit)|是一组扁平风格的 iOS 组件集合，其灵感来自于 Flat UI 和 Kyle Miller. 该风格通过分类的方式替换已有的 UIKit 组件，可非常直接的集成到你的应用中。|2015|🌟🌟🌟🌟| 7.9k|
+|[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|快速给UIView 添加上炫酷通知图标。|2018|🌟🌟🌟🌟| 3.1k|
+|[JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图。|updating|🌟🌟🌟🌟| 4.7k|
+|[VTMagic](https://github.com/tianzhuo112/VTMagic)|类似网易、腾讯等应用的菜单分页组|2018|🌟🌟🌟| 1.8k|
+|[CMPageTitleView](https://github.com/CrabMen/CMPageTitleView)|标题栏/菜单栏：一分钟集成类似抖音，新浪微博，腾讯视频，网易新闻，今日头条等常见的标题栏样式，api灵活易扩展，支持Cocoapods和Masonry布局，|updating|🌟🌟🌟| <1k|
+|[SGPagingView](https://github.com/kingsic/SGPagingView)|QQ、淘宝、微博、腾讯、网易新闻、今日头条等标题滚动视图|updating|🌟🌟🌟| 1.4k|
+|[HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl)|一个代替 UISegmentedControl 的投递器, 它模仿了谷歌电流和其他各种谷歌产品中使用的分段控件的样式。|updating|🌟🌟🌟🌟| 3.7k|
+|[WMPageController](https://github.com/wangmchn/WMPageController)|一个简单的解决方案, 以页面控制器, 如网易新闻|2018|🌟🌟🌟🌟| 2.8k|
+|[MMPopupView](https://github.com/adad184/MMPopupView)|是一个基于UIWindow的一个简洁、高效的弹出框组件。|2016|🌟🌟🌟| 2.1k|
+|[PNChart](https://github.com/kevinzhow/PNChart)|是一个简单漂亮的动画图表库，Piner 和 CoinsMan 的 iOS 客户端中使用了这个框架。|2018|🌟🌟🌟🌟| 9.7k|
+|[TEAChart](https://github.com/xhacker/TEAChart)|一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等。|2017|🌟🌟🌟🌟| 1.2k|
+|[CVCalendar](https://github.com/CVCalendar/CVCalendar)|是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用。|updating|🌟🌟🌟🌟| 3.3k|
+|[XJYChart](https://github.com/JunyiXie/XJYChart)|优秀的的图表框架。支持动画，点击，滑动，区域高亮。|updating|🌟🌟🌟| <1k|
+|[XYPieChart](https://github.com/xyfeng/XYPieChart)|饼状图, 饼图, 数据统计, 数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片。|2013|🌟🌟🌟| 1.8k|
+|[FXBlurView](https://github.com/nicklockwood/FXBlurView)|是UIView的子类，它实现毛玻璃效果的原理其实就是覆盖上一层FXBlurView的实例对象。|2017|🌟🌟🌟🌟| 5k|
+|[BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox)|是一个开源库，可以轻松地为iOS创建漂亮，高度可定制的，有动画效果的复选框。|updating|🌟🌟🌟🌟| 2.5k|
+|[LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|液态的材料设计浮动动作按钮|updating|🌟🌟🌟🌟| 3.6k|
+|[XLForm](https://github.com/xmartlabs/XLForm)|是最灵活且最强大的创建动态表单的iOS库。|updating|🌟🌟🌟🌟| 5.7k|
+|[TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)|一个 ActionSheet 满足所有样式！超高自由度的可定制！|updating|🌟🌟🌟| <1k|
+|[UITextView-Placeholder](https://github.com/devxoul/UITextView-Placeholder)|UITextView缺少占位符。|updating|🌟🌟🌟🌟| 1.3k|
 <br>
 <br>
 <br>
@@ -232,19 +232,19 @@
 
 <span id="11"></span>
 ## <div align=center>-------------------------[Objective-C 抽屉框架](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-|RESideMenu|QQ类似侧滑抽屉式框架。|[点击前往](https://github.com/romaonthego/RESideMenu)|🌟🌟🌟🌟| 7.2k/2015|
-|MMDrawerController|是一个轻量级的侧边栏抽屉控件,其支持左侧抽屉和右侧抽屉,可以很好的支持导航控制器,并且支持开发者对手势和动画进行自定义。|[点击前往](https://github.com/mutualmobile/MMDrawerController)|🌟🌟🌟🌟| 6.8k/2015|
-|ViewDeck|是一个有黑色透明遮罩层轻量级的侧边栏抽屉控件,其支持左侧抽屉和右侧抽屉。|[点击前往](https://github.com/ViewDeck/ViewDeck)|🌟🌟🌟🌟| 5.4k/2018|
-|CWLateralSlide|一行代码集成0耦合侧滑抽屉！|[点击前往](https://github.com/ChavezChen/CWLateralSlide)|🌟🌟🌟🌟| 1.1k/updating|
-|PKRevealController|是由ZUUIRevealController改进而来，是一个简单、漂亮的开源库。实现了Facebook iOS客户端左右两边侧边菜单栏的效果|[点击前往](https://github.com/pkluz/PKRevealController)|🌟🌟🌟🌟| 3.9k/2015|
-|iRate| 是一个库，可通过提示用户在使用几天后对其进行评分来帮助您推广iPhone和Mac App Store应用。通过仅定位常规用户（大概喜欢该应用程序或他们不会继续使用它的用户），这种方法是获得正面评价的最佳方法之一。|[点击前往](https://github.com/nicklockwood/iRate)|🌟🌟🌟🌟| 4.2k/2017|
-|iCarousel|是一个使用简单、高度自定义的多类型视图切换的控件,支持iOS/Mac OS、ARC & Thread Safety|[点击前往](https://github.com/nicklockwood/iCarousel)|🌟🌟🌟🌟| 11.7k/2017|
-|SlackTextViewController|UIViewController子类，具有不断增长的文本输入视图和其他有用的消息传递功能|[点击前往](https://github.com/slackhq/SlackTextViewController)|🌟🌟🌟🌟| 8.5k/2018(Archived)|
-|REFrostedViewController|出现在视图控制器顶部的iOS 7/8样式模糊视图控制器。|[点击前往](https://github.com/romaonthego/REFrostedViewController)|🌟🌟🌟| 3k/2015|
-|RETableViewManager|强大的数据驱动的UITableView内容管理器。|[点击前往](https://github.com/romaonthego/RETableViewManager)|🌟🌟🌟| 2.5k/2016|
-|REMenu|下拉菜单的灵感来自Vine。|[点击前往](https://github.com/romaonthego/REMenu)|🌟🌟🌟| 2.2k/2015|
+|[RESideMenu](https://github.com/romaonthego/RESideMenu)|QQ类似侧滑抽屉式框架。|2015|🌟🌟🌟🌟| 7.2k|
+|[MMDrawerController](https://github.com/mutualmobile/MMDrawerController)|是一个轻量级的侧边栏抽屉控件,其支持左侧抽屉和右侧抽屉,可以很好的支持导航控制器,并且支持开发者对手势和动画进行自定义。|2015|🌟🌟🌟🌟| 6.8k|
+|[ViewDeck](https://github.com/ViewDeck/ViewDeck)|是一个有黑色透明遮罩层轻量级的侧边栏抽屉控件,其支持左侧抽屉和右侧抽屉。|2018|🌟🌟🌟🌟| 5.4k|
+|[CWLateralSlide](https://github.com/ChavezChen/CWLateralSlide)|一行代码集成0耦合侧滑抽屉！|updating|🌟🌟🌟🌟| 1.1k|
+|[PKRevealController](https://github.com/pkluz/PKRevealController)|是由ZUUIRevealController改进而来，是一个简单、漂亮的开源库。实现了Facebook iOS客户端左右两边侧边菜单栏的效果|2015|🌟🌟🌟🌟| 3.9k|
+|[iRate](https://github.com/nicklockwood/iRate)| 是一个库，可通过提示用户在使用几天后对其进行评分来帮助您推广iPhone和Mac App Store应用。通过仅定位常规用户（大概喜欢该应用程序或他们不会继续使用它的用户），这种方法是获得正面评价的最佳方法之一。|2017|🌟🌟🌟🌟| 4.2k|
+|[iCarousel](https://github.com/nicklockwood/iCarousel)|是一个使用简单、高度自定义的多类型视图切换的控件,支持iOS/Mac OS、ARC & Thread Safety|2017|🌟🌟🌟🌟| 11.7k|
+|[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)|UIViewController子类，具有不断增长的文本输入视图和其他有用的消息传递功能|2018(Archived)|🌟🌟🌟🌟| 8.5k|
+|[REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)|出现在视图控制器顶部的iOS 7/8样式模糊视图控制器。|2015|🌟🌟🌟| 3k|
+|[RETableViewManager](https://github.com/romaonthego/RETableViewManager)|强大的数据驱动的UITableView内容管理器。|2016|🌟🌟🌟| 2.5k|
+|[REMenu](https://github.com/romaonthego/REMenu)|下拉菜单的灵感来自Vine。|2015|🌟🌟🌟| 2.2k|
 
 <br>
 <br>
@@ -253,17 +253,17 @@
 
 <span id="12"></span>
 ## <div align=center>-------------------------[Objective-C 大型框架](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-| ReactiveCocoa | 是由GitHub团队开源的一套基于Cocoa的并且具有FRP特性的框架，一个函数响应式编程框架。| [点击前往](https://github.com/ReactiveCocoa/ReactiveCocoa) | 🌟🌟🌟🌟🌟 | 19.8k/updating|
-|WebViewJavascriptBridge|是一个Objective-C与JavaScript进行消息互通的三方库。通过WebViewJavascriptBridge，我们可以很方便的实现OC和Javascript互调的功能。|[点击前往](https://github.com/marcuswestin/WebViewJavascriptBridge)| 🌟🌟🌟🌟🌟 | 13.3k/2017|
-|expo|一个使用React制作通用本机应用程序的开源平台。expo在Android，iOS和网络上运行。|[点击前往](https://github.com/expo/expo)| 🌟🌟🌟🌟 | 10.4k/updating|
-|RestKit|一个用于更好支持RESTful风格服务器接口的iOS库|[点击前往](https://github.com/RestKit/RestKit)| 🌟🌟🌟🌟 | 10.3k/2018|
-|IGListKit|一个UICollectionView用于构建快速灵活列表的数据驱动框架。|[点击前往](https://github.com/Instagram/IGListKit)| 🌟🌟🌟🌟 | 11.3k/updating|
-|VasSonic|是腾讯团队研发的一个轻量级的高性能的Hybrid框架，专注于提升页面首屏加载速度。|[点击前往](https://github.com/Tencent/VasSonic)| 🌟🌟🌟🌟 | 10.9k/2019|
-|SocketRocket|符合标准的Objective-C WebSocket客户端库。|[点击前往](https://github.com/facebookarchive/SocketRocket)| 🌟🌟🌟🌟 | 9k/2018|
-|Nimbus|是面向经验丰富的iOS软件设计师的工具包。它提供了有据可查的模块化组件，可以解决许多常见的iOS软件要求。这包括： 带超链接的富文本标签； Web视图控制器 ; 表格模型， 广播组和 表格动作的一种简单方法 ; 标准化的app间通信，以及强大的调试工具等许多功能。|[点击前往](https://github.com/jverkoey/nimbus)| 🌟🌟🌟🌟 | 6.5k/updating|
-|BlocksKit|是对Cocoa Touch Block编程更进一步的支持,它简化了Block编程,发挥Block的相关优势,让更多UIKit类支持Block式编程。|[点击前往](https://github.com/BlocksKit/BlocksKit)|🌟🌟🌟🌟| 6.9k/2015(Archived)|
+| [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | 是由GitHub团队开源的一套基于Cocoa的并且具有FRP特性的框架，一个函数响应式编程框架。| updating | 🌟🌟🌟🌟🌟 | 19.8k|
+|[WebViewJavascriptBridge](https://github.com/marcuswestin/WebViewJavascriptBridge)|是一个Objective-C与JavaScript进行消息互通的三方库。通过WebViewJavascriptBridge，我们可以很方便的实现OC和Javascript互调的功能。|2017| 🌟🌟🌟🌟🌟 | 13.3k|
+|[expo](https://github.com/expo/expo)|一个使用React制作通用本机应用程序的开源平台。expo在Android，iOS和网络上运行。|updating| 🌟🌟🌟🌟 | 10.4k|
+|[RestKit](https://github.com/RestKit/RestKit)|一个用于更好支持RESTful风格服务器接口的iOS库|2018| 🌟🌟🌟🌟 | 10.3k|
+|[IGListKit](https://github.com/Instagram/IGListKit)|一个UICollectionView用于构建快速灵活列表的数据驱动框架。|updating| 🌟🌟🌟🌟 | 11.3k|
+|[VasSonic](https://github.com/Tencent/VasSonic)|是腾讯团队研发的一个轻量级的高性能的Hybrid框架，专注于提升页面首屏加载速度。|2019| 🌟🌟🌟🌟 | 10.9k|
+|[SocketRocket](https://github.com/facebookarchive/SocketRocket)|符合标准的Objective-C WebSocket客户端库。|2018| 🌟🌟🌟🌟 | 9k|
+|[Nimbus](https://github.com/jverkoey/nimbus)|是面向经验丰富的iOS软件设计师的工具包。它提供了有据可查的模块化组件，可以解决许多常见的iOS软件要求。这包括： 带超链接的富文本标签； Web视图控制器 ; 表格模型， 广播组和 表格动作的一种简单方法 ; 标准化的app间通信，以及强大的调试工具等许多功能。|updating| 🌟🌟🌟🌟 | 6.5k|
+|[BlocksKit](https://github.com/BlocksKit/BlocksKit)|是对Cocoa Touch Block编程更进一步的支持,它简化了Block编程,发挥Block的相关优势,让更多UIKit类支持Block式编程。|2015(Archived)|🌟🌟🌟🌟| 6.9k|
 <br>
 <br>
 <br>
@@ -272,17 +272,17 @@
 
 <span id="13"></span>
 ## <div align=center>-------------------------[Objective-C 音视频处理](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-|EZAudio|是一款兼容iOS及OSX的,非常强大的第三方波形绘制第三方库|[点击前往](https://github.com/syedhali/EZAudio)|🌟🌟🌟🌟| 4.7k/2017|
-|ZFPlayer|是一款基于AVPlayer,支持横屏、竖屏(全屏播放还可锁定屏幕方向),上下滑动调节音量、屏幕亮度,左右滑动调节播放进度的视频播放器软件。|[点击前往](https://github.com/renzifeng/ZFPlayer)|🌟🌟🌟🌟| 6.2k/updating|
-|EZAudio|是一款兼容iOS及OSX的,非常强大的第三方波形绘制第三方库|[点击前往](https://github.com/syedhali/EZAudio)|🌟🌟🌟🌟| 4.7k/2017|
-|TheAmazingAudioEngine|是iOS音频应用的一个非常精致的框架,简单易用,可以根据开发者自己的习惯处理各种复杂的声音。|[点击前往](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)|🌟🌟🌟| 3k/updating|
-|novocaine|应用于OSX和iOS的高性能音频框架|[点击前往](https://github.com/alexbw/novocaine)|🌟🌟🌟| 2.2k/2018|
-|WMPlayer|万能播放器，内部封装了AVPlayer和FFmpeg最新版本(4.0.2)，两款播放器完全解耦设计，没有使用废弃api，支持几乎所有视频格式(avi、flv、m3u8、3gp、RTMP、RTSP、MKV、rmvb、wmv、mp4、mov)，网络和本地视频同时支持|[点击前往](https://github.com/zhengwenming/WMPlayer)|🌟🌟🌟🌟| 3.1k/updating|
-|StreamingKit|是一个强大的IOS音频播放工具|[点击前往](https://github.com/tumtumtum/StreamingKit)|🌟🌟🌟| 2.2k/2019|
-|GPUImage|用于基于GPU的图像和视频处理的开源iOS框架|[点击前往](https://github.com/BradLarson/GPUImage)|🌟🌟🌟🌟🌟| 19.4k/2016|
-|SuperPlayer_iOS|超级播放器是基于腾讯云播放器SDK的播放器，能快速的集成视频信息拉取、横竖屏切换、清晰度选择、弹幕、直播时移等功能。灵活易用，可高度定制和二次开发。|[点击前往](https://github.com/tencentyun/SuperPlayer_iOS)|🌟🌟🌟| <1k/updating|
+|[EZAudio](https://github.com/syedhali/EZAudio)|是一款兼容iOS及OSX的,非常强大的第三方波形绘制第三方库|2017|🌟🌟🌟🌟| 4.7k|
+|[ZFPlayer](https://github.com/renzifeng/ZFPlayer)|是一款基于AVPlayer,支持横屏、竖屏(全屏播放还可锁定屏幕方向),上下滑动调节音量、屏幕亮度,左右滑动调节播放进度的视频播放器软件。|updating|🌟🌟🌟🌟| 6.2k|
+|[EZAudio](https://github.com/syedhali/EZAudio)|是一款兼容iOS及OSX的,非常强大的第三方波形绘制第三方库|2017|🌟🌟🌟🌟| 4.7k|
+|[TheAmazingAudioEngine](https://github.com/TheAmazingAudioEngine/TheAmazingAudioEngine)|是iOS音频应用的一个非常精致的框架,简单易用,可以根据开发者自己的习惯处理各种复杂的声音。|updating|🌟🌟🌟| 3k|
+|[novocaine](https://github.com/alexbw/novocaine)|应用于OSX和iOS的高性能音频框架|2018|🌟🌟🌟| 2.2k|
+|[WMPlayer](https://github.com/zhengwenming/WMPlayer)|万能播放器，内部封装了AVPlayer和FFmpeg最新版本(4.0.2)，两款播放器完全解耦设计，没有使用废弃api，支持几乎所有视频格式(avi、flv、m3u8、3gp、RTMP、RTSP、MKV、rmvb、wmv、mp4、mov)，网络和本地视频同时支持|updating|🌟🌟🌟🌟| 3.1k|
+|[StreamingKit](https://github.com/tumtumtum/StreamingKit)|是一个强大的IOS音频播放工具|2019|🌟🌟🌟| 2.2k|
+|[GPUImage](https://github.com/BradLarson/GPUImage)|用于基于GPU的图像和视频处理的开源iOS框架|2016|🌟🌟🌟🌟🌟| 19.4k|
+|[SuperPlayer_iOS](https://github.com/tencentyun/SuperPlayer_iOS)|超级播放器是基于腾讯云播放器SDK的播放器，能快速的集成视频信息拉取、横竖屏切换、清晰度选择、弹幕、直播时移等功能。灵活易用，可高度定制和二次开发。|updating|🌟🌟🌟| <1k|
 
 <br>
 <br>
@@ -291,68 +291,66 @@
 
 <span id="14"></span>
 ## <div align=center>-------------------------[Objective-C 大汇总](#back) -------------------------</div>
-| 推荐框架 | 推荐理由 | Github地址 | 推荐星级 | started 和 update |
+| 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
-|IQKeyboardManager|可以防止键盘滑动问题和覆盖UITextField / UITextView无需你输入任何代码,不需要额外的设置要求。|[点击前往](https://github.com/hackiftekhar/IQKeyboardManager)|🌟🌟🌟🌟||
-|TPKeyboardAvoiding|能实现屏幕自动向上滚动的功能，这样键盘就不会遮挡位置考下的输入框。|[点击前往](https://github.com/michaeltyson/TPKeyboardAvoiding)|🌟🌟🌟🌟||
-|LxDBAnything|封装了NSLog,可打印任何类型。|[点击前往](https://github.com/DeveloperLx/LxDBAnything)|🌟🌟🌟🌟||
-|JKCategories|iOS 中常用到的 Category|[点击前往](https://github.com/shaojiankui/JKCategories)|🌟🌟🌟||
-|DateTools|Objective-C中简化日期和时间处理的工具，让NSDate功能更完整,可以让你更容易地去获取日期各个组件的信息,如年 月 日等。|[点击前往](https://github.com/MatthewYork/DateTools)|🌟🌟🌟🌟||
-|BlocksKit|是对Cocoa Touch Block编程更进一步的支持,它简化了Block编程,发挥Block的相关优势,让更多UIKit类支持Block式编程。|[点击前往](https://github.com/BlocksKit/BlocksKit)|🌟🌟🌟🌟||
-|TTTAttributedLabel|是一个常用的富文本开源库,支持各种属性文本、数据探测器,链接等。|[点击前往](https://github.com/search?q=TTTAttributedLabel)|🌟🌟🌟🌟🌟||
-|YYText|适用于iOS的强大文本框架，用于显示和编辑RTF。|[点击前往](https://github.com/ibireme/YYText)|🌟🌟🌟🌟🌟||
-|DTCoreText|是可以将HTML字符串转化为富文本使用的工具,既保证原生实现又能适应灵活的样式修改,而且相比于使用WebView显示内容在性能上也有很大优势。|[点击前往](https://github.com/Cocoanetics/DTCoreText)|🌟🌟🌟🌟||
-|LTNavigationBar|动态的修改NavigationBar的颜色。|[点击前往](https://github.com/ltebean/LTNavigationBar)|🌟🌟🌟||
-|KMNavigationBarTransition|嵌入式通用库可帮助您管理导航栏样式，并使各种导航栏样式之间的过渡动​​画平滑，同时为所有方向推或弹出视图控制器。而且您无需为此编写任何代码，所有这些都会自动发生。|[点击前往](https://github.com/MoZhouqi/KMNavigationBarTransition)|🌟🌟🌟🌟||
-|YPNavigationBarTransition|类似微信 iOS Navigation Bar 的切换方案）|[点击前往](https://github.com/yiplee/YPNavigationBarTransition)|🌟🌟🌟||
-|WRNavigationBar|超简单！！！ 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 ）|[点击前往](https://github.com/wangrui460/WRNavigationBar)|🌟🌟🌟||
-|DOPDropDownMenu-Enhanced|类似美团，糯米，大众点评的筛选排序菜单。|[点击前往](https://github.com/12207480/DOPDropDownMenu-Enhanced)|🌟🌟🌟||
-|Shimmer|是一款开源的加载效果工具,能够非常简单地向应用中的任何视图添加闪闪发光的字体效果,并且不会显得突兀。|[点击前往](https://github.com/facebook/Shimmer)|🌟🌟🌟||
-|KVOController|是FaceBook的一个开源库,提供了方便的姿势让你去使用KVO。|[点击前往](https://github.com/facebook/KVOController)|🌟🌟🌟||
-|hpple|是一个XML/HTML解析框架,我们可以用来解析从后台发送过来的HTML数据。|[点击前往](https://github.com/topfunky/hpple)|🌟🌟🌟||
-|MLLabel|自动识别网址、号码、邮箱、@、#话题#和表情的label。|[点击前往](https://github.com/molon/MLLabel)|🌟🌟🌟||
-|DateTools|是Objective-C中简化日期和时间处理的工具.用于提高Objective-C中日期和时间相关操作的效率|[点击前往](https://github.com/MatthewYork/DateTools)|🌟🌟🌟🌟||
-|RKNotificationHub|快速给 UIView 添加上炫酷的通知图标(Badge、红点、提示)。|[点击前往](https://github.com/cwRichardKim/RKNotificationHub)|🌟🌟🌟🌟||
-|RTLabel|基于UILabel类的拓展,能够支持Html标记的富文本显示,它是基于Core Text,因此也支持Core Text上的一些东西。|[点击前往](https://github.com/honcheng/RTLabel)|🌟🌟🌟||
-|TYAttributedLabel| 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示|[点击前往](https://github.com/12207480/TYAttributedLabel)|🌟🌟🌟||
-|SWTableViewCell|是一个继承自UITableViewCell的自定义Cell,它上面放了一个UIScrollerView,这个滚动视图上放了Cell内容、左侧操作菜单和右侧操作菜单。（自定义Cell侧滑动作）|[点击前往](https://github.com/CEWendel/SWTableViewCell)|🌟🌟🌟🌟||
-|MGSwipeTableCell|发中经常用到侧滑功能,如QQ、微信,当然还有简书,这里不介绍系统的侧滑方法,介绍一个强大的第三方库|[点击前往](https://github.com/MortimerGoro)|🌟🌟🌟🌟||
-|FSCalendar|是开源iOS日历控件,支持横向、纵向滑动. 月模式,周模式. 显示农历,标记时间.定制时间范围.选择事件等多种需求. |[点击前往](https://github.com/WenchaoD/FSCalendar)|🌟🌟🌟🌟||
-|JDStatusBarNotification|用以在顶部的状态栏展示信息。可自定义颜色、字体以及动画。支持进度条展示,并可以显示活动指示器。|[点击前往](https://github.com/calimarkus/JDStatusBarNotification)|🌟🌟🌟||
-|UITableView-FDTemplateLayoutCell|是一个由国人团队开发的优化计算 UITableViewCell 高度的轻量级框架，由于实现逻辑简明清晰，代码也不复杂，非常适合作为新手学习其他著名却庞大的开源项目的“入门教材”。|[点击前往](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)|🌟🌟🌟🌟||
-|QBPopupMenu|弹出菜单,实现类似 UIMenuItem 的弹出菜单按钮。点击按钮,会弹出一个菜单,上面可以排列多个按钮。|[点击前往](https://github.com/questbeat/QBPopupMenu)|🌟🌟🌟||
-|ActionSheetPicker-3.0| UIPickerView + UIActionSheet|[点击前往](https://github.com/skywinder/ActionSheetPicker-3.0)|🌟🌟🌟||
-|VBFPopFlatButton|通过Facebook Pop实现按钮的动态变换。有圆底和平面两种风格。|[点击前往](https://github.com/victorBaro/VBFPopFlatButton)|🌟🌟🌟||
-|KYCircleMenu|一个开源的iOS的UI控件,允许你根据按钮的个数构建一个圆形按钮菜单。|[点击前往](https://github.com/Kjuly/KYCircleMenu)|🌟🌟🌟||
-|CHTCollectionViewWaterfallLayout|是UICollectionViewLayout的一个子类，尽可能地模仿了UICollectionViewFlowLayout的用法，灵感来源于Pinterest，同时还兼容PSTCollectionView。|[点击前往](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|🌟🌟🌟🌟||
-|JSBadgeView|购物车角标JSBadgeView|[点击前往](https://github.com/JaviSoto/JSBadgeView)|🌟🌟🌟🌟||
-|PDTSimpleCalendar|使用UICollectionView的iOS简单日历/日期选择器|[点击前往](https://github.com/jivesoftware/PDTSimpleCalendar)|🌟🌟🌟||
-|ZLSwipeableView|一个类似Tinder和Potluck的卡片界面，滑动手指即可翻动展示下一张卡片，也可简单返回手势取消滑动操作。|[点击前往](https://github.com/zhxnlai/ZLSwipeableView)|🌟🌟🌟||
-|CRToast|用来简单创建出现在导航栏或者状态栏上的通知，基于另一个开源项目CWStatusBarNotification。使用ARC。|[点击前往](https://github.com/cruffenach/CRToast)|🌟🌟🌟||
-|SwipeView|是一个旨在简化iOS上水平分页滚动视图实现的类。它基于UIScrollView，但增加了方便的功能，例如UITableView样式的dataSource / delegate接口，用于动态加载视图，以及高效的视图加载，卸载和回收。|[点击前往](https://github.com/nicklockwood/SwipeView)|🌟🌟🌟||
-|DZNSegmentedControl|UISegmentedControl的替代品，用于显示计数，通常在用户个人资料上使用|[点击前往](https://github.com/dzenbot/DZNSegmentedControl)|🌟🌟🌟||
-|DZNPhotoPickerController|使用热门图像提供程序（例如500px，Flickr，Instagram，Giphy，Google和Bing Images）的iOS照片搜索/选择器|[点击前往](https://github.com/dzenbot/DZNPhotoPickerController)|🌟🌟🌟||
-|LBXScan|二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装|[点击前往](https://github.com/MxABC/LBXScan)|🌟🌟🌟🌟||
-|SGQRCode|iOS 原生二维码生成与扫描 -> 高仿微信|[点击前往](https://github.com/kingsic/SGQRCode)|🌟🌟🌟||
-|XLUIKit|iOS UI工具集|[点击前往](https://github.com/mengxianliang/XLUIKit)|🌟🌟🌟||
-|GKPageScrollView|iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果|[点击前往](https://github.com/QuintGao/GKPageScrollView)|🌟🌟🌟||
-|GKPhotoBrowser|iOS仿微信、今日头条等图片浏览器|[点击前往](https://github.com/QuintGao/GKPhotoBrowser)|🌟🌟🌟||
-|GKNavigationBarViewController|iOS自定义导航栏-导航栏联动|[点击前往](https://github.com/QuintGao/GKNavigationBarViewController)|🌟🌟🌟||
-|iOSMixProject|混淆加固工程|[点击前往](https://github.com/JourneyYoung/iOSMixProject)|🌟🌟🌟||
-|ZSSRichTextEditor|用于iOS的漂亮的RTF所见即所得编辑器，带有突出显示语法的源代码视图|[点击前往](https://github.com/nnhubbard/ZSSRichTextEditor)|🌟🌟🌟🌟||
-|TYSnapshotScroll|一句代码保存截图，将 UIScrollView UITableView UICollectionView UIWebView WKWebView 网页 保存 为 长图 查看。|[点击前往](https://github.com/TonyReet/TYSnapshotScroll)|🌟🌟🌟||
-|TransitionKit|一个Objective-C库，用于优雅地实现状态机。|[点击前往](https://github.com/blakewatters/TransitionKit)|🌟🌟🌟||
-|PinYin4Objc|是一种流行的Objective-C库，支持中文（简体和繁体）与大多数流行的拼音系统之间的转换，它的性能非常高效，首次缓存了数据，并使用带有块的异步方法，这可以避免ui阻塞，并顺利运行。拼音的输出格式可以自定义... |[点击前往](https://github.com/kimziv/PinYin4Objc)|🌟🌟🌟||
-|DBDebugToolkit|适用于iOS开发人员和质量检查工程师的易于使用的调试工具集。 |[点击前往](https://github.com/dbukowski/DBDebugToolkit)|🌟🌟🌟||
-|LEETheme|优雅的主题管理库- 一行代码完成多样式切换 |[点击前往](https://github.com/lixiang1994/LEETheme)|🌟🌟🌟||
-|MonkeyDev|CaptainHook Tweak，Logo Tweak和命令行工具，修补iOS应用程序，无需越狱。(iOS逆向) |[点击前往](https://github.com/AloneMonkey/MonkeyDev)|🌟🌟🌟🌟||
-|OCBarrage|iOS 弹幕库 OCBarrage, 同时渲染5000条弹幕也不卡, 轻量, 可拓展, 高度自定义动画, 超高性能, 简单易上手 |[点击前往](https://github.com/w1531724247/OCBarrage)|🌟🌟🌟||
-|JSQMessagesViewController|适用于iOS的精美消息UI库 |[点击前往](https://github.com/jessesquires/JSQMessagesViewController)|🌟🌟🌟||
-|UUChatTableView|UI组件，用于带有文本，图像和音频支持的群组或私人聊天气泡|[点击前往](https://github.com/ZhipingYang/UUChatTableView)| 🌟🌟🌟 ||
-|GYBootingProtection|用于检测和修复iOS App连续启动崩溃的工具|[点击前往](https://github.com/liuslevis/GYBootingProtection)| 🌟🌟🌟 ||
-|IAPHelper| 应用内购买为我们带来了很多样板代码，该库不再使用这些样板代码，并且为我们提供了一个简单的包装程序，以处理与从iOS用户到您（或您的公司）钱包的资金转账有关的大多数常见任务。|[点击前往](https://github.com/saturngod/IAPHelper)|🌟🌟🌟||
-|TAPromotee| Objective-C库交叉推广iOS应用|[点击前往](https://github.com/JanC/TAPromotee)|🌟🌟🌟||
-|MTHawkeye| 适用于iOS的性能分析/调试辅助工具。（内存泄漏，OOM，ANR，硬停顿，网络，OpenGL，时间配置文件...）|[点击前往](https://github.com/meitu/MTHawkeye)|🌟🌟🌟||
+|[IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager)|可以防止键盘滑动问题和覆盖UITextField / UITextView无需你输入任何代码,不需要额外的设置要求。|updating|🌟🌟🌟🌟| 14.4k|
+|[TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)|能实现屏幕自动向上滚动的功能，这样键盘就不会遮挡位置考下的输入框。|updating|🌟🌟🌟🌟| 5.7k|
+|[LxDBAnything](https://github.com/DeveloperLx/LxDBAnything)|封装了NSLog,可打印任何类型。|2017|🌟🌟🌟🌟| <1k|
+|[JKCategories](https://github.com/shaojiankui/JKCategories)|iOS 中常用到的 Category|updating|🌟🌟🌟| 3.1k|
+|[DateTools](https://github.com/MatthewYork/DateTools)|Objective-C中简化日期和时间处理的工具，让NSDate功能更完整,可以让你更容易地去获取日期各个组件的信息,如年 月 日等。|updating|🌟🌟🌟🌟| 7k|
+|[TTTAttributedLabel](https://github.com/TTTAttributedLabel/TTTAttributedLabel)|是一个常用的富文本开源库,支持各种属性文本、数据探测器,链接等。|2016|🌟🌟🌟🌟| 8.6k|
+|[YYText](https://github.com/ibireme/YYText)|适用于iOS的强大文本框架，用于显示和编辑RTF。|2017|🌟🌟🌟🌟| 8.4k|
+|[DTCoreText](https://github.com/Cocoanetics/DTCoreText)|是可以将HTML字符串转化为富文本使用的工具,既保证原生实现又能适应灵活的样式修改,而且相比于使用WebView显示内容在性能上也有很大优势。|updating|🌟🌟🌟🌟| 5.9k|
+|[LTNavigationBar](https://github.com/ltebean/LTNavigationBar)|动态的修改NavigationBar的颜色。|2017|🌟🌟🌟| 4.5k|
+|[KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|嵌入式通用库可帮助您管理导航栏样式，并使各种导航栏样式之间的过渡动​​画平滑，同时为所有方向推或弹出视图控制器。而且您无需为此编写任何代码，所有这些都会自动发生。|2017|🌟🌟🌟🌟| 3k|
+|[YPNavigationBarTransition](https://github.com/yiplee/YPNavigationBarTransition)|类似微信 iOS Navigation Bar 的切换方案）|updating|🌟🌟🌟| <1k|
+|[WRNavigationBar](https://github.com/wangrui460/WRNavigationBar)|超简单！！！ 一行代码设置状态栏、导航栏按钮、标题、颜色、透明度，移动等 ）|2018|🌟🌟🌟| 2.7k|
+|[DOPDropDownMenu-Enhanced](https://github.com/12207480/DOPDropDownMenu-Enhanced)|类似美团，糯米，大众点评的筛选排序菜单。|2019|🌟🌟🌟| 1.7k|
+|[Shimmer](https://github.com/facebook/Shimmer)|是一款开源的加载效果工具,能够非常简单地向应用中的任何视图添加闪闪发光的字体效果,并且不会显得突兀。|updating|🌟🌟🌟🌟🌟| 9.3k|
+|[KVOController](https://github.com/facebook/KVOController)|是FaceBook的一个开源库,提供了方便的姿势让你去使用KVO。|2017|🌟🌟🌟🌟| 7.2k|
+|[hpple](https://github.com/topfunky/hpple)|是一个XML/HTML解析框架,我们可以用来解析从后台发送过来的HTML数据。|2017|🌟🌟🌟| 2.7k|
+|[MLLabel](https://github.com/molon/MLLabel)|自动识别网址、号码、邮箱、@、#话题#和表情的label。|2017|🌟🌟🌟| <1k|
+|[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)|快速给 UIView 添加上炫酷的通知图标(Badge、红点、提示)。|2018|🌟🌟🌟🌟| 3.1k|
+|[RTLabel](https://github.com/honcheng/RTLabel)|基于UILabel类的拓展,能够支持Html标记的富文本显示,它是基于Core Text,因此也支持Core Text上的一些东西。|2017|🌟🌟🌟| 1.5k|
+|[TYAttributedLabel](https://github.com/12207480/TYAttributedLabel)| 简单，强大的属性文本控件(无需了解CoreText)，支持图文混排显示，支持添加链接，image和UIView控件，支持自定义排版显示|2018|🌟🌟🌟| 2.8k|
+|[SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)|是一个继承自UITableViewCell的自定义Cell,它上面放了一个UIScrollerView,这个滚动视图上放了Cell内容、左侧操作菜单和右侧操作菜单。（自定义Cell侧滑动作）|2015|🌟🌟🌟🌟| 7.2k|
+|[MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)|发中经常用到侧滑功能,如QQ、微信,当然还有简书,这里不介绍系统的侧滑方法,介绍一个强大的第三方库|updating|🌟🌟🌟🌟| 6.8k|
+|[FSCalendar](https://github.com/WenchaoD/FSCalendar)|是开源iOS日历控件,支持横向、纵向滑动. 月模式,周模式. 显示农历,标记时间.定制时间范围.选择事件等多种需求. |updating|🌟🌟🌟🌟| 8.9k|
+|[JDStatusBarNotification](https://github.com/calimarkus/JDStatusBarNotification)|用以在顶部的状态栏展示信息。可自定义颜色、字体以及动画。支持进度条展示,并可以显示活动指示器。|updating|🌟🌟🌟| 3.8k|
+|[UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)|是一个由国人团队开发的优化计算 UITableViewCell 高度的轻量级框架，由于实现逻辑简明清晰，代码也不复杂，非常适合作为新手学习其他著名却庞大的开源项目的“入门教材”。|2017|🌟🌟🌟🌟| 9.8k|
+|[QBPopupMenu](https://github.com/questbeat/QBPopupMenu)|弹出菜单,实现类似 UIMenuItem 的弹出菜单按钮。点击按钮,会弹出一个菜单,上面可以排列多个按钮。|2014|🌟🌟🌟| 1.4k|
+|[ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0)| UIPickerView + UIActionSheet|updating|🌟🌟🌟| 3.3k|
+|[VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton)|通过Facebook Pop实现按钮的动态变换。有圆底和平面两种风格。|2018|🌟🌟🌟| 3.1k|
+|[KYCircleMenu](https://github.com/Kjuly/KYCircleMenu)|一个开源的iOS的UI控件,允许你根据按钮的个数构建一个圆形按钮菜单。|2015|🌟🌟🌟| <1k|
+|[CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|是UICollectionViewLayout的一个子类，尽可能地模仿了UICollectionViewFlowLayout的用法，灵感来源于Pinterest，同时还兼容PSTCollectionView。|updating|🌟🌟🌟🌟| 4.1k|
+|[JSBadgeView](https://github.com/JaviSoto/JSBadgeView)|购物车角标JSBadgeView|2018|🌟🌟🌟🌟| 1.3k|
+|[PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)|使用UICollectionView的iOS简单日历/日期选择器|2015|🌟🌟🌟| 1.9k|
+|[ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView)|一个类似Tinder和Potluck的卡片界面，滑动手指即可翻动展示下一张卡片，也可简单返回手势取消滑动操作。|2015|🌟🌟🌟| 2.8k|
+|[CRToast](https://github.com/cruffenach/CRToast)|用来简单创建出现在导航栏或者状态栏上的通知，基于另一个开源项目CWStatusBarNotification。使用ARC。|2017|🌟🌟🌟🌟| 4.2k|
+|[SwipeView](https://github.com/nicklockwood/SwipeView)|是一个旨在简化iOS上水平分页滚动视图实现的类。它基于UIScrollView，但增加了方便的功能，例如UITableView样式的dataSource / delegate接口，用于动态加载视图，以及高效的视图加载，卸载和回收。|2015|🌟🌟🌟| 2.7k|
+|[DZNSegmentedControl](https://github.com/dzenbot/DZNSegmentedControl)|UISegmentedControl的替代品，用于显示计数，通常在用户个人资料上使用|2017|🌟🌟🌟| 1.6k|
+|[DZNPhotoPickerController](https://github.com/dzenbot/DZNPhotoPickerController)|使用热门图像提供程序（例如500px，Flickr，Instagram，Giphy，Google和Bing Images）的iOS照片搜索/选择器|2017|🌟🌟🌟| 1.5k|
+|[LBXScan](https://github.com/MxABC/LBXScan)|二维码、扫码、扫一扫、ZXing、ZBar、iOS系统AVFoundation扫码封装，扫码界面效果封装|updating|🌟🌟🌟🌟| 3k|
+|[SGQRCode](https://github.com/kingsic/SGQRCode)|iOS 原生二维码生成与扫描 -> 高仿微信|2018|🌟🌟🌟| 1.5k|
+|[XLUIKit](https://github.com/mengxianliang/XLUIKit)|iOS UI工具集|updating|🌟🌟🌟| 1.1k|
+|[GKPageScrollView](https://github.com/QuintGao/GKPageScrollView)|iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果|updating|🌟🌟🌟| <1k|
+|[GKPhotoBrowser](https://github.com/QuintGao/GKPhotoBrowser)|iOS仿微信、今日头条等图片浏览器|updating|🌟🌟🌟| <1k|
+|[GKNavigationBarViewController](https://github.com/QuintGao/GKNavigationBarViewController)|iOS自定义导航栏-导航栏联动|updating|🌟🌟🌟| <1k|
+|[iOSMixProject](https://github.com/JourneyYoung/iOSMixProject)|混淆加固工程|updating|🌟🌟🌟| <1k|
+|[ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)|用于iOS的漂亮的RTF所见即所得编辑器，带有突出显示语法的源代码视图|updating|🌟🌟🌟🌟| 3.5k|
+|[TYSnapshotScroll](https://github.com/TonyReet/TYSnapshotScroll)|一句代码保存截图，将 UIScrollView UITableView UICollectionView UIWebView WKWebView 网页 保存 为 长图 查看。|updating|🌟🌟🌟| <1k|
+|[TransitionKit](https://github.com/blakewatters/TransitionKit)|一个Objective-C库，用于优雅地实现状态机。|2015|🌟🌟🌟| 1.3k|
+|[PinYin4Objc](https://github.com/kimziv/PinYin4Objc)|是一种流行的Objective-C库，支持中文（简体和繁体）与大多数流行的拼音系统之间的转换，它的性能非常高效，首次缓存了数据，并使用带有块的异步方法，这可以避免ui阻塞，并顺利运行。拼音的输出格式可以自定义... |2013|🌟🌟🌟| <1k|
+|[DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit)|适用于iOS开发人员和质量检查工程师的易于使用的调试工具集。 |updating|🌟🌟🌟| 1.1k|
+|[LEETheme](https://github.com/lixiang1994/LEETheme)|优雅的主题管理库- 一行代码完成多样式切换 |updating|🌟🌟🌟| <1k|
+|[MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)|CaptainHook Tweak，Logo Tweak和命令行工具，修补iOS应用程序，无需越狱。(iOS逆向) |2019|🌟🌟🌟🌟| 4.6k|
+|[OCBarrage](https://github.com/w1531724247/OCBarrage)|iOS 弹幕库 OCBarrage, 同时渲染5000条弹幕也不卡, 轻量, 可拓展, 高度自定义动画, 超高性能, 简单易上手 |2019|🌟🌟🌟| <1k|
+|[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)|适用于iOS的精美消息UI库 | 2017(Archived)|🌟🌟🌟🌟| 11.2k|
+|[UUChatTableView](https://github.com/ZhipingYang/UUChatTableView)|UI组件，用于带有文本，图像和音频支持的群组或私人聊天气泡|2018| 🌟🌟🌟 | 1.9k|
+|[GYBootingProtection](https://github.com/liuslevis/GYBootingProtection)|用于检测和修复iOS App连续启动崩溃的工具|2016| 🌟🌟🌟 | <1k|
+|[IAPHelper](https://github.com/saturngod/IAPHelper)| 应用内购买为我们带来了很多样板代码，该库不再使用这些样板代码，并且为我们提供了一个简单的包装程序，以处理与从iOS用户到您（或您的公司）钱包的资金转账有关的大多数常见任务。|2016|🌟🌟🌟| 1.4k|
+|[TAPromotee](https://github.com/JanC/TAPromotee)| Objective-C库交叉推广iOS应用|2017|🌟🌟🌟| <1k|
+|[MTHawkeye](https://github.com/meitu/MTHawkeye)| 适用于iOS的性能分析/调试辅助工具。（内存泄漏，OOM，ANR，硬停顿，网络，OpenGL，时间配置文件...）|updating|🌟🌟🌟| <1k|
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
