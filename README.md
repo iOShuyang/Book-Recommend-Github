@@ -245,7 +245,6 @@
 |[REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)|出现在视图控制器顶部的iOS 7/8样式模糊视图控制器。|2015|🌟🌟🌟| 3k|
 |[RETableViewManager](https://github.com/romaonthego/RETableViewManager)|强大的数据驱动的UITableView内容管理器。|2016|🌟🌟🌟| 2.5k|
 |[REMenu](https://github.com/romaonthego/REMenu)|下拉菜单的灵感来自Vine。|2015|🌟🌟🌟| 2.2k|
-
 <br>
 <br>
 <br>
@@ -494,6 +493,8 @@
 |[SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)|不错的一款alert view。|updating|🌟🌟🌟🌟| 5k|
 |[SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)|Live animated Alert View |2017|🌟🌟🌟🌟| 2k|
 |[FloatingPanel](https://github.com/SCENEE/FloatingPanel)|浮动界面 |updating|🌟🌟🌟🌟| 3.7k|
+|[HWPanModal](https://github.com/HeathWang/HWPanModal)|任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|updating|🌟🌟🌟| <1k|
+|[WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持自定义视图,链式编程调用。|updating|🌟🌟🌟| <1k|
 <br>
 <br>
 <br>
@@ -653,7 +654,7 @@
 |[gliding-collection](https://github.com/Ramotion/gliding-collection)|Ramotion出品，滑行集合是UICollectionView Swift Controller的平滑，流畅，可自定义的决定。|2019|🌟🌟🌟| 1.4k|
 |[fluid-slider](https://github.com/Ramotion/fluid-slider)|Ramotion出品，带有弹出气泡的滑块小部件，显示选定的精确值。|2019|🌟🌟🌟| 1.6k|
 |[preview-transition](https://github.com/Ramotion/Preview-Transition)|Ramotion出品，预览过渡是带有动画过渡的简单预览库UI控制器|updating|🌟🌟🌟| 2k|
-|[adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar)|Ramotion出品，自适应标签栏|[updating|🌟🌟🌟| 2k|
+|[adaptive-tab-bar](https://github.com/Ramotion/adaptive-tab-bar)|Ramotion出品，自适应标签栏|updating|🌟🌟🌟| 2k|
 |[navigation-stack](https://github.com/Ramotion/navigation-stack)|Ramotion出品，是一个具有堆栈建模的UI导航控制器的库。|updating|🌟🌟🌟| 2.3k|
 |[reel-search](https://github.com/Ramotion/reel-search)|Ramotion出品，是一个Swift UI控制器，可让您从列表中选择选项.|updating|🌟🌟🌟| 2.5k|
 |[paper-switch](https://github.com/Ramotion/paper-switch)|Ramotion出品，turned on覆盖父视图的动画效果。|2019|🌟🌟🌟| 2.8k|
