@@ -350,6 +350,13 @@
 |[IAPHelper](https://github.com/saturngod/IAPHelper)| 应用内购买为我们带来了很多样板代码，该库不再使用这些样板代码，并且为我们提供了一个简单的包装程序，以处理与从iOS用户到您（或您的公司）钱包的资金转账有关的大多数常见任务。|2016|🌟🌟🌟| 1.4k|
 |[TAPromotee](https://github.com/JanC/TAPromotee)| Objective-C库交叉推广iOS应用|2017|🌟🌟🌟| <1k|
 |[MTHawkeye](https://github.com/meitu/MTHawkeye)| 适用于iOS的性能分析/调试辅助工具。（内存泄漏，OOM，ANR，硬停顿，网络，OpenGL，时间配置文件...）|updating|🌟🌟🌟| <1k|
+|[HWPanModal](https://github.com/HeathWang/HWPanModal)|任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|updating|🌟🌟🌟| <1k|
+|[WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持自定义视图,链式编程调用。|updating|🌟🌟🌟| <1k|
+
+<br>
+<br>
+<br>
+<br>
 
 ## <div align=center>-------------------------感谢-------------------------</div>
 
@@ -365,7 +372,7 @@
 <br>
 <br>
 <br>
-
+<br>
 
 
 -------
@@ -493,8 +500,6 @@
 |[SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)|不错的一款alert view。|updating|🌟🌟🌟🌟| 5k|
 |[SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)|Live animated Alert View |2017|🌟🌟🌟🌟| 2k|
 |[FloatingPanel](https://github.com/SCENEE/FloatingPanel)|浮动界面 |updating|🌟🌟🌟🌟| 3.7k|
-|[HWPanModal](https://github.com/HeathWang/HWPanModal)|任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|updating|🌟🌟🌟| <1k|
-|[WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持自定义视图,链式编程调用。|updating|🌟🌟🌟| <1k|
 <br>
 <br>
 <br>
