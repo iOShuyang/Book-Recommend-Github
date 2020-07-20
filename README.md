@@ -51,7 +51,8 @@
 |[DKNightVersion](https://github.com/Draveness/DKNightVersion)|能够是使用几句代码就能为已有的项目添加夜间模式，极其方便。 |updating|🌟🌟🌟| 3.5k|
 |[RDVTabBarController](https://github.com/robbdimitrov/RDVTabBarController)|是一个定制化的TabBarController库,可动画显示隐藏tabbar栏,可定制tabbar栏|updating|🌟🌟🌟| 2.3k |
 |[CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)|是一个可以在iOS和Mac开发中使用的日志库，强大又不失灵活。集成进项目后，可以灵活控制日志level输出，并保存在日志文件中，还能压缩上传到服务器。|updating|🌟🌟🌟🌟| 12k|
-|[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)|pod安装一下即可,安装后无须再加任何代码,应用所有页面都将支持全屏侧滑。|2017|🌟🌟🌟🌟| 5.7k |
+|[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)|pod安装一下即可,安装后无须再加任何代码,应用所有页面都将支持全屏侧滑。|2017|🌟🌟🌟| <1k |
+|[TZScrollViewPopGesture](https://github.com/banchichen/TZScrollViewPopGesture)|一句代码，让UIScrollView的滑动和系统侧滑手势并存，例如：在查看地图界面同时支持地图的滑动和侧滑返回。|2017|🌟🌟🌟🌟| 5.7k |
 |[iVersion](https://github.com/nicklockwood/iVersion)|非常赞👍 的一个灵活动态监测App是否有更新的库，并可以通知用户升级.|2017|🌟🌟🌟| 2k|
 |[Harpy](https://github.com/ArtSabintsev/Harpy)|当有新版本的应用程序可用时通知用户，并提示他们进行升级。|2017|🌟🌟🌟| 2.6k|
 |[FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit)|非常棒，使用此库，您可以轻松地将字体添加到项目中，并以多种方式使用它。|2016| 🌟🌟🌟🌟 | 2.8k|
@@ -263,6 +264,8 @@
 |[SocketRocket](https://github.com/facebookarchive/SocketRocket)|符合标准的Objective-C WebSocket客户端库。|2018| 🌟🌟🌟🌟 | 9k|
 |[Nimbus](https://github.com/jverkoey/nimbus)|是面向经验丰富的iOS软件设计师的工具包。它提供了有据可查的模块化组件，可以解决许多常见的iOS软件要求。这包括： 带超链接的富文本标签； Web视图控制器 ; 表格模型， 广播组和 表格动作的一种简单方法 ; 标准化的app间通信，以及强大的调试工具等许多功能。|updating| 🌟🌟🌟🌟 | 6.5k|
 |[BlocksKit](https://github.com/BlocksKit/BlocksKit)|是对Cocoa Touch Block编程更进一步的支持,它简化了Block编程,发挥Block的相关优势,让更多UIKit类支持Block式编程。|2015(Archived)|🌟🌟🌟🌟| 6.9k|
+|[AsyncDisplayKit](https://github.com/facebookarchive/AsyncDisplayKit)|平滑的iOS应用程序异步用户界面。|2017|🌟🌟🌟🌟| 13.4k|
+|[Texture](https://github.com/TextureGroup/Texture)|平滑的iOS应用程序异步用户界面。|updating|🌟🌟🌟🌟| 6.6k|
 <br>
 <br>
 <br>
@@ -482,7 +485,6 @@
 |[TextAttributes](https://github.com/delba/TextAttributes)|封装NSAttributedString的框架，让attributed strings处理更加简单，而且是链式结构，看起来更加直观。|updating|🌟🌟🌟🌟| 2.1k|
 |[DifferenceKit](https://github.com/ra1028/DifferenceKit)|快速，灵活的O（n）差异算法框架，用于Swift收集。|updating|🌟🌟🌟🌟| 2.5k|
 
-
 <br>
 <br>
 <br>
@@ -560,9 +562,9 @@
 | 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
 |[aurora-imui](https://github.com/jpush/aurora-imui)|General IM UI components. Android/iOS/RectNative ready. 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN。|updating|🌟🌟🌟🌟| 5.2k|
-|[NMessenger](https://github.com/eBay/NMessenger)|基于AsyncDisplaykit构建的快速、轻量级信息聊天UI组件|2017(Archived)|🌟🌟🌟🌟| 2.5k|
 |[Messenger](https://github.com/relatedcode/Messenger)|这是一个原生iOS Messenger应用程序，具有音频/视频通话和实时聊天对话（完全脱机支持）。|updating|🌟🌟🌟🌟| 3.9k|
 |[Chatto](https://github.com/badoo/Chatto)|一个用于构建聊天应用程序的轻量级框架，由Swift制作|updating|🌟🌟🌟🌟| 4.1k|
+|[NMessenger](https://github.com/eBay/NMessenger)|基于AsyncDisplaykit构建的快速、轻量级信息聊天UI组件|2017(Archived)|🌟🌟🌟🌟| 2.5k|
 <br>
 <br>
 <br>
@@ -695,6 +697,8 @@
 |[Lona](https://github.com/airbnb/Lona)|用于定义设计系统并使用它们生成跨平台UI代码，Sketch文件和其他工件的工具。|updating|🌟🌟🌟| 7.1k|
 |[Dip](https://github.com/AliSoftware/Reusable)| 简单的Swift依赖项容器。使用协议来解决您的依赖性，避免单例/ sharedInstances！|updating|🌟🌟🌟| 2.5k|
 |[GRDB.swift](https://github.com/groue/GRDB.swift)| 用于SQLite数据库的工具包，重点是应用程序开发|updating|🌟🌟🌟| 3.1k|
+|[WeScan](https://github.com/WeTransfer/WeScan)| WeScan使您可以轻松地将扫描功能添加到您的iOS应用中！它是根据建模的UIImagePickerController，因此使用起来很容易。|updating|🌟🌟🌟| 2k|
+|[DeepDiff](https://github.com/onmyway133/DeepDiff)| 通过编辑步骤告诉2个集合之间的差异以及更改。它还支持Texture。|updating|🌟🌟🌟| 1.8k|
 
 <br>
 <br>
