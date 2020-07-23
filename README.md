@@ -196,6 +196,8 @@
 |[TZImagePickerController](https://github.com/banchichen/TZImagePickerController)|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。|updating|🌟🌟🌟🌟| 7.2k|
 |[NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit)|包含一组很有用的 UIImage 图像处理方法,包括 filtering, blurring, enhancing, masking, reflecting, resizing, rotating, saving. |2018|🌟🌟🌟| 2.6k|
 |[Concorde](https://github.com/contentful-labs/Concorde)|在iOS上下载和解码渐进JPEG。 |2018|🌟🌟🌟| 1.4k|
+|[TOCropViewController](https://github.com/TimOliver/TOCropViewController)|适用于iOS的视图控制器，允许用户裁剪UIImage对象的部分。 |updating|🌟🌟🌟🌟| 3.6k|
+
 <br>
 <br>
 <br>
@@ -627,7 +629,7 @@
 |[SwiftForms](https://github.com/ortuman/SwiftForms)|用Swift编写的小型轻量级库，可让您轻松创建表单。|2018|🌟🌟🌟| 1.3k|
 |[Carbon](https://github.com/ra1028/Carbon)|一个声明性库，用于在UITableView和UICollectionView中构建基于组件的用户界面。 |updating|🌟🌟🌟| <1k|
 |[SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview)|它从URL进行预览，获取所有信息，例如标题，相关文本和图像。  |updating|🌟🌟🌟| 1.1k|
-
+|[CollectionKit](https://github.com/SoySauceLab/CollectionKit)|重新构建UICollectionView。  |2019|🌟🌟🌟🌟| 3.9k|
 
 <br>
 <br>
