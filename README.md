@@ -357,6 +357,8 @@
 |[MTHawkeye](https://github.com/meitu/MTHawkeye)| 适用于iOS的性能分析/调试辅助工具。（内存泄漏，OOM，ANR，硬停顿，网络，OpenGL，时间配置文件...）|updating|🌟🌟🌟| <1k|
 |[HWPanModal](https://github.com/HeathWang/HWPanModal)|任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|updating|🌟🌟🌟| <1k|
 |[WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持自定义视图,链式编程调用。|updating|🌟🌟🌟| <1k|
+|[LinkMap](https://github.com/huanxsd/LinkMap)|检查每个类占用空间大小工具。|updating|🌟🌟🌟| 1.2k|
+|[BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)|记录线程的调用栈。|2016|🌟🌟🌟| <1k|
 
 <br>
 <br>
@@ -670,6 +672,7 @@
 |[expanding-collection](https://github.com/Ramotion/expanding-collection)|Ramotion出品，MaterialDesign 风格的扩展式卡片设计|updating|🌟🌟🌟🌟| 5.3k|
 |[cardslider](https://github.com/Ramotion/cardslider)|Ramotion出品，使您可以在带有图片的卡片之间滑动。|updating|🌟🌟🌟|<1k|
 |[Spring](https://github.com/MengTo/Spring)|一个库，用于简化Swift中的iOS动画。|2019|🌟🌟🌟🌟| 13.7k|
+|[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)|跑马灯文字。|updating|🌟🌟🌟🌟| 3.3k|
 
 <br>
 <br>
@@ -701,7 +704,8 @@
 |[GRDB.swift](https://github.com/groue/GRDB.swift)| 用于SQLite数据库的工具包，重点是应用程序开发|updating|🌟🌟🌟| 3.1k|
 |[WeScan](https://github.com/WeTransfer/WeScan)| WeScan使您可以轻松地将扫描功能添加到您的iOS应用中！它是根据建模的UIImagePickerController，因此使用起来很容易。|updating|🌟🌟🌟| 2k|
 |[DeepDiff](https://github.com/onmyway133/DeepDiff)| 通过编辑步骤告诉2个集合之间的差异以及更改。它还支持Texture。|updating|🌟🌟🌟| 1.8k|
-
+|[Zip](https://github.com/marmelroy/Zip)| 用于压缩和解压缩文件的Swift框架。|updating|🌟🌟🌟| 1.8k|
+|[ZIPFoundation](https://github.com/weichsel/ZIPFoundation)| 在Swift中轻松进行ZIP处理。|updating|🌟🌟🌟| 1.4k|
 <br>
 <br>
 <br>
