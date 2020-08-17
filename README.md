@@ -228,6 +228,7 @@
 |[XLForm](https://github.com/xmartlabs/XLForm)|是最灵活且最强大的创建动态表单的iOS库。|updating|🌟🌟🌟🌟| 5.7k|
 |[TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)|一个 ActionSheet 满足所有样式！超高自由度的可定制！|updating|🌟🌟🌟| <1k|
 |[UITextView-Placeholder](https://github.com/devxoul/UITextView-Placeholder)|UITextView缺少占位符。|updating|🌟🌟🌟🌟| 1.3k|
+|[SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)|类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能。|2017|🌟🌟🌟🌟| 2.2k|
 <br>
 <br>
 <br>
@@ -435,6 +436,7 @@
 |[APNGKit](https://github.com/onevcat/APNGKit)|高性能和令人愉悦的方式，可在iOS中使用APNG格式播放。|updating|🌟🌟🌟| 1.7k|
 |[Rainbow](https://github.com/onevcat/Rainbow)|Swift开发人员的令人愉快的控制台输出。|updating|🌟🌟🌟| 1.3k|
 |[Siren](https://github.com/ArtSabintsev/Siren)|当有新版本的应用程序可用时通知用户，并提示他们进行升级。|updating|🌟🌟🌟🌟| 3.6k|
+|[YNSearch](https://github.com/younatics/YNSearch)|完全自定义搜索视图，Swift 5.0 + Realm支持编写|2019|🌟🌟🌟🌟| 1.1k|
 
 <br>
 <br>
@@ -455,6 +457,7 @@
 |[AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)|Alamofire扩展，使用ObjectMapper将JSON响应数据转换为swift对象|updating|🌟🌟🌟🌟| 2.6k|
 |[Argo](https://github.com/thoughtbot/Argo)|函数式json解析转换库。|updating|🌟🌟🌟| 3.5k|
 |[SQLite](https://github.com/stephencelis/SQLite.swift)|用swift封装的sqlite 3操作框架。|2019|🌟🌟🌟🌟| 7k|
+|[Starscream](https://github.com/daltoniam/Starscream)|适用于iOS和OSX的Websocket。|updating|🌟🌟🌟🌟| 6.2k|
 
 <br>
 <br>
@@ -506,6 +509,7 @@
 |[SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)|不错的一款alert view。|updating|🌟🌟🌟🌟| 5k|
 |[SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)|Live animated Alert View |2017|🌟🌟🌟🌟| 2k|
 |[FloatingPanel](https://github.com/SCENEE/FloatingPanel)|浮动界面 |updating|🌟🌟🌟🌟| 3.7k|
+|[SwiftEntryKit](https://github.com/huri000/SwiftEntryKit)|是iOS的横幅展示器库。 它可以用来在iOS应用程序中轻松显示弹出窗口和类似通知的视图。 |updating|🌟🌟🌟🌟| 4.9k|
 <br>
 <br>
 <br>
@@ -706,6 +710,9 @@
 |[DeepDiff](https://github.com/onmyway133/DeepDiff)| 通过编辑步骤告诉2个集合之间的差异以及更改。它还支持Texture。|updating|🌟🌟🌟| 1.8k|
 |[Zip](https://github.com/marmelroy/Zip)| 用于压缩和解压缩文件的Swift框架。|updating|🌟🌟🌟| 1.8k|
 |[ZIPFoundation](https://github.com/weichsel/ZIPFoundation)| 在Swift中轻松进行ZIP处理。|updating|🌟🌟🌟| 1.4k|
+|[GEOSwift](https://github.com/GEOSwift/GEOSwift)| 可轻松地处理地理对象模型和相关地形操作,是一个极其易用的地理封装库(集成 MapKit 和 Quicklook)。|updating|🌟🌟🌟| 1.2k|
+|[Pecker](https://github.com/woshiccm/Pecker)| CodePecker是检测未使用的Swift代码的工具。。|updating|🌟🌟🌟| 1.1k|
+
 <br>
 <br>
 <br>
