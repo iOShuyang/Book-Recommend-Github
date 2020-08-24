@@ -360,6 +360,7 @@
 |[WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持自定义视图,链式编程调用。|updating|🌟🌟🌟| <1k|
 |[LinkMap](https://github.com/huanxsd/LinkMap)|检查每个类占用空间大小工具。|updating|🌟🌟🌟| 1.2k|
 |[BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)|记录线程的调用栈。|2016|🌟🌟🌟| <1k|
+|[lumen](https://github.com/anishathalye/lumen)|基于屏幕内容的魔术自动亮度。|updating|🌟🌟🌟🌟| 2.2k|
 
 <br>
 <br>
@@ -458,6 +459,7 @@
 |[Argo](https://github.com/thoughtbot/Argo)|函数式json解析转换库。|updating|🌟🌟🌟| 3.5k|
 |[SQLite](https://github.com/stephencelis/SQLite.swift)|用swift封装的sqlite 3操作框架。|2019|🌟🌟🌟🌟| 7k|
 |[Starscream](https://github.com/daltoniam/Starscream)|适用于iOS和OSX的Websocket。|updating|🌟🌟🌟🌟| 6.2k|
+|[SWXMLHash](https://github.com/drmohundro/SWXMLHash)|Swift中的简单XML解析。|updating|🌟🌟🌟🌟| 6.2k|
 
 <br>
 <br>
@@ -611,6 +613,7 @@
 |[libPhoneNumber-iOS](https://github.com/iziz/libPhoneNumber-iOS)|来自libphonenumber的iOS端口（谷歌的电话号码处理库）|updating|🌟🌟🌟| 2.1k|
 |[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView)|取自于HPGrowingTextView,文本输入视图，对于消息编辑非常有用。|updating|🌟🌟🌟| 1.3k|
 |[Gifu](https://github.com/kaishin/Gifu)|加载gif的框架，表现良好。|updating|🌟🌟🌟🌟| 2.4k|
+|[SwiftyGif](https://github.com/kirualex/SwiftyGif)|高性能GIF引擎。|updating|🌟🌟🌟🌟| 1.2k|
 |[Filterpedia](https://github.com/FlexMonkey/Filterpedia)|给图片加滤镜效果，有很多种滤镜。|2016|🌟🌟🌟| 2.1k|
 |[Toucan](https://github.com/gavinbunney/Toucan)|图片处理，支持重设尺寸、裁剪、风格化等|2018|🌟🌟🌟| 2.4k|
 |[Bartinter](https://github.com/MaximKotliar/Bartinter)|能神奇的根据其背后的内容动态更改状态栏样式|updating|🌟🌟🌟| 1.6k|
@@ -677,7 +680,7 @@
 |[cardslider](https://github.com/Ramotion/cardslider)|Ramotion出品，使您可以在带有图片的卡片之间滑动。|updating|🌟🌟🌟|<1k|
 |[Spring](https://github.com/MengTo/Spring)|一个库，用于简化Swift中的iOS动画。|2019|🌟🌟🌟🌟| 13.7k|
 |[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)|跑马灯文字。|updating|🌟🌟🌟🌟| 3.3k|
-
+|[HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider)|适用于iOS应用程序的自定义可重复使用的循环/进度滑块控件。|updating|🌟🌟🌟🌟| 2k|
 <br>
 <br>
 <br>
@@ -711,7 +714,8 @@
 |[Zip](https://github.com/marmelroy/Zip)| 用于压缩和解压缩文件的Swift框架。|updating|🌟🌟🌟| 1.8k|
 |[ZIPFoundation](https://github.com/weichsel/ZIPFoundation)| 在Swift中轻松进行ZIP处理。|updating|🌟🌟🌟| 1.4k|
 |[GEOSwift](https://github.com/GEOSwift/GEOSwift)| 可轻松地处理地理对象模型和相关地形操作,是一个极其易用的地理封装库(集成 MapKit 和 Quicklook)。|updating|🌟🌟🌟| 1.2k|
-|[Pecker](https://github.com/woshiccm/Pecker)| CodePecker是检测未使用的Swift代码的工具。。|updating|🌟🌟🌟| 1.1k|
+|[Pecker](https://github.com/woshiccm/Pecker)| CodePecker是检测未使用的Swift代码的工具。|updating|🌟🌟🌟| 1.1k|
+|[Highlightr](https://github.com/raspu/Highlightr)| iOS和OSX语法荧光笔。|2018|🌟🌟🌟| <1k|
 
 <br>
 <br>
@@ -744,7 +748,7 @@
 |[Ink](https://github.com/JohnSundell/Ink)|用Swift编写的快速灵活的Markdown解析器。|updating|🌟🌟🌟| 1.7k|
 |[Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|swift实现的各种设计模式。|updating|🌟🌟🌟🌟| 11.9k|
 |[swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)|swift中的算法以及数据结构，还有解释说明。|2019|🌟🌟🌟🌟🌟| 23.2k|
-
+|[CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit)|一个简单的项目，用于检测对象并在AR中显示对象上方的3D标签。这是ARKit项目使用CoreML的基本模板。|2017|🌟🌟🌟| 1.4k|
 
 <br>
 <br>
