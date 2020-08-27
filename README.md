@@ -148,7 +148,7 @@
 |[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)|是一套iOS界面视图布局框架。其内核是基于对UIView的layoutSubviews方法的重载以及对子视图的bounds和center属性的设置而实现的。|updating|🌟🌟🌟🌟| 3.9k|
 |[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)|一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。|updating|🌟🌟🌟🌟| 5.8k|
 |[PureLayout](https://github.com/PureLayout/PureLayout)|iOS和OS X Auto Layout的终极API-极其简单，功能强大。与Objective-C和Swift兼容。|updating|🌟🌟🌟🌟| 7.4k|
-
+|[FlexLib](https://github.com/zhenglibao/FlexLib)|是一个基于flexbox模型，使用xml文件进行界面布局的框架，融合了web快速布局的能力，让iOS界面开发像写网页一样简单快速。|updating|🌟🌟🌟| 1.4k|
 <br>
 <br>
 <br>
@@ -512,6 +512,7 @@
 |[SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)|Live animated Alert View |2017|🌟🌟🌟🌟| 2k|
 |[FloatingPanel](https://github.com/SCENEE/FloatingPanel)|浮动界面 |updating|🌟🌟🌟🌟| 3.7k|
 |[SwiftEntryKit](https://github.com/huri000/SwiftEntryKit)|是iOS的横幅展示器库。 它可以用来在iOS应用程序中轻松显示弹出窗口和类似通知的视图。 |updating|🌟🌟🌟🌟| 4.9k|
+|[Panels](https://github.com/antoniocasero/Panels)|可以轻松地向您的应用程序添加滑动面板。 |updating|🌟🌟🌟| 1.4k|
 <br>
 <br>
 <br>
