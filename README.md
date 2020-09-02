@@ -361,6 +361,8 @@
 |[LinkMap](https://github.com/huanxsd/LinkMap)|检查每个类占用空间大小工具。|updating|🌟🌟🌟| 1.2k|
 |[BSBacktraceLogger](https://github.com/bestswifter/BSBacktraceLogger)|记录线程的调用栈。|2016|🌟🌟🌟| <1k|
 |[lumen](https://github.com/anishathalye/lumen)|基于屏幕内容的魔术自动亮度。|updating|🌟🌟🌟🌟| 2.2k|
+|[xctool](https://github.com/facebook/xctool)|xctool 相比苹果的 xcodebuild，可以更加简单方便地编译构建和测试 iOS、Mac 项目，对可持续集成 CI 尤其有用。|updating|🌟🌟🌟🌟| 7k|
+|[JJException](https://github.com/jezzmemo/JJException)|保护App不闪退。|updating|🌟🌟🌟| 1.1k|
 
 <br>
 <br>
@@ -602,7 +604,7 @@
 |[ScrollableGraphView](https://github.com/philackm/ScrollableGraphView)|iOS的自适应可滚动图形视图，用于显示简单的离散数据集。|2018|🌟🌟🌟🌟| 5.1k|
 |[JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar)|非官方Apple iOS Swift日历视图。 iOS日历库。 iOS日历控件。 100％可定制|updating|🌟🌟🌟🌟| 6.6k|
 |[CalendarKit](https://github.com/richardtop/CalendarKit)|完全可定制的iOS日历|updating|🌟🌟🌟| 1.5k|
-|[HorizonCalendar](https://github.com/airbnb/HorizonCalendar)|一个声明性，高性能的iOS日历UI组件，支持从简单的日期选择器一直到功能齐全的日历应用程序的用例。|updating|🌟🌟🌟🌟| 1.4k|
+|[HorizonCalendar](https://github.com/airbnb/HorizonCalendar)|一个声明性，高性能的iOS日历UI组件，支持从简单的日期选择器一直到功能齐全的日历应用程序的用例。|updating|🌟🌟🌟🌟| 1.6k|
 |[Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS)|是带有动画效果 UI 的 iOS 侧边菜单。|updating|🌟🌟🌟| 2.7k|
 |[MaterialKit](https://github.com/nghialv/MaterialKit)|用Swift编写的iOS的材料设计组件|2016|🌟🌟🌟| 2.5k|
 |[WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge)|在其上仅对 WKWebView 提供支持，由 Swift 实现！您可以通过使用 WKWebViewJavascriptBridge 书写几行代码实现混合模块，而无需关心底层的消息传递实现。|updating|🌟🌟🌟| <1k|
@@ -717,6 +719,7 @@
 |[GEOSwift](https://github.com/GEOSwift/GEOSwift)| 可轻松地处理地理对象模型和相关地形操作,是一个极其易用的地理封装库(集成 MapKit 和 Quicklook)。|updating|🌟🌟🌟| 1.2k|
 |[Pecker](https://github.com/woshiccm/Pecker)| CodePecker是检测未使用的Swift代码的工具。|updating|🌟🌟🌟| 1.1k|
 |[Highlightr](https://github.com/raspu/Highlightr)| iOS和OSX语法荧光笔。|2018|🌟🌟🌟| <1k|
+|[GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift)| 在状态栏上方显示FPS，CPU和内存使用情况，设备型号，应用和iOS版本，并通过委托报告FPS，CPU和内存使用情况。|updating|🌟🌟🌟| 2k|
 
 <br>
 <br>
