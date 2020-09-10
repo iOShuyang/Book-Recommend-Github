@@ -425,6 +425,7 @@
 |[JXMarqueeView](https://github.com/pujiaxin33/JXMarqueeView)| 一个强大易于使用的iOS跑马灯视图|2019|🌟🌟🌟| <1k|
 |[SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)|提供多种丰富的消息弹窗样式的控件|updating|🌟🌟🌟🌟| 5.6k|
 |[RxSwift](https://github.com/ReactiveX/RxSwift)|是ReactiveCocoa 的swift版本,是一种函数式响应编程的框架。|updating|🌟🌟🌟🌟🌟| 18.6k|
+|[ReSwift](https://github.com/ReSwift/ReSwift)| Swift中的单向数据流-受Redux启发。|updating|🌟🌟🌟🌟| 6.6k|
 |[ReactorKit](https://github.com/ReactorKit/ReactorKit)|结合了 Flux 和响应式编程。用户行为和页面状态都是通过序列相互传递。这些序列都是单向的：页面只能发出用户行为，然而反应器（Reactor）只能发出状态。|updating|🌟🌟🌟🌟| 1.9k|
 |[Then](https://github.com/devxoul/Then)|Swift初始化器的超级甜蜜语法糖.|updating|🌟🌟🌟🌟| 3.2k|
 |[URLNavigator](https://github.com/devxoul/URLNavigator)|Swift的优雅URL路由.|updating|🌟🌟🌟🌟| 2.4k|
@@ -440,7 +441,6 @@
 |[Rainbow](https://github.com/onevcat/Rainbow)|Swift开发人员的令人愉快的控制台输出。|updating|🌟🌟🌟| 1.3k|
 |[Siren](https://github.com/ArtSabintsev/Siren)|当有新版本的应用程序可用时通知用户，并提示他们进行升级。|updating|🌟🌟🌟🌟| 3.6k|
 |[YNSearch](https://github.com/younatics/YNSearch)|完全自定义搜索视图，Swift 5.0 + Realm支持编写|2019|🌟🌟🌟🌟| 1.1k|
-
 <br>
 <br>
 <br>
@@ -547,6 +547,7 @@
 |[ImagePicker](https://github.com/hyperoslo/ImagePicker)|图片选择器，重塑ImagePicker的工作方式。|updating|🌟🌟🌟🌟| 4.3k|
 |[SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)|受Facebook启发的简单PhotoBrowser / Viewer，swift编写的twitter照片浏览器|2019|🌟🌟🌟🌟| 2.1k|
 |[SwiftyCam](https://github.com/Awalz/SwiftyCam)|由Swift编写的受Snapchat启发的iOS相机框架|2019|🌟🌟🌟| 1.7k|
+|[ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser)|轻量级照片选择框架，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑裁剪图片/视频，支持多语言国际化等功能|updating|🌟🌟🌟🌟| 3.1k|
 <br>
 <br>
 <br>
@@ -720,7 +721,8 @@
 |[Pecker](https://github.com/woshiccm/Pecker)| CodePecker是检测未使用的Swift代码的工具。|updating|🌟🌟🌟| 1.1k|
 |[Highlightr](https://github.com/raspu/Highlightr)| iOS和OSX语法荧光笔。|2018|🌟🌟🌟| <1k|
 |[GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift)| 在状态栏上方显示FPS，CPU和内存使用情况，设备型号，应用和iOS版本，并通过委托报告FPS，CPU和内存使用情况。|updating|🌟🌟🌟| 2k|
-
+|[swift-overture](https://github.com/pointfreeco/swift-overture)| 函数组成的库。|updating|🌟🌟🌟| <1k|
+|[swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)| 一个库，用于以一致且易于理解的方式构建应用程序，并牢记组成，测试和人体工程学。|updating|🌟🌟🌟| 2.2k|
 <br>
 <br>
 <br>
