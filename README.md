@@ -495,7 +495,7 @@
 |[Dollar](https://github.com/ankurp/Dollar)|无需扩展任何内置对象就为Swift语言提供有效的函数式编程辅助方法,类似于Lo-Dash或JavaScript中的Underscore。| updating |🌟🌟🌟🌟| 4.1k|
 |[TextAttributes](https://github.com/delba/TextAttributes)|封装NSAttributedString的框架，让attributed strings处理更加简单，而且是链式结构，看起来更加直观。|updating|🌟🌟🌟🌟| 2.1k|
 |[DifferenceKit](https://github.com/ra1028/DifferenceKit)|快速，灵活的O（n）差异算法框架，用于Swift收集。|updating|🌟🌟🌟🌟| 2.5k|
-
+|[InterposeKit](https://github.com/steipete/InterposeKit)|可以在Swift中优雅地显示，支持类和单个对象上的钩子。|updating|🌟🌟🌟| <1k|
 <br>
 <br>
 <br>
@@ -515,6 +515,8 @@
 |[FloatingPanel](https://github.com/SCENEE/FloatingPanel)|浮动界面 |updating|🌟🌟🌟🌟| 3.7k|
 |[SwiftEntryKit](https://github.com/huri000/SwiftEntryKit)|是iOS的横幅展示器库。 它可以用来在iOS应用程序中轻松显示弹出窗口和类似通知的视图。 |updating|🌟🌟🌟🌟| 4.9k|
 |[Panels](https://github.com/antoniocasero/Panels)|可以轻松地向您的应用程序添加滑动面板。 |updating|🌟🌟🌟| 1.4k|
+|[PopupDialog](https://github.com/Orderella/PopupDialog)|一个用Swift编写的iOS的简单，可自定义的弹出对话框。替换UIAlertController警报样式。 |updating|🌟🌟🌟🌟| 3.5k|
+|[PanModal](https://github.com/slackhq/PanModal)|优雅且高度可定制的演示文稿API，用于在iOS上构建底部工作表模式。 |updating|🌟🌟🌟🌟| 2.6k|
 <br>
 <br>
 <br>
@@ -723,6 +725,7 @@
 |[GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift)| 在状态栏上方显示FPS，CPU和内存使用情况，设备型号，应用和iOS版本，并通过委托报告FPS，CPU和内存使用情况。|updating|🌟🌟🌟| 2k|
 |[swift-overture](https://github.com/pointfreeco/swift-overture)| 函数组成的库。|updating|🌟🌟🌟| <1k|
 |[swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)| 一个库，用于以一致且易于理解的方式构建应用程序，并牢记组成，测试和人体工程学。|updating|🌟🌟🌟| 2.2k|
+|[swift-doc](https://github.com/SwiftDocOrg/swift-doc)| 生成Swift项目的文档。|updating|🌟🌟🌟| 1.2k|
 <br>
 <br>
 <br>
