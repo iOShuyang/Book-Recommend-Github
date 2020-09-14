@@ -431,6 +431,7 @@
 |[URLNavigator](https://github.com/devxoul/URLNavigator)|Swift的优雅URL路由.|updating|🌟🌟🌟🌟| 2.4k|
 |[SwiftyImage](https://github.com/devxoul/SwiftyImage)|在Swift中用颜色生成图像资源|updating|🌟🌟🌟🌟| <1k|
 |[swiftScan](https://github.com/MxABC/swiftScan)|二维码 各种码识别，生成，界面效果|updating|🌟🌟🌟| 1.2k|
+|[BarcodeScanner](https://github.com/hyperoslo/BarcodeScanner)|简单美观的条形码扫描仪。|2018|🌟🌟🌟| 1.4k|
 |[Reachability](https://github.com/ashleymills/Reachability.swift)|网络监察|updating|🌟🌟🌟🌟| 6.8k|
 |[Connectivity](https://github.com/rwbutler/Connectivity)|通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加可靠。 |updating|🌟🌟🌟| 1.3k|
 |[Tiercel](https://github.com/Danie1s/Tiercel)|简单易用、功能丰富的纯 Swift 下载框架|updating|🌟🌟🌟🌟| 1.8k|
@@ -440,7 +441,12 @@
 |[APNGKit](https://github.com/onevcat/APNGKit)|高性能和令人愉悦的方式，可在iOS中使用APNG格式播放。|updating|🌟🌟🌟| 1.7k|
 |[Rainbow](https://github.com/onevcat/Rainbow)|Swift开发人员的令人愉快的控制台输出。|updating|🌟🌟🌟| 1.3k|
 |[Siren](https://github.com/ArtSabintsev/Siren)|当有新版本的应用程序可用时通知用户，并提示他们进行升级。|updating|🌟🌟🌟🌟| 3.6k|
-|[YNSearch](https://github.com/younatics/YNSearch)|完全自定义搜索视图，Swift 5.0 + Realm支持编写|2019|🌟🌟🌟🌟| 1.1k|
+|[YNSearch](https://github.com/younatics/YNSearch)|完全自定义搜索视图，Swift 5.0 + Realm支持编写|2019|🌟🌟🌟| 1.1k|
+|[Cache](https://github.com/hyperoslo/Cache)|只是缓存。|updating|🌟🌟🌟| 2.1k|
+|[Compass](https://github.com/hyperoslo/Compass)|可帮助您为您的应用程序设置中央导航系统。|2018|🌟🌟🌟| <1k|
+|[Presentation](https://github.com/hyperoslo/Presentation)|演示文稿可帮助您制作教程，发行说明和动画页面。|2018|🌟🌟🌟🌟| 2.9k|
+|[Interpolate](https://github.com/marmelroy/Interpolate)|手势驱动动画的快速插值。|updating|🌟🌟🌟| 1.8k|
+|[Localize-Swift](https://github.com/marmelroy/Localize-Swift)|快速友好的本地化和具有应用内语言切换功能的i18n。|updating|🌟🌟🌟🌟| 2.5k|
 <br>
 <br>
 <br>
@@ -496,6 +502,7 @@
 |[TextAttributes](https://github.com/delba/TextAttributes)|封装NSAttributedString的框架，让attributed strings处理更加简单，而且是链式结构，看起来更加直观。|updating|🌟🌟🌟🌟| 2.1k|
 |[DifferenceKit](https://github.com/ra1028/DifferenceKit)|快速，灵活的O（n）差异算法框架，用于Swift收集。|updating|🌟🌟🌟🌟| 2.5k|
 |[InterposeKit](https://github.com/steipete/InterposeKit)|可以在Swift中优雅地显示，支持类和单个对象上的钩子。|updating|🌟🌟🌟| <1k|
+|[Sugar](https://github.com/hyperoslo/Sugar)|可以与Cocoa搭配的sweet。|updating|🌟🌟🌟| 1.1k|
 <br>
 <br>
 <br>
@@ -546,10 +553,11 @@
 |[IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|是基于开源项目MWPhotoBrowser的新实现,从Facebook和 Tweetbot的照片浏览器借鉴了相关用户体验和技术性能。|2018|🌟🌟🌟| 2.7k|
 |[SwiftPhotoGallery](https://github.com/Inspirato/SwiftPhotoGallery)|用Swift编写的iOS照片库|2019|🌟🌟🌟| <1k|
 |[ImageViewer](https://github.com/Krisiacik/ImageViewer)|Twitter上的图像查看器|updating|🌟🌟🌟🌟| 2.3k|
-|[ImagePicker](https://github.com/hyperoslo/ImagePicker)|图片选择器，重塑ImagePicker的工作方式。|updating|🌟🌟🌟🌟| 4.3k|
 |[SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)|受Facebook启发的简单PhotoBrowser / Viewer，swift编写的twitter照片浏览器|2019|🌟🌟🌟🌟| 2.1k|
 |[SwiftyCam](https://github.com/Awalz/SwiftyCam)|由Swift编写的受Snapchat启发的iOS相机框架|2019|🌟🌟🌟| 1.7k|
 |[ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser)|轻量级照片选择框架，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑裁剪图片/视频，支持多语言国际化等功能|updating|🌟🌟🌟🌟| 3.1k|
+|[ImagePicker](https://github.com/hyperoslo/ImagePicker)|图片选择器，重塑ImagePicker的工作方式。|updating|🌟🌟🌟🌟| 4.4k|
+|[Gallery](https://github.com/hyperoslo/Gallery)|您的下一个喜欢的图像和视频选择器。|updating|🌟🌟🌟| 1.3k|
 <br>
 <br>
 <br>
