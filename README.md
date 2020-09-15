@@ -149,6 +149,7 @@
 |[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)|一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。|updating|🌟🌟🌟🌟| 5.8k|
 |[PureLayout](https://github.com/PureLayout/PureLayout)|iOS和OS X Auto Layout的终极API-极其简单，功能强大。与Objective-C和Swift兼容。|updating|🌟🌟🌟🌟| 7.4k|
 |[FlexLib](https://github.com/zhenglibao/FlexLib)|是一个基于flexbox模型，使用xml文件进行界面布局的框架，融合了web快速布局的能力，让iOS界面开发像写网页一样简单快速。|updating|🌟🌟🌟| 1.4k|
+|[MotionBlur](https://github.com/fastred/MotionBlur)|允许您向iOS动画添加运动模糊效果。|2014|🌟🌟🌟| 1.5k|
 <br>
 <br>
 <br>
@@ -363,7 +364,7 @@
 |[lumen](https://github.com/anishathalye/lumen)|基于屏幕内容的魔术自动亮度。|updating|🌟🌟🌟🌟| 2.2k|
 |[xctool](https://github.com/facebook/xctool)|xctool 相比苹果的 xcodebuild，可以更加简单方便地编译构建和测试 iOS、Mac 项目，对可持续集成 CI 尤其有用。|updating|🌟🌟🌟🌟| 7k|
 |[JJException](https://github.com/jezzmemo/JJException)|保护App不闪退。|updating|🌟🌟🌟| 1.1k|
-
+|[SloppySwiper](https://github.com/fastred/SloppySwiper)|UINavigationController委托，它允许从屏幕上的任何位置（而不仅仅是边缘）开始向后滑动手势。|2016|🌟🌟🌟| <1k|
 <br>
 <br>
 <br>
@@ -524,6 +525,7 @@
 |[Panels](https://github.com/antoniocasero/Panels)|可以轻松地向您的应用程序添加滑动面板。 |updating|🌟🌟🌟| 1.4k|
 |[PopupDialog](https://github.com/Orderella/PopupDialog)|一个用Swift编写的iOS的简单，可自定义的弹出对话框。替换UIAlertController警报样式。 |updating|🌟🌟🌟🌟| 3.5k|
 |[PanModal](https://github.com/slackhq/PanModal)|优雅且高度可定制的演示文稿API，用于在iOS上构建底部工作表模式。 |updating|🌟🌟🌟🌟| 2.6k|
+|[DrawerKit](https://github.com/babylonhealth/DrawerKit)|允许UIViewController以类似于Apple Maps应用程序工作方式的方式来呈现另一个UIViewController。 |2019|🌟🌟🌟| <1k|
 <br>
 <br>
 <br>
@@ -664,6 +666,8 @@
 ## <div align=center>-------------------------[Swift 动画框架](#back) -------------------------</div>
 | 推荐框架 | 推荐理由 | 更新时间 | 推荐星级 | started |
 | --- | --- | --- | --- | --- |
+|[Spring](https://github.com/MengTo/Spring)|一个库，用于简化Swift中的iOS动画。|2019|🌟🌟🌟🌟🌟| 13.7k|
+|[Hero](https://github.com/HeroTransitions/Hero)|适用于iOS和tvOS的优雅过渡库。|updating|🌟🌟🌟🌟🌟| 18.9k|
 |[EasyAnimation](https://github.com/icanzilb/EasyAnimation)|一个Swift库，将UIView.animateWithDuration(_:, animations:...) 的强大功能提升到一个全新的水平 - 图层，弹簧，可链接的动画，并将视图和图层动画混合在一起！ |2018|🌟🌟🌟🌟| 2.8k|
 |[IBAnimatable](https://github.com/IBAnimatable/IBAnimatable)|使用IBAnimatable为Interface Builder中的App Store准备应用程序设计和原型定制UI，交互，导航，转换和动画。|updating|🌟🌟🌟🌟| 8.4k|
 |[Advance](https://github.com/timdonnelly/Advance)|适用于iOS，tvOS和macOS的基于物理的动画。|updating|🌟🌟🌟🌟| 4.4k|
@@ -692,9 +696,9 @@
 |[paper-switch](https://github.com/Ramotion/paper-switch)|Ramotion出品，turned on覆盖父视图的动画效果。|2019|🌟🌟🌟| 2.8k|
 |[expanding-collection](https://github.com/Ramotion/expanding-collection)|Ramotion出品，MaterialDesign 风格的扩展式卡片设计|updating|🌟🌟🌟🌟| 5.3k|
 |[cardslider](https://github.com/Ramotion/cardslider)|Ramotion出品，使您可以在带有图片的卡片之间滑动。|updating|🌟🌟🌟|<1k|
-|[Spring](https://github.com/MengTo/Spring)|一个库，用于简化Swift中的iOS动画。|2019|🌟🌟🌟🌟| 13.7k|
 |[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)|跑马灯文字。|updating|🌟🌟🌟🌟| 3.3k|
 |[HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider)|适用于iOS应用程序的自定义可重复使用的循环/进度滑块控件。|updating|🌟🌟🌟🌟| 2k|
+
 <br>
 <br>
 <br>
@@ -766,7 +770,7 @@
 |[Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|swift实现的各种设计模式。|updating|🌟🌟🌟🌟| 11.9k|
 |[swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)|swift中的算法以及数据结构，还有解释说明。|2019|🌟🌟🌟🌟🌟| 23.2k|
 |[CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit)|一个简单的项目，用于检测对象并在AR中显示对象上方的3D标签。这是ARKit项目使用CoreML的基本模板。|2017|🌟🌟🌟| 1.4k|
-
+|[Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times)|收集有关优化Swift项目的编译时间的建议。|2018|🌟🌟🌟🌟| 3.4k|
 <br>
 <br>
 <br>
