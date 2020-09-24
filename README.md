@@ -82,7 +82,7 @@
 | --- | --- | --- | --- | --- |
 |[YYModel](https://github.com/ibireme/YYModel)| 数据解析Json框架，支持自动的 JSON/Model 转换，支持定义映射过程。 |2017|🌟🌟🌟🌟|4.1k|
 |[JSONModel](https://github.com/jsonmodel/jsonmodel)| 基于 JSON 的数据模型化框架。Model 需要继承自 JSONModel。| 2018 | 🌟🌟🌟🌟 |6.8k|
-|[Mantle](https://github.com/Mantle/Mantle)|面向 Cocoa 和 Cocoa Touch 的模型框架 Model。Github 官方团队开发的 JSON 模型转换库，Model 需要继承自 MTLModel。功能丰富，文档完善，使用广泛 。|updating|🌟🌟🌟🌟|11.2k|
+|[Mantle](https://github.com/Mantle/Mantle)|面向 Cocoa 和 Cocoa Touch 的模型框架 Model。Github 官方团队开发的 JSON 模型转换库，Model 需要继承自 MTLModel。功能丰富，文档完善，使用广泛 。|updating|🌟🌟🌟🌟|11.3k|
 |[MJExtension](https://github.com/CoderMJLee/MJExtension)|利用Obj-C的运行时机制编写数据解析Json框架。国内开发者”小码哥”开发的 JSON 模型库，号称性能超过 JSONModel 和 Mantle，使用简单无侵入。|updating|🌟🌟🌟🌟|8.3k|
 <br>
 <br>
@@ -365,6 +365,12 @@
 |[xctool](https://github.com/facebook/xctool)|xctool 相比苹果的 xcodebuild，可以更加简单方便地编译构建和测试 iOS、Mac 项目，对可持续集成 CI 尤其有用。|updating|🌟🌟🌟🌟| 7k|
 |[JJException](https://github.com/jezzmemo/JJException)|保护App不闪退。|updating|🌟🌟🌟| 1.1k|
 |[SloppySwiper](https://github.com/fastred/SloppySwiper)|UINavigationController委托，它允许从屏幕上的任何位置（而不仅仅是边缘）开始向后滑动手势。|2016|🌟🌟🌟| <1k|
+|[Bootstrap](https://github.com/krzysztofzablocki/Bootstrap)|iOS项目引导程序旨在提供高质量的编码。|2017|🌟🌟🌟| 2k|
+|[Playgrounds](https://github.com/krzysztofzablocki/Playgrounds)|适用于Objective-C和Swift的更好的Playgrounds。|2016|🌟🌟🌟| 2.5k|
+|[LineDrawing](https://github.com/krzysztofzablocki/LineDrawing)|适用于iOS的美观，快速，流畅的线条绘制算法-如Foldify中所示。|2015|🌟🌟🌟| 1.2k|
+|[PropertyMapper](https://github.com/krzysztofzablocki/PropertyMapper)|Objective-C iOS应用程序的属性映射。|2017|🌟🌟🌟| 1.1k|
+|[InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit)|此iOS框架允许将设置设置为应用程序内设置，而不是将其设置为设置应用程序。|updating|🌟🌟🌟| 3k|
+
 <br>
 <br>
 <br>
@@ -738,6 +744,8 @@
 |[swift-overture](https://github.com/pointfreeco/swift-overture)| 函数组成的库。|updating|🌟🌟🌟| <1k|
 |[swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)| 一个库，用于以一致且易于理解的方式构建应用程序，并牢记组成，测试和人体工程学。|updating|🌟🌟🌟| 2.2k|
 |[swift-doc](https://github.com/SwiftDocOrg/swift-doc)| 生成Swift项目的文档。|updating|🌟🌟🌟| 1.2k|
+|[Sourcery](https://github.com/krzysztofzablocki/Sourcery)| Swift的元编程，停止编写样板代码。|updating|🌟🌟🌟🌟| 5.5k|
+|[LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker)| 尽快找到保留周期/内存泄漏。|updating|🌟🌟🌟| 2.2k|
 <br>
 <br>
 <br>
