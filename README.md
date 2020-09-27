@@ -193,6 +193,7 @@
 |[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)|是由Flipboard开源的iOS平台上播放GIF动画的一个优秀解决方案,在内存占用和播放体验都有不错的表现。|2014|🌟🌟🌟🌟| 7.5k|
 |[LKImageKit](https://github.com/Tencent/LKImageKit)|是一个高性能的图片框架,包括了图片控件,图片下载、内存缓存、磁盘缓存、图片解码、图片处理等一系列能力。(腾讯高性能的图片框架)|2018|🌟🌟🌟🌟| 2k|
 |[PEPhotoCropEditor](https://github.com/kishikawakatsumi/PEPhotoCropEditor)|自定义拖动剪切图片|2018|🌟🌟🌟| 1.1k|
+|[RSKImageCropper](https://github.com/ruslanskorb/RSKImageCropper)|适用于iOS的图像裁剪器/照片裁剪器，例如在“联系人”应用程序中，并支持横向显示。|updating|🌟🌟🌟| 2.3k|
 |[FastImageCache](https://github.com/path/FastImageCache)|是一种在 iOS 应用程序中高效、持续、超快速的存储和检索图像的解决方案。|2016|🌟🌟🌟🌟| 8.1k|
 |[TZImagePickerController](https://github.com/banchichen/TZImagePickerController)|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。|updating|🌟🌟🌟🌟| 7.2k|
 |[NYXImagesKit](https://github.com/Nyx0uf/NYXImagesKit)|包含一组很有用的 UIImage 图像处理方法,包括 filtering, blurring, enhancing, masking, reflecting, resizing, rotating, saving. |2018|🌟🌟🌟| 2.6k|
@@ -331,6 +332,7 @@
 |[CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout)|是UICollectionViewLayout的一个子类，尽可能地模仿了UICollectionViewFlowLayout的用法，灵感来源于Pinterest，同时还兼容PSTCollectionView。|updating|🌟🌟🌟🌟| 4.1k|
 |[JSBadgeView](https://github.com/JaviSoto/JSBadgeView)|购物车角标JSBadgeView|2018|🌟🌟🌟🌟| 1.3k|
 |[PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)|使用UICollectionView的iOS简单日历/日期选择器|2015|🌟🌟🌟| 1.9k|
+|[RSDayFlow](https://github.com/ruslanskorb/RSDayFlow)|具有无限滚动功能的iOS 7+日历（日期选择器）。|updating|🌟🌟🌟| <1k|
 |[ZLSwipeableView](https://github.com/zhxnlai/ZLSwipeableView)|一个类似Tinder和Potluck的卡片界面，滑动手指即可翻动展示下一张卡片，也可简单返回手势取消滑动操作。|2015|🌟🌟🌟| 2.8k|
 |[CRToast](https://github.com/cruffenach/CRToast)|用来简单创建出现在导航栏或者状态栏上的通知，基于另一个开源项目CWStatusBarNotification。使用ARC。|2017|🌟🌟🌟🌟| 4.2k|
 |[SwipeView](https://github.com/nicklockwood/SwipeView)|是一个旨在简化iOS上水平分页滚动视图实现的类。它基于UIScrollView，但增加了方便的功能，例如UITableView样式的dataSource / delegate接口，用于动态加载视图，以及高效的视图加载，卸载和回收。|2015|🌟🌟🌟| 2.7k|
@@ -492,7 +494,7 @@
 |[ExSwift](https://github.com/pNre/ExSwift)|包含一组标准类型和类的Swift扩展。|2015(Archived)|🌟🌟🌟🌟| 3.4k|
 |[SwiftString](https://github.com/amayne/SwiftString)|关于swift中string处理的扩展，有between(left, right)、camelize()、capitalize()、count(string)、decodeHTML()、contains(substring)等。|2016|🌟🌟🌟| 1.5k|
 |[SwiftRichString](https://github.com/malcommac/SwiftRichString)|优雅，简单，快捷的方式来创建属性字符串。|updating|🌟🌟🌟🌟| 2.4k|
-|[SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|是一个用 Swift 编写的 Extension 的集合，涵盖了开发过程中大部分会用到的方法和函数，是一个不错的工具库.|updating|🌟🌟🌟🌟| 8.6k|
+|[SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|是一个用 Swift 编写的 Extension 的集合，涵盖了开发过程中大部分会用到的方法和函数，是一个不错的工具库.|updating|🌟🌟🌟🌟| 8.9k|
 |[EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)|提供了一系列对于 Swift 标准库、方法与 UIKit 的扩展，让你更加简单舒服地编写代码。|2019|🌟🌟🌟| 2.8k|
 |[Async](https://github.com/duemunk/Async)|异步操作库，类似promise|updating|🌟🌟🌟🌟| 4.5k|
 |[Promisekit](https://github.com/mxcl/PromiseKit)|异步编程|updating|🌟🌟🌟🌟🌟| 12.7k|
@@ -661,6 +663,7 @@
 |[Carbon](https://github.com/ra1028/Carbon)|一个声明性库，用于在UITableView和UICollectionView中构建基于组件的用户界面。 |updating|🌟🌟🌟| <1k|
 |[SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview)|它从URL进行预览，获取所有信息，例如标题，相关文本和图像。  |updating|🌟🌟🌟| 1.1k|
 |[CollectionKit](https://github.com/SoySauceLab/CollectionKit)|重新构建UICollectionView。  |2019|🌟🌟🌟🌟| 3.9k|
+|[RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView)|轻量级的UITextView子类会自动增长和收缩。  |updating|🌟🌟🌟| <1k|
 
 <br>
 <br>
@@ -704,6 +707,7 @@
 |[cardslider](https://github.com/Ramotion/cardslider)|Ramotion出品，使您可以在带有图片的卡片之间滑动。|updating|🌟🌟🌟|<1k|
 |[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)|跑马灯文字。|updating|🌟🌟🌟🌟| 3.3k|
 |[HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider)|适用于iOS应用程序的自定义可重复使用的循环/进度滑块控件。|updating|🌟🌟🌟🌟| 2k|
+|[fave-button](https://github.com/janselv/fave-button)|FaveButton是一个用Swift编写的类似iOS的可爱动画按钮。|2018|🌟🌟🌟| 1.3k|
 
 <br>
 <br>
