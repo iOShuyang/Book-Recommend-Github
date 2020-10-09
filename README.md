@@ -134,7 +134,8 @@
 |[SAMkeychain](https://github.com/soffes/SAMKeychain)|钥匙串存取数据，可以用来储存用户的隐私信息。|2018(Archived)|🌟🌟🌟| 5.3k|
 |[YYCache](https://github.com/ibireme/YYCache)|适用于iOS的高性能缓存框架。|2017|🌟🌟🌟| 2.2k|
 |[MagicalRecord](https://github.com/magicalpanda/MagicalRecord)|是对CoreData进行了一次封装，封装了多线程Core Data中复杂的操作，并提供了丰富的封装方法，使用起来代码清晰简洁。|updating|🌟🌟🌟🌟| 10.9k|
-
+|[LKDBHelper-SQLite-ORM](https://github.com/li6185377/LKDBHelper-SQLite-ORM)|这是sqlite ORM（自动数据库操作）
+线程安全的，不怕递归死锁|updating|🌟🌟🌟| 1.1k|
 <br>
 <br>
 <br>
@@ -231,6 +232,7 @@
 |[TBActionSheet](https://github.com/yulingtianxia/TBActionSheet)|一个 ActionSheet 满足所有样式！超高自由度的可定制！|updating|🌟🌟🌟| <1k|
 |[UITextView-Placeholder](https://github.com/devxoul/UITextView-Placeholder)|UITextView缺少占位符。|updating|🌟🌟🌟🌟| 1.3k|
 |[SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)|类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，自定义 collectionview实现自适应 contentSize 还可实现瀑布流功能。|2017|🌟🌟🌟🌟| 2.2k|
+|[LSTPopView](https://github.com/LoSenTrad/LSTPopView)| iOS万能弹窗 。|updating|🌟🌟🌟| <1k|
 <br>
 <br>
 <br>
@@ -372,7 +374,7 @@
 |[LineDrawing](https://github.com/krzysztofzablocki/LineDrawing)|适用于iOS的美观，快速，流畅的线条绘制算法-如Foldify中所示。|2015|🌟🌟🌟| 1.2k|
 |[PropertyMapper](https://github.com/krzysztofzablocki/PropertyMapper)|Objective-C iOS应用程序的属性映射。|2017|🌟🌟🌟| 1.1k|
 |[InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit)|此iOS框架允许将设置设置为应用程序内设置，而不是将其设置为设置应用程序。|updating|🌟🌟🌟| 3k|
-
+|[KSCrash](https://github.com/kstenerud/KSCrash)|终极iOS崩溃报告器。|updating|🌟🌟🌟| 3.2k|
 <br>
 <br>
 <br>
@@ -708,7 +710,7 @@
 |[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)|跑马灯文字。|updating|🌟🌟🌟🌟| 3.3k|
 |[HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider)|适用于iOS应用程序的自定义可重复使用的循环/进度滑块控件。|updating|🌟🌟🌟🌟| 2k|
 |[fave-button](https://github.com/janselv/fave-button)|FaveButton是一个用Swift编写的类似iOS的可爱动画按钮。|2018|🌟🌟🌟| 1.3k|
-
+|[CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition)|像两个或多个UICollectionView之间的过渡一样的酷浪|updating|🌟🌟🌟| 1.8k|
 <br>
 <br>
 <br>
@@ -729,7 +731,6 @@
 |[FontBlaster](https://github.com/ArtSabintsev/FontBlaster)|轻松将自定义字体加载到您的应用中。|updating|🌟🌟🌟|<1k|
 |[XcodeGen](https://github.com/yonaskolb/XcodeGen)|一个用于生成Xcode项目的Swift命令行工具|updating|🌟🌟🌟| 3.7k|
 |[Bagel](https://github.com/yagiz/Bagel)|适用于iOS的本地网络调试工具|updating|🌟🌟🌟| 3.5k|
-|[Plot](https://github.com/JohnSundell/Plot)|用于在Swift中编写类型安全的HTML，XML和RSS的DSL。 |updating|🌟🌟🌟| 1.3k|
 |[Files](https://github.com/JohnSundell/Files)|在Swift中处理文件和文件夹的更好方法。 |updating|🌟🌟🌟| 1.9k|
 |[Burritos](https://github.com/guillermomuntaner/Burritos)|Swift Property Wrappers的集合。 |updating|🌟🌟🌟| 1k|
 |[OpenCombine](https://github.com/broadwaylamb/OpenCombine)|苹果公司Combine框架的开源实现，可随着时间的推移来处理价值。 |updating|🌟🌟🌟| 1.2k|
@@ -743,13 +744,16 @@
 |[ZIPFoundation](https://github.com/weichsel/ZIPFoundation)| 在Swift中轻松进行ZIP处理。|updating|🌟🌟🌟| 1.4k|
 |[GEOSwift](https://github.com/GEOSwift/GEOSwift)| 可轻松地处理地理对象模型和相关地形操作,是一个极其易用的地理封装库(集成 MapKit 和 Quicklook)。|updating|🌟🌟🌟| 1.2k|
 |[Pecker](https://github.com/woshiccm/Pecker)| CodePecker是检测未使用的Swift代码的工具。|updating|🌟🌟🌟| 1.1k|
-|[Highlightr](https://github.com/raspu/Highlightr)| iOS和OSX语法荧光笔。|2018|🌟🌟🌟| <1k|
 |[GDPerformanceView-Swift](https://github.com/dani-gavrilov/GDPerformanceView-Swift)| 在状态栏上方显示FPS，CPU和内存使用情况，设备型号，应用和iOS版本，并通过委托报告FPS，CPU和内存使用情况。|updating|🌟🌟🌟| 2k|
 |[swift-overture](https://github.com/pointfreeco/swift-overture)| 函数组成的库。|updating|🌟🌟🌟| <1k|
 |[swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)| 一个库，用于以一致且易于理解的方式构建应用程序，并牢记组成，测试和人体工程学。|updating|🌟🌟🌟| 2.2k|
 |[swift-doc](https://github.com/SwiftDocOrg/swift-doc)| 生成Swift项目的文档。|updating|🌟🌟🌟| 1.2k|
 |[Sourcery](https://github.com/krzysztofzablocki/Sourcery)| Swift的元编程，停止编写样板代码。|updating|🌟🌟🌟🌟| 5.5k|
-|[LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker)| 尽快找到保留周期/内存泄漏。|updating|🌟🌟🌟| 2.2k|
+|[LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker)| 尽快找到保留周期/内存泄漏。|updating|🌟🌟🌟| 
+|[Cuckoo](https://github.com/Brightify/Cuckoo)| 由于缺少适当的Swift模拟框架而创建了Cuckoo。我们构建的DSL与Mockito非常相似，因此来自Java / Android的任何人都可以立即使用它。|updating|🌟🌟🌟| 1.3k|
+|[Highlightr](https://github.com/raspu/Highlightr)| iOS和OSX语法荧光笔。|2018|🌟🌟🌟| <1k|
+|[Splash](https://github.com/JohnSundell/Splash)| 快速，轻巧和灵活的Swift语法荧光笔，适用于博客，工具和娱乐！|updating|🌟🌟🌟| 1.4k|
+|[BTree](https://github.com/attaswift/BTree)| 使用内存B-trees对Swift进行快速排序的集合|2018|🌟🌟🌟| 1.2k|
 <br>
 <br>
 <br>
@@ -778,6 +782,7 @@
 |[swift-package-manager](https://github.com/apple/swift-package-manager)|是苹果在swift3.0中加入的一个包管理工具，用于处理模块代码的下载、编译和依赖关系等。跟CocoaPods和Carthage功能类似，不过比这两个更简洁，代码的侵入性更小，也不需要额外安装工具。|updating|🌟🌟🌟🌟| 7.8k|
 |[Carthage](https://github.com/Carthage/Carthage)|Carthage和CocoaPods相比，轻量级一些，在swift中使用很方便，它本身就是swift写的。|updating|🌟🌟🌟🌟| 13.8k|
 |[Publish](https://github.com/JohnSundell/Publish)|适用于Swift开发人员的静态网站生成器。 |updating|🌟🌟🌟| 2.6k|
+|[Plot](https://github.com/JohnSundell/Plot)|用于在Swift中编写类型安全的HTML，XML和RSS的DSL。 |updating|🌟🌟🌟| 1.3k|
 |[Ink](https://github.com/JohnSundell/Ink)|用Swift编写的快速灵活的Markdown解析器。|updating|🌟🌟🌟| 1.7k|
 |[Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|swift实现的各种设计模式。|updating|🌟🌟🌟🌟| 11.9k|
 |[swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)|swift中的算法以及数据结构，还有解释说明。|2019|🌟🌟🌟🌟🌟| 23.2k|
