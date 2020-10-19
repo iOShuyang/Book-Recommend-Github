@@ -151,6 +151,7 @@
 |[PureLayout](https://github.com/PureLayout/PureLayout)|iOS和OS X Auto Layout的终极API-极其简单，功能强大。与Objective-C和Swift兼容。|updating|🌟🌟🌟🌟| 7.4k|
 |[FlexLib](https://github.com/zhenglibao/FlexLib)|是一个基于flexbox模型，使用xml文件进行界面布局的框架，融合了web快速布局的能力，让iOS界面开发像写网页一样简单快速。|updating|🌟🌟🌟| 1.4k|
 |[MotionBlur](https://github.com/fastred/MotionBlur)|允许您向iOS动画添加运动模糊效果。|2014|🌟🌟🌟| 1.5k|
+|[ZLCollectionView](https://github.com/czl0325/ZLCollectionView)|为应对类似淘宝首页，京东首页，国美首页等复杂布局而写的Collectionview。|updating|🌟🌟🌟| <1k|
 <br>
 <br>
 <br>
@@ -479,7 +480,7 @@
 |[SQLite](https://github.com/stephencelis/SQLite.swift)|用swift封装的sqlite 3操作框架。|2019|🌟🌟🌟🌟| 7k|
 |[Starscream](https://github.com/daltoniam/Starscream)|适用于iOS和OSX的Websocket。|updating|🌟🌟🌟🌟| 6.2k|
 |[SWXMLHash](https://github.com/drmohundro/SWXMLHash)|Swift中的简单XML解析。|updating|🌟🌟🌟🌟| 6.2k|
-
+|[SwiftSVG](https://github.com/mchoe/SwiftSVG)|一个简单，高性能，轻量级的SVG解析器。|updating|🌟🌟🌟| 1.6k|
 <br>
 <br>
 <br>
@@ -514,6 +515,7 @@
 |[DifferenceKit](https://github.com/ra1028/DifferenceKit)|快速，灵活的O（n）差异算法框架，用于Swift收集。|updating|🌟🌟🌟🌟| 2.5k|
 |[InterposeKit](https://github.com/steipete/InterposeKit)|可以在Swift中优雅地显示，支持类和单个对象上的钩子。|updating|🌟🌟🌟| <1k|
 |[Sugar](https://github.com/hyperoslo/Sugar)|可以与Cocoa搭配的sweet。|updating|🌟🌟🌟| 1.1k|
+|[BonMot](https://github.com/Rightpoint/BonMot)|Swift中漂亮，简单的属性字符串。|updating|🌟🌟🌟| 2.9k|
 <br>
 <br>
 <br>
