@@ -223,7 +223,7 @@
 |[MMPopupView](https://github.com/adad184/MMPopupView)|是一个基于UIWindow的一个简洁、高效的弹出框组件。|2016|🌟🌟🌟| 2.1k|
 |[PNChart](https://github.com/kevinzhow/PNChart)|是一个简单漂亮的动画图表库，Piner 和 CoinsMan 的 iOS 客户端中使用了这个框架。|2018|🌟🌟🌟🌟| 9.7k|
 |[TEAChart](https://github.com/xhacker/TEAChart)|一个简洁的 iOS 图表库，支持柱状图、饼图以及日历等。|2017|🌟🌟🌟🌟| 1.2k|
-|[CVCalendar](https://github.com/CVCalendar/CVCalendar)|是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用。|updating|🌟🌟🌟🌟| 3.3k|
+|[CVCalendar](https://github.com/CVCalendar/CVCalendar)|是一个方便开发者集成自定义日历视图到自己 iOS 应用的项目, 支持 Storyboard 和手动配置, 使用 CocoaPods 进行安装, 提供了丰富的 API 供开发者使用。|updating|🌟🌟🌟🌟| 3.4k|
 |[XJYChart](https://github.com/JunyiXie/XJYChart)|优秀的的图表框架。支持动画，点击，滑动，区域高亮。|updating|🌟🌟🌟| <1k|
 |[XYPieChart](https://github.com/xyfeng/XYPieChart)|饼状图, 饼图, 数据统计, 数据可视化,可以在图形上标注数据。效果十分漂亮，而且没有用到一张图片。|2013|🌟🌟🌟| 1.8k|
 |[FXBlurView](https://github.com/nicklockwood/FXBlurView)|是UIView的子类，它实现毛玻璃效果的原理其实就是覆盖上一层FXBlurView的实例对象。|2017|🌟🌟🌟🌟| 5k|
@@ -376,6 +376,7 @@
 |[PropertyMapper](https://github.com/krzysztofzablocki/PropertyMapper)|Objective-C iOS应用程序的属性映射。|2017|🌟🌟🌟| 1.1k|
 |[InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit)|此iOS框架允许将设置设置为应用程序内设置，而不是将其设置为设置应用程序。|updating|🌟🌟🌟| 3k|
 |[KSCrash](https://github.com/kstenerud/KSCrash)|终极iOS崩溃报告器。|updating|🌟🌟🌟| 3.2k|
+|[RTRootNavigationController](https://github.com/rickytan/RTRootNavigationController)|隐式地使每个视图控制器都有自己的导航栏。|2019|🌟🌟🌟| 1.9k|
 <br>
 <br>
 <br>
@@ -516,6 +517,7 @@
 |[InterposeKit](https://github.com/steipete/InterposeKit)|可以在Swift中优雅地显示，支持类和单个对象上的钩子。|updating|🌟🌟🌟| <1k|
 |[Sugar](https://github.com/hyperoslo/Sugar)|可以与Cocoa搭配的sweet。|updating|🌟🌟🌟| 1.1k|
 |[BonMot](https://github.com/Rightpoint/BonMot)|Swift中漂亮，简单的属性字符串。|updating|🌟🌟🌟| 2.9k|
+|[MaLiang](https://github.com/Harley-xk/MaLiang)|神笔马良有一支神笔（基于 Metal 的涂鸦绘图库）。|updating|🌟🌟🌟| 1k|
 <br>
 <br>
 <br>
@@ -713,6 +715,7 @@
 |[HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider)|适用于iOS应用程序的自定义可重复使用的循环/进度滑块控件。|updating|🌟🌟🌟🌟| 2k|
 |[fave-button](https://github.com/janselv/fave-button)|FaveButton是一个用Swift编写的类似iOS的可爱动画按钮。|2018|🌟🌟🌟| 1.3k|
 |[CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition)|像两个或多个UICollectionView之间的过渡一样的酷浪|updating|🌟🌟🌟| 1.8k|
+|[Jelly](https://github.com/SebastianBoldt/Jelly)|Jelly是一个用于动画，非交互式和交互式ViewController过渡和演示的库，重点是简单而灵活的API。|updating|🌟🌟🌟| 2.1k|
 <br>
 <br>
 <br>
