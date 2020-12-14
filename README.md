@@ -380,6 +380,8 @@
 |[InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit)|此iOS框架允许将设置设置为应用程序内设置，而不是将其设置为设置应用程序。|updating|🌟🌟🌟| 3k|
 |[KSCrash](https://github.com/kstenerud/KSCrash)|终极iOS崩溃报告器。|updating|🌟🌟🌟| 3.2k|
 |[RTRootNavigationController](https://github.com/rickytan/RTRootNavigationController)|隐式地使每个视图控制器都有自己的导航栏。|2019|🌟🌟🌟| 1.9k|
+|[vap](https://github.com/Tencent/vap)|VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。|updating|🌟🌟🌟| 1.1k|
+
 <br>
 <br>
 <br>
@@ -719,6 +721,9 @@
 |[fave-button](https://github.com/janselv/fave-button)|FaveButton是一个用Swift编写的类似iOS的可爱动画按钮。|2018|🌟🌟🌟| 1.3k|
 |[CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition)|像两个或多个UICollectionView之间的过渡一样的酷浪|updating|🌟🌟🌟| 1.8k|
 |[Jelly](https://github.com/SebastianBoldt/Jelly)|Jelly是一个用于动画，非交互式和交互式ViewController过渡和演示的库，重点是简单而灵活的API。|updating|🌟🌟🌟| 2.1k|
+|[preview-transition](https://github.com/Ramotion/preview-transition)|是一个简单的预览库UI控制器，具有动画过渡效果。|updating|🌟🌟🌟| 2.1k|
+|[UIWindowTransitions](https://github.com/malcommac/UIWindowTransitions)|UIWindow的rootViewController属性的动画过渡|updating|🌟🌟🌟| <1k|
+
 <br>
 <br>
 <br>
@@ -762,6 +767,7 @@
 |[Highlightr](https://github.com/raspu/Highlightr)| iOS和OSX语法荧光笔。|2018|🌟🌟🌟| <1k|
 |[Splash](https://github.com/JohnSundell/Splash)| 快速，轻巧和灵活的Swift语法荧光笔，适用于博客，工具和娱乐！|updating|🌟🌟🌟| 1.4k|
 |[BTree](https://github.com/attaswift/BTree)| 使用内存B-trees对Swift进行快速排序的集合|2018|🌟🌟🌟| 1.2k|
+|[MZDownloadManager](https://github.com/mzeeshanid/MZDownloadManager)| 该下载管理器使用NSURLSession api下载文件，可以一次下载多个文件，如果应用程序在后台，则可以下载大文件；如果应用程序退出，则可以恢复下载。|updating|🌟🌟🌟| 1.1k|
 <br>
 <br>
 <br>
