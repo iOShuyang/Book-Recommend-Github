@@ -71,6 +71,7 @@
 | [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) | 是谷歌的开发者，基于BSD-Socket写的一个IM框架，它给Mac和iOS提供了易于使用的、强大的异步套接字库，向上封装出简单易用OC接口。省去了我们面向Socket以及数据流Stream等繁琐复杂的编程。 | updating | 🌟🌟🌟🌟🌟 | 11.6k|
 |[YTKNetwork](https://github.com/yuantiku/YTKNetwork)|是猿题库 iOS 研发团队基于 AFNetworking 封装的 iOS 网络库，提供了更高层次的网络访问抽象。|updating|🌟🌟🌟🌟| 6.2k|
 |[OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)|轻松添加您的网络请求！使用伪造的网络数据和自定义响应时间，响应代码和标头测试您的应用！|updating|🌟🌟🌟🌟| 4.5k|
+
 <br>
 <br>
 <br>
@@ -84,6 +85,7 @@
 |[JSONModel](https://github.com/jsonmodel/jsonmodel)| 基于 JSON 的数据模型化框架。Model 需要继承自 JSONModel。| 2018 | 🌟🌟🌟🌟 |6.8k|
 |[Mantle](https://github.com/Mantle/Mantle)|面向 Cocoa 和 Cocoa Touch 的模型框架 Model。Github 官方团队开发的 JSON 模型转换库，Model 需要继承自 MTLModel。功能丰富，文档完善，使用广泛 。|updating|🌟🌟🌟🌟|11.3k|
 |[MJExtension](https://github.com/CoderMJLee/MJExtension)|利用Obj-C的运行时机制编写数据解析Json框架。国内开发者”小码哥”开发的 JSON 模型库，号称性能超过 JSONModel 和 Mantle，使用简单无侵入。|updating|🌟🌟🌟🌟|8.3k|
+
 <br>
 <br>
 <br>
@@ -134,8 +136,8 @@
 |[SAMkeychain](https://github.com/soffes/SAMKeychain)|钥匙串存取数据，可以用来储存用户的隐私信息。|2018(Archived)|🌟🌟🌟| 5.3k|
 |[YYCache](https://github.com/ibireme/YYCache)|适用于iOS的高性能缓存框架。|2017|🌟🌟🌟| 2.2k|
 |[MagicalRecord](https://github.com/magicalpanda/MagicalRecord)|是对CoreData进行了一次封装，封装了多线程Core Data中复杂的操作，并提供了丰富的封装方法，使用起来代码清晰简洁。|updating|🌟🌟🌟🌟| 10.9k|
-|[LKDBHelper-SQLite-ORM](https://github.com/li6185377/LKDBHelper-SQLite-ORM)|这是sqlite ORM（自动数据库操作）
-线程安全的，不怕递归死锁|updating|🌟🌟🌟| 1.1k|
+|[LKDBHelper-SQLite-ORM](https://github.com/li6185377/LKDBHelper-SQLite-ORM)|这是sqlite ORM（自动数据库操作）线程安全的，不怕递归死锁|updating|🌟🌟🌟| 1.1k|
+
 <br>
 <br>
 <br>
@@ -152,6 +154,7 @@
 |[FlexLib](https://github.com/zhenglibao/FlexLib)|是一个基于flexbox模型，使用xml文件进行界面布局的框架，融合了web快速布局的能力，让iOS界面开发像写网页一样简单快速。|updating|🌟🌟🌟| 1.4k|
 |[MotionBlur](https://github.com/fastred/MotionBlur)|允许您向iOS动画添加运动模糊效果。|2014|🌟🌟🌟| 1.5k|
 |[ZLCollectionView](https://github.com/czl0325/ZLCollectionView)|为应对类似淘宝首页，京东首页，国美首页等复杂布局而写的Collectionview。|updating|🌟🌟🌟| <1k|
+
 <br>
 <br>
 <br>
